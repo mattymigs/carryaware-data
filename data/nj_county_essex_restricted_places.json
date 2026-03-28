@@ -1,6 +1,66 @@
-    {
-      "county": "Essex",
-      "version": 1,
-      "adjacentCounties": ["Passaic", "Morris"],
-      "datasetURL": "https://YOUR-USERNAME.github.io/carryaware-data/data/nj_county_essex_restricted_places.json"
-    }
+[
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000001",
+    "name": "Bloomfield High School",
+    "type": "School",
+    "address": "160 Broad Street, Bloomfield, NJ 07003",
+    "county": "Essex",
+    "source": "https://bhs.bloomfield.k12.nj.us/"
+  },
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000002",
+    "name": "Newark Academy",
+    "type": "School",
+    "address": "91 South Orange Avenue, Livingston, NJ 07039",
+    "county": "Essex",
+    "source": "https://www.newarka.edu/contact-us"
+  },
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000003",
+    "name": "West Orange High School",
+    "type": "School",
+    "address": "51 Conforti Avenue, West Orange, NJ 07052",
+    "county": "Essex",
+    "source": "https://westorange.org/Facilities/Facility/Details/West-Orange-High-School-34"
+  },
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000004",
+    "name": "Essex County Historic Courthouse",
+    "type": "Courthouse",
+    "address": "470 Dr. Martin Luther King, Jr. Blvd., Newark, NJ 07102",
+    "county": "Essex",
+    "source": "https://www.njcourts.gov/ar/courts/vicinages/essex"
+  },
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000005",
+    "name": "Essex County Veterans Courthouse",
+    "type": "Courthouse",
+    "address": "50 West Market Street, Newark, NJ 07102",
+    "county": "Essex",
+    "source": "https://www.njcourts.gov/ar/courts/vicinages/essex"
+  },
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000006",
+    "name": "Newark Penn Station",
+    "type": "Transit Hub",
+    "address": "Raymond Plaza between Raymond Blvd and Market Street, Newark, NJ 07102",
+    "county": "Essex",
+    "source": "https://www.njtransit.com/station/newark-penn-station"
+  },
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000007",
+    "name": "Newark Broad Street Station",
+    "type": "Transit Hub",
+    "address": "25 University Avenue and Broad Street, Newark, NJ 07105",
+    "county": "Essex",
+    "source": "https://www.njtransit.com/station/newark-broad-street-station"
+  },
+  {
+    "id": "FF9619FF-8B86-D011-B42D-00CF4FC964FF",
+    "name": "Test School - Home",
+    "type": "School",
+    "address": "64 Mckinley Avenue, West Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "test"
+  }
+]
