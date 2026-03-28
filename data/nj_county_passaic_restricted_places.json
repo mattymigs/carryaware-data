@@ -1,6 +1,42 @@
- {
-      "county": "Passaic",
-      "version": 1,
-      "adjacentCounties": ["Essex", "Morris"],
-      "datasetURL": "https://YOUR-USERNAME.github.io/carryaware-data/data/nj_county_passaic_restricted_places.json"
-    }
+ [
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000008",
+    "name": "Passaic County Technical Institute",
+    "type": "School",
+    "address": "45 Reinhardt Road, Wayne, NJ 07470",
+    "county": "Passaic",
+    "source": "https://nces.ed.gov/ccd/schoolsearch/school_detail.asp"
+  },
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000009",
+    "name": "Passaic County Courthouse",
+    "type": "Courthouse",
+    "address": "77 Hamilton Street, Paterson, NJ 07505",
+    "county": "Passaic",
+    "source": "https://www.njcourts.gov/courts/vicinages/passaic"
+  },
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000010",
+    "name": "William Paterson University",
+    "type": "College/University",
+    "address": "300 Pompton Road, Wayne, NJ 07470",
+    "county": "Passaic",
+    "source": "https://www.wpunj.edu/facilities/contact-us.html"
+  },
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000011",
+    "name": "Montclair State University Station",
+    "type": "Transit Hub",
+    "address": "100 Clove Road, Little Falls, NJ 07424",
+    "county": "Passaic",
+    "source": "https://www.montclair.edu"
+  },
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000012",
+    "name": "Little Falls Station",
+    "type": "Transit Hub",
+    "address": "Railroad Avenue and Montclair Avenue, Little Falls, NJ 07424",
+    "county": "Passaic",
+    "source": "https://www.njtransit.com/station/little-falls-station"
+  }
+]
