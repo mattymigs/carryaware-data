@@ -1,6 +1,50 @@
-{
-      "county": "Morris",
-      "version": 1,
-      "adjacentCounties": ["Essex", "Passaic"],
-      "datasetURL": "https://YOUR-USERNAME.github.io/carryaware-data/data/nj_county_morris_restricted_places.json"
-    }
+[
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000013",
+    "name": "County College of Morris",
+    "type": "College/University",
+    "address": "214 Center Grove Road, Randolph, NJ 07869",
+    "county": "Morris",
+    "source": "https://www.ccm.edu/contacts/"
+  },
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000014",
+    "name": "Drew University",
+    "type": "College/University",
+    "address": "36 Madison Avenue, Madison, NJ 07940",
+    "county": "Morris",
+    "source": "https://drew.edu/contact-us/"
+  },
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000015",
+    "name": "Morris Knolls High School",
+    "type": "School",
+    "address": "50 Knoll Drive, Rockaway, NJ 07866",
+    "county": "Morris",
+    "source": "https://mk.mhrd.org/get-directions"
+  },
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000016",
+    "name": "Morris County Courthouse",
+    "type": "Courthouse",
+    "address": "56 Washington Street, Morristown, NJ 07960",
+    "county": "Morris",
+    "source": "https://www.morriscountynj.gov/Venues/Morris-County-Courthouse"
+  },
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000017",
+    "name": "Morristown Station",
+    "type": "Transit Hub",
+    "address": "122 Morris Street, Morristown, NJ 07960",
+    "county": "Morris",
+    "source": "https://www.njtransit.com/station/morristown-station"
+  },
+  {
+    "id": "0c91d0f0-9f7f-4c01-9001-000000000018",
+    "name": "Morris County Clerk's Office",
+    "type": "Government Building",
+    "address": "10 Court Street, 1st Floor, Morristown, NJ 07960",
+    "county": "Morris",
+    "source": "https://www.morriscountyclerk.org/Contact-Us"
+  }
+]
