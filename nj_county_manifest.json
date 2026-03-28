@@ -6,18 +6,21 @@
     {
       "county": "Essex",
       "version": 1,
+      "lastUpdated": "2026-03-27T23:00:00Z",
       "adjacentCounties": ["Passaic", "Morris"],
       "datasetURL": "https://mattymigs.github.io/carryaware-data/data/nj_county_essex_restricted_places.json"
     },
     {
       "county": "Morris",
       "version": 1,
+      "lastUpdated": "2026-03-27T23:00:00Z",
       "adjacentCounties": ["Essex", "Passaic"],
-      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/nj_county_morris_restricted_places.json"    
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/nj_county_morris_restricted_places.json"
     },
     {
       "county": "Passaic",
       "version": 1,
+      "lastUpdated": "2026-03-27T23:00:00Z",
       "adjacentCounties": ["Essex", "Morris"],
       "datasetURL": "https://mattymigs.github.io/carryaware-data/data/nj_county_passaic_restricted_places.json"
     }
