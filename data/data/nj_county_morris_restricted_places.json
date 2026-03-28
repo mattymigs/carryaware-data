@@ -1,0 +1,6 @@
+{
+      "county": "Morris",
+      "version": 1,
+      "adjacentCounties": ["Essex", "Passaic"],
+      "datasetURL": "https://YOUR-USERNAME.github.io/carryaware-data/data/nj_county_morris_restricted_places.json"
+    }
