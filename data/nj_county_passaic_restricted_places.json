@@ -1,42 +1,47 @@
  [
   {
-    "id": "0c91d0f0-9f7f-4c01-9001-000000000008",
+    "id": "0f0f7d8e-59b4-4637-a83e-7c42f0a2a2b1",
     "name": "Passaic County Technical Institute",
     "type": "School",
     "address": "45 Reinhardt Road, Wayne, NJ 07470",
     "county": "Passaic",
-    "source": "https://nces.ed.gov/ccd/schoolsearch/school_detail.asp"
+    "source": "https://nces.ed.gov/ccd/schoolsearch/school_detail.asp",
+    "confidence": "high"
   },
   {
-    "id": "0c91d0f0-9f7f-4c01-9001-000000000009",
+    "id": "4b62cb51-7d06-45f5-bc44-7b01816e9cb2",
     "name": "Passaic County Courthouse",
     "type": "Courthouse",
     "address": "77 Hamilton Street, Paterson, NJ 07505",
     "county": "Passaic",
-    "source": "https://www.njcourts.gov/courts/vicinages/passaic"
+    "source": "https://www.njcourts.gov/courts/vicinages/passaic",
+    "confidence": "high"
   },
   {
-    "id": "0c91d0f0-9f7f-4c01-9001-000000000010",
+    "id": "919cdb52-0ec4-4f69-8f77-3262ab3fb7c3",
     "name": "William Paterson University",
     "type": "College/University",
     "address": "300 Pompton Road, Wayne, NJ 07470",
     "county": "Passaic",
-    "source": "https://www.wpunj.edu/facilities/contact-us.html"
+    "source": "https://www.wpunj.edu/facilities/contact-us.html",
+    "confidence": "medium"
   },
   {
-    "id": "0c91d0f0-9f7f-4c01-9001-000000000011",
+    "id": "ad7dc5f1-dcbe-4306-8820-2f3fd7f43cd4",
     "name": "Montclair State University Station",
     "type": "Transit Hub",
     "address": "100 Clove Road, Little Falls, NJ 07424",
     "county": "Passaic",
-    "source": "https://www.montclair.edu"
+    "source": "https://www.montclair.edu",
+    "confidence": "medium"
   },
   {
-    "id": "0c91d0f0-9f7f-4c01-9001-000000000012",
+    "id": "6dfd7f87-cf1c-4e18-887a-90f3e1793fe5",
     "name": "Little Falls Station",
     "type": "Transit Hub",
     "address": "Railroad Avenue and Montclair Avenue, Little Falls, NJ 07424",
     "county": "Passaic",
-    "source": "https://www.njtransit.com/station/little-falls-station"
+    "source": "https://www.njtransit.com/station/little-falls-station",
+    "confidence": "medium"
   }
 ]
