@@ -1,0 +1,1433 @@
+[
+  {
+    "id": "5505e0ca-d6f6-591c-9bd1-691c56f6d5fc",
+    "name": "Martha B. Day Elementary School",
+    "type": "School",
+    "address": "225 Rafkind Road, Bloomingdale, NJ 07403",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4d81c73f-bbc3-5986-bbba-11764140fb59",
+    "name": "Samuel R. Donald Elementary School",
+    "type": "School",
+    "address": "29 Captolene Avenue, Bloomingdale, NJ 07403",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bb4aecf8-842d-58bc-b7a8-14308a4ec5f6",
+    "name": "Walter T. Bergen Middle School",
+    "type": "School",
+    "address": "225 Glenwild Avenue, Bloomingdale, NJ 07403",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6b11757b-340e-538c-b0cf-7a609804ed5e",
+    "name": "Christopher Columbus Middle School",
+    "type": "School",
+    "address": "350 Piaget Avenue, Clifton, NJ 07011",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ab1fff47-4f49-5793-b9b6-b0db3d9ca37d",
+    "name": "Clifton Early Learner Academies - Allwood",
+    "type": "School",
+    "address": "39 Allwood Road, Clifton, NJ 07012",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "677820ff-d83b-529e-a7a4-4b99252afd69",
+    "name": "Clifton Early Learner Academies - Brighton",
+    "type": "School",
+    "address": "290 Brighton Road, Clifton, NJ 07012",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "eff07b43-bc78-5903-b2ee-2793d704adfd",
+    "name": "Clifton Early Learning Academy Speer",
+    "type": "School",
+    "address": "37 Speer Avenue, Clifton, NJ 07013",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "63f62319-90af-515d-befc-9d990f476c8b",
+    "name": "Clifton High School",
+    "type": "School",
+    "address": "333 Colfax Avenue, Clifton, NJ 07013",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ca320a8a-53cd-55c9-b4aa-7cac796e525e",
+    "name": "Maple Valley Middle School",
+    "type": "School",
+    "address": "776valley Road, Clifton, NJ 07013",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f6e20a1f-092b-5c60-ab61-07c471680c39",
+    "name": "School #1",
+    "type": "School",
+    "address": "158 Park Slope, Clifton, NJ 07011",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d289a5eb-1d7a-5f5b-9c92-a0ba21688d94",
+    "name": "School #11",
+    "type": "School",
+    "address": "147 Merselis Avenue, Clifton, NJ 07011",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bd560d56-15f7-5786-9404-625d8be3aec2",
+    "name": "School #12",
+    "type": "School",
+    "address": "165 Clifton Avenue, Clifton, NJ 07011",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "92cb0135-2a7f-5a32-b54e-6fe1a439fd46",
+    "name": "School #13",
+    "type": "School",
+    "address": "782 Van Houten Avenue, Clifton, NJ 07013",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ada8c6e9-7726-5700-85a9-1e93f8e6ba23",
+    "name": "School #14",
+    "type": "School",
+    "address": "99 St Andrews Boulevard, Clifton, NJ 07012",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3d06fddd-aef6-5afc-8e63-f0cebce6c627",
+    "name": "School #15",
+    "type": "School",
+    "address": "700 Gregory Avenue, Clifton, NJ 07011",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "75e7c049-9c85-5111-a153-652b735edfae",
+    "name": "School #16",
+    "type": "School",
+    "address": "755 Grove Street, Clifton, NJ 07013",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2206e985-4b97-5954-a9ba-9f38626ec833",
+    "name": "School #17",
+    "type": "School",
+    "address": "361 Lexington Avenue, Clifton, NJ 07011",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "15a47d2e-1d14-5cb4-864f-d3cb05e741b4",
+    "name": "School #2",
+    "type": "School",
+    "address": "1270 Van Houten Avenue, Clifton, NJ 07013",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ec9e07b7-5e28-5510-a719-cde3231b4a86",
+    "name": "School #3",
+    "type": "School",
+    "address": "365 Washington Avenue, Clifton, NJ 07011",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "56e2a95e-6476-5124-b009-a2da81138ea9",
+    "name": "School #4",
+    "type": "School",
+    "address": "194 West Second Street, Clifton, NJ 07011",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ba0a5ad3-3300-59ac-b5b3-920666e65cb4",
+    "name": "School #5",
+    "type": "School",
+    "address": "136 Valley Road, Clifton, NJ 07013",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e424768a-cde1-591d-b162-7a8575693a3a",
+    "name": "School #8",
+    "type": "School",
+    "address": "41 Oak Street, Clifton, NJ 07014",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cd8950af-b5c0-5c84-a723-fe25b2ca0436",
+    "name": "School #9",
+    "type": "School",
+    "address": "25 Brighton Road, Clifton, NJ 07012",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6ca9698b-b876-545d-8cea-4857d6494d00",
+    "name": "Woodrow Wilson Middle School",
+    "type": "School",
+    "address": "1400 Van Houten Avenue, Clifton, NJ 07013",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c359a5a1-de40-5a3f-a4b4-c51ea34a2866",
+    "name": "Haledon Public School",
+    "type": "School",
+    "address": "91 Henry Street, Haledon, NJ 07508-1236",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e5ed00af-8158-53a4-b156-b95402b82b61",
+    "name": "Hawthorne High School",
+    "type": "School",
+    "address": "160 Parmelee Avenue, Hawthorne, NJ 07506",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ce72b571-0f04-5717-ba5b-36cf3e1e98c3",
+    "name": "Lincoln Middle School",
+    "type": "School",
+    "address": "230 Hawthorne Avenue, Hawthorne, NJ 07506",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "452ac8c7-6795-5a47-91c3-4367dcb45af5",
+    "name": "Roosevelt Elementary School",
+    "type": "School",
+    "address": "50 Roosevelt Avenue, Hawthorne, NJ 07506",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ece13b57-2d52-51cc-9a67-61040c85b4fd",
+    "name": "Thomas Jefferson Elementary School",
+    "type": "School",
+    "address": "233 Goffle Hill Road, Hawthorne, NJ 07507",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c53645db-c000-503a-86cd-8fb53207039f",
+    "name": "Washington Elementary School",
+    "type": "School",
+    "address": "176 Mohawk Avenue, Hawthorne, NJ 07506",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b4403789-0ea3-5edf-b31a-33f2b6a62578",
+    "name": "Lakeland Regional High School",
+    "type": "School",
+    "address": "205 Conklintown Road, Wanaque, NJ 07465-2198",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8506da1b-ee67-5182-a1c5-4b0d86d118bd",
+    "name": "Little Falls Township Public School # 1",
+    "type": "School",
+    "address": "Little Falls School # 1, 32 Stevens Avenue, Little Falls, NJ 07424-1082",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b83f84fb-d023-5a18-9007-9e58533ee7ea",
+    "name": "Little Falls Township Public School # 2",
+    "type": "School",
+    "address": "Little Falls School # 2, 78 Long Hill Road, Little Falls, NJ 07424-1082",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d52f260b-2741-5cb0-8247-6f78a4c16ff5",
+    "name": "Little Falls Township Public School # 3",
+    "type": "School",
+    "address": "Little Falls School # 3, 560 Mainstreet, Little Falls, NJ 07424-1082",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "17fb3b96-2e73-528d-96a5-ce6b6521a1db",
+    "name": "High Mountain School",
+    "type": "School",
+    "address": "515 High Mountain Road, North Haledon, NJ 07508-2603",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ca23e180-29a9-5096-8c70-b3eb086faac0",
+    "name": "Memorial Elementary School",
+    "type": "School",
+    "address": "201 Squaw Brook Rd., North Haledon, NJ 07508-2720",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "75511650-1086-503d-beeb-f46887f548e4",
+    "name": "Abraham Lincoln School Number 24",
+    "type": "School",
+    "address": "36 Parker Ave, Passaic, NJ 07055",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "baea8d92-41fe-5aeb-9865-cd73feeb742c",
+    "name": "Daniel F. Ryan Elementary School No. 19",
+    "type": "School",
+    "address": "320 Highland Ave., Passaic, NJ 07055",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9a92c639-594f-5787-990c-b9b273894f32",
+    "name": "Ellen Ochoa School Number 22",
+    "type": "School",
+    "address": "95 Dayton Ave, Passaic, NJ 07055",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fb00eca3-ed4b-509c-893e-12c7ea98eea5",
+    "name": "Mahatma Gandhi School Number 25",
+    "type": "School",
+    "address": "64 Parker Ave, Passaic, NJ 07055",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d0365c68-9047-52ef-8e7e-34a2c3d6c400",
+    "name": "Mario Drago School No. 3",
+    "type": "School",
+    "address": "155 Van Houten Ave., Passaic, NJ 07055-4502",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "df549f13-1af9-592e-9b2b-8a201109ee06",
+    "name": "Martin Luther King, Jr. School No. 6",
+    "type": "School",
+    "address": "85 Hamilton Ave., Passaic, NJ 07055-5215",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "76c2697d-e032-5a48-99a9-2e9226cf70d0",
+    "name": "Muhammad Ali School Number 23",
+    "type": "School",
+    "address": "63 Dayton Ave, Passaic, NJ 07055",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c9fa38b8-90c7-5a8e-b388-d58603c24690",
+    "name": "Passaic Academy For Science And Engineering",
+    "type": "School",
+    "address": "291 Lafayette Avenue, Passaic, NJ 07055",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "77ff99b4-1706-530c-9d0d-dd70f682bc66",
+    "name": "Passaic Gifted And Talented Academy School No. 20",
+    "type": "School",
+    "address": "19 Henry Street, Passaic, NJ 07055",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bd2a43d9-cbc8-59bb-bec0-22feee8950c1",
+    "name": "Passaic High School No. 12",
+    "type": "School",
+    "address": "255 Madison Street, Passaic, NJ 07055",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5378655d-66bb-5f1b-b52b-9f5feecf9b7e",
+    "name": "Passaic Preparatory Academy",
+    "type": "School",
+    "address": "252 Boulevard, Passaic, NJ 07055",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "03687603-baff-5d20-865c-b3fb8c5f13e2",
+    "name": "Sallie D. Gamble School No. 7",
+    "type": "School",
+    "address": "155 Summer St., Passaic, NJ 07055",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5bcd5880-2baa-50ba-88f6-83f5784d846c",
+    "name": "Theodore Roosevelt School No. 10",
+    "type": "School",
+    "address": "151 Harrison St., Passaic, NJ 07055",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4af2fc25-adff-50ba-8529-653a21fb0027",
+    "name": "Thomas Jefferson School No. 1",
+    "type": "School",
+    "address": "390 Van Houten Ave., Passaic, NJ 07055",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e592ec43-1782-5e6f-989b-2fdd54519f71",
+    "name": "Vincent Capuana School No. 15",
+    "type": "School",
+    "address": "374 Broadway, Passaic, NJ 07055",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d95436b3-5a07-5d6b-ac17-64d75cc4bb18",
+    "name": "William B. Cruise Memorial School No. 11",
+    "type": "School",
+    "address": "390 Gregory Ave., Passaic, NJ 07055",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d843c605-f6f7-5dcc-81c2-62e3720b8c31",
+    "name": "Passaic County - Manchester Regional High School",
+    "type": "School",
+    "address": "70 Church Street, Haledon, NJ 07508-1753",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "839e069e-ec2c-5429-8b3e-53050c9b00af",
+    "name": "Passaic County Technical Institute",
+    "type": "School",
+    "address": "45 Reinhardt Road, Wayne, NJ 07470-2210",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "12def837-7fd7-5524-aa1f-6837c0eecb39",
+    "name": "Passaic County Technical Institute Stem Academy",
+    "type": "School",
+    "address": "45 Reinhardt Road, Wayne, NJ 07470-2210",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "dde43dae-7043-544e-b7bd-11aefaccfdab",
+    "name": "Passaic Valley Regional High School",
+    "type": "School",
+    "address": "100 East Main Street, Little Falls, NJ 07424",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f72cdd8d-61ed-510e-9571-a6aa41d925d3",
+    "name": "Alexander Hamilton Academy",
+    "type": "School",
+    "address": "11-27 16TH Avenue, Paterson, NJ 07501",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "eb5bba73-315a-57bc-b44c-891dd84a523c",
+    "name": "Alternative High School",
+    "type": "School",
+    "address": "350 Market Street, Paterson, NJ 07501",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "72362bc8-a561-56c7-a5c3-862986d76763",
+    "name": "Anna Iandoli Early Learning Center",
+    "type": "School",
+    "address": "660 14th Avenue, Paterson, NJ 07504",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b094dc3a-b731-58a4-8fc1-d6909f33e3fd",
+    "name": "Charles J. Riley/ School 9",
+    "type": "School",
+    "address": "6 Timothy Street, Paterson, NJ 07503",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "df70b7e7-266e-55c9-91b0-26eb8f1d78de",
+    "name": "Dale Avenue",
+    "type": "School",
+    "address": "21 Dale Ave, Paterson, NJ 07501",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f204acc5-b0cd-5bc4-a540-62df8f52ba54",
+    "name": "Dr. Hani Awadallah",
+    "type": "School",
+    "address": "515 Marshall Street, Paterson, NJ 07503",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "116ba985-043f-5b3e-896a-b7d328fee141",
+    "name": "Dr. Martin Luther King, Jr. Educational Complex",
+    "type": "School",
+    "address": "851 E 28TH Street, Paterson, NJ 07513",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "63c56bc5-3f30-5cd6-92bf-805e48471be2",
+    "name": "Eastside High School",
+    "type": "School",
+    "address": "150 Park Avenue, Paterson, NJ 07501",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6336f434-c151-5b67-b491-fe750b0a305a",
+    "name": "Edward W. Kilpatrick",
+    "type": "School",
+    "address": "295-315 Ellison Street, Paterson, NJ 07501",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8d3173b4-9124-53df-bec5-c83e7f63821c",
+    "name": "International High School",
+    "type": "School",
+    "address": "200 Grand Street, Paterson, NJ 07501",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7bc6ab46-3597-5d22-817f-01b719d28270",
+    "name": "John F. Kennedy High School",
+    "type": "School",
+    "address": "61-127 Preakness Avenue, Paterson, NJ 07502",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c03abcd1-e713-5179-99b7-138ee223e6b1",
+    "name": "Joseph A. Taub School",
+    "type": "School",
+    "address": "202 Union Avenue, Paterson, NJ 07502",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cee5af76-c65a-5754-8971-1c93cd10736e",
+    "name": "Maria Magda O'keefe School",
+    "type": "School",
+    "address": "50 Nineteenth Avenue, Paterson, NJ 07513",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9da39ce4-37f1-50fb-942d-81535475d27b",
+    "name": "New Roberto Clemente",
+    "type": "School",
+    "address": "482-506 Market Street, Paterson, NJ 07501",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d782c5d7-a966-549c-b3bf-ac9f030a27cb",
+    "name": "Newcomers High School",
+    "type": "School",
+    "address": "151 Ellison Street, Paterson, NJ 07501",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bc32e014-875a-5c43-821e-0217c7b5d17e",
+    "name": "Norman S. Weir",
+    "type": "School",
+    "address": "152 College Boulevard, Paterson, NJ 07505-1102",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "78d8ac7b-8c22-522d-bddf-14229c4ac399",
+    "name": "Paterson Adult And Continuing Education",
+    "type": "School",
+    "address": "151 Ellison Street, Paterson, NJ 07505",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6b82c27d-240e-5460-8ef9-20bd522d9721",
+    "name": "Paterson P - Tech High School",
+    "type": "School",
+    "address": "201 Memorial Drive, Paterson, NJ 07505",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "16346342-b880-5d1c-b2d6-e6c17e08b1d1",
+    "name": "Paterson Steam High School",
+    "type": "School",
+    "address": "764 11TH Avenue, Paterson, NJ 07514",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8bd91bb6-28b8-59f2-a103-d7be17c3e10c",
+    "name": "Rev. Dr. Frank Napier, Jr. School",
+    "type": "School",
+    "address": "55 Clinton Street, Paterson, NJ 07522-1729",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8f92abc3-392d-54fd-bd4b-c9cf71569b77",
+    "name": "Roberto Clemente",
+    "type": "School",
+    "address": "434 Rosa Parks Blvd, Paterson, NJ 07501",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d7ef0601-8f17-5984-bfca-8951d14adf38",
+    "name": "Rosa L. Parks School Of Fine And Performing Arts",
+    "type": "School",
+    "address": "413 12TH Avenue, Paterson, NJ 07514",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7460e82b-034a-521e-a711-c077ea0ef386",
+    "name": "School 1",
+    "type": "School",
+    "address": "1 East 32ND Street, Paterson, NJ 07514",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b441264a-dafe-5504-a479-646a12e784d6",
+    "name": "School 10",
+    "type": "School",
+    "address": "48 Mercer Street, Paterson, NJ 07524-2429",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "77bf5365-e2c6-5d55-b228-d6126d745176",
+    "name": "School 12",
+    "type": "School",
+    "address": "121 North Second Street, Paterson, NJ 07522",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5744e919-c383-511f-b60f-438119d45b3c",
+    "name": "School 13",
+    "type": "School",
+    "address": "690 East 23RD St, Paterson, NJ 07504",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c0c57055-be60-57ca-8e57-0c49cdf7cd04",
+    "name": "School 15",
+    "type": "School",
+    "address": "98 Oak Street, Paterson, NJ 07501",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "76dca039-5ee9-5701-8b50-32a4291c1eaa",
+    "name": "School 16",
+    "type": "School",
+    "address": "11 22ND Avenue, Paterson, NJ 07513",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7978108d-87d4-53e8-8dcb-42846153062c",
+    "name": "School 18",
+    "type": "School",
+    "address": "51 E 18TH Street, Paterson, NJ 07524",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "400c7e0d-13f8-5db6-893b-30edbb11935d",
+    "name": "School 19",
+    "type": "School",
+    "address": "31 James Street, Paterson, NJ 07502",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3d19936c-e7d4-5039-84be-f1ca6c7796bc",
+    "name": "School 2",
+    "type": "School",
+    "address": "22 Passaic Street, Paterson, NJ 07501",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "17d1642f-6397-53c9-8a19-0fa5246d3f0b",
+    "name": "School 20",
+    "type": "School",
+    "address": "500 East 37TH Street, Paterson, NJ 07504-1739",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d954ee28-481d-5227-af09-bcc16c99022d",
+    "name": "School 21",
+    "type": "School",
+    "address": "322 10TH Avenue, Paterson, NJ 07514",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "dfb7da51-24a6-5ac9-af4d-42cd565530df",
+    "name": "School 25",
+    "type": "School",
+    "address": "287 Trenton Avenue, Paterson, NJ 07503",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "46258298-cd8e-5289-823f-562ca4c31a94",
+    "name": "School 26",
+    "type": "School",
+    "address": "1 East 32ND Street, Paterson, NJ 07514",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ac8f1216-1c45-5589-88bc-c202a7e7674e",
+    "name": "School 27",
+    "type": "School",
+    "address": "250 Richmond Ave, Paterson, NJ 07502",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ddcf7a10-e923-5826-9c8d-ebb91406bc3e",
+    "name": "School 28",
+    "type": "School",
+    "address": "200 Presidential Boulevard, Paterson, NJ 07522",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "163a659b-11e1-5fe1-8e81-e22a076b0034",
+    "name": "School 5",
+    "type": "School",
+    "address": "430 Totowa Avenue, Paterson, NJ 07502-2135",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5d4fbaaf-0783-5827-97e3-91e1bbb84f0c",
+    "name": "School 7",
+    "type": "School",
+    "address": "106 Ramsey Street, Paterson, NJ 07501",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9fa43997-605b-5680-89a2-7598b0c4b6a5",
+    "name": "School 8",
+    "type": "School",
+    "address": "35 Chadwick Street, Paterson, NJ 07503-3107",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "485e1857-bcce-5044-965d-1f00c9a4117a",
+    "name": "Senator Frank Lautenberg School",
+    "type": "School",
+    "address": "137 Carroll Street, Paterson, NJ 07501",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e163459d-9dd2-5f44-be25-496691a4e571",
+    "name": "Students Transitioning And Achieving Real Success",
+    "type": "School",
+    "address": "764 11th Ave, Paterson, NJ 07504",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "da820f3c-f57c-5c40-94b2-230b8eabc67d",
+    "name": "Young Men's Academy",
+    "type": "School",
+    "address": "45 Smith Street, Paterson, NJ 07505",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "668e8388-db56-5b47-8a7a-ffb6d0384dcc",
+    "name": "Lakeside School",
+    "type": "School",
+    "address": "316 Lakeside Avenue, Pompton Lakes, NJ 07442-1299",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1ccf0ba5-3d33-5245-9761-8b125e1f654e",
+    "name": "Lenox School",
+    "type": "School",
+    "address": "35 Lenox Avenue, Pompton Lakes, NJ 07442-1729",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "564957ac-c08f-550f-b057-9a46cd14dfc7",
+    "name": "Lincoln School",
+    "type": "School",
+    "address": "40 Mill Street, Pompton Lakes, NJ 07442-1490",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "989c2576-3d37-54e9-94cc-ecda09e217db",
+    "name": "Pompton Lakes High School",
+    "type": "School",
+    "address": "44 Lakeside Avenue, Pompton Lakes, NJ 07442-1793",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c1e4ccbe-3f0b-5881-be84-d2cf686c220a",
+    "name": "Prospect Park Middle School",
+    "type": "School",
+    "address": "13 Wagaraw Bvd, Prospect Park, NJ 07508",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "70be9b65-d552-5d48-8b30-be59ddc56991",
+    "name": "Prospect Park School No. 1",
+    "type": "School",
+    "address": "94 Brown Avenue, Prospect Park, NJ 07508-2018",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "563ac62f-fa47-56b6-995e-0f5bc208635d",
+    "name": "Eleanor G. Hewitt",
+    "type": "School",
+    "address": "266 Sloatsburg Road, Ringwood, NJ 07456",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "901e8fa6-05e3-5769-8f92-b4b67b5c2663",
+    "name": "Martin J. Ryerson School",
+    "type": "School",
+    "address": "130 Valley Road, Ringwood, NJ 07456",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d52ec35b-fa3e-5194-ab9f-b1c43e105655",
+    "name": "Peter Cooper School",
+    "type": "School",
+    "address": "54 Roger Court, Ringwood, NJ 07456",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "166d8cf8-d397-5088-aa6e-d4415ad0a36e",
+    "name": "Robert Erskine School",
+    "type": "School",
+    "address": "88 Erskine Road, Ringwood, NJ 07456-2150",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5f15a985-c7b0-5757-b7cb-6b874fa2ce7d",
+    "name": "Memorial School",
+    "type": "School",
+    "address": "294 Totowa Road, Totowa, NJ 07512-2661",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bd483563-e056-57de-bacf-fb3022fe2240",
+    "name": "Washington Park School",
+    "type": "School",
+    "address": "10 Crews Street, Totowa, NJ 07512-2022",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7564ba4d-10c0-59bb-9dc6-f969d8fc93f6",
+    "name": "Haskell Elementary School",
+    "type": "School",
+    "address": "973 Ringwood Avenue, Haskell, NJ 07420-1322",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7b819d89-1965-5288-b5c2-7c9e4cbb41dc",
+    "name": "Wanaque Elementary School",
+    "type": "School",
+    "address": "First Street, Wanaque, NJ 07465",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4bd40292-99cc-50fa-bd1f-5dc8068ba78d",
+    "name": "Albert Payson Terhune Elementary",
+    "type": "School",
+    "address": "40 Geoffrey Way, Wayne, NJ 07470-4029",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bcb43f15-b5cd-51ea-8fff-95ab81de7acf",
+    "name": "Anthony Wayne Middle School",
+    "type": "School",
+    "address": "201 Garside Avenue, Wayne, NJ 07470",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0602f515-5c22-5cdb-9ded-548290708ee2",
+    "name": "George Washington Middle School",
+    "type": "School",
+    "address": "68 Lenox Road, Wayne, NJ 07470-5551",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2b73eff7-bf22-50b3-9868-fa11efba73a1",
+    "name": "James Fallon Elementary School",
+    "type": "School",
+    "address": "51 Clifford Drive, Wayne, NJ 07470",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a6bfe8e9-fcff-5ca1-8720-cee14a3c072f",
+    "name": "John F. Kennedy Elementary School",
+    "type": "School",
+    "address": "1310 Ratzer Road, Wayne, NJ 07470-5652",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "baf1d95c-2231-5348-b436-e79afdd73f77",
+    "name": "Lafayette Elementary School",
+    "type": "School",
+    "address": "100 Laauwe Avenue, Wayne, NJ 07470-2950",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d2b0dba6-6830-5014-ac28-494de27a5012",
+    "name": "Packanack Elementary School",
+    "type": "School",
+    "address": "190 Oakwood Drive, Wayne, NJ 07470-5652",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8c799c9a-987b-5224-b6ff-3192dd5ba100",
+    "name": "Pines Lake Elementary School",
+    "type": "School",
+    "address": "511 Pines Lake Drive, Wayne, NJ 07470",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4f2e8265-8062-55c5-a3ed-d8f0e699fceb",
+    "name": "Preakness Early Childhood Center",
+    "type": "School",
+    "address": "1006 Hamburg Turnpike, Wayne, NJ 07470",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "33a663ed-f90d-56b4-b19b-7c9921e89f80",
+    "name": "Randall Carter Elementary School",
+    "type": "School",
+    "address": "531 Alps Road, Wayne, NJ 07470-4672",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "392fc9ba-fa20-5f14-8b1d-b1157f6343d6",
+    "name": "Ryerson Elementary School",
+    "type": "School",
+    "address": "30 Mc Clelland Avenue, Wayne, NJ 07470-7411",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e65d433b-d8fd-541d-b995-b0b89f204b62",
+    "name": "Schuyler Colfax Middle School",
+    "type": "School",
+    "address": "1500 Hamburg Turnpike, Wayne, NJ 07470-4024",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "97e0e7be-7081-5ae6-b09e-0958630f4203",
+    "name": "Theunis Dey Elementary School",
+    "type": "School",
+    "address": "55 Webster Drive, Wayne, NJ 07470-5353",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "50413900-b6e0-5f64-ab4b-3638627375e6",
+    "name": "Wayne Hills High School",
+    "type": "School",
+    "address": "272 Berdan Avenue, Wayne, NJ 07470",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "44684943-7c12-5e18-81bd-64a727666e0c",
+    "name": "Wayne Valley High School",
+    "type": "School",
+    "address": "551 Valley Road, Wayne, NJ 07470",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "76a7bf0c-4a60-5880-a22d-d8faa2d77962",
+    "name": "Apshawa Elementary School",
+    "type": "School",
+    "address": "140 High Crest Drive, West Milford, NJ 07480-3708",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2ae2031e-5c7a-5227-82a3-822840977612",
+    "name": "Macopin Middle School",
+    "type": "School",
+    "address": "70 Highlander Drive, West Milford, NJ 07480-1511",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e45e783c-e5dd-5956-8a82-44d6015c9571",
+    "name": "Maple Road Elementary School",
+    "type": "School",
+    "address": "36 Maple Road, West Milford, NJ 07480-2706",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "aa9c13ae-1fe6-5864-8ced-2c12c5761731",
+    "name": "Marshall Hill Elementary School",
+    "type": "School",
+    "address": "210 Marshall Hill Road, West Milford, NJ 07480-3512",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "14d31651-e61d-5bce-891d-ba82eee77510",
+    "name": "Paradise Knoll Elementary School",
+    "type": "School",
+    "address": "103 Paradise Road, Oak Ridge, NJ 07438-8931",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b4272bd5-7c91-5d33-bacd-196e2d995af0",
+    "name": "Upper Greenwood Lake Elementary School",
+    "type": "School",
+    "address": "41 Henry Road, Hewitt, NJ 07421",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bfec0d90-0ffd-5e98-b5da-5b1b5ffebf00",
+    "name": "West Milford High School",
+    "type": "School",
+    "address": "67 Highlander Drive, West Milford, NJ 07480-3708",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bee33578-608d-532a-a7a3-3ffdc90c76ea",
+    "name": "Beatrice Gilmore School",
+    "type": "School",
+    "address": "1075 Mcbride Avenue, Woodland Park, NJ 07424-2538",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bbf81105-6725-56f1-92c3-c7a4b03ef90c",
+    "name": "Charles Olbon School",
+    "type": "School",
+    "address": "50 Lincoln Lane, Woodland Park, NJ 07424",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "41b4d0ac-a8ca-574c-8ffa-aa022332db7a",
+    "name": "Memorial Middle School",
+    "type": "School",
+    "address": "15 Memorial Drive, Woodland Park, NJ 07424",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8c1c91aa-3b18-5fc0-91d6-0027b788b17c",
+    "name": "School One",
+    "type": "School",
+    "address": "665 Mcbride Avenue, Woodland Park, NJ 07424",
+    "county": "Passaic",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4eedf300-d371-5329-9515-44089a41cbf7",
+    "name": "Passaic County Community College",
+    "type": "College/University",
+    "address": "1 College Boulevard, Paterson, NJ 07505",
+    "county": "Passaic",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "5a7b3228-9a67-5c40-bae6-c07840147cd3",
+    "name": "Montclair State University",
+    "type": "College/University",
+    "address": "1 Normal Avenue, Montclair, NJ 07043",
+    "county": "Passaic",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "a4bf7a8e-383e-57a6-8030-5dcbcaa997f3",
+    "name": "William Paterson University",
+    "type": "College/University",
+    "address": "300 Pompton Road, Wayne, NJ 07470",
+    "county": "Passaic",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "5569645c-454b-5015-bb52-ae820816d780",
+    "name": "Passaic County Courthouse",
+    "type": "Courthouse",
+    "address": "77 Hamilton Street, Paterson, NJ 07505",
+    "county": "Passaic",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "09e50ceb-b638-56eb-a3a2-b5ab6975121e",
+    "name": "Bloomingdale Municipal Court",
+    "type": "Courthouse",
+    "address": "101 Hamburg Tpke, Bloomingdale, NJ 07403",
+    "county": "Passaic",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "5e7cb8d7-0301-520d-8aac-c30a5ca3170f",
+    "name": "Clifton Municipal Court",
+    "type": "Courthouse",
+    "address": "900 Clifton Ave, Clifton, NJ 07013",
+    "county": "Passaic",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "5c5e3200-efe2-598f-9205-f1b160a419a4",
+    "name": "Haledon Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "510 Belmont Ave, Haledon, NJ 07508",
+    "county": "Passaic",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "02c077d3-58a2-57bc-aa6a-92cbf79e57b0",
+    "name": "Hawthorne Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "445 Lafayette Ave, Hawthorne, NJ 07506",
+    "county": "Passaic",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "e42009bf-3ba3-59cf-b931-45a897682ce7",
+    "name": "Little Falls Municipal Court",
+    "type": "Courthouse",
+    "address": "225 Main Street, Little Falls, NJ 07424",
+    "county": "Passaic",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "5b5eb2b6-3384-5cae-b78e-821de1b00949",
+    "name": "North Haledon Municipal Court",
+    "type": "Courthouse",
+    "address": "103 Overlook Ave, North Haledon, NJ 07508",
+    "county": "Passaic",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "279d39e0-df6e-53b9-a5b3-009dd649dd99",
+    "name": "Passaic City Municipal Court",
+    "type": "Courthouse",
+    "address": "330 Passaic St, Passaic, NJ 07055",
+    "county": "Passaic",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "4271e13f-5489-5d21-a449-8f5c030ba4d9",
+    "name": "Paterson Municipal Court",
+    "type": "Courthouse",
+    "address": "111 Broadway, Paterson, NJ 07505",
+    "county": "Passaic",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "c36e6647-95b7-510b-bb27-7ec3f0bdc46b",
+    "name": "Pompton Lakes Municipal Court",
+    "type": "Courthouse",
+    "address": "25 Lenox Ave, Pompton Lakes, NJ 07442",
+    "county": "Passaic",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "52737c4d-2d6e-5ff0-aaaa-e9fc51935fd5",
+    "name": "Prospect Park Municipal Court",
+    "type": "Courthouse",
+    "address": "106 Brown Ave, Prospect Park, NJ 07508",
+    "county": "Passaic",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "5df5aa92-e936-545e-be72-3519ab14301c",
+    "name": "Ringwood Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "60 Margaret King Ave, Ringwood, NJ 07456",
+    "county": "Passaic",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "f83a9445-4333-5caf-a054-ee2e447894af",
+    "name": "Totowa Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "537 Totowa Road, Totowa, NJ 07512",
+    "county": "Passaic",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "de939ea5-9a78-5909-a83a-4aa0ada41475",
+    "name": "Wanaque Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "579 Ringwood Ave, Wanaque, NJ 07465",
+    "county": "Passaic",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "85666c8e-b191-5b01-8e62-e1474d88ac39",
+    "name": "Wayne Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "475 Valley Road, Wayne, NJ 07470",
+    "county": "Passaic",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "9967be60-3f34-52a8-9123-1e2c0b5fc6f9",
+    "name": "Lincoln Park Airport",
+    "type": "Airport",
+    "address": "425 Beaverbrook Road, Lincoln Park, NJ 07035",
+    "county": "Passaic",
+    "source": "nj_airports_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "c67dbf44-327c-5516-a107-1f013a38d991",
+    "name": "Passaic County Administration Building",
+    "type": "Government Building",
+    "address": "401 Grand Street, Paterson, NJ 07505",
+    "county": "Passaic",
+    "source": "nj_government_buildings_curated",
+    "confidence": "high"
+  }
+]

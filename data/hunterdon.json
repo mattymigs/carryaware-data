@@ -1,0 +1,614 @@
+[
+  {
+    "id": "976bf86f-58ca-556f-bf9b-31e817608a0d",
+    "name": "Alexandria Township School",
+    "type": "School",
+    "address": "557 County Rd. 513, Pittstown, NJ 08867-9508",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a5fe8363-2ca8-5ab8-ba98-85479794a489",
+    "name": "Ethel Hoppock Middle School",
+    "type": "School",
+    "address": "280 Asbury West Portal Rd, Asbury, NJ 08802",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f92007dc-05a6-5e45-afcf-32eb7e3a3f3b",
+    "name": "Thomas B. Conley Elementary School",
+    "type": "School",
+    "address": "940 Iron Bridge Rd, Asbury, NJ 08802-1135",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "71af8a87-6411-5249-9deb-5b5facc58024",
+    "name": "Bloomsbury Borough School",
+    "type": "School",
+    "address": "20 Main Street, Bloomsbury, NJ 08804-9538",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "647b59f5-b0f6-5c73-b699-02075f904961",
+    "name": "Califon Public School",
+    "type": "School",
+    "address": "6 School Street, Califon, NJ 07830-9044",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "056010d4-e691-5925-8c29-3d12af4eb3c8",
+    "name": "Clinton Township Middle School",
+    "type": "School",
+    "address": "34 Grayrock Road, Clinton, NJ 08809",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f34ba887-d8dc-52bc-b234-e61dc8615f98",
+    "name": "Patrick Mcgaheran",
+    "type": "School",
+    "address": "63 Allerton Road, Lebanon, NJ 08833",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4d421d23-0ff1-5dbb-a556-aff95b04161e",
+    "name": "Round Valley",
+    "type": "School",
+    "address": "128 Cokesbury Rd, Lebanon, NJ 08833-9599",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4e5ce04a-4ea9-5919-bc92-451622921343",
+    "name": "Spruce Run",
+    "type": "School",
+    "address": "27 Belvidere Avenue, Clinton, NJ 08809",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "30bd40d8-e227-56df-8260-76b21d39a348",
+    "name": "Clinton Public School",
+    "type": "School",
+    "address": "10 School Street, Clinton, NJ 08809",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bff6f8dd-bf2f-5600-8467-2890ed120f04",
+    "name": "Delaware Township School",
+    "type": "School",
+    "address": "501 Rosemont Ringoes Road, P O Box 1000, Sergeantsville, NJ 08557",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "234bc29d-329a-5f36-af16-afbb6d8992a4",
+    "name": "Delaware Valley Regional High School",
+    "type": "School",
+    "address": "19 Senator Stout Rd, Frenchtown, NJ 08825",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a715a9fd-ddbe-5385-832f-76b08bf1b241",
+    "name": "East Amwell Township",
+    "type": "School",
+    "address": "43 Wertsville Rd, P O Box 680, Ringoes, NJ 08551",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6c434e24-a346-508d-aff6-12fd83f5a112",
+    "name": "Barley Sheaf Elementary School",
+    "type": "School",
+    "address": "80 Barley Sheaf Road, Flemington, NJ 08822-9180",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4b658ed0-6e28-5b33-8bc8-724eeee7db31",
+    "name": "Copper Hill Elementary School",
+    "type": "School",
+    "address": "100 Everitts Road, Ringoes, NJ 08551-9180",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6c1a6c1a-1f5f-5d54-a71e-00c1c56fa5ed",
+    "name": "Francis A. Desmares Elementary School",
+    "type": "School",
+    "address": "16 Old Clinton Road, Flemington, NJ 08822-1325",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f837902b-05e2-5f71-b1de-9151f9412a5e",
+    "name": "J.p. Case Middle School",
+    "type": "School",
+    "address": "301 Case Boulevard, Flemington, NJ 08822",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d02cd227-a087-5c5e-886b-5529ade40b76",
+    "name": "Reading - Fleming Intermediate School",
+    "type": "School",
+    "address": "50 Court Street, Flemington, NJ 08822-1325",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8281592c-6fcd-5ca0-bd41-7b23749b8fcf",
+    "name": "Robert Hunter Elementary School",
+    "type": "School",
+    "address": "8 Dayton Road, Flemington, NJ 08822-9104",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0ca71655-6c87-5370-9900-dc9f66c32732",
+    "name": "Franklin Township School",
+    "type": "School",
+    "address": "226 Quakertown Road, P O Box 368, Quakertown, NJ 08868-0368",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "65d1a17c-bf91-5459-9f9f-37f6838c74ae",
+    "name": "Frenchtown Elementary",
+    "type": "School",
+    "address": "902 Harrison St, Frenchtown, NJ 08825-1124",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "baf7fcd2-43ca-57e0-b3ad-2fb7bc4f72f3",
+    "name": "Hampton Borough School",
+    "type": "School",
+    "address": "32 41 South Street, Hampton, NJ 08827-9502",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e0917857-ab53-5577-aa98-adde6fbcd0b1",
+    "name": "High Bridge Elementary School",
+    "type": "School",
+    "address": "40 Fairview Avenue, High Bridge, NJ 08829-1503",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e0327312-e41d-569f-a4e2-ab906cfbee89",
+    "name": "High Bridge Middle School",
+    "type": "School",
+    "address": "50 Thomas St, High Bridge, NJ 08829-2010",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2f30f786-13ef-5c31-bae6-0872d2f22508",
+    "name": "Holland Township Elementary School",
+    "type": "School",
+    "address": "710 Milford Warren Glen Road, Milford, NJ 08848",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a0cc138e-cb6e-515b-9f89-eb701009034a",
+    "name": "Hunterdon Central Regional High School District",
+    "type": "School",
+    "address": "84 Route 31, Flemington, NJ 08822-1239",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4130ab89-42bf-5d42-bdb8-22e824218438",
+    "name": "Esc Academy",
+    "type": "School",
+    "address": "37 Hoffmans Crossing Road, Califon, NJ 07830",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "76489a61-834d-5bc0-b05b-a092929b34d3",
+    "name": "Hunterdon County Academies",
+    "type": "School",
+    "address": "1445 State Route 31, Annandale, NJ 08801",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cb0ff3dd-1bd8-5b7a-9e64-c11cdecd5e2f",
+    "name": "Hunterdon County Vocational School District Adult School",
+    "type": "School",
+    "address": "8 Bartles Corner Road, Suite 201, Flemington, NJ 08822",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "aa1929ae-8c5e-5245-9387-2835e7d1ffb1",
+    "name": "Hunterdon County Vocational School District Central Campus",
+    "type": "School",
+    "address": "10 Junction Rd, Flemington, NJ 08822",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4c827102-9db9-56ae-b3d4-d392d2c18d58",
+    "name": "Hunterdon Polytech Bartles Corner Campus",
+    "type": "School",
+    "address": "8 Bartles Corner Road, Suite 201, Flemington, NJ 08822",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "71868529-1d11-5697-b319-d63574c22314",
+    "name": "Kingwood Township School",
+    "type": "School",
+    "address": "880 County Road 519, Frenchtown, NJ 08825-9731",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d0525683-bb37-557a-8a50-62c291375fb0",
+    "name": "Lebanon Borough School",
+    "type": "School",
+    "address": "6 Maple St, Lebanon, NJ 08833-2118",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f6c4386a-d45c-5878-a4ca-840982f2e49d",
+    "name": "Valley View School",
+    "type": "School",
+    "address": "400 Route 513, Califon, NJ 07830-9231",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "46b01dcb-edd7-58ac-8505-ac61409a2530",
+    "name": "Woodglen School",
+    "type": "School",
+    "address": "70 Bunnvale Road, Califon, NJ 07830-9231",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8ecd3fab-a3e2-53c8-810e-43e22ac12d7e",
+    "name": "Milford Public School",
+    "type": "School",
+    "address": "7 Hillside Avenue, Milford, NJ 08848-9459",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "52984666-ac12-5761-a0ff-18b890262bc5",
+    "name": "North Hunterdon High School",
+    "type": "School",
+    "address": "1445 State Route 31, Annandale, NJ 08801",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9859d96c-b971-5df6-907e-f79cb1f1eae6",
+    "name": "Voorhees High School",
+    "type": "School",
+    "address": "256 County Route 513, Glen Gardner, NJ 08826-9529",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "38e52bbe-da5c-505a-bdc3-25e189341cd4",
+    "name": "Holland Brook School",
+    "type": "School",
+    "address": "52 Readington Road, Whitehouse Station, NJ 08889",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "28484876-9ab5-5aee-afba-d669a4ce3bd4",
+    "name": "Readington Middle School",
+    "type": "School",
+    "address": "48 Readington Rd, Whitehouse Station, NJ 08889",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6a017507-8761-5e81-ac26-4ba75f44fc37",
+    "name": "Three Bridges School",
+    "type": "School",
+    "address": "480 Main Street, Three Bridges, NJ 08887",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "581d4e3a-c883-5d22-8f20-e3ad5b18e4c3",
+    "name": "Whitehouse School",
+    "type": "School",
+    "address": "50 Whitehouse Ave, Whitehouse Station, NJ 08889-0157",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "22d44a1c-1166-5f8e-9aa4-46082bef176d",
+    "name": "South Hunterdon Regional Elementary School",
+    "type": "School",
+    "address": "200 N. Main St, Lambertville, NJ 08530",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "98be75f6-afdd-573b-a8df-d96ec86845ff",
+    "name": "South Hunterdon Regional High School",
+    "type": "School",
+    "address": "301 Mt Airy Harbourton Rd, Lambertville, NJ 08530",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0ef4fcaf-db45-5589-bc34-3c7f7e7d100d",
+    "name": "South Hunterdon Regional Middle School",
+    "type": "School",
+    "address": "170 Rocktown-lambertville Road, Lambertville, NJ 08530",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a8565703-990e-5f13-bf77-6732e8b17a71",
+    "name": "Old Turnpike School",
+    "type": "School",
+    "address": "171 Old Turnpike Road, Califon, NJ 07830",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ddff2fd2-0f9b-5546-926b-40d5d74f9878",
+    "name": "Tewksbury Elementary School",
+    "type": "School",
+    "address": "109 Fairmount Road East, Califon, NJ 07830",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b767a3b7-d100-53ec-91e0-dd0ee9155135",
+    "name": "Union Township Elementary School",
+    "type": "School",
+    "address": "149 Perryville Road, Hampton, NJ 08827",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "03b76919-f687-505d-9c0c-7de9aa7ec21a",
+    "name": "Union Township Middle School",
+    "type": "School",
+    "address": "165 Perryville Road, Hampton, NJ 08827-9715",
+    "county": "Hunterdon",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1b4c4ca4-5a7e-59f3-8f6e-edfc90125b30",
+    "name": "Raritan Valley Community College",
+    "type": "College/University",
+    "address": "118 Lamington Road, Branchburg, NJ 08876",
+    "county": "Hunterdon",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "060664bc-2bd2-5027-a09d-7618da0e863d",
+    "name": "Hunterdon County Justice Center",
+    "type": "Courthouse",
+    "address": "65 Park Avenue, Flemington, NJ 08822",
+    "county": "Hunterdon",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "8b570998-9877-521f-ab3f-a894e9881f06",
+    "name": "Bethlehem Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "405 Mine Rd, Asbury, NJ 08802",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "6ecae92d-43b0-5193-92bb-7c4be2c531a3",
+    "name": "Califon Borough Municipal Ct",
+    "type": "Courthouse",
+    "address": "43 Schooley's Mtn Rd, Long Valley, NJ 07853",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "aff96b42-5702-50ed-b58e-1fea11f2fd8f",
+    "name": "Clinton Twp Municipal Ct",
+    "type": "Courthouse",
+    "address": "1370 Route 31 North, Annandale, NJ 08801",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "f17b0b2e-cb46-5ec2-8c44-f1696c41774d",
+    "name": "East Amwell Joint Municipal Ct",
+    "type": "Courthouse",
+    "address": "1070 Hgwy 202, Ringoes, NJ 08551",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "6fe4dcb5-5bf1-5507-a0d1-784197804e86",
+    "name": "Franklin Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "1070 Hgwy #202, Ringoes, NJ 08551",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "4858a611-121e-5e00-bca3-5a86e8436dae",
+    "name": "Glen Gardner Boro Municipal Ct",
+    "type": "Courthouse",
+    "address": "405 Mine Rd, Asbury, NJ 08802",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "2b933118-ffdf-5422-a7b3-93c1ad8346b4",
+    "name": "Hampton Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "1370 Route 31 North, Annandale, NJ 08801",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "4408285d-6e4c-5a16-b20f-966964c9eb4a",
+    "name": "High Bridge Municipal Ct",
+    "type": "Courthouse",
+    "address": "1370 Route 31 North, Annandale, NJ 08801",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "87c15fde-779e-5d08-9771-342185fc12a2",
+    "name": "Kingwood Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "599 Oak Grove Rd., Frenchtown, NJ 08825",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "7f9821ba-3c29-5d7b-beda-f049bf2c9d91",
+    "name": "Lebanon Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "405 Mine Rd, Asbury, NJ 08802",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "d76a1433-0812-5f4d-b2a8-0a554cda06ce",
+    "name": "Lebanon Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "1370 Route 31 North, Annandale, NJ 08801",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "07ed9a7f-9052-5eae-ae7f-3a05b55cd16f",
+    "name": "North Hunterdon Municipal Ct",
+    "type": "Courthouse",
+    "address": "1370 Route 31 North, Annandale, NJ 08801",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "02a6453e-5052-5ffe-8e8d-29c35a362e5d",
+    "name": "Readington Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "509 Rt 523, Whitehouse St, NJ 08889",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "98c633e0-b73c-5185-81e4-b952e24128b0",
+    "name": "Stockton Municipal Court",
+    "type": "Courthouse",
+    "address": "1070 Highway 202, Ringoes, NJ 08551",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "cc896c09-ef47-57c7-a085-445c76e4dc18",
+    "name": "Tewksbury Municipal Court",
+    "type": "Courthouse",
+    "address": "60 Water Street, Lebanon, NJ 08833",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "ef808c4d-ca0a-5eb1-8932-2cda410bfd0a",
+    "name": "Union Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "1370 Rte 31 North, Annandale, NJ 08801",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "47edef5c-bcba-5422-9fe1-a280d70a002d",
+    "name": "West Amwell Municipal Court",
+    "type": "Courthouse",
+    "address": "150 Rocktown, Lambertville, NJ 08530",
+    "county": "Hunterdon",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  }
+]

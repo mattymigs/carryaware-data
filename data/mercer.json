@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "3fb4a7f5-15e6-54cd-ae08-f821a81a74d7",
+    "name": "Mcvs Arthur R. Sypek Center",
+    "type": "School",
+    "address": "129 Bull Run Road, Pennington, NJ 08534-1303",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7a7d4a90-0c55-5673-9437-1df5eba7f8fa",
+    "name": "Mcvs Assunpink Shared Time Center/rubino",
+    "type": "School",
+    "address": "1085 Old Trenton Rd, Trenton, NJ 08690-1303",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "16574252-003f-5311-935f-d7e2a836aa08",
+    "name": "Mercer County Technical School Culinary Arts Academy",
+    "type": "School",
+    "address": "129 Bull Run Road, Pennington, NJ 08534",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ecd8029b-66b7-5a8a-a114-70f7bb1d0981",
+    "name": "Mercer County Technical School Health Sciences Academy",
+    "type": "School",
+    "address": "1085 Old Trenton Road, Trenton, NJ 08690",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "89dfeffe-0a44-58a8-af1c-befb5503eda2",
+    "name": "Mercer County Technical School Stem Academy",
+    "type": "School",
+    "address": "129 Bull Run Road, Pennington, NJ 08534",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "14d78be7-425e-57d1-8b38-8a0367f8c1d6",
+    "name": "Ethel Mcknight Elementary School",
+    "type": "School",
+    "address": "58 Twin Rivers Dr South, East Windsor, NJ 08520",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d1ab129e-a608-57b1-b119-7213c3679a52",
+    "name": "Grace N. Rogers Elementary School",
+    "type": "School",
+    "address": "380 Stockton St, Hightstown, NJ 08520",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ff136a4c-1c83-51f0-af05-8437d3f95893",
+    "name": "Hightstown High School",
+    "type": "School",
+    "address": "25 Leshin Lane, Hightstown, NJ 08520-4006",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f574f5f3-dbe2-5c20-9bb7-8f1d5e8a84ff",
+    "name": "Melvin H. Kreps Middle School",
+    "type": "School",
+    "address": "5 Kent Lane, East Windsor, NJ 08520",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ec197694-1ed9-5db8-b3f7-375b0dcabca4",
+    "name": "Perry L. Drew Elementary School",
+    "type": "School",
+    "address": "70 Twin Rivers Drive North, East Windsor, NJ 08520",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "dfc910b3-0f4b-5a9e-bf9d-ac5c4db0166b",
+    "name": "Walter C. Black Elementary School",
+    "type": "School",
+    "address": "371 Stockton Street, Hightstown, NJ 08520",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "03946f84-993d-5dd4-82d9-8b5b66e85b41",
+    "name": "Ewing High School",
+    "type": "School",
+    "address": "900 Parkway Ave, Ewing, NJ 08618-2308",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8ada8521-aa9a-5d17-bffc-54a12d6b0194",
+    "name": "Francis Lore Elementary School",
+    "type": "School",
+    "address": "13 Westwood Drive, Ewing, NJ 08628-1912",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "93176b86-36e7-5c20-862b-8d4ac1323516",
+    "name": "Gilmore J Fisher Middle School",
+    "type": "School",
+    "address": "1325 Lower Ferry Road, Ewing, NJ 08618-1409",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c0bf5f84-b56a-566f-b19d-2242d773346c",
+    "name": "Parkway Elementary School",
+    "type": "School",
+    "address": "446 Parkway Avenue, Ewing, NJ 08618-2605",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7d7c2c46-bbea-51ac-b9d8-73ca26d74aeb",
+    "name": "William L Antheil Elementary School",
+    "type": "School",
+    "address": "339 Ewingville Road, Ewing, NJ 08638-1721",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c1f61c68-3549-5c3d-b7db-ef1950ddd10f",
+    "name": "Albert E Grice Middle School",
+    "type": "School",
+    "address": "901 Whitehorse Hamilton Sq, Hamilton, NJ 08610-1426",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b26682cf-0953-5ff8-9711-796568c613be",
+    "name": "Alexander Elementary School",
+    "type": "School",
+    "address": "20 Robert Frost Drive, Hamilton, NJ 08690-2331",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "51883c37-164d-5897-b439-3ae866874835",
+    "name": "Emily C. Reynolds Middle School",
+    "type": "School",
+    "address": "2145 Yardville Hamilton Sq, Hamilton, NJ 08690",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "be12be7e-8b25-55b9-ab6a-8ec3d9d699c5",
+    "name": "George E. Wilson Elementary School",
+    "type": "School",
+    "address": "600 Park Avenue, Hamilton, NJ 08610-5012",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c905d8c8-51ea-5122-9106-b4262f30a0c1",
+    "name": "Greenwood Elementary School",
+    "type": "School",
+    "address": "2069 Greenwood Avenue, Hamilton, NJ 08609-2328",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "23058608-6fb9-582e-8f3a-2b14117d2cd4",
+    "name": "Hamilton East - Steinert",
+    "type": "School",
+    "address": "2900 Klockner Road, Hamilton, NJ 08690",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "800f3150-635c-5aa9-8c44-f59213e4c822",
+    "name": "Hamilton North - Nottingham",
+    "type": "School",
+    "address": "1055 Klockner Road, Hamilton, NJ 08619-3046",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a2372370-6ef4-5729-97c7-77145582a23f",
+    "name": "Hamilton West - Watson",
+    "type": "School",
+    "address": "2720 South Clinton Avenue, Hamilton, NJ 08610-5053",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6d245ec7-5a92-58f7-bb6c-02229fa38893",
+    "name": "Kisthardt Elementary School",
+    "type": "School",
+    "address": "215 Harcourt Drive, Hamilton, NJ 08610-4213",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2ebb2017-c95f-5382-b3af-3e6a6f486dd1",
+    "name": "Klockner Elementary School",
+    "type": "School",
+    "address": "830 Klockner Avenue, Hamilton, NJ 08619-2933",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6a58cd81-32e6-5f16-9d58-a30e98a025c4",
+    "name": "Kuser Elementary School",
+    "type": "School",
+    "address": "70 Newkirk Avenue, Hamilton, NJ 08629-1428",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7f3cecc0-8252-5f18-a935-86396ed43579",
+    "name": "Lalor Elementary School",
+    "type": "School",
+    "address": "25 Barnt Deklyn Road, Hamilton, NJ 08610-6632",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e74caf22-7ec4-5197-b86b-4500e19ab225",
+    "name": "Langtree Elementary School",
+    "type": "School",
+    "address": "2080 Whatley Road, Hamilton, NJ 08690-3142",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8efe7219-b7f0-53a7-9cf5-5e9a05a90f9d",
+    "name": "Mcgalliard Elementary School",
+    "type": "School",
+    "address": "1600 Arena Drive, Hamilton, NJ 08610-3205",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b7cd4006-6b24-5041-a89b-99f85902c4dd",
+    "name": "Mercerville Elementary School",
+    "type": "School",
+    "address": "60 Regina Avenue, Hamilton, NJ 08619-2202",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "541941f1-1e9e-5450-abf8-a9329a0182ab",
+    "name": "Morgan Elementary School",
+    "type": "School",
+    "address": "38 Stamford Road, Hamilton, NJ 08619-1446",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7d75234e-5369-5861-a259-6befedf8f2fb",
+    "name": "Richard C Crockett Middle School",
+    "type": "School",
+    "address": "2631 Kuser Road, Hamilton, NJ 08691",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "02c52812-8ecf-5f58-b5d3-b925957ad59d",
+    "name": "Robinson Elementary School",
+    "type": "School",
+    "address": "495 Gropp Avenue, Hamilton, NJ 08610-2020",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0e2656cf-02bd-5a98-b69f-3ebb17552dbc",
+    "name": "Sayen Elementary School",
+    "type": "School",
+    "address": "3333 Nottingham Way, Hamilton, NJ 08690-2603",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c3a707c6-a2a4-5a4d-a21c-6c5618f11ac8",
+    "name": "Sunnybrae Elementary School",
+    "type": "School",
+    "address": "166 Elton Avenue, Hamilton, NJ 08620-1622",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a3360de1-4e8f-562d-bf51-4d565502f9d6",
+    "name": "University Heights Elementary School",
+    "type": "School",
+    "address": "645 Paxson Avenue, Hamilton, NJ 08619",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4773f433-653c-5b52-9ea6-37d8c8c4a0a6",
+    "name": "Yardville Elementary School",
+    "type": "School",
+    "address": "450 Yardville Allentown Rd, Hamilton, NJ 08620",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8ce82a6b-9d4d-563f-ba8f-cca7d801400e",
+    "name": "Yardville Heights Elementary School",
+    "type": "School",
+    "address": "3880 South Broad Street, Hamilton, NJ 08620-2502",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cd8abd92-b07b-53dc-a790-ccc6399fb72f",
+    "name": "Bear Tavern Elementary School",
+    "type": "School",
+    "address": "1162 Bear Tavern Road, Titusville, NJ 08560-9633",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3ae2a5af-acb1-55aa-a4d7-a73fc79e86e7",
+    "name": "Hopewell Elementary School",
+    "type": "School",
+    "address": "35 Princeton Avenue, Hopewell, NJ 08525",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b2881a99-541b-5d98-bc5a-74a3d1f37366",
+    "name": "Hopewell Valley Central High School",
+    "type": "School",
+    "address": "259 Pennington Titusville Rd, Pennington, NJ 08534-9701",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "99995278-6979-534d-9651-f1667e7d8705",
+    "name": "Stony Brook Elementary School",
+    "type": "School",
+    "address": "20 Stephenson Road, Pennington, NJ 08534",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "06c99d08-2357-550f-879f-bfc8440be6b4",
+    "name": "Timberlane Middle School",
+    "type": "School",
+    "address": "51 S Timberlane Drive, Pennington, NJ 08534-1614",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5a61e340-8a7a-562c-b5c7-f5e335520bb9",
+    "name": "Toll Gate Grammar School",
+    "type": "School",
+    "address": "275 So Main Street, Pennington, NJ 08534-2219",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "dfbf1037-7212-50c5-b085-7a5bf23c14d2",
+    "name": "Ben Franklin Elementary",
+    "type": "School",
+    "address": "2939 Princeton Pike, Lawrenceville, NJ 08648-3224",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a5785761-72c6-5753-81c6-48bd096ad466",
+    "name": "Eldridge Park School",
+    "type": "School",
+    "address": "55 Lawn Park Ave, Lawrenceville, NJ 08648",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3673db0c-212f-5a42-bd1e-b337914c7001",
+    "name": "Lawrence High School",
+    "type": "School",
+    "address": "2525 Princeton Pike, Lawrenceville, NJ 08648-3631",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "43d62430-73f4-508b-98d9-bf48ed16efab",
+    "name": "Lawrence Intermediate School",
+    "type": "School",
+    "address": "66 Eggerts Crossing Road, Lawrenceville, NJ 08648-2804",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "065b6d78-96f1-54cb-b2f5-957e5feb7ce2",
+    "name": "Lawrence Middle School",
+    "type": "School",
+    "address": "2455 Princeton Pike, Lawrenceville, NJ 08648-3938",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "204c0545-2af2-53fa-8ecb-ae2097ade541",
+    "name": "Lawrenceville Elementary School",
+    "type": "School",
+    "address": "40 Craven Lane, Lawrenceville, NJ 08648-1637",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8e78cd10-1381-5160-850b-6f6aba05a5f8",
+    "name": "Slackwood Elementary School",
+    "type": "School",
+    "address": "2060 Princeton Pike, Lawrenceville, NJ 08648-4324",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fe502276-5dcb-5296-898a-a9207a64ed15",
+    "name": "Joseph F. Cappello School",
+    "type": "School",
+    "address": "1072 Old Trenton Road, Hamilton, NJ 08690",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4282b3bb-9bb7-5aa9-ab9e-fd99ecb9a508",
+    "name": "Mercer Elementary School",
+    "type": "School",
+    "address": "1020 Old Trenton Road, Hamilton, NJ 08690",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e72c1acb-cf6e-5421-9afa-22f1ee682d37",
+    "name": "Mercer High School",
+    "type": "School",
+    "address": "1030 Old Trenton Road, Hamilton, NJ 08690-1230",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "09074612-65b1-5c01-983b-64c01869c80e",
+    "name": "Community Park School",
+    "type": "School",
+    "address": "372 Witherspoon Street, Princeton, NJ 08540-3477",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "247b0bfd-ed45-588b-9fbf-07bfa0fd4b97",
+    "name": "Johnson Park School",
+    "type": "School",
+    "address": "285 Rosedale Road, Princeton, NJ 08540",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3c8aebe4-e7a0-5a3f-86de-055775567a92",
+    "name": "Littlebrook School",
+    "type": "School",
+    "address": "39 Magnolia Lane, Princeton, NJ 08540-4013",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "36e2874e-e7c0-56b1-89c0-09d4b3583da7",
+    "name": "Princeton High School",
+    "type": "School",
+    "address": "151 Moore Street, Princeton, NJ 08540-3312",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fa57a4e9-87f8-56de-98c4-0dcbf847df31",
+    "name": "Princeton Middle School",
+    "type": "School",
+    "address": "217 Walnut Lane, Princeton, NJ 08540",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "020fcfb1-9a1c-5ca1-ac89-e1adec45c744",
+    "name": "Riverside School",
+    "type": "School",
+    "address": "58 Riverside Drive, Princeton, NJ 08540-5425",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "152c0713-a888-5af9-b20f-a2d370185c7a",
+    "name": "Pond Road Middle School",
+    "type": "School",
+    "address": "150 Pond Road, Robbinsville, NJ 08691",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8bcc82ff-bb03-5f8e-ac89-eed82847cce8",
+    "name": "Robbinsville High School",
+    "type": "School",
+    "address": "155 Robbinsville Edinburg Rd, Robbinsville, NJ 08691",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "287a4ac3-78a8-504d-a8c4-6ddd5d907a4a",
+    "name": "Sharon School",
+    "type": "School",
+    "address": "234 Sharon Road, Robbinsville, NJ 08691-9741",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0b56ca70-60c6-5aa7-9ad7-a6154d499503",
+    "name": "Arthur J. Holland Middle School",
+    "type": "School",
+    "address": "1001 West State St, Trenton, NJ 08618",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d0cfcab6-3287-5c4e-8c12-944a05784e13",
+    "name": "Battle Monument Intermediate School",
+    "type": "School",
+    "address": "145 Pennington Avenue, Trenton, NJ 08618",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b8c36ceb-ebe8-5efd-82dd-696e286d2061",
+    "name": "Benjamin C Gregory Elementary School",
+    "type": "School",
+    "address": "500 Rutherford Avenue, Trenton, NJ 08618-4459",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b571c1b9-96d0-5415-9fef-32ed921ffdbd",
+    "name": "Cadwalader Elementary School",
+    "type": "School",
+    "address": "501 Edgewood Avenue, Trenton, NJ 08618",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1d7d2791-c78f-5194-bc9d-280389001b44",
+    "name": "Capital City High School",
+    "type": "School",
+    "address": "135 E. Hanover Street, Trenton, NJ 08618",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "dfb70f75-a336-58de-8eea-2ebb976a3893",
+    "name": "Carroll Robbins Elementary School",
+    "type": "School",
+    "address": "283 Tyler Street, Trenton, NJ 08609",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "73e7f0a6-1291-56af-9859-6ebb02579e40",
+    "name": "Clara Parker Intermediate School",
+    "type": "School",
+    "address": "820 South Warren Street, Trenton, NJ 08611-2840",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d40a24a4-6acc-5cc8-a7b4-a141b7277d7e",
+    "name": "Darlene C. Mcknight Elementary",
+    "type": "School",
+    "address": "175 Girard Avenue, Trenton, NJ 08638-3431",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c0c036e4-2ae1-583f-be9b-b9fb649364a3",
+    "name": "Dr. Crosby Copeland Jr Elementary",
+    "type": "School",
+    "address": "1200 Brunswick Avenue, Trenton, NJ 08638",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e3a36861-903d-5d3e-8505-fc2ec5e55fcc",
+    "name": "Dr. Martin Luther King Middle School",
+    "type": "School",
+    "address": "401-411 Brunswick Ave, Trenton, NJ 08638",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8fbaa4b2-12d8-5942-8351-af2552081a37",
+    "name": "Franklin Elementary School",
+    "type": "School",
+    "address": "200 William Street, Trenton, NJ 08610",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2f7ed79a-9c58-5ee0-8671-707f60ed28ad",
+    "name": "George Washington Elementary School",
+    "type": "School",
+    "address": "331 Emory Avenue, Trenton, NJ 08611",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "85256ff7-bf16-5ee2-87ea-25bdc38f225d",
+    "name": "Gershom Mott Elementary School",
+    "type": "School",
+    "address": "45 Stokely Avenue, Trenton, NJ 08611",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bc8f25c4-f634-5e55-99be-c961d95e601d",
+    "name": "Grace A Dunn Middle School",
+    "type": "School",
+    "address": "401 Dayton Street, Trenton, NJ 08610",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9c65bab0-637c-5499-9982-2830d0595344",
+    "name": "Grant Intermediate School",
+    "type": "School",
+    "address": "159 N Clinton Avenue, Trenton, NJ 08609",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f35eed59-5c86-5111-8503-938922e83646",
+    "name": "Hedgepeth Williams Intermediate School",
+    "type": "School",
+    "address": "301 Gladstone Ave, Trenton, NJ 08629",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8234fbff-0fa9-5721-9f0a-cc7f3a59405d",
+    "name": "Joseph Stokes Elementary School",
+    "type": "School",
+    "address": "915 Parkside Avenue, Trenton, NJ 08618",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fcc360db-dfc5-5f09-b84f-f810ea3b5c73",
+    "name": "Joyce Kilmer Intermediate School",
+    "type": "School",
+    "address": "1300 Stuyvesant Avenue, Trenton, NJ 08618",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d7abea47-1577-548c-b865-67d2d2cea5d1",
+    "name": "Luis Munoz - Rivera Elementary School",
+    "type": "School",
+    "address": "401 North Montgomery St, Trenton, NJ 08638",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "38eb1f8a-2525-5a0a-9eb1-0719a485e9eb",
+    "name": "Patton J. Hill Elementary School",
+    "type": "School",
+    "address": "1010 East State Street, Trenton, NJ 08609-1506",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "493b74cc-a9df-54e4-abe4-85a3bdcc9188",
+    "name": "Paul S. Robeson Elementary School",
+    "type": "School",
+    "address": "350 Cuyler Avenue, Trenton, NJ 08629",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "55355639-ec31-55c5-ad12-50c1b8d0d22f",
+    "name": "Thomas Jefferson Intermediate School",
+    "type": "School",
+    "address": "1 Whittlesey Road, Trenton, NJ 08618",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4b4137b0-3d8d-597d-aa94-aceb99a74665",
+    "name": "Trenton Central High School - Main Campus",
+    "type": "School",
+    "address": "400 Chambers Street, Trenton, NJ 08611",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bb6a1429-fd2c-5bc6-a1b1-91f702bf754e",
+    "name": "Trenton Central High School - 9th Grade Academy",
+    "type": "School",
+    "address": "500 Perry Street, Trenton, NJ 08609",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e4c37543-7997-5c8d-b861-25c3d9585764",
+    "name": "William Harrison Elementary School",
+    "type": "School",
+    "address": "461 Genessee Street, Trenton, NJ 08611",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2c381dfd-5eaa-54ae-bd77-953ae695e5f9",
+    "name": "Community Middle School",
+    "type": "School",
+    "address": "95 Grovers Mill Road, Plainsboro, NJ 08536",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cd53f1b7-04f3-5a9a-9bf3-42c72f1a8c8c",
+    "name": "Dutch Neck Elementary School",
+    "type": "School",
+    "address": "392 Village Road East, West Windsor, NJ 08550",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "768030b3-7fb1-55c8-bebf-e4e6294da749",
+    "name": "J.v.b. Wicoff Elementary School",
+    "type": "School",
+    "address": "510 Plainsboro Road, Plainsboro, NJ 08536",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fa46a056-043d-5197-91dd-3efb33a35175",
+    "name": "Maurice Hawk Elementary School",
+    "type": "School",
+    "address": "303 305 Clarksville Road, West Windsor, NJ 08550",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "07b4ae9b-893d-5983-a846-6fb8e00c63ba",
+    "name": "Millstone River School",
+    "type": "School",
+    "address": "75 Grovers Mill Road, Plainsboro, NJ 08536",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "db35471e-b966-5d7c-b922-0e1eca11db28",
+    "name": "Thomas R Grover Middle School",
+    "type": "School",
+    "address": "10 Southfield Road, West Windsor, NJ 08550",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5a966dca-0a50-5fc3-b8cd-f40750d5c92f",
+    "name": "Town Center Elementary School",
+    "type": "School",
+    "address": "700 Wyndhurst Drive, Plainsboro, NJ 08536",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "107fabd7-2409-56f5-8bd6-e9da20da49d8",
+    "name": "Village Elementary School",
+    "type": "School",
+    "address": "601 New Village Road, West Windsor, NJ 08550",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "55d977b9-3d39-5b8c-b875-be2069983488",
+    "name": "West Windsor - Plainsboro High School North",
+    "type": "School",
+    "address": "90 Grovers Mill Road, Plainsboro, NJ 08536",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5e25eeb6-4cc7-5ac7-9435-5fed02d3c6d9",
+    "name": "West Windsor - Plainsboro High School South",
+    "type": "School",
+    "address": "346 Clarksville Road, West Windsor, NJ 08550",
+    "county": "Mercer",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "21a6db40-4be4-53b1-a7fb-50df448f3020",
+    "name": "Mercer County Community College",
+    "type": "College/University",
+    "address": "1200 Old Trenton Road, West Windsor, NJ 08550",
+    "county": "Mercer",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "a42625c3-8502-5cd9-ba2b-f2bbc2f7d49c",
+    "name": "Princeton University",
+    "type": "College/University",
+    "address": "Princeton, NJ 08544",
+    "county": "Mercer",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "ecd622b3-d758-5e8c-868f-528d21a569ef",
+    "name": "The College Of New Jersey",
+    "type": "College/University",
+    "address": "2000 Pennington Road, Ewing, NJ 08618",
+    "county": "Mercer",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "a03630c9-e74c-56fe-83e2-702e12dfd805",
+    "name": "Rider University",
+    "type": "College/University",
+    "address": "2083 Lawrenceville Road, Lawrenceville, NJ 08648",
+    "county": "Mercer",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "d2ea6616-ec04-5d99-8236-c3c4820654ca",
+    "name": "Thomas Edison State University",
+    "type": "College/University",
+    "address": "111 West State Street, Trenton, NJ 08608",
+    "county": "Mercer",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "cafd169e-7d74-5cd0-a711-68013c77fe09",
+    "name": "Mercer County Civil Courthouse",
+    "type": "Courthouse",
+    "address": "175 South Broad Street, Trenton, NJ 08650",
+    "county": "Mercer",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "b9573c4f-b866-5751-a8fe-ea69866506b5",
+    "name": "East Windsor Municipal Court",
+    "type": "Courthouse",
+    "address": "80 One Mile Road, East Windsor, NJ 08520",
+    "county": "Mercer",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "fcc60dc2-405f-5ecc-8c3c-dbd614cf691a",
+    "name": "Ewing Township Municipal Court",
+    "type": "Courthouse",
+    "address": "2 Jake Garzio Drive, Ewing, NJ 08628",
+    "county": "Mercer",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "a539bb25-346d-5512-8b56-29a652b2609f",
+    "name": "Hamilton Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "1270 Whitehorse Ave, Hamilton, NJ 08619",
+    "county": "Mercer",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "d34baa44-c8b0-53bb-9d69-81a8fb19ffe5",
+    "name": "Hightstown Municipal Court",
+    "type": "Courthouse",
+    "address": "2300 Route 33, Robbinsville, NJ 08691",
+    "county": "Mercer",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "27ea1bc0-1499-5393-abbe-172bcdca97b0",
+    "name": "Hopewell Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "88 East Broad St, Hopewell, NJ 08525",
+    "county": "Mercer",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "813b80b1-d8e1-50d1-9663-0b9d452e0aea",
+    "name": "Lawrence Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "2211 Lawrence Rd, Lawrence, NJ 08648",
+    "county": "Mercer",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "4fc979fc-05e1-536d-b49e-1b74c795596c",
+    "name": "Pennington Boro Municipal Ct",
+    "type": "Courthouse",
+    "address": "30 North Main Street, Pennington, NJ 08534",
+    "county": "Mercer",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "b352a045-a4dd-5e67-aa37-9ff6fafa620e",
+    "name": "Princeton Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "400 Witherspoon St, Princeton, NJ 08540",
+    "county": "Mercer",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "04488ba0-0809-5ba2-9e9e-669094b314dc",
+    "name": "Princeton Municipal Court",
+    "type": "Courthouse",
+    "address": "400 Witherspoon St, Princeton Twp, NJ 08540",
+    "county": "Mercer",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "59d31ee9-cbe6-56b8-af45-b94a4328ffba",
+    "name": "Robbinsville Twp Municipal Ct",
+    "type": "Courthouse",
+    "address": "2300 Route 33, Robbinsville, NJ 08691",
+    "county": "Mercer",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "e0cc0898-7129-562d-bc40-c3458554b3c8",
+    "name": "Trenton Municipal Court",
+    "type": "Courthouse",
+    "address": "225 N Clinton Ave, Trenton, NJ 08607",
+    "county": "Mercer",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "babc8390-82cf-59d1-990d-f58d4e6b3649",
+    "name": "West Windsor Municipal Court",
+    "type": "Courthouse",
+    "address": "20 Municipal Dr, West Windsor, NJ 08550",
+    "county": "Mercer",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "f71261fd-047d-52a6-9140-62436bdb7493",
+    "name": "Trenton Mercer Airport",
+    "type": "Airport",
+    "address": "1100 Terminal Circle Drive, Ewing Township, NJ 08628",
+    "county": "Mercer",
+    "source": "nj_airports_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "65e534ce-c6f4-5caa-a8e2-2f4d234114e6",
+    "name": "Trenton Transit Center",
+    "type": "Transit Hub",
+    "address": "72 South Clinton Avenue, Trenton, NJ 08609",
+    "county": "Mercer",
+    "source": "nj_transit_hubs_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "034e7d58-b85c-5497-8b9e-29c07c8aea1f",
+    "name": "Mercer County Administration Building",
+    "type": "Government Building",
+    "address": "640 South Broad Street, Trenton, NJ 08650",
+    "county": "Mercer",
+    "source": "nj_government_buildings_curated",
+    "confidence": "high"
+  }
+]

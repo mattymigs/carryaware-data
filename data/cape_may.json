@@ -1,0 +1,425 @@
+[
+  {
+    "id": "f4ee03fa-ce37-5660-a373-b2626e785c96",
+    "name": "Avalon Elementary School",
+    "type": "School",
+    "address": "235 32ND Street, Avalon, NJ 08202-1776",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9b43da21-b244-5396-99b8-16c8c9ad8a13",
+    "name": "Cape May City Elementary School",
+    "type": "School",
+    "address": "921 Lafayette St, Cape May, NJ 08204-1646",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fa022f71-b5b6-54c8-bb2f-4c410913e174",
+    "name": "Cape May County High School",
+    "type": "School",
+    "address": "148 Crest Haven Road, Cape May Court House, NJ 08210",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d06ab8a0-8910-5b73-92ab-1a12c20afdf2",
+    "name": "Ocean Academy",
+    "type": "School",
+    "address": "148 Crest Haven Road, Cape May Court House, NJ 08210",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "14ead5a6-6da9-54ee-87f3-ac00d53395e5",
+    "name": "Cape May County Technical Evening School",
+    "type": "School",
+    "address": "188 Crest Haven Road, Cape May Court House, NJ 08210",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ecdc2022-6f3f-58af-9846-fe2b5700efa3",
+    "name": "Cape May County Technical Evening Vo - Tech School",
+    "type": "School",
+    "address": "188 Crest Haven Road, Cape May Court House, NJ 08210",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "70fc4403-5a44-5d3d-b30a-0206e5142106",
+    "name": "Cape May County Technical High School",
+    "type": "School",
+    "address": "188 Crest Haven Rd, Cape May Court House, NJ 08210",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "906a0797-4ae3-5a11-b5ee-a9eb709500b4",
+    "name": "Dennis Township Elementary/middle Schools",
+    "type": "School",
+    "address": "165 Academy Road, Dennisville, NJ 08214",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "65a36ff4-603d-5c13-9c3c-94b30cc9968c",
+    "name": "Dennis Township Primary School",
+    "type": "School",
+    "address": "601 Hagan Road, Cape May Court House, NJ 08210",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b6738894-1a4e-5816-a4e8-e894a2bbbcd2",
+    "name": "Lower Cape May Regional High School",
+    "type": "School",
+    "address": "687 Rt 9, Cape May, NJ 08204",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "291051cc-3f86-5747-ab49-498b3b905552",
+    "name": "Richard M. Teitelman Middle School",
+    "type": "School",
+    "address": "687 Rt 9, Cape May, NJ 08204-4637",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a84e0583-0802-5a90-bd89-c2deb04ed69a",
+    "name": "Carl T. Mitnick School",
+    "type": "School",
+    "address": "905 Seashore Road, Cape May, NJ 08204-4650",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "156cb446-a437-5626-9c27-382cd2b16202",
+    "name": "David C. Douglass Memorial School",
+    "type": "School",
+    "address": "2600 Bayshore Rd, Villas, NJ 08251-4650",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bf3e1875-53ef-5375-904e-377af13f612d",
+    "name": "Maud Abrams School",
+    "type": "School",
+    "address": "714 Townbank Rd, Cape May, NJ 08204-4650",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "75d06181-7578-5cb1-922f-ccbf4f8e04d9",
+    "name": "Sandman Consolidated School",
+    "type": "School",
+    "address": "838 Seashore Rd, Cape May, NJ 08204-4650",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9b180635-0768-5183-89b2-41a324b61d9a",
+    "name": "Middle Township Elementary #1",
+    "type": "School",
+    "address": "215 Eldredge Road, Cape May Court House, NJ 08210",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "904f72f4-63a9-5c4b-9dcb-f627bed706cb",
+    "name": "Middle Township Elementary #2",
+    "type": "School",
+    "address": "101 West Pacific Ave, Cape May Court House, NJ 08210",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8da9dcfd-2ae6-5da3-b851-4f1863927049",
+    "name": "Middle Township Elementary #4",
+    "type": "School",
+    "address": "300 E Pacific Ave, Cape May Court House, NJ 08210",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9c57c441-0a1f-5434-b70d-255b2bfe1813",
+    "name": "Middle Township High School",
+    "type": "School",
+    "address": "300 East Atlantic Avenue, Cape May Court House, NJ 08210",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c1859212-dd53-5c16-b026-388103af4147",
+    "name": "Margaret Mace Elementary School",
+    "type": "School",
+    "address": "1201 Atlantic Avenue, North Wildwood, NJ 08260",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6ab74925-0d76-5ae0-aeb2-b572b85cb524",
+    "name": "Ocean City High School",
+    "type": "School",
+    "address": "501 Atlantic Avenue, Ocean City, NJ 08226",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0c2ca5eb-a39a-5a6e-8e98-8b423c43cab0",
+    "name": "Ocean City Intermediate School",
+    "type": "School",
+    "address": "1901 Bay Avenue, Ocean City, NJ 08226",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "efafc6b5-ee78-5ae5-a6bc-58cb542709a3",
+    "name": "Ocean City Primary School",
+    "type": "School",
+    "address": "550 West Avenue, Ocean City, NJ 08226",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bc70ca10-b4fd-56d3-90ec-72acbd6022cc",
+    "name": "Stone Harbor Elementary School",
+    "type": "School",
+    "address": "275 93RD St, Stone Harbor, NJ 08247",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c1392f93-0a34-5b0f-8b9f-528577f3fca6",
+    "name": "Upper Township Elementary School",
+    "type": "School",
+    "address": "50 Old Tuckahoe Rd, Marmora, NJ 08223",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "44bea42c-563c-5293-93a5-0b9af4facc70",
+    "name": "Upper Township Middle School",
+    "type": "School",
+    "address": "525 Perry Rd, Petersburg, NJ 08270",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "183828e6-bb88-5105-b543-bd38144b891d",
+    "name": "Upper Township Primary School",
+    "type": "School",
+    "address": "130 Old Tuckahoe Rd, Marmora, NJ 08223",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5b552635-31c7-5e6d-bfd9-4e597bb10eb2",
+    "name": "West Cape May Elementary School",
+    "type": "School",
+    "address": "301 Moore Street, West Cape May, NJ 08204-1199",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bc45d296-ac12-58e5-b4e7-a9e02b00250f",
+    "name": "Glenwood Avenue Elementary School",
+    "type": "School",
+    "address": "Glenwood & New York Ave, Wildwood, NJ 08260",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3c8b5399-43b0-504e-affc-e653ede17a6d",
+    "name": "Wildwood High School",
+    "type": "School",
+    "address": "4300 Pacific Ave, Wildwood, NJ 08260",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b99acc1a-b835-531b-9f1d-e9a621839503",
+    "name": "Wildwood Middle School",
+    "type": "School",
+    "address": "4300 Pacific Ave, Wildwood, NJ 08260",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4ec45c9e-9a06-55fe-b177-221e2ff38a3b",
+    "name": "Crest Memorial School",
+    "type": "School",
+    "address": "9100 Pacific Ave, Wildwood Crest, NJ 08260-3433",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "74b6b886-f306-5b89-9439-4779bcaaaac1",
+    "name": "Woodbine Elementary School",
+    "type": "School",
+    "address": "801 Webster Street, Woodbine, NJ 08270",
+    "county": "Cape May",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9e02a4e4-dfce-57d7-b5ca-f690a9fda4da",
+    "name": "Cape May County Courthouse",
+    "type": "Courthouse",
+    "address": "9 North Main Street, Cape May Court House, NJ 08210",
+    "county": "Cape May",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "5a1a0214-5683-55b3-a445-80f7601b3f05",
+    "name": "Avalon Municipal Court",
+    "type": "Courthouse",
+    "address": "3100 Dune Drive, Avalon, NJ 08202",
+    "county": "Cape May",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "68b282b8-9e9f-5631-909a-1c9ddcf3cc20",
+    "name": "Cape May Point Municipal Court",
+    "type": "Courthouse",
+    "address": "643 Washington St, Cape May, NJ 08204",
+    "county": "Cape May",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "d170fa59-d65d-521f-a237-f3072e78b562",
+    "name": "Dennis Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "233 Jfk Blvd 3rd Flr, Sea Isle City, NJ 08243",
+    "county": "Cape May",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "c121abf6-5228-543a-887d-dfeec5a387ee",
+    "name": "Lower Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "401 Breakwater Road, Erma, NJ 08204",
+    "county": "Cape May",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "62572392-ab24-5836-9332-cd6a6d661b98",
+    "name": "Middle Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "2 South Boyd Stret, Cape May Ct Hse, NJ 08210",
+    "county": "Cape May",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "9182b096-367d-5b35-b809-a9ca7fa3a0db",
+    "name": "North Wildwood Municipal Court",
+    "type": "Courthouse",
+    "address": "901 Atlantic Ave, North Wildwood, NJ 08260",
+    "county": "Cape May",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "f6658500-d415-53c4-a544-faad67671454",
+    "name": "Ocean City Municipal Court",
+    "type": "Courthouse",
+    "address": "801 Asbury Ave, Ocean City, NJ 08226",
+    "county": "Cape May",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "c7e4b1ea-a3b1-5905-b45c-ee7c6e647f84",
+    "name": "Sea Isle City Municipal Court",
+    "type": "Courthouse",
+    "address": "233 Jfk Blvd, 3rd Fl, Sea Isle City, NJ 08243",
+    "county": "Cape May",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "9e6ef31b-2400-5445-a57a-cd6503e1935f",
+    "name": "Stone Harbor Municipal Court",
+    "type": "Courthouse",
+    "address": "3100 Dune Drive, Avalon, NJ 08202",
+    "county": "Cape May",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "0deb2645-2464-54d0-8ca4-118d250a1a8e",
+    "name": "West Cape May Municipal Court",
+    "type": "Courthouse",
+    "address": "732 Broadway, W Cape May, NJ 08204",
+    "county": "Cape May",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "40c3bf63-1eaf-5cf8-984a-6eb46a70ee91",
+    "name": "Wildwood City Municipal Court",
+    "type": "Courthouse",
+    "address": "115 West Davis Ave, Wildwood, NJ 08260",
+    "county": "Cape May",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "853fbfc4-8207-5e03-848c-d4b42ff8c1f9",
+    "name": "Wildwood Crest Municipal Court",
+    "type": "Courthouse",
+    "address": "401 Breakwater Road, Erma, NJ 08204",
+    "county": "Cape May",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "0870da31-e963-5ceb-8a3f-ad498189449b",
+    "name": "Woodbine Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "2100 Tuckahoe Road, Woodbine, NJ 08270",
+    "county": "Cape May",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  }
+]

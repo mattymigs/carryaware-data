@@ -1,0 +1,3935 @@
+[
+  {
+    "id": "d5521814-9468-5113-bf31-e373fabe1abf",
+    "name": "Brookside School",
+    "type": "School",
+    "address": "100 Brookside Avenue, Allendale, NJ 07401",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ba93a70a-dba1-5198-aa3e-aa7384fcef4b",
+    "name": "Hillside Elementary School",
+    "type": "School",
+    "address": "89 Hillsdale Avenue, Allendale, NJ 07401",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "827706b7-28ff-5ad9-ad1a-83dc2cf10900",
+    "name": "Alpine Elementary School",
+    "type": "School",
+    "address": "500 Hillside Avenue, Alpine, NJ 07620",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c910891f-507c-57d7-ad31-27ca1f183a71",
+    "name": "Autistic Continuum",
+    "type": "School",
+    "address": "540 Farview Avenue, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "610cd367-b34e-5b4f-bb74-00aaa8d003c1",
+    "name": "Behavioral Continuum",
+    "type": "School",
+    "address": "540 Farview Avenue, Paramus, NJ 07652-4832",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "adb87724-b830-5a98-b91b-5de97d468285",
+    "name": "Deaf And Hard Of Hearing Continuum",
+    "type": "School",
+    "address": "540 Farview Avenue, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8b572121-1f2d-5c93-8dfe-804ff59f5199",
+    "name": "Life Skills Continuum",
+    "type": "School",
+    "address": "540 Farview Avenue, Paramus, NJ 07652-4832",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2dae0a68-79ee-54c3-8bc7-917d0747391b",
+    "name": "Multiple Disabilities Continuum",
+    "type": "School",
+    "address": "540 Farview Avenue, Paramus, NJ 07652-1831",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9e6f5e30-16de-5798-80e6-297c8cd142c6",
+    "name": "N. A. Bleshman Regional Day School",
+    "type": "School",
+    "address": "333 East Ridgewood Avenue, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8bfdef95-7c4f-525f-a832-3b2190aa698b",
+    "name": "Applied Technology High School",
+    "type": "School",
+    "address": "400 Paramus Road, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3623cfc0-9ec3-5c30-bbbe-fa7982c192c9",
+    "name": "Bergen County Academies",
+    "type": "School",
+    "address": "200 Hackensack Avenue, Hackensack, NJ 07601-6110",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "76626aa6-d0b1-5924-9fbc-28f505ad6061",
+    "name": "Bergen County Institute For Science And Technology",
+    "type": "School",
+    "address": "162 Knickerbocker Road, Demarest, NJ 07627",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f2b57294-78db-5388-a5b3-74dad370c69b",
+    "name": "Bergen County Technical High School - Paramus",
+    "type": "School",
+    "address": "E.285 Pascack Road, Paramus, NJ 07652-4237",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1e494538-2c05-51a1-86f9-d7b0ea6d9e16",
+    "name": "Bergen County Technical High School - Teterboro",
+    "type": "School",
+    "address": "504 Route 46 West, Teterboro, NJ 07608",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "eda56940-3c0b-5c63-8384-a1c41dc77271",
+    "name": "Bergen County Technical Schools Adult & Continuing Education",
+    "type": "School",
+    "address": "200A Hackensack Avenue, Adult Education Bldg., Hackensack, NJ 07601",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2db0c238-95cb-5fc2-b11e-90416c052f9c",
+    "name": "Career Innovation High School",
+    "type": "School",
+    "address": "295 Pascack Road, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fedd090f-463c-535f-aebb-de100d1b7032",
+    "name": "Bergenfield High School",
+    "type": "School",
+    "address": "80 S Prospect Ave, Bergenfield, NJ 07621-1958",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "eaa38d56-bb2d-56df-ba0b-9174cd233f31",
+    "name": "Franklin Elementary School",
+    "type": "School",
+    "address": "2 N Franklin Avenue, Bergenfield, NJ 07621",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4c19f392-e5bd-5f3d-a04f-9400cf3afbfc",
+    "name": "Hoover Elementary School",
+    "type": "School",
+    "address": "273 Murray Hill Terrace, Bergenfield, NJ 07621",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "56f5742d-16d0-5920-8f0a-70325910470f",
+    "name": "Jefferson Elementary School",
+    "type": "School",
+    "address": "200 Hickory Avenue, Bergenfield, NJ 07621",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "26066d76-ad00-58b8-9913-88fe541b2d98",
+    "name": "Lincoln Elementary School",
+    "type": "School",
+    "address": "115 Highview Avenue, Bergenfield, NJ 07621",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "77bba91b-c55d-5fa1-a845-c1a7ffd52157",
+    "name": "Roy W. Brown Middle School",
+    "type": "School",
+    "address": "130 S Washington Ave, Bergenfield, NJ 07621-2902",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "449ba30f-9f89-59f8-a267-7aa888997de4",
+    "name": "Washington Elementary School",
+    "type": "School",
+    "address": "49 S Summit Street, Bergenfield, NJ 07621",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2c240056-06bc-5235-bb37-5f99a039a221",
+    "name": "Bogota Jr./sr. High School",
+    "type": "School",
+    "address": "2 Henry C Luthin Place, Bogota, NJ 07603",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9cd5883a-e1b5-54db-ad99-4e9785b0c671",
+    "name": "Bogota Middle School",
+    "type": "School",
+    "address": "131 East Fort Lee Road, Bogota, NJ 07603",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "586c752e-5a7e-5823-8d46-7ddf91317fbd",
+    "name": "E. Roy Bixby",
+    "type": "School",
+    "address": "25 Fischer Ave, Bogota, NJ 07603",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "623dc8c7-4248-5adb-a258-41d7fdac349d",
+    "name": "Lillian M. Steen",
+    "type": "School",
+    "address": "134 W. Main, Bogota, NJ 07603",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1eefad10-5a90-535c-8a77-cc5e8ff66d4f",
+    "name": "Carlstadt Public School",
+    "type": "School",
+    "address": "550 Washington Street, Carlstadt, NJ 07072",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1d4c7a97-9717-5538-b461-1ecbcd4fb24c",
+    "name": "Henry P. Becton Regional High School",
+    "type": "School",
+    "address": "120 Paterson Avenue, East Rutherford, NJ 07073",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b9fa48b3-2283-5d2a-a7e8-1706601d8569",
+    "name": "Cliffside Park High School",
+    "type": "School",
+    "address": "64 Riverview Avenue, Cliffside Park, NJ 07010",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f255653e-15cb-5eae-8943-8ea1c628c79b",
+    "name": "School #3",
+    "type": "School",
+    "address": "397 Palisade Avenue, Cliffside Park, NJ 07010",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8bca997b-2926-5532-aaf4-00340cb08359",
+    "name": "School #4",
+    "type": "School",
+    "address": "279 Columbia Avenue, Cliffside Park, NJ 07010",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a1841136-782e-54f3-8dd9-ad4fbed2ae7f",
+    "name": "School #5",
+    "type": "School",
+    "address": "214 Day Ave, Cliffside Park, NJ 07010",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9fe532b7-fe48-5a0f-b611-c7fe70447751",
+    "name": "School #6/middle School",
+    "type": "School",
+    "address": "440 Oakdene Ave, Cliffside Park, NJ 07010",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "07fa701b-dcb7-504f-aec7-4a071ff4fc38",
+    "name": "Hillside Elementary School",
+    "type": "School",
+    "address": "340 Homans Avenue, Closter, NJ 07624-2907",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b3a210a8-b0fc-5740-9040-dbd60f6a1655",
+    "name": "Tenakill Middle School",
+    "type": "School",
+    "address": "275 High Street, Closter, NJ 07624-1809",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cc2c2cea-e677-5148-9cf3-e7bdbd019ebd",
+    "name": "Cresskill High School",
+    "type": "School",
+    "address": "1 Lincoln Drive, Cresskill, NJ 07626",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7052f22b-1c99-5bd0-a16b-bb5a0852d04a",
+    "name": "Cresskill Middle School",
+    "type": "School",
+    "address": "1 Lincoln Drive, Cresskill, NJ 07626",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "223f1cb9-4a4c-5184-ae63-f634d32427db",
+    "name": "Edward H. Bryan",
+    "type": "School",
+    "address": "51 Brookside Ave, Cresskill, NJ 07626",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "75668a7b-a544-5f47-bf45-57ee0ed44be6",
+    "name": "Merritt Memorial",
+    "type": "School",
+    "address": "1 Dogwood Lane, Cresskill, NJ 07626",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "72d498d5-7d2a-5147-b63c-965b35504e52",
+    "name": "County Road School",
+    "type": "School",
+    "address": "130 County Rd, Demarest, NJ 07627-2431",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ebd03ed8-54ba-58a4-8db7-9c8b17e65795",
+    "name": "Demarest Middle School",
+    "type": "School",
+    "address": "568 Piermont Rd, Demarest, NJ 07627-1617",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "79e0e39c-ca76-5b4a-9ec6-c2f4f72a14c4",
+    "name": "Luther Lee Emerson School",
+    "type": "School",
+    "address": "15 Columbus Road, Demarest, NJ 07627",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6611a972-c0f9-5156-bdca-ac38d4a02bd2",
+    "name": "Dumont High School",
+    "type": "School",
+    "address": "101 New Milford Ave, Dumont, NJ 07628-2913",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2c58939f-4112-5143-b574-a4843ad5be1f",
+    "name": "Grant Elementary School",
+    "type": "School",
+    "address": "100 Grant Ave, Dumont, NJ 07628-1650",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d0e1a249-01fe-5a43-b06e-26dc873617d3",
+    "name": "Honiss Elementary\\middle School",
+    "type": "School",
+    "address": "31 Depew St, Dumont, NJ 07628-3601",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f9cda0e3-a445-55e1-8631-e04712120ccb",
+    "name": "Lincoln Elementary School",
+    "type": "School",
+    "address": "80 Prospect Ave, Dumont, NJ 07628-2736",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cf92e169-9368-5e13-8fce-4121f66afbbb",
+    "name": "Selzer Elementary\\middle School",
+    "type": "School",
+    "address": "435 Prospect Ave, Dumont, NJ 07628-1417",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "60acdbcd-97a8-54b4-93f0-28fa81b74da5",
+    "name": "Alfred S. Faust Middle School",
+    "type": "School",
+    "address": "100 Uhland Street, East Rutherford, NJ 07073",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e1ce6660-1446-5902-8c1a-a902a36b719c",
+    "name": "Lincoln School",
+    "type": "School",
+    "address": "258 Grove Street, East Rutherford, NJ 07073",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "02271855-1555-5cb6-906e-836779e45a9b",
+    "name": "Mckenzie School",
+    "type": "School",
+    "address": "125 Carlton Avenue, East Rutherford, NJ 07073",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1b89c2a1-d8d3-5b72-b82e-54e516d12de0",
+    "name": "Eleanor Van Gelder",
+    "type": "School",
+    "address": "251 Undercliff Ave, Edgewater, NJ 07020-1112",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "671fc4f8-d153-5d70-a1f5-2175ba4ef9b6",
+    "name": "George Washington School",
+    "type": "School",
+    "address": "801 Undercliff Ave, Edgewater, NJ 07020",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b18a7c53-1f9b-5b05-8aa2-c2569a474629",
+    "name": "Gantner Avenue School",
+    "type": "School",
+    "address": "99 Roosevelt Ave, Elmwood Park, NJ 07407-1152",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a8e501d4-f0e4-54cc-80f2-3941d56f51c2",
+    "name": "Gilbert Avenue School",
+    "type": "School",
+    "address": "151 Gilbert Avenue, Elmwood Park, NJ 07407",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7948c939-6384-58ff-b51e-499f79b00290",
+    "name": "Memorial Middle School",
+    "type": "School",
+    "address": "375 River Drive, Elmwood Park, NJ 07407-1622",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "431c81ab-0f90-5cc9-8157-4c88cc1775fb",
+    "name": "Memorial Senior High School",
+    "type": "School",
+    "address": "375 River Dr, Elmwood Park, NJ 07407-1622",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "87800213-8086-54f5-82e7-9b8f0ff52b54",
+    "name": "Sixteenth Avenue School",
+    "type": "School",
+    "address": "73 Sixteenth Avenue, Elmwood Park, NJ 07407-2925",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0482d1f6-5c2b-514f-8ba0-973582560a5a",
+    "name": "Emerson Jr Sr High",
+    "type": "School",
+    "address": "131 Main Street, Emerson, NJ 07630",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "67c3bd8d-20f8-5ff1-ba3a-b8df09f15cd7",
+    "name": "Memorial School",
+    "type": "School",
+    "address": "1 Haines Avenue, Emerson, NJ 07630",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "773f2c00-69ee-5d98-a2ad-e00792259a45",
+    "name": "Patrick M Villano School",
+    "type": "School",
+    "address": "175 Linwood Avenue, Emerson, NJ 07630-1847",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a1451c3a-df52-5e4e-9331-126bb4ca7014",
+    "name": "North Cliff School",
+    "type": "School",
+    "address": "700 Floyd St, Englewood Cliffs, NJ 07632",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fa39bf46-aa5e-591f-83ae-f2ecdcf047dc",
+    "name": "Upper School",
+    "type": "School",
+    "address": "143 Charlotte Pl, Englewood Cliffs, NJ 07632",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "af484d02-8b3f-572e-8d64-2b6269c8267a",
+    "name": "Donald A. Quarles Early Childhood Center",
+    "type": "School",
+    "address": "186 Davison Place, Englewood, NJ 07631",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5111116a-ed9a-5c94-a32f-6683031900d9",
+    "name": "Dr. John Grieco Elementary School",
+    "type": "School",
+    "address": "50 Durie Ave, Englewood, NJ 07631",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7dbd108a-947a-5eb7-9469-f2d4303a2cf9",
+    "name": "Dr. Leroy Mccloud Elementary School",
+    "type": "School",
+    "address": "325 Tenafly Rd, Englewood, NJ 07631-1742",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "168f2e6b-b1e5-55e5-ba34-9ace93659bf0",
+    "name": "Dwight Morrow High School/academies@englewood",
+    "type": "School",
+    "address": "274 Knickerbocker Rd, Englewood, NJ 07631-1534",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "19502b66-be00-57df-9475-39809aa55343",
+    "name": "Janis E. Dismus Middle School",
+    "type": "School",
+    "address": "325 Tryon Avenue, Englewood, NJ 07631",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a95dac54-2162-5df0-8ef3-f98746b2bc19",
+    "name": "Fair Lawn High School",
+    "type": "School",
+    "address": "14 00 Berdan Avenue, Fair Lawn, NJ 07410",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b3bbf55b-df51-5f91-9693-dc8c1966ff57",
+    "name": "Henry B. Milnes Elementary School",
+    "type": "School",
+    "address": "8-01 Phillip St, Fair Lawn, NJ 07410",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4847c8c7-0c54-5813-a3fd-75ade71d2dad",
+    "name": "John A. Forrest Elementary School",
+    "type": "School",
+    "address": "10 - 00 Hopper Ave, Fair Lawn, NJ 07410-1815",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "90409b37-c158-5890-b5fd-8641e1806d20",
+    "name": "Lyncrest Elementary School",
+    "type": "School",
+    "address": "9-04 Morlot Ave, Fair Lawn, NJ 07410",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5ebfd7f7-d356-5b9b-a9e3-2035f45f2070",
+    "name": "Memorial Middle School",
+    "type": "School",
+    "address": "12 - 00 First Street, Fair Lawn, NJ 07410",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3845c30f-1009-5bb9-b7d1-637c8445897d",
+    "name": "Radburn Elementary School",
+    "type": "School",
+    "address": "18-00 Radburn Rd, Fair Lawn, NJ 07410",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "15ff55e4-a4ec-5833-835d-0d0b5b10da1a",
+    "name": "Thomas Jefferson Middle School",
+    "type": "School",
+    "address": "35 - 01 Morlot Avenue, Fair Lawn, NJ 07410-4919",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "36ce348c-1517-54fc-ad74-c2b4059e801b",
+    "name": "Warren Point Elementary School",
+    "type": "School",
+    "address": "30-07 Broadway, Fair Lawn, NJ 07410-3918",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c703c289-abf3-5ebb-a652-41120d887876",
+    "name": "Westmoreland Elementary School",
+    "type": "School",
+    "address": "16-50 Parmelee Ave., Fair Lawn, NJ 07410",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "217bc5b0-b341-5497-a7ab-afa2c66a2739",
+    "name": "Lincoln School",
+    "type": "School",
+    "address": "140 Anderson Avenue, Fairview, NJ 07022",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fc5962c9-aab0-5836-a4a0-eeaf4ff82bba",
+    "name": "Lincoln School Annex",
+    "type": "School",
+    "address": "130 Hamilton Avenue, Fairview, NJ 07022",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3c1a7030-6c24-57b1-b929-15eee9c321b7",
+    "name": "Number Three School",
+    "type": "School",
+    "address": "403 Cliff Street, Fairview, NJ 07022",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cc718e0f-5622-5958-ae65-00de2f05ca97",
+    "name": "Fort Lee High School",
+    "type": "School",
+    "address": "3000 Lemoine Ave, Fort Lee, NJ 07024",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e071f469-c9e8-5bea-984d-58cc54be9bf6",
+    "name": "Lewis F. Cole Middle School",
+    "type": "School",
+    "address": "467 Stillwell Avenue, Fort Lee, NJ 07024-2140",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1d75bcba-072c-54f7-879b-65134274b2c9",
+    "name": "School No. 1",
+    "type": "School",
+    "address": "250 Hoym Street, Fort Lee, NJ 07024",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e9cb6eba-39e4-59ec-9720-b906595e4c77",
+    "name": "School No. 2",
+    "type": "School",
+    "address": "2047 Jones Road, Fort Lee, NJ 07024",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5af2811c-984b-52c4-a014-07e4ba07b21c",
+    "name": "School No. 3",
+    "type": "School",
+    "address": "2405 Second Street, Fort Lee, NJ 07024",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "77f74642-e3a3-505d-9798-21d6bb8d053c",
+    "name": "School No. 4",
+    "type": "School",
+    "address": "1193 Anderson Ave, Fort Lee, NJ 07024-1761",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3b61a492-0be4-5bbf-922f-78e6a92119df",
+    "name": "Colonial Road School",
+    "type": "School",
+    "address": "749 Colonial Road, Franklin Lakes, NJ 07417",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2446ddc7-6073-51c4-aa5d-5f08e4990b48",
+    "name": "Franklin Avenue Middle School",
+    "type": "School",
+    "address": "755 Franklin Avenue, Franklin Lakes, NJ 07417",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "56fde586-9983-59d3-a3b8-cf3d2c40772d",
+    "name": "High Mountain Road School",
+    "type": "School",
+    "address": "765 High Mountain Road, Franklin Lakes, NJ 07417-2914",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1c8972cb-a65f-54a0-bbc0-e9ac1fbc1515",
+    "name": "Woodside Avenue School",
+    "type": "School",
+    "address": "305 Woodside Avenue, Franklin Lakes, NJ 07417-2030",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d8c65ae5-4b51-5ab5-986b-be4a930da7fd",
+    "name": "Abraham Lincoln School #6",
+    "type": "School",
+    "address": "111 Palisade Ave, Garfield, NJ 07026",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c61ffedb-1e07-515e-a8be-ccfb294db913",
+    "name": "Christopher Columbus School #8",
+    "type": "School",
+    "address": "147 Cedar Street, Garfield, NJ 07026",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "56ef04a3-37df-5e67-b21f-a029789991ad",
+    "name": "Garfield Early Childhood Learning Center",
+    "type": "School",
+    "address": "241 Ray Street, Garfield, NJ 07026",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a6789523-6907-5be3-bfbc-b95aa34f3c11",
+    "name": "Garfield High School",
+    "type": "School",
+    "address": "500 Palisade Ave, Garfield, NJ 07026-2637",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "90f81c5b-746c-551f-ac5a-2aed6160971a",
+    "name": "Garfield Middle School",
+    "type": "School",
+    "address": "175 Lanza Ave, Garfield, NJ 07026",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5434066f-b35e-5861-816d-5cff365728f6",
+    "name": "Garfield Public Preschool 3 At Headstart",
+    "type": "School",
+    "address": "541 Midland Ave, Garfield, NJ 07026",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a62a1471-a416-5536-9a8e-6e98838fb88d",
+    "name": "Garfield Public Preschool Annex",
+    "type": "School",
+    "address": "464 Outwater Lane, Garfield, NJ 07026",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "52043d78-76de-5e28-a0aa-2f3c1ef0ad76",
+    "name": "James Madison School #10",
+    "type": "School",
+    "address": "55 Lincoln Place, Garfield, NJ 07026",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b1f9c24e-15fe-528b-863a-990d5ce4719c",
+    "name": "Roosevelt School #7",
+    "type": "School",
+    "address": "225 Lincoln Pl, Garfield, NJ 07026",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4f82ea5d-8e70-525c-8602-b891e52f57fc",
+    "name": "Thomas Jefferson School #9",
+    "type": "School",
+    "address": "62 Alpine Street, Garfield, NJ 07026",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3bb92977-4f57-56e2-aec9-415a11ec7216",
+    "name": "Washington Irving School #4",
+    "type": "School",
+    "address": "12 Madonna Place, Garfield, NJ 07026",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f2aba956-0a4e-571f-95d0-f547aebc674f",
+    "name": "Alexander Hamilton School",
+    "type": "School",
+    "address": "380 Harristown Road, Glen Rock, NJ 07452",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9455a8be-8d88-50fb-aeca-19088f5fd73b",
+    "name": "Central School",
+    "type": "School",
+    "address": "600 S Maple Ave, Glen Rock, NJ 07452-1821",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "06c6fca0-2124-5f3a-b22f-e3116c1639d7",
+    "name": "Clara E Coleman School",
+    "type": "School",
+    "address": "100 Pinelynn Rd, Glen Rock, NJ 07452-3025",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fc4d9a2b-6773-5707-b209-5de46b1375b0",
+    "name": "Glen Rock High School",
+    "type": "School",
+    "address": "400 Hamilton Avenue, Glen Rock, NJ 07452-2328",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ead89494-80f1-5e33-85ad-b6d162af26b7",
+    "name": "Glen Rock Middle School",
+    "type": "School",
+    "address": "600 Harristown Road, Glen Rock, NJ 07452",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "742dc614-e3ca-577a-9b6a-40b074bb4833",
+    "name": "Richard E Byrd School",
+    "type": "School",
+    "address": "640 Doremus Ave, Glen Rock, NJ 07452-2033",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1bee5445-0723-562e-8a6f-8b779a9d8e46",
+    "name": "Fairmount",
+    "type": "School",
+    "address": "105 Grand Avenue, Hackensack, NJ 07601",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "589197aa-440b-5730-af1b-b38303ff59ac",
+    "name": "Fanny Meyer Hillers",
+    "type": "School",
+    "address": "56 Longview Avenue, Hackensack, NJ 07601",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b7f5bfe9-5c44-5e60-9b1b-4d92b03c4629",
+    "name": "Hackensack High School",
+    "type": "School",
+    "address": "First & Beech Streets, Hackensack, NJ 07601",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "754fe0c3-7bd7-5026-afda-55ffde32d144",
+    "name": "Hackensack Middle School",
+    "type": "School",
+    "address": "360 Union Street, Hackensack, NJ 07601",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b0054ff8-7d70-5223-9ead-ed643cb50364",
+    "name": "Jackson Avenue",
+    "type": "School",
+    "address": "421 Jackson Ave, Hackensack, NJ 07601",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7120a95c-42a1-5a5a-8fc5-f954aa583324",
+    "name": "Nellie K. Parker",
+    "type": "School",
+    "address": "261 Maple Hill Dr, Hackensack, NJ 07601",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f255c529-01d7-589e-a340-df468d9d730f",
+    "name": "Harrington Park School",
+    "type": "School",
+    "address": "191 Harriot Ave, Harrington Park, NJ 07640-1401",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0eddb070-c4fd-5af6-819e-2a1511b6f4bb",
+    "name": "Euclid Elementary School",
+    "type": "School",
+    "address": "1 Burton Avenue, Hasbrouck Heights, NJ 07604",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "73ddae9f-aa96-5e5d-8931-bbc88bcd830a",
+    "name": "Hasbrouck Heights High School",
+    "type": "School",
+    "address": "365 Boulevard, Hasbrouck Heights, NJ 07604-1402",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0c41bdd1-a62e-5fe5-b5fc-57f515cb6848",
+    "name": "Hasbrouck Heights Middle School",
+    "type": "School",
+    "address": "365 Boulevard, Hasbrouck Heights, NJ 07604-1402",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f2351c13-7c81-52e0-8b5c-812f032ebc87",
+    "name": "Lincoln Elementary School",
+    "type": "School",
+    "address": "Burton & Paterson Aves, Hasbrouck Heights, NJ 07604",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a56ed9b8-5fb7-5d73-bc50-5eb833e7cd78",
+    "name": "Haworth Public School",
+    "type": "School",
+    "address": "205 Valley Rd, Haworth, NJ 07641-1218",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0a846301-9aaa-55d4-aa40-5e4ecf118aea",
+    "name": "Ann Blanche Smith",
+    "type": "School",
+    "address": "1000 Hillsdale Ave, Hillsdale, NJ 07642",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fd63b588-0f7c-52bb-891f-26648de191fe",
+    "name": "George G White",
+    "type": "School",
+    "address": "120 Magnolia Ave, Hillsdale, NJ 07642-2131",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1ad41f0d-9d46-5e51-81d6-47aceddac06e",
+    "name": "Meadowbrook",
+    "type": "School",
+    "address": "50 Piermont Ave, Hillsdale, NJ 07642",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6625538b-ff7c-516d-a48e-8dda26e1c051",
+    "name": "Ho - Ho - Kus Public School",
+    "type": "School",
+    "address": "70 Lloyd Road, Ho Ho Kus, NJ 07423",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c61d4665-5a25-58ab-8181-a31fb9726e3d",
+    "name": "Anna C. Scott Elementary School",
+    "type": "School",
+    "address": "281 Broad Avenue, Leonia, NJ 07605",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ce692fad-2f3d-57af-8611-169f8a880e27",
+    "name": "Leonia High School",
+    "type": "School",
+    "address": "100 Christie Heights Street, Leonia, NJ 07605-1525",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f565c609-4f5b-5e58-8606-09f68f06ca95",
+    "name": "Leonia Middle School",
+    "type": "School",
+    "address": "500 Broad Avenue, Leonia, NJ 07605",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b17c1ffc-8e1d-5392-af92-2c3feda90097",
+    "name": "Memorial Middle School",
+    "type": "School",
+    "address": "130 Liberty St, Little Ferry, NJ 07643-1756",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fc45c1fc-4fb3-515d-b83d-27d315a76e1d",
+    "name": "Washington Elementary School",
+    "type": "School",
+    "address": "130 A Liberty St, Little Ferry, NJ 07643-1710",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6bf75964-07e8-52ad-8d13-5a28e0aefb79",
+    "name": "Columbus School",
+    "type": "School",
+    "address": "370 Westervelt Place, Lodi, NJ 07644",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9bf4676a-8e68-5fb2-9973-bf46d061370b",
+    "name": "Hilltop School",
+    "type": "School",
+    "address": "200 Kipp Avenue, Lodi, NJ 07644",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "486ab0d2-1f08-5c27-a2f8-341eb362f2d9",
+    "name": "Lodi High School",
+    "type": "School",
+    "address": "99 Putnam Street, Lodi, NJ 07644",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5093fb59-be5b-5715-bcf2-1d63b2aecd9f",
+    "name": "Roosevelt School",
+    "type": "School",
+    "address": "435 Passaic Avenue, Lodi, NJ 07644",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d6058772-5f08-5605-a1d3-f60e9b67f7a3",
+    "name": "Thomas Jefferson Middle School",
+    "type": "School",
+    "address": "75 First Street, Lodi, NJ 07644",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0b4070a8-5277-57ac-b4df-21fb62d14349",
+    "name": "Washington School",
+    "type": "School",
+    "address": "310 N Main Street, Lodi, NJ 07644",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "72bd3b5b-a441-5bb4-8b53-70f75e1fe9e6",
+    "name": "Wilson School",
+    "type": "School",
+    "address": "80 Union Street, Lodi, NJ 07644",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4ba5da8c-db57-5ec7-ba96-8a99e57e6b31",
+    "name": "Columbus School",
+    "type": "School",
+    "address": "640 Lake Ave, Lyndhurst, NJ 07071-1207",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ebe980dc-52d2-5d80-a326-ba42f98a2085",
+    "name": "Franklin School",
+    "type": "School",
+    "address": "360 Stuyvesant Ave, Lyndhurst, NJ 07071-2122",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cff200d6-4705-5de3-812d-9ab44b8d81b2",
+    "name": "Jefferson School",
+    "type": "School",
+    "address": "336 Lake Ave., Lyndhurst, NJ 07071-1416",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f00b95ab-cc5e-5e81-a3bb-4cf0633d4b2c",
+    "name": "Lyndhurst High School",
+    "type": "School",
+    "address": "400 Weart Avenue, Lyndhurst, NJ 07071",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b1f7665a-392b-5e7e-92d2-f08d6d2ab5f7",
+    "name": "Lyndhurst Middle School",
+    "type": "School",
+    "address": "625 Page Avenue, Lyndhurst, NJ 07071",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2f3cda2f-c9b0-52f0-8948-ef66ee4f878b",
+    "name": "Roosevelt School",
+    "type": "School",
+    "address": "530 Stuyvesant Ave, Lyndhurst, NJ 07071-2628",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "823e7a33-e903-50b1-885d-592667c8e3c2",
+    "name": "Washington School",
+    "type": "School",
+    "address": "709 Ridge Rd, Lyndhurst, NJ 07071-3215",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a9a9bae6-0a8a-5c77-9ca5-da7258dfcae0",
+    "name": "Betsy Ross Elementary",
+    "type": "School",
+    "address": "20 Malcolm Rd, Mahwah, NJ 07430-1822",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2b29f9c2-ae85-5f32-b7ff-54652cefaac6",
+    "name": "George Washington School",
+    "type": "School",
+    "address": "39 Fardale Avenue, Mahwah, NJ 07430",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "357535e3-8c20-5c8f-9a66-f02b9af0fbc9",
+    "name": "Joyce Kilmer School",
+    "type": "School",
+    "address": "80 Ridge Road, Mahwah, NJ 07430",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "62ccf07b-5033-570a-804e-3e6949fbee05",
+    "name": "Lenape Meadows",
+    "type": "School",
+    "address": "160 Ridge Road, Mahwah, NJ 07430",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "55149320-a0f4-5952-9734-ae517bfb61ba",
+    "name": "Mahwah High School",
+    "type": "School",
+    "address": "50 Ridge Road, Mahwah, NJ 07430",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "70a95a74-802e-5d52-8de9-fd0091197d5b",
+    "name": "Ramapo Ridge",
+    "type": "School",
+    "address": "150 Ridge Road, Mahwah, NJ 07430",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "aad6b00f-ac9a-5807-a7fd-2e56dda5f50a",
+    "name": "Maywood Avenue School",
+    "type": "School",
+    "address": "452 Maywood Ave, Maywood, NJ 07607-1969",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6272f88b-bd25-53b9-8602-d4e729caf8bb",
+    "name": "Memorial School",
+    "type": "School",
+    "address": "764 Grant Ave, Maywood, NJ 07607-1621",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0a3e436f-0ab8-5d56-8483-74f7b8fd542f",
+    "name": "Godwin Elementary School",
+    "type": "School",
+    "address": "41 E. Center Street, Midland Park, NJ 07432",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "69288791-4f6b-5cf0-834b-06c40238172a",
+    "name": "Highland Elementary School",
+    "type": "School",
+    "address": "31 Highland Ave, Midland Park, NJ 07432-1803",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "378273bd-88df-521b-833d-135e0e19115c",
+    "name": "Midland Park Jr./sr. High School",
+    "type": "School",
+    "address": "250 Prospect St, Midland Park, NJ 07432",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "87596b8a-4449-5074-b2ea-f98a9ef23153",
+    "name": "Fieldstone Middle School",
+    "type": "School",
+    "address": "47 Spring Valley Road, Montvale, NJ 07645",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "15aba985-9b17-5568-b085-b62375488cbb",
+    "name": "Memorial Elementary School",
+    "type": "School",
+    "address": "53 Grand Avenue West, Montvale, NJ 07645",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4afe3d3f-b244-56f0-86b4-8a75dda02f3e",
+    "name": "Robert L. Craig School",
+    "type": "School",
+    "address": "20 West Park Street, Moonachie, NJ 07074-1115",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "73564b4e-2510-5a79-ae60-b1405dda1574",
+    "name": "Berkley Street School",
+    "type": "School",
+    "address": "812 Berkley Street, New Milford, NJ 07646",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e130dd8a-729c-5594-bc8a-c5d2631524bc",
+    "name": "Bertrand F. Gibbs Elementary School",
+    "type": "School",
+    "address": "195 Sutton Place, New Milford, NJ 07646",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0df4cf8c-89f8-509a-8e7f-f329499d85b2",
+    "name": "David E. Owens Middle School",
+    "type": "School",
+    "address": "470 Marion Avenue, New Milford, NJ 07646",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f4776748-1cb0-565c-ae5b-1d11c3e96b7b",
+    "name": "New Milford High School",
+    "type": "School",
+    "address": "330 River Road, New Milford, NJ 07646",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "edd19bdc-7d17-5226-8320-c2fdd3cec915",
+    "name": "Franklin D Roosevelt Elementary School",
+    "type": "School",
+    "address": "50 Webster Street, North Arlington, NJ 07031",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a878a4e4-78aa-5b34-95d6-cf6a4c8c06a5",
+    "name": "George Washington Elementary School",
+    "type": "School",
+    "address": "175 Albert Street, North Arlington, NJ 07031",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8a6699f1-75fc-58a2-8157-a7b57d824778",
+    "name": "North Arlington High School",
+    "type": "School",
+    "address": "222 Ridge Road, North Arlington, NJ 07031",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "16535c1e-dfa1-5397-bb3d-ec3335e141f4",
+    "name": "Susan B. Anthony Elementary School",
+    "type": "School",
+    "address": "45 Beech Street, North Arlington, NJ 07031",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9bc3ffe6-41eb-5dd2-b042-bcf47c4e1dfd",
+    "name": "Thomas Jefferson Elementary School",
+    "type": "School",
+    "address": "100 Prospect Avenue, North Arlington, NJ 07031",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ce4bb3da-0058-5a36-a7a8-5f79ccd6d5f8",
+    "name": "Veterans Middle School",
+    "type": "School",
+    "address": "191 Rutherford Place, North Arlington, NJ 07031",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "df156ccc-cce5-5952-9f3d-959d48dbcafa",
+    "name": "Northern Highlands Regional High School",
+    "type": "School",
+    "address": "298 Hillside Ave, Allendale, NJ 07401-1447",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4613b4b5-b462-5a13-bca3-277665f9b929",
+    "name": "Northern Valley Central",
+    "type": "School",
+    "address": "200 Summit Street, Norwood, NJ 07648",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "26de71a2-bd55-571c-9c79-c554c0bc1854",
+    "name": "Northern Valley Regional High School At Demarest",
+    "type": "School",
+    "address": "150 Knickerbocker Road, Demarest, NJ 07627-1026",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d9fef289-9d3a-557d-b826-01d9421f444a",
+    "name": "Northern Valley Regional High School At Old Tappan",
+    "type": "School",
+    "address": "140 Central Avenue, Old Tappan, NJ 07675",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9ac050cf-cad0-5cbe-842b-6730b4250534",
+    "name": "Northvale Public School",
+    "type": "School",
+    "address": "441 Tappan Road, Northvale, NJ 07647",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5a90d490-8ac6-5142-b4b2-07538f8b7d47",
+    "name": "Norwood Public School",
+    "type": "School",
+    "address": "177 Summit St, Norwood, NJ 07648-1812",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "521ae44a-9c55-5ea0-b2a2-a47e299c9dde",
+    "name": "Dogwood Hill Elementary School",
+    "type": "School",
+    "address": "25 Dogwood Dr, Oakland, NJ 07436-2659",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4c17988f-5499-5a7b-b082-09d9c0a4ed8f",
+    "name": "Heights Elementary School",
+    "type": "School",
+    "address": "114 Seminole Ave, Oakland, NJ 07436-2924",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c5881e12-cfe4-5120-a5c7-f7b031555981",
+    "name": "Manito Elementary School",
+    "type": "School",
+    "address": "111 Manito Ave, Oakland, NJ 07436-4012",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "38e38c07-5c11-5c9f-84e1-f285e2336b9d",
+    "name": "Tops Early Learning Childhood Learning",
+    "type": "School",
+    "address": "117C Franklin Avenue, Oakland, NJ 07436-2924",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fce3da62-c523-52d7-9ecb-26d5bd9c8f70",
+    "name": "Valley Middle School",
+    "type": "School",
+    "address": "71 Oak St, Oakland, NJ 07436-1944",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "808dd599-4556-5d6e-83f1-cb910a788537",
+    "name": "Charles Dewolf Middle School",
+    "type": "School",
+    "address": "275 Old Tappan Rd, Old Tappan, NJ 07675-7047",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a0d9cf08-55e0-5d96-872f-72ef19835e18",
+    "name": "T. Baldwin Demarest Elementary School",
+    "type": "School",
+    "address": "1 School St, Old Tappan, NJ 07675",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a34b4b14-c00a-574a-aea4-6f30fb5fd0c6",
+    "name": "Oradell Public School",
+    "type": "School",
+    "address": "350 Propect Avenue, Oradell, NJ 07649",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "42a4e9ca-4b8d-5ebb-b5c1-7fc0f070afc7",
+    "name": "Charles R Smith Early Chilhood Center",
+    "type": "School",
+    "address": "270 First Street, Palisades Park, NJ 07650",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fc432232-1837-5dc7-b90e-c445b78341c7",
+    "name": "Lindbergh Elementary School",
+    "type": "School",
+    "address": "401 Glen Ave, Palisades Park, NJ 07650",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a670bc6f-47d6-567d-b548-02bf419e382d",
+    "name": "Palisades Park Jr - Sr High School",
+    "type": "School",
+    "address": "Veterans Plaza, Palisades Park, NJ 07650",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d86dca57-8201-53c5-91cb-09521093830a",
+    "name": "East Brook Middle School",
+    "type": "School",
+    "address": "190 Spring Valley Road, Paramus, NJ 07652-5342",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d6f4ad52-b2cd-580e-b166-599b21b4d588",
+    "name": "Memorial Elementary School",
+    "type": "School",
+    "address": "East 203 Midland Avenue, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "42bd3515-62dc-5b7c-8049-14892576df44",
+    "name": "Midland Elementary School",
+    "type": "School",
+    "address": "241 West Midland Avenue, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1c7720d7-eb9c-5402-9976-7bc56479ce96",
+    "name": "Paramus High School",
+    "type": "School",
+    "address": "99 East Century Road, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "68488ef5-1977-5482-b168-e41b463d8d49",
+    "name": "Parkway Elementary School",
+    "type": "School",
+    "address": "145 E. Ridgewood Avenue, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "258b7e79-86fe-50f3-8cae-e6810fb7e1af",
+    "name": "Ridge Ranch Elementary School",
+    "type": "School",
+    "address": "345 Lockwood Drive, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a58da07b-51ce-5579-8972-1d51c56b8034",
+    "name": "Stony Lane Elementary School",
+    "type": "School",
+    "address": "W 110 Ridgewood Avenue, Paramus, NJ 07652-4131",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "33bf2c0c-3a99-5dab-8763-31f1ad28654a",
+    "name": "West Brook Middle School",
+    "type": "School",
+    "address": "560 Roosevelt Boulevard, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "84efc2c4-efd9-548b-9af0-5383e843e3bd",
+    "name": "East Brook Elementary School",
+    "type": "School",
+    "address": "167 Sibbald Dr, Park Ridge, NJ 07656",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4cab11a3-67af-5950-949c-bfa4e6d958bc",
+    "name": "Park Ridge High School",
+    "type": "School",
+    "address": "2 Park Ave, Park Ridge, NJ 07656-1240",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a469fcf5-3207-5b93-98c2-727272a00856",
+    "name": "West Ridge Elementary School",
+    "type": "School",
+    "address": "18 South First Street, Park Ridge, NJ 07656",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c3db2d8c-1c0b-56fe-9b93-ac3c2c097f09",
+    "name": "Pascack Hills High School",
+    "type": "School",
+    "address": "225 West Grand Avenue, Montvale, NJ 07645",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "63b68295-c110-5772-b5cb-b466a019435f",
+    "name": "Pascack Valley High School",
+    "type": "School",
+    "address": "200 Piermont Avenue, Hillsdale, NJ 07642",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1af675b7-f5e9-521d-98c1-49483d149858",
+    "name": "Indian Hills High School",
+    "type": "School",
+    "address": "97 Yawpo Ave, Oakland, NJ 07436-2740",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "422784bd-4ae9-59f2-8ec6-5e752818f6ea",
+    "name": "Ramapo High School",
+    "type": "School",
+    "address": "331 George Street, Franklin Lakes, NJ 07417",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "35626cb3-4d22-501d-8077-262721e0b65a",
+    "name": "Eric S. Smith Middle School",
+    "type": "School",
+    "address": "2 Monroe Street, Ramsey, NJ 07446-1411",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4d7bdd38-d59e-5939-b3ca-0c1504d6353d",
+    "name": "John Y Dater Elementary School",
+    "type": "School",
+    "address": "35 School Street, Ramsey, NJ 07446-1833",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c614571b-d51b-5acd-8d2c-6fd36d677d94",
+    "name": "Mary A. Hubbard Elementary School",
+    "type": "School",
+    "address": "10 Hubbard Lane, Ramsey, NJ 07446-2202",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2a69aef0-394b-51e9-aa68-54c9de75d7f8",
+    "name": "Ramsey High School",
+    "type": "School",
+    "address": "256 E Main Street, Ramsey, NJ 07446-1927",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "be4b6736-5697-5bd2-9a10-df100a2341fe",
+    "name": "Wesley D Tisdale Elementary School",
+    "type": "School",
+    "address": "200 Island Avenue, Ramsey, NJ 07446-1566",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4686e667-bbbf-5a57-9abe-e25e61c915ee",
+    "name": "Grant Elementary School",
+    "type": "School",
+    "address": "104 Henry St, Ridgefield Park, NJ 07660-2209",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6ee4360e-e80d-5587-8e57-de4368504697",
+    "name": "Lincoln Elementary School",
+    "type": "School",
+    "address": "712 Lincoln Avenue, Ridgefield Park, NJ 07660",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "12493c36-2e3d-5814-99f7-7dda6b827f7d",
+    "name": "Ridgefield Park Jr Sr High School",
+    "type": "School",
+    "address": "1 Ozzie Nelson Drive, Ridgefield Park, NJ 07660",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a4f48a03-aa27-57e8-b69d-79d86b1ea442",
+    "name": "Roosevelt Elementary School",
+    "type": "School",
+    "address": "508 Teaneck Road, Ridgefield Park, NJ 07660",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "105226bd-1414-57f9-84e1-30f327818828",
+    "name": "Bergen Boulevard School",
+    "type": "School",
+    "address": "635 Bergen Blvd, Ridgefield, NJ 07657",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "31be8e02-1c33-5397-b16a-b9a249a9b9f6",
+    "name": "Ridgefield Memorial High School",
+    "type": "School",
+    "address": "555 Walnut St, Ridgefield, NJ 07657",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a0dfb903-2de5-507c-aa37-3e6ee3d91e5b",
+    "name": "Shaler Academy",
+    "type": "School",
+    "address": "455 Shaler Boulevard, Ridgefield, NJ 07657",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "eb300e8f-f88f-5d8b-9d97-81f69cfd5b6a",
+    "name": "Slocum Skewes School",
+    "type": "School",
+    "address": "650 Prospect Ave, Ridgefield, NJ 07657",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c3ec9a0b-0477-5605-a6d4-66b96c36a1fa",
+    "name": "Benjamin Franklin Middle School",
+    "type": "School",
+    "address": "335 North Van Dien Ave, Ridgewood, NJ 07451",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "623506c3-3c14-5059-9610-cdaeffd16e82",
+    "name": "George Washington Middle School",
+    "type": "School",
+    "address": "155 Washington Pl, Ridgewood, NJ 07451",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "04ead15c-a1c5-5a23-b61e-c2047613efaa",
+    "name": "Glen School",
+    "type": "School",
+    "address": "865 East Glen Avenue, Ridgewood, NJ 07451",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f061ed8c-19d8-50d6-8d8f-22c3a8dfd255",
+    "name": "Hawes Elementary School",
+    "type": "School",
+    "address": "531 Stevens Avenue, Ridgewood, NJ 07451",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a7b7d566-969f-5b59-a7d3-c75124e9f875",
+    "name": "Orchard Elementary School",
+    "type": "School",
+    "address": "230 Demarest St, Ridgewood, NJ 07451",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "03a5e1a6-2919-5542-87e0-5573aed49aa9",
+    "name": "Ridge Elementary School",
+    "type": "School",
+    "address": "325 West Ridgewood Ave, Ridgewood, NJ 07450-3624",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "835509b2-9b92-5e38-b129-c65839c44bc7",
+    "name": "Ridgewood High School",
+    "type": "School",
+    "address": "627 East Ridgewood Ave, Ridgewood, NJ 07451",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "522d8b75-f176-59fa-b2dc-eb659cabe99e",
+    "name": "Somerville Elementary School",
+    "type": "School",
+    "address": "45 South Pleasant Ave, Ridgewood, NJ 07451",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b38b7981-581b-5885-9c49-7dfa4a7fe4ba",
+    "name": "Travell Elementary School",
+    "type": "School",
+    "address": "340 Bogert Ave, Ridgewood, NJ 07451",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5b954667-199d-5d82-8d4b-41abdf836bdc",
+    "name": "Willard Elementary School",
+    "type": "School",
+    "address": "601 Morningside Rd, Ridgewood, NJ 07451",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7a043fe3-e227-5b47-872c-c335d07d7cf6",
+    "name": "River Dell Middle School",
+    "type": "School",
+    "address": "230 Woodland Avenue, River Edge, NJ 07661",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c9ca37b6-b596-5c18-b764-b79d2d79fa6e",
+    "name": "River Dell Regional High School",
+    "type": "School",
+    "address": "55 Pyle Street, Oradell, NJ 07649",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6ef32cc3-243e-5437-a22d-6a8a43083957",
+    "name": "Cherry Hill School",
+    "type": "School",
+    "address": "410 Bogert Rd, River Edge, NJ 07661-1813",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "de5b56d4-725e-5ae9-a05a-5278ff55990f",
+    "name": "Roosevelt School",
+    "type": "School",
+    "address": "711 Summit Ave, River Edge, NJ 07661-2201",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c5c569fe-eda2-5405-9094-661932f38b5d",
+    "name": "Holdrum Middle School",
+    "type": "School",
+    "address": "393 Rivervale Road, River Vale, NJ 07675",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3de875a6-6dc5-5a98-be62-9c56ef8cbf8a",
+    "name": "Roberge Elementary School",
+    "type": "School",
+    "address": "617 Westwood Ave, River Vale, NJ 07675-6241",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "217d3c4d-4639-582c-9d8c-c40a51bf7e33",
+    "name": "Woodside Elementary School",
+    "type": "School",
+    "address": "801 Rivervale Rd, River Vale, NJ 07675-6148",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7776c07e-75a5-58f9-97b3-d5e6b30dff91",
+    "name": "Midland School #1",
+    "type": "School",
+    "address": "300 Rochelle Ave, Rochelle Park, NJ 07662-3915",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1aa3d43f-e1c9-5e01-8203-0b079f9aea03",
+    "name": "Lincoln School",
+    "type": "School",
+    "address": "414 Montross Avenue, Rutherford, NJ 07070-2218",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bd6646b5-4602-5742-9d80-c06d57a90fa9",
+    "name": "Pierrepont School",
+    "type": "School",
+    "address": "70 E Pierrepont Ave, Rutherford, NJ 07070-2333",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8f60b34e-7ba6-5267-8017-33e7ed24c5e6",
+    "name": "Rutherford High School",
+    "type": "School",
+    "address": "56 Elliott Pl, Rutherford, NJ 07070-1965",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1321921a-fd75-5f80-9a0d-970dee268300",
+    "name": "Union School",
+    "type": "School",
+    "address": "359 Union Ave, Rutherford, NJ 07070-1519",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c5d6b18e-ce75-5831-b4d5-5e987fff1d9d",
+    "name": "Washington School",
+    "type": "School",
+    "address": "89 Wood St, Rutherford, NJ 07070-1571",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3f1a77c2-2f9d-52ed-a5b4-e0680af13577",
+    "name": "Franklin School",
+    "type": "School",
+    "address": "95 Caldwell Avenue, Saddle Brook, NJ 07663",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6f3ccbb1-c12f-59ad-aca2-9007da50f00f",
+    "name": "Helen I. Smith School",
+    "type": "School",
+    "address": "30 Cambridge Avenue, Saddle Brook, NJ 07663",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3caace92-191a-5e92-b151-c8f76970833c",
+    "name": "Saddle Brook Middle/high School",
+    "type": "School",
+    "address": "355 Mayhill Street, Saddle Brook, NJ 07663",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9695bc57-aac3-5b45-8a0d-e6fa2b5f34b3",
+    "name": "Salome H. Long Memorial School",
+    "type": "School",
+    "address": "260 Floral Lane, Saddle Brook, NJ 07663",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3e6dd058-16e0-5b3e-81f9-db179c5e36b8",
+    "name": "Washington School",
+    "type": "School",
+    "address": "225 Market Street, Saddle Brook, NJ 07663",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8ddea25a-b67c-514e-9103-daaea383476a",
+    "name": "Wandell School",
+    "type": "School",
+    "address": "97 E Allendale Rd, Saddle River, NJ 07458-3023",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8c2caa9e-261b-55e0-8f04-149666d652cb",
+    "name": "Lodi Ms Hs",
+    "type": "School",
+    "address": "123 Union St, Lodi, NJ 07644",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "034466da-f31e-5d1f-8648-b34ae8170be1",
+    "name": "Maywood Campus",
+    "type": "School",
+    "address": "404 Maywood Avenue, Maywood, NJ 07607",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cdeacb11-123e-52e3-9f1b-eb14ce3e8a8f",
+    "name": "Moonachie Campus",
+    "type": "School",
+    "address": "Robert L. Craig School, 20 West Park Street, Moonachie, NJ 07074",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5f3fa913-a003-5980-8d5f-bf036b75f4a6",
+    "name": "Memorial School",
+    "type": "School",
+    "address": "Dyer Avenue, Memorial School, South Hackensack, NJ 07606-1537",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ace1b591-3a4f-537a-affe-b57e9d609d3f",
+    "name": "Benjamin Franklin Middle School",
+    "type": "School",
+    "address": "1315 Taft Road, Teaneck, NJ 07666",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d78b0856-6d0c-52ff-b90c-e9b93b704699",
+    "name": "James Russell Lowell Elementary School",
+    "type": "School",
+    "address": "1025 Lincoln Place, Teaneck, NJ 07666",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d3638d43-fe8e-5219-ad12-3ead3d48a415",
+    "name": "John Greenleaf Whittier Elementary School",
+    "type": "School",
+    "address": "491 W Englewood Avenue, Teaneck, NJ 07666",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "00c952d7-d941-59ba-a02d-de3a9ede4e32",
+    "name": "Nathaniel Hawthorne Elementary School",
+    "type": "School",
+    "address": "201 Fycke Lane, Teaneck, NJ 07666",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9a7e5889-86ff-55a8-ac25-bec30e3e9860",
+    "name": "Teaneck High School",
+    "type": "School",
+    "address": "100 Elizabeth Ave, Teaneck, NJ 07666-4713",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "37d74655-706a-5ee7-af0f-f605a6d0a145",
+    "name": "Theodora Smiley Lacey Elementary School",
+    "type": "School",
+    "address": "One Merrison Street, Teaneck, NJ 07666",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d0197998-97e7-5709-9b47-e42ed5458622",
+    "name": "Thomas Jefferson Middle School",
+    "type": "School",
+    "address": "655 Teaneck Rd, Teaneck, NJ 07666-4249",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e6b74e36-e30a-523a-bf4e-a4ed27044fd1",
+    "name": "William Cullen Bryant School",
+    "type": "School",
+    "address": "1 Tryon Avenue, Teaneck, NJ 07666",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "73a1ee52-b503-5361-ad8f-cdbb0f02ecf4",
+    "name": "J Spencer Smith School",
+    "type": "School",
+    "address": "101 Downey Drive, Tenafly, NJ 07670",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "05e55ffe-ced0-596d-b0fd-f4b05c5e3c4d",
+    "name": "Malcolm S Mackay School",
+    "type": "School",
+    "address": "111 Jefferson Avenue, Tenafly, NJ 07670",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "202bd11e-9d71-5b46-8d6f-09074a6ea3cb",
+    "name": "Ralph S Maugham School",
+    "type": "School",
+    "address": "111 Magnolia Avenue, Tenafly, NJ 07670",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a56b762c-8065-5cdc-8e1e-f8057cd88eb6",
+    "name": "Tenafly High School",
+    "type": "School",
+    "address": "19 Columbus Drive, Tenafly, NJ 07670",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1d0207bd-33d5-5f5b-a7d6-5d9e6fcbfe2d",
+    "name": "Tenafly Middle School",
+    "type": "School",
+    "address": "10 Sunset Lane, Tenafly, NJ 07670",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7e4c7941-8c02-5ecd-8cec-db65aac43c30",
+    "name": "Walter Stillman School",
+    "type": "School",
+    "address": "75 Tenafly Road, Tenafly, NJ 07670",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "978506e0-6b21-598d-8971-82240655d7ba",
+    "name": "Edith A. Bogert Elementary School",
+    "type": "School",
+    "address": "391 W Saddle River Rd, Upper Saddle River, NJ 07458",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7676435d-3750-5a73-8ddf-104690c13aef",
+    "name": "Emil A. Cavallini Middle School",
+    "type": "School",
+    "address": "392 W Saddle River Rd, Upper Saddle River, NJ 07458",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "878da18b-366d-5529-b6f3-e8e2d352b696",
+    "name": "Robert D Reynolds Primary School",
+    "type": "School",
+    "address": "391 W Saddle River Rd, Upper Saddle River, NJ 07458",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e83811e9-1743-5aa2-a2f2-e426159915f8",
+    "name": "Crescent Elementary School",
+    "type": "School",
+    "address": "165 Crescent Avenue, Waldwick, NJ 07463",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "462cd945-42d2-595b-8eb6-828e908ebcc2",
+    "name": "Julia A Traphagen School",
+    "type": "School",
+    "address": "153 Summit Avenue, Waldwick, NJ 07463",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f10615b8-e1f4-5cee-b9a0-d76437a75313",
+    "name": "Waldwick High School",
+    "type": "School",
+    "address": "155 Wyckoff Avenue, Waldwick, NJ 07463",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "efa1aff8-8aa1-5c06-8e5e-e1d147978ca1",
+    "name": "Waldwick Middle School",
+    "type": "School",
+    "address": "155 Wyckoff Avenue, Waldwick, NJ 07463",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "dd26ef21-2e68-5f96-820c-25f879268212",
+    "name": "Frank W. Gavlak Elementary School",
+    "type": "School",
+    "address": "106 King St, Wallington, NJ 07057",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1d760a5e-abbb-5ee0-a902-7e22d200b11a",
+    "name": "Jefferson (annex) Elementary School",
+    "type": "School",
+    "address": "6 Bond Street, Wallington, NJ 07057",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5b1dd4c8-774a-5930-aa1a-1f4a30fa0809",
+    "name": "Wallington Junior Senior High School",
+    "type": "School",
+    "address": "234 Main Ave, Wallington, NJ 07057-1523",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2598db71-d6a3-553c-83f0-b61f3e8407c1",
+    "name": "Berkeley Elementary",
+    "type": "School",
+    "address": "47 Berkeley Ave, Westwood, NJ 07675-2401",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e37ce990-8372-5be0-aa65-4623a2be0b8f",
+    "name": "Brookside Elementary School",
+    "type": "School",
+    "address": "20 Lake Drive, Westwood, NJ 07675-2935",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a6e88b74-6dc8-5cf6-abcc-3c9d22471316",
+    "name": "Jessie F. George Elementary",
+    "type": "School",
+    "address": "1 Palm Street, Township Of Washington, NJ 07676",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f818e692-2188-5cef-b471-9fbb6f0c05f9",
+    "name": "Washington Elementary School",
+    "type": "School",
+    "address": "600 School Street, Township Of Washington, NJ 07676",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d6d98c69-44b9-51c0-952d-0b4e1e01de77",
+    "name": "Westwood Regional High School",
+    "type": "School",
+    "address": "701 Ridgewood Road, Township Of Washington, NJ 07676",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f8b6ff2e-7844-54b7-aa36-f0a03ced6ca7",
+    "name": "Westwood Regional Middle School",
+    "type": "School",
+    "address": "23 Third Avenue, Westwood, NJ 07675-3331",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "025ed88d-971f-558d-b3bb-2f4811343591",
+    "name": "Catherine E. Doyle Elementary School",
+    "type": "School",
+    "address": "250 Wood Ridge Ave, Wood Ridge, NJ 07075-1510",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b93f08e2-feae-525b-8538-2d51e656e098",
+    "name": "Wood - Ridge Intermediate School",
+    "type": "School",
+    "address": "151 First Street, Wood-ridge, NJ 07075",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b4b7b3d0-0eaf-537f-954a-9fa83473e09e",
+    "name": "Wood - Ridge Jr/sr High School",
+    "type": "School",
+    "address": "258 Hackensack St, Wood Ridge, NJ 07075-1207",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bc79382c-4c06-51b6-9e56-8cabd48f3354",
+    "name": "Dorchester Elementary School",
+    "type": "School",
+    "address": "100 Dorchester Road, Woodcliff Lake, NJ 07677",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b24a9df5-8c29-5863-9970-59c02842ab52",
+    "name": "Woodcliff Middle School",
+    "type": "School",
+    "address": "134 Woodcliff Ave, Woodcliff Lake, NJ 07677-8245",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bfbae6ba-c3ae-58de-a222-9b3146cc3d08",
+    "name": "Abraham Lincoln Elementary School",
+    "type": "School",
+    "address": "325 Mason Ave, Wyckoff, NJ 07481-2822",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1f9bd29e-c390-5a75-8abc-e093b4ef874b",
+    "name": "Calvin Coolidge Elementary School",
+    "type": "School",
+    "address": "420 Grandview Ave, Wyckoff, NJ 07481-2517",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5aa81986-4fa7-532d-82ad-f575ea70481d",
+    "name": "Dwight D. Eisenhower Middle School",
+    "type": "School",
+    "address": "344 Calvin Ct, Wyckoff, NJ 07481-2227",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "24713ca0-3d46-5425-9a7f-9e358704d1d9",
+    "name": "George Washington Elementary School",
+    "type": "School",
+    "address": "270 Woodland Ave, Wyckoff, NJ 07481-1935",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "968597f9-96bf-5028-abcf-444622f91b8c",
+    "name": "Sicomac Elementary School",
+    "type": "School",
+    "address": "356 Sicomac Ave, Wyckoff, NJ 07481-2129",
+    "county": "Bergen",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7b01c791-3a47-5868-b7a3-107178c989a1",
+    "name": "Ability School Inc",
+    "type": "School",
+    "address": "75 Knickerbocker Road, Englewood, NJ 07631",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "775b8ebe-6481-59ef-aaa8-efc06b805b13",
+    "name": "Academy Of Our Lady Of Grace",
+    "type": "School",
+    "address": "400 Kamena Street, Fairview, NJ 07022",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "eec73485-a49e-5b8b-91ea-c3ad228b4edd",
+    "name": "Academy Of Greatness & Excellence",
+    "type": "School",
+    "address": "114 Mount Vernon St., Ridgefield Park, NJ 07660",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "23f0dbcf-75c5-5386-8eed-4a0e6aaebb60",
+    "name": "Academy Of Greatness And Excellence",
+    "type": "School",
+    "address": "441 North Street, Teaneck, NJ 07666",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "e311a195-03ce-5eac-a55c-c2b83f57e389",
+    "name": "Academy Of Holy Angels",
+    "type": "School",
+    "address": "315 Hillside Avenue, Demarest, NJ 07627",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "ae68e444-8b02-58d2-be4b-036c47505e90",
+    "name": "Academy Of Our Lady",
+    "type": "School",
+    "address": "180 Rodney Street, Glen Rock, NJ 07452",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "2ff306ba-f501-5d7c-98d9-400938da0d65",
+    "name": "Academy Of Our Lady Of Mount Carmel",
+    "type": "School",
+    "address": "10 County Road, Tenafly, NJ 07670",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "9f9b7046-172b-508a-947f-644fed9a1603",
+    "name": "Academy Of Saint Paul",
+    "type": "School",
+    "address": "187 Wyckoff Ave, Ramsey, NJ 07446",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "c4778d90-ba51-563e-8d66-100056f4a868",
+    "name": "Academy Of Saut Ul Furqan",
+    "type": "School",
+    "address": "250 Hargreaves Ave, Teaneck, NJ 07666",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "3681079f-94e0-55e4-83d5-1797ab67a4d4",
+    "name": "Academy Of The Most Blessed Sacrament",
+    "type": "School",
+    "address": "785 Franklin Lake Road, Franklin Lakes, NJ 07417",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "9f6bf839-f91a-5e58-a770-4856b13b1f41",
+    "name": "Acton Academy Of Bergen County, Inc",
+    "type": "School",
+    "address": "300 High Street, Closter, NJ 07624",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "151871bc-64a5-5f2a-8720-5f7669bb9c88",
+    "name": "Am - Tree Developmental Nursery School",
+    "type": "School",
+    "address": "115 Spring Valley Rd., Montvale, NJ 07645",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "b2540e02-95a0-5990-b9db-9c46fe296d6f",
+    "name": "Apple Montessori School Of Cliffside Park",
+    "type": "School",
+    "address": "600 George Road, Cliffside Park, NJ 07010",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "dcddf366-2eca-50a2-b71a-9de52227024e",
+    "name": "Apple Montessori School Of Edgewater",
+    "type": "School",
+    "address": "8 Adelaide Place, Edgewater, NJ 07020",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "479161bb-486a-56fb-a2a6-bb47b65b364e",
+    "name": "Apple Montessori School Of Oakland",
+    "type": "School",
+    "address": "192 Ramapo Valley Road, Oakland, NJ 07436",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "b35d882b-d1d6-5c5f-bed7-1ac7762e6189",
+    "name": "Apple Montessorischool Of Mahwah",
+    "type": "School",
+    "address": "75 East Ramapo Avenue, Mahwah, NJ 07430",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "d2d23ec7-0fc1-57f7-aece-7e1b381dd203",
+    "name": "Assumption Early Childhood Center",
+    "type": "School",
+    "address": "35 Jefferson Avenue, Emerson, NJ 07630",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "c894ccc3-e569-5dd2-86bd-d41c2b3a41de",
+    "name": "Barnstable Academy",
+    "type": "School",
+    "address": "8 Wright Way, Oakland, NJ 07436",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "3ea044ff-e22b-55bd-83a9-f6030130ed1c",
+    "name": "Ben Porat Yosef",
+    "type": "School",
+    "address": "E243 Frisch Court, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "d0abb1bc-6fb7-50dc-8c3e-c5fb2030b41d",
+    "name": "Bergen Catholic High",
+    "type": "School",
+    "address": "1040 Oradell Avenue, Oradell, NJ 07649",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "fa891709-bfe9-5529-b467-23faf23d7857",
+    "name": "Bergen County Christian Academy",
+    "type": "School",
+    "address": "15 Conklin Place, Hackensack, NJ 07601",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "645ba190-d9c1-5fd8-9135-06f71949842d",
+    "name": "Bethany Christian Academy",
+    "type": "School",
+    "address": "605 Pascack Road, Township Of Washington, NJ 07676",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "db425ae8-06d1-5b81-97e0-39468cddf19d",
+    "name": "Christ The Teacher School",
+    "type": "School",
+    "address": "359 Whiteman Street, Fort Lee, NJ 07024",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "00da6708-dc37-5793-b557-573443897e42",
+    "name": "Corpus Christi",
+    "type": "School",
+    "address": "215 Kipp Avenue, Hasbrouck Hts, NJ 07604",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "b4d0bba4-f874-508d-bbb0-d31a0de06388",
+    "name": "Darul Islah Crescent Academy",
+    "type": "School",
+    "address": "320 Fabry Terrace, Teaneck, NJ 07666",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "36a69fd1-dad9-53db-9551-94ca22440711",
+    "name": "Don Bosco High School",
+    "type": "School",
+    "address": "492 No. Franklin Turnpike, Ramsey, NJ 07446",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "5c43a5c0-385a-56d9-a787-34fcf3e4ab78",
+    "name": "Dwight - Englewood School",
+    "type": "School",
+    "address": "315 E Palisade Avenue, Englewood, NJ 07631",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "c292b1dc-38fc-5c6c-b03b-3d7d26b12175",
+    "name": "Eastern Christian Elem",
+    "type": "School",
+    "address": "25 Baldin Drive, Midland Park, NJ 07432",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "26766c79-58bc-52c7-acff-e596dbaaeaa4",
+    "name": "Eastern Christian Middle School",
+    "type": "School",
+    "address": "518 Sicomac Avenue, Wyckoff, NJ 07481",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "9a58b0a2-ff6b-5e01-89be-6ea70739d139",
+    "name": "Elisabeth Morrow School, The",
+    "type": "School",
+    "address": "435 Lydecker Street, Englewood, NJ 07631",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "910aaa9f-62c9-591f-894d-75eb033ce4c8",
+    "name": "Felician University Child Care Center",
+    "type": "School",
+    "address": "260 South Main St., Lodi, NJ 07644",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "6e28b78e-5e57-582c-b8a6-f06d09ee34ba",
+    "name": "First Presbyterian Preschool & Kindergarten",
+    "type": "School",
+    "address": "150 E. Palisade Ave., Englewood, NJ 07631",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "3d2cc477-6e4b-5976-863f-310679578507",
+    "name": "French American Academy",
+    "type": "School",
+    "address": "85 W. Demarest Ave., Englewood, NJ 07631",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "b9dea6c1-1d71-5251-ae02-44c5d3d571af",
+    "name": "Frisch School, The",
+    "type": "School",
+    "address": "120 West Century Road, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "1028d85b-3e52-5cd1-9bec-baec3bfcd367",
+    "name": "Fusion Academy",
+    "type": "School",
+    "address": "10 Sterling Blvd., Suite 201, Englewood, NJ 07631",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "bbd97980-a861-5c8a-a29d-ba31c82a36b4",
+    "name": "Glen Rock Cooperative Nursery School",
+    "type": "School",
+    "address": "354 Rock Rd., Glen Rock, NJ 07452",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "b795dd1a-937a-5d4c-b729-95a9d1ea82c3",
+    "name": "Green House Preschool And Kindergarten",
+    "type": "School",
+    "address": "2070 Jones Rd., Fort Lee, NJ 07024",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "2c8aec03-bcbe-5913-af0f-ed2de757de47",
+    "name": "Green Twig School",
+    "type": "School",
+    "address": "30 Paterson Ave, Midland Park, NJ 07432",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "2f9e6799-be14-5dee-9355-92f6a4abb8ac",
+    "name": "Growing Garden Nursery School, The",
+    "type": "School",
+    "address": "156 Forest Ave., Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "d6ae4e6c-2136-5314-bc93-67cb9153f337",
+    "name": "Heichal Hatorah",
+    "type": "School",
+    "address": "70 Sterling Place, Teaneck, NJ 07666",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "5e818fab-00e1-5483-b55e-a9a442f78066",
+    "name": "Hillsdale United Nursery School",
+    "type": "School",
+    "address": "349 Hillsdale Ave., Hillsdale, NJ 07642",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "a6be63c5-1bf0-5260-8951-c533647ac784",
+    "name": "Hovnanian School",
+    "type": "School",
+    "address": "817 River Road, New Milford, NJ 07646",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "e46bf281-ccfb-5b2c-a2c5-00697d2782fc",
+    "name": "Immaculate Heart Academy",
+    "type": "School",
+    "address": "500 Van Emburgh Avenue, Washington Twp, NJ 07676",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "5d920038-f935-57fd-8955-377bbc4e867c",
+    "name": "Immersion Montessori School",
+    "type": "School",
+    "address": "210 South Broad Street, Ridgewood, NJ 07450",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "d62c1206-c82c-5e88-8015-e5e0bbb2a762",
+    "name": "Japanese Children's Society",
+    "type": "School",
+    "address": "8 West Bayview Avenue, Englewood Cliffs, NJ 07632",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "e105127f-0e6b-53e8-b78e-9a9858d9f8bc",
+    "name": "Kids Interactive Day School",
+    "type": "School",
+    "address": "8 Wright Way, Oakland, NJ 07436",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "15472d59-8238-5a80-af19-8d107c1e6226",
+    "name": "Kradle 2 Kindergarten",
+    "type": "School",
+    "address": "95 Bauer Drive, Oakland, NJ 07436",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "d7dcd5ce-2303-590d-8390-6df4571c2652",
+    "name": "Little Crane Montessori School",
+    "type": "School",
+    "address": "113 Cottage Place, Ridgewood, NJ 07450",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "85323b15-251f-55d4-9805-61e69282df3e",
+    "name": "Lubavitch On The Palisades",
+    "type": "School",
+    "address": "11 Harold Street, Tenafly, NJ 07670",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "f8442af4-ea37-5040-9689-b1a9ac4e446a",
+    "name": "Ma'ayanot Yeshiva High School",
+    "type": "School",
+    "address": "1650 Palisade Avenue, Teaneck, NJ 07666",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "b2725027-52d8-52f6-bf00-8ca3c22779cd",
+    "name": "Montessori House School, The",
+    "type": "School",
+    "address": "426 Knickerbocker Road, Tenafly, NJ 07670",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "ca27f666-0e28-51cb-a0cc-9003fed7f26c",
+    "name": "Montessori Learning Center",
+    "type": "School",
+    "address": "205 Franklin Ave, Ridgewood, NJ 07450",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "1d5fa122-6103-5de1-a06a-7eafc872cc43",
+    "name": "Moriah School",
+    "type": "School",
+    "address": "53 S Woodland Street, Englewood, NJ 07631",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "75347bb4-d1e9-5233-b919-72e8276cfdb1",
+    "name": "Naaleh High School For Girls",
+    "type": "School",
+    "address": "10-10 Norma Avenue, Fair Lawn, NJ 07410",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "26b4a850-6a63-567c-90b8-c3940361e617",
+    "name": "New Beginnings At Grace Lutheran",
+    "type": "School",
+    "address": "925 5th Ave, River Edge, NJ 07661",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "405aeba3-2e32-5a65-ac2b-77d8bcee13e7",
+    "name": "New Jersey Japanese School, The",
+    "type": "School",
+    "address": "117 Franklin Avenue, Oakland, NJ 07436",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "67224a02-6ff6-5a23-8e1f-8aec4fa9c86a",
+    "name": "Notre Dame Academy",
+    "type": "School",
+    "address": "312 First Street, Palisades Park, NJ 07650",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "b121282b-d25c-5680-a714-bf25d5e4bb27",
+    "name": "Nursery Rhymes",
+    "type": "School",
+    "address": "141 Market Street, Saddle Brook, NJ 07663",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "db365afe-7ea3-5d9d-b4d8-94780e19d423",
+    "name": "Ohr Yisroel Of Bergen County",
+    "type": "School",
+    "address": "150 Kotte Place, Hackensack, NJ 07601",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "8ecb3b0e-7901-5f86-8a40-fb714f7769b2",
+    "name": "One Christian Academy",
+    "type": "School",
+    "address": "187-199 Walnut Street, Northvale, NJ 07647",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "50c8f58a-f0e0-5448-923f-c6ebb1eb1d93",
+    "name": "Our Lady Of Mercy Academy",
+    "type": "School",
+    "address": "25 Fremont Avenue, Park Ridge, NJ 07656",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "68c5a2b0-254f-53e8-8b42-6220851660be",
+    "name": "Paramus Catholic High School",
+    "type": "School",
+    "address": "425 Paramus Road, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "edacfafe-17c2-5306-ad07-b7913a439033",
+    "name": "Primoris Academy",
+    "type": "School",
+    "address": "64 East Midland Avenue, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "fde49bba-d628-59be-a52a-27b2f6608a7d",
+    "name": "Queen Of Peace Elementary",
+    "type": "School",
+    "address": "21 Church Place, North Arlington, NJ 07031",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "ff7c4272-e4be-5f8d-aeeb-09937311afe0",
+    "name": "Ridgewood Montessori School",
+    "type": "School",
+    "address": "70 Eisenhower Drive, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "b1e7a4ea-3faf-5318-b9dc-3262e3d38dc7",
+    "name": "Sacred Heart School",
+    "type": "School",
+    "address": "620 Valley Brook Avenue, Lyndhurst, NJ 07071",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "f08601b2-d31e-57ed-9bf1-59321d5d41a7",
+    "name": "Saddle River Day",
+    "type": "School",
+    "address": "147 Chestnut Ridge Road, Saddle River, NJ 07458",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "d8e82c78-7715-5b82-ae10-bd4d229e0c52",
+    "name": "Sage Alliance - Mahwah",
+    "type": "School",
+    "address": "900 Darlington Ave, Mahwah, NJ 07430",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "8c0c7881-0c37-52ce-82b2-57044ba06355",
+    "name": "Sage Alliance - Rochelle Park",
+    "type": "School",
+    "address": "295 Rochelle Avenue, Rochelle Park, NJ 07662",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "c1e03567-f337-58e9-ab1b-9c7580e79e13",
+    "name": "Saint Elizabeth School",
+    "type": "School",
+    "address": "Greenwood Avenue, Wyckoff, NJ 07481",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "ccaf5163-a82d-57a3-9f66-690db5edbd62",
+    "name": "Saint John's Academy",
+    "type": "School",
+    "address": "460 Hillsdale Avenue, Hillsdale, NJ 07642",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "1324b399-8f03-548c-a109-f3c6cfeb55e8",
+    "name": "Saint Joseph Regional",
+    "type": "School",
+    "address": "40 Chestnut Ridge Road, Montvale, NJ 07645",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "528eac29-ee9f-55f1-8784-304bb947770e",
+    "name": "Saint Joseph School",
+    "type": "School",
+    "address": "115 Grand Street, New Milford, NJ 07646",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "3facd58e-f67e-5f80-83ed-6a286f919522",
+    "name": "Saint Joseph School",
+    "type": "School",
+    "address": "305 Elm Street, Oradell, NJ 07646",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "ff51c895-b6c3-58b9-845a-77317be6aea0",
+    "name": "Saint Leo School",
+    "type": "School",
+    "address": "300 Market Street, Elmwood Park, NJ 07407",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "c6858e3d-279c-5c74-bb44-6a12dfd460ef",
+    "name": "Saint Mary High School",
+    "type": "School",
+    "address": "64 Chestnut Street, Rutherford, NJ 07070",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "393a9dc2-9dfc-5ca3-8338-f30654964e82",
+    "name": "Saint Peter Academy",
+    "type": "School",
+    "address": "431 Fifth Ave, River Edge, NJ 07661",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "20e48ef1-9118-50d5-bc69-9d7ff3e36948",
+    "name": "Solomon Schechter Day School Of Bergen Co",
+    "type": "School",
+    "address": "275 Mckinley Avenue, New Milford, NJ 07646",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "b0129d48-a160-5909-881d-b40186d061e4",
+    "name": "Spring School, The",
+    "type": "School",
+    "address": "67 North Summit Street, Tenafly, NJ 07670",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "c22756b7-5766-52dc-9609-1d8697cb18b7",
+    "name": "Stepping Stone Learning Center",
+    "type": "School",
+    "address": "340 Bogert Road, River Edge, NJ 07661",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "fdb60ab6-ae4b-55d3-b68b-ec3552e6acfa",
+    "name": "The Learning Experience Franklin Lakes",
+    "type": "School",
+    "address": "861 Franklin Ave., Franklin Lakes, NJ 07417",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "049007fe-a4e7-5c77-81a2-46211e241f18",
+    "name": "The Maria Montessori Academy - Children's Home",
+    "type": "School",
+    "address": "777 Anderson Ave., Cliffside Park, NJ 07010",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "9ae0f996-9f37-52e3-ad18-18c8716b428c",
+    "name": "Torah Academy",
+    "type": "School",
+    "address": "1600 Queen Anne Road, Teaneck, NJ 07666",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "3789f9da-93ff-5deb-b1f6-6f1898faef0a",
+    "name": "Turrell Child Care And Early Learning",
+    "type": "School",
+    "address": "200 Robin Road, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "0d9bc30a-2105-51eb-b66c-7de4eada2a2b",
+    "name": "Van Riper Ellis Christian School",
+    "type": "School",
+    "address": "7-20 Bellair Avenue, Fair Lawn, NJ 07410",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "955ecd82-a6e9-5c76-9dad-5e63f788c364",
+    "name": "Village School, Inc., The",
+    "type": "School",
+    "address": "100 West Prospect Street, Waldwick, NJ 07463",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "e090a794-0c05-5cdf-9015-fb589b7e005b",
+    "name": "Waldwick Seventh Day Adventist",
+    "type": "School",
+    "address": "70 Wyckoff Avenue, Waldwick, NJ 07463",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "a9a39f86-edd4-5ad0-bf3d-c9fd173d35da",
+    "name": "Wilbert Mays Seventh Day Advent School",
+    "type": "School",
+    "address": "405 Englewood Avenue, Teaneck, NJ 07666",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "c491cfac-71b0-5d72-86d9-f86c0f3e17a8",
+    "name": "Wyckoff Christian Preschool & Kindergarten",
+    "type": "School",
+    "address": "485 Wyckoff Ave., Wyckoff, NJ 07481",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "fa856277-b918-5108-b120-1cc112360888",
+    "name": "Yavneh Academy",
+    "type": "School",
+    "address": "155 North Farview Ave, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "c710b01f-4220-5158-93b4-68eedde9691c",
+    "name": "Yeshiva Of North Jersey",
+    "type": "School",
+    "address": "666 Kinderkamack Road, River Edge, NJ 07661",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "ee3ceed7-5bfe-56be-9cbd-bcc5eab8b97e",
+    "name": "Yeshiva Ohr Simcha Englewood",
+    "type": "School",
+    "address": "101 West Forest Avenue, Englewood, NJ 07631",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "cca39716-ff93-5aaa-a6a4-61ff18ecb96a",
+    "name": "Yeshivat He'atid",
+    "type": "School",
+    "address": "1500 Queen Anne Rd, Teaneck, NJ 07666",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "00f10070-7a0c-5343-953e-9cdcc82af106",
+    "name": "Yeshivat Noam School",
+    "type": "School",
+    "address": "West 70 Century Road, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "62c31a93-74b0-5157-9fc5-42d02ab119a1",
+    "name": "Yeshivat Shalshelet",
+    "type": "School",
+    "address": "411 East Clinton Avenue, Tenafly, NJ 07670",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "57f77bac-2bde-59e3-875a-860fe989a003",
+    "name": "Young World Day School",
+    "type": "School",
+    "address": "585 Wyckoff Avenue, Mahwah, NJ 07430",
+    "county": "Bergen",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "63f533ef-0933-59a3-bf25-7016f83c2d25",
+    "name": "Bergen Community College",
+    "type": "College/University",
+    "address": "400 Paramus Road, Paramus, NJ 07652",
+    "county": "Bergen",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "038fd614-441d-54dd-b5da-a4bea0018b62",
+    "name": "Felician University",
+    "type": "College/University",
+    "address": "262 South Main Street, Lodi, NJ 07644",
+    "county": "Bergen",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "b9e22ba7-de10-5566-ab9b-c0e51134181a",
+    "name": "Ramapo College Of New Jersey",
+    "type": "College/University",
+    "address": "505 Ramapo Valley Road, Mahwah, NJ 07430",
+    "county": "Bergen",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "2f0ef121-0d89-5045-9661-c9b35ef86003",
+    "name": "Bergen County Justice Center",
+    "type": "Courthouse",
+    "address": "10 Main Street, Hackensack, NJ 07601",
+    "county": "Bergen",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "a765ec93-fdec-5f3c-ad02-46b27f228c27",
+    "name": "Allendale Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "333 Warren Ave, Hohokus, NJ 07423",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "dafc7663-d617-5169-9f8d-a1eb08a38f09",
+    "name": "Alpine Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "100 Church St, Alpine, NJ 07620",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "504c1649-72de-5398-b11f-1dc03251c5f3",
+    "name": "Bergenfield Municipal Court",
+    "type": "Courthouse",
+    "address": "198 N Washington Ave, Bergenfield, NJ 07621",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "4da6bd8b-7b6d-5ec7-9fa3-a9b00c07a1fb",
+    "name": "Carlstadt Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "500 Madison St, Carlstadt, NJ 07072",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "cb80f93a-44c6-539f-9989-c0796e52ad05",
+    "name": "Cliffside Park Municipal Court",
+    "type": "Courthouse",
+    "address": "525 Palisade Ave, Cliffside Park, NJ 07010",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "04f83206-1e42-5b97-8023-4495e3fcef4d",
+    "name": "Closter Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "295 Closter Dock Rd, Closter, NJ 07624",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "52ac588e-1350-5f4f-b6ee-5789a8a92f77",
+    "name": "Cresskill Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "67 Union Avenue, Cresskill, NJ 07626",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "35249442-dd07-5f19-9217-d04d23d9285d",
+    "name": "Demarest Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "100 Riveredge Road, Tenafly, NJ 07670",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "d44ebea4-0861-5f2a-bdfb-c89589ac3c24",
+    "name": "Dumont Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "50 Washington Ave, Dumont, NJ 07628",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "cbf20561-98bb-560f-b2b1-e8655e6ef9c6",
+    "name": "Edgewater Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "55 River Rd, Edgewater, NJ 07020",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "a8d23cfa-9f1b-5594-93c3-7f96ec547c44",
+    "name": "Elmwood Park Boro Municipal Ct",
+    "type": "Courthouse",
+    "address": "182 Market St, Elmwood Park, NJ 07407",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "10ebf064-78db-5aa9-8baa-90d44a4ae676",
+    "name": "Emerson Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "146 Linwood Ave, Emerson, NJ 07630",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "d9aefa09-f582-5a0a-ae3c-2641d3269f12",
+    "name": "Englewood City Municipal Court",
+    "type": "Courthouse",
+    "address": "73 So Van Brunt St, Englewood, NJ 07631",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "9e53b99b-c60f-586c-b12a-b827e70c70ad",
+    "name": "Fairview Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "59 Anderson Ave, Fairview, NJ 07022",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "b98cb52f-d216-57e5-b02d-6d20e83cdac6",
+    "name": "Fort Lee Municipal Court",
+    "type": "Courthouse",
+    "address": "309 Main St, Fort Lee, NJ 07024",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "64c030ec-d1ff-51a8-8142-6583319b915a",
+    "name": "Garfield City Municipal Court",
+    "type": "Courthouse",
+    "address": "111 Outwater Lane, Garfield, NJ 07026",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "0b2569ee-82b9-50f3-9fab-34429309e9c3",
+    "name": "Glen Rock Municipal Court",
+    "type": "Courthouse",
+    "address": "1 Harding Plaza, Glen Rock, NJ 07452",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "84be2594-961a-5646-a8b9-e45399d04ace",
+    "name": "Hackensack Municipal Court",
+    "type": "Courthouse",
+    "address": "215 State Street, Hackensack, NJ 07601",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "29522281-a6fe-5682-867a-f2b85906cd07",
+    "name": "Hasbrouck Hts Municipal Court",
+    "type": "Courthouse",
+    "address": "248 Hamilton Avenue, Hasbrouck Hts, NJ 07604",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "2c956b9a-ad60-59d1-9468-180e072ab0c2",
+    "name": "Haworth Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "300 Haworth Ave, Haworth, NJ 07641",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "c169eb3b-51da-5646-a2f1-0e0c6bbfb4aa",
+    "name": "Hillsdale Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "101 Washington Ave, Westwood, NJ 07675",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "a17d89c9-582a-5eda-b90c-b4a03145df3a",
+    "name": "Ho - Ho - Kus Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "333 Warren Ave, Ho-ho-kus, NJ 07423",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "c3b13f1d-34dd-5e5b-b710-91ecd63017eb",
+    "name": "Leonia Municipal Court",
+    "type": "Courthouse",
+    "address": "229 Fort Lee Road, Leonia, NJ 07605",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "1c563ca7-d8f9-5330-b5e0-3257a12c1da0",
+    "name": "Mahwah Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "475 Corporate Drive, Mahwah, NJ 07430",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "31b5a6c6-011e-54ff-bd44-33c732009799",
+    "name": "Moonachie Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "510 Route 46 West, Teterboro, NJ 07608",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "8270dcfc-bc51-5235-8cfa-896aff18018d",
+    "name": "North Arlington Municipal Ct",
+    "type": "Courthouse",
+    "address": "214 Ridge Road, No Arlington, NJ 07031",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "658fdc44-8dee-58d8-a1df-91186eb442fb",
+    "name": "Northvale Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "116 Paris Ave, Northvale, NJ 07647",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "e9d28550-633b-506b-86e2-80d583a99362",
+    "name": "Norwood Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "455 Broadway, Norwood, NJ 07648",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "407ed6ef-d89e-5a1b-a469-e6302ee55ecd",
+    "name": "Oakland Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "10 Lawlor Drive, Oakland, NJ 07436",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "4939c33f-a87a-503c-b19e-f116dde23f3c",
+    "name": "Old Tappan Boro Municipal Ct",
+    "type": "Courthouse",
+    "address": "227 Old Tappan Rd, Old Tappan, NJ 07675",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "9f0b1758-3b9a-580d-815b-a4a095493838",
+    "name": "Palisades Park Municipal Court",
+    "type": "Courthouse",
+    "address": "275 Broad Avenue, Palisades Park, NJ 07650",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "b1247b1f-255d-50a0-9e43-2963b5989782",
+    "name": "Park Ridge Boro Municipal Ct",
+    "type": "Courthouse",
+    "address": "12 Mercedes Drive, Montvale, NJ 07645",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "db305f00-f79f-5e54-9c7e-6633d340b9ce",
+    "name": "Pascack Joint Municipal Court",
+    "type": "Courthouse",
+    "address": "12 Depiero Drive, Montvale, NJ 07645",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "956ce0af-4cf1-51e3-a22f-b4447fbe34be",
+    "name": "Ramsey Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "33 N. Central Ave, Ramsey, NJ 07446",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "67ebefef-1401-597b-a6a2-527ce446c9c1",
+    "name": "Ridgewood Village Municipal Ct",
+    "type": "Courthouse",
+    "address": "131 N Maple Ave, Ridgewood, NJ 07451",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "73e30f90-5a25-506f-a5f9-0351628fa0e8",
+    "name": "River Edge Boro Municipal Ct",
+    "type": "Courthouse",
+    "address": "705 Kinderkamack Rd, River Edge, NJ 07661",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "dbd86faa-d713-510a-b730-599ffa68d641",
+    "name": "River Vale Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "406 Rivervale Rd, River Vale, NJ 07675",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "826c9e25-4968-50f4-841c-0d7cb7dc1edf",
+    "name": "Rochelle Park Municipal Court",
+    "type": "Courthouse",
+    "address": "151 W Passaic St, Rochelle Pk, NJ 07662",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "e085bca9-c47a-5faa-8c7f-7f6a32563d93",
+    "name": "Rockleigh Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "116 Paris Avenue, Northvale, NJ 07647",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "0c79c3f0-6cb1-5263-a456-055697ea124f",
+    "name": "Rutherford Municipal Court",
+    "type": "Courthouse",
+    "address": "176 Park Ave, Rutherford, NJ 07070",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "d51941f4-2dbd-5a83-9c45-6cff4b83a5ec",
+    "name": "Saddle River Municipal Court",
+    "type": "Courthouse",
+    "address": "100 E. Allendale Rd, Saddle River, NJ 07458",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "89e3fb04-00be-5c84-aa07-0f34a1e06d9f",
+    "name": "Teaneck Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "818 Teaneck Road, Teaneck, NJ 07666",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "821ba1c5-bd84-596b-b683-b5779faaa139",
+    "name": "Tenafly Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "100 Riveredge Rd, Tenafly, NJ 07670",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "901eff8d-d99c-51e2-941f-3de54ea7d176",
+    "name": "Teterboro Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "510 Route 46 West, Teterboro, NJ 07608",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "6e6b3c7c-9603-57fb-aa72-d0c440e4e717",
+    "name": "Waldwick Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "63 Franklin Turnpike, Waldwick, NJ 07463",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "a5b791bb-4cef-5d0d-bb6f-b5c63f2b2978",
+    "name": "Wallington Boro Municipal Ct",
+    "type": "Courthouse",
+    "address": "500 Madison St., Carlstadt, NJ 07072",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "82250355-307e-5066-bd38-74795f0fcc0b",
+    "name": "Westwood Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "101 Washington Ave, Westwood, NJ 07675",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "3a8ca3dd-55aa-55df-834a-633e23dfaed7",
+    "name": "Woodcliff Lake Municipal Court",
+    "type": "Courthouse",
+    "address": "12 Mercedes Drive, Montvale, NJ 07645",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "34ce221d-f43a-5572-b8ce-bfdada1f9c2a",
+    "name": "Wyckoff Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "340 Franklin Ave., Wyckoff, NJ 07481",
+    "county": "Bergen",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "55115777-f701-5f24-91af-2d7eb2b14f85",
+    "name": "Teterboro Airport",
+    "type": "Airport",
+    "address": "111 Industrial Avenue, Teterboro, NJ 07608",
+    "county": "Bergen",
+    "source": "nj_airports_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "147be620-270b-5d11-9bae-f4683fc09d24",
+    "name": "Secaucus Junction",
+    "type": "Transit Hub",
+    "address": "675 New County Road, Secaucus, NJ 07094",
+    "county": "Bergen",
+    "source": "nj_transit_hubs_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "31b80d89-7ea4-50ef-b665-357c08c79186",
+    "name": "Bergen County Administration Building",
+    "type": "Government Building",
+    "address": "1 Bergen County Plaza, Hackensack, NJ 07601",
+    "county": "Bergen",
+    "source": "nj_government_buildings_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "e0f1c780-cf68-5a47-9182-0ea2c1badffd",
+    "name": "Hackensack City Hall",
+    "type": "Government Building",
+    "address": "65 Central Avenue, Hackensack, NJ 07601",
+    "county": "Bergen",
+    "source": "nj_government_buildings_curated",
+    "confidence": "high"
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "id": "2bffd358-520d-5dd2-8bff-0c22f2d4a943",
+    "name": "Florence M. Burd",
+    "type": "School",
+    "address": "219 Newton Sparta Road, (andover Township), Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f444b079-d3f3-5f56-867d-e83821f97147",
+    "name": "Long Pond School",
+    "type": "School",
+    "address": "707 Limecrest Rd, (andover Township), Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d7783d46-8d43-5cf2-972e-e16e1d719021",
+    "name": "Byram Intermediate School",
+    "type": "School",
+    "address": "12 Mansfield Drive, Stanhope, NJ 07874",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "683e6a83-3c32-5249-a00a-45a681bb4a7b",
+    "name": "Byram Lakes Elementary School",
+    "type": "School",
+    "address": "11 Mansfield Drive, Stanhope, NJ 07874",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ae73f010-27ab-55af-ab46-b0bcc3698730",
+    "name": "Frankford Township School",
+    "type": "School",
+    "address": "4 Pines Road, Branchville, NJ 07826",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2a06ee1a-e20c-5721-b560-cbc7ea8cb73b",
+    "name": "Franklin Borough School",
+    "type": "School",
+    "address": "50 Washington Avenue, Franklin, NJ 07416",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "48981e8b-4313-5923-8fab-faaf630ec5fe",
+    "name": "Fredon Township School",
+    "type": "School",
+    "address": "459 Route 94, Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4431f9e3-e6db-51e0-ad74-77328d478107",
+    "name": "Green Hills School",
+    "type": "School",
+    "address": "69 Mackerly Road, Greendell, NJ 07839",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6603b953-23d7-536b-9e52-e47c4545d60f",
+    "name": "Hamburg School",
+    "type": "School",
+    "address": "30 Linwood Avenue, Hamburg, NJ 07419",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1db14919-8938-590b-8c7e-e380e98f2038",
+    "name": "Marian E. Mckeown Elementary School",
+    "type": "School",
+    "address": "One School Road, Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6ababada-8123-57d8-a005-06b668bc0898",
+    "name": "Hardyston Township Elementary School",
+    "type": "School",
+    "address": "50 Route 23, Franklin, NJ 07416",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "46eadb8a-218d-5034-b9bb-9d1bf4e9a549",
+    "name": "Hardyston Township Middle School",
+    "type": "School",
+    "address": "183 Wheatsworth Road, Hamburg, NJ 07419",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5bcb805d-b8d3-54c8-9c59-2a84dfdcb3bc",
+    "name": "High Point Regional High School District",
+    "type": "School",
+    "address": "299 Pidgeon Hill Road, Sussex, NJ 07461-2733",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e175976b-c867-51fa-a1b9-dc31b5ea04e8",
+    "name": "Durban Avenue Elementary School",
+    "type": "School",
+    "address": "616 Durban Avenue, Hopatcong, NJ 07843",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a4ad069b-f306-546c-96ed-02f19fc4f00a",
+    "name": "Hopatcong High School",
+    "type": "School",
+    "address": "2A Windsor Ave, Hopatcong, NJ 07843",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ebd0f3bd-550a-5650-8d27-97d90429ae78",
+    "name": "Hopatcong Middle School",
+    "type": "School",
+    "address": "1 David Road, Hopatcong, NJ 07843",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4a335c90-dbea-5e1c-99b5-de3bfc58275c",
+    "name": "Tulsa Trail Elementary School",
+    "type": "School",
+    "address": "2 Tulsa Trail, Hopatcong, NJ 07843",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c14a24b4-c9a6-595f-a24e-1c48c33ddbe3",
+    "name": "Kittatinny Regional High School",
+    "type": "School",
+    "address": "77 Halsey Road, Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a07c1e9e-db56-591c-b0c6-309d82ecf8e7",
+    "name": "Lafayette Township School",
+    "type": "School",
+    "address": "178 Beaver Run Road, Lafayette, NJ 07848",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "069891b6-0686-5ea5-ba70-dd40f3be84c5",
+    "name": "Lenape Valley Regional High School",
+    "type": "School",
+    "address": "28 Sparta Road, Po Box 578, Stanhope, NJ 07874",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5376861a-7c39-5c89-a6ed-efc3447168e3",
+    "name": "Montague Township School",
+    "type": "School",
+    "address": "475 Route 206, Montague, NJ 07827",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d0616875-03d1-5626-8e1e-adc1d42094af",
+    "name": "Halsted Middle School",
+    "type": "School",
+    "address": "59 Halsted Street, Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "eddd6502-c22c-5116-9408-1cd424471cc9",
+    "name": "Merriam Avenue School",
+    "type": "School",
+    "address": "81 Merriam Avenue, Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "89eaddad-32a8-528b-b906-9d0603cc0f8e",
+    "name": "Newton High School",
+    "type": "School",
+    "address": "44 Ryerson Avenue, Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6c09fe67-a136-52b8-9b88-328ecda41288",
+    "name": "Ogdensburg Borough School",
+    "type": "School",
+    "address": "100 Main Street, Ogdensburg, NJ 07439",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1c37ba7d-50d4-5294-8d2d-7417afdb0900",
+    "name": "Sandyston Walpack Consolidated School",
+    "type": "School",
+    "address": "100 Route 560, Po Box 128, Layton, NJ 07851",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2b070609-5d78-57a1-b33f-e8c1a9a0b7fc",
+    "name": "Alpine Elementary School",
+    "type": "School",
+    "address": "151 Andover Road, Sparta, NJ 07871",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "192d876f-900e-5360-8c63-a79ed4b84d17",
+    "name": "Helen Morgan School",
+    "type": "School",
+    "address": "100 Stanhope Road, Sparta, NJ 07871",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "096aeba4-c369-599e-bd4e-64eec39ec1ef",
+    "name": "Mohawk Avenue School",
+    "type": "School",
+    "address": "18 Mohawk Avneue, Sparta, NJ 07871",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "04a97bf6-19d9-50c4-b907-70373a6e263d",
+    "name": "Sparta High School",
+    "type": "School",
+    "address": "70 West Mountain Road, Sparta, NJ 07871",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a6b54d99-98d9-5292-99a2-2f7a7afd598e",
+    "name": "Sparta Middle School",
+    "type": "School",
+    "address": "350 Main Street, Sparta, NJ 07871",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0b549b0f-1c33-5984-a8cb-e809c0b06f4b",
+    "name": "Valley Road School",
+    "type": "School",
+    "address": "24 Valley Road, Stanhope, NJ 07874",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "83b6cb56-3c58-5ed0-8606-e0a8381c2e63",
+    "name": "Stillwater Township School",
+    "type": "School",
+    "address": "904 Stillwater Road, Po Box 12, Stillwater, NJ 07875",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4fcfe95a-d3b7-50b0-a4e8-5254168f341a",
+    "name": "Northern Hills Academy",
+    "type": "School",
+    "address": "10 Gail Court, Sparta, NJ 07871",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a7407e87-fac9-5d1c-a776-1d8f22c1da6e",
+    "name": "Sussex County Technical School",
+    "type": "School",
+    "address": "105 North Church Road, Sparta, NJ 07871",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "55bcae0e-5be3-52dc-a546-fe5f2cac05d9",
+    "name": "Clifton E. Lawrence",
+    "type": "School",
+    "address": "31 Ryan Road, Wantage, NJ 07461",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d367dc89-5ff2-583c-9e5f-0489dd9f57d8",
+    "name": "Sussex Middle School",
+    "type": "School",
+    "address": "10 Loomis Avenue, Sussex, NJ 07461",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1083baba-d548-5d58-98fc-8fb57b44b1e5",
+    "name": "Wantage Elementary School",
+    "type": "School",
+    "address": "815 Route 23, Wantage, NJ 07461",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "57d6bfbd-3671-5578-acc6-b894040e291a",
+    "name": "Cedar Mountain Primary School",
+    "type": "School",
+    "address": "17 Sammis Road, Po Box 420, Vernon, NJ 07462-0420",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ac36b5a5-72d1-512d-bde3-38c061cbf26d",
+    "name": "Glen Meadow Middle School",
+    "type": "School",
+    "address": "7 Sammis Road, Po Box 516, Vernon, NJ 07462-0516",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "582284ee-4f72-5900-91ce-c6d7746cdbbd",
+    "name": "Lounsberry Hollow School",
+    "type": "School",
+    "address": "30 Sammis Road, Po Box 219, Vernon, NJ 07462-0219",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "033c77dd-dc17-5159-912c-b43504550126",
+    "name": "Rolling Hills Primary School",
+    "type": "School",
+    "address": "60 Sammis Road, Po Box 769, Vernon, NJ 07462-0769",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "22c8b998-fe7e-55df-924f-c89495896e5c",
+    "name": "Vernon Township High School",
+    "type": "School",
+    "address": "1832 Route 565, Po Box 800, Vernon, NJ 07462-0800",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8304caa2-d719-5e1d-bfa3-5c5e232e66c1",
+    "name": "Walnut Ridge School",
+    "type": "School",
+    "address": "625 Route 517, Po Box 190, Vernon, NJ 07462-0190",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a1e4b2e6-81a8-5b04-8927-82c7b32fea49",
+    "name": "Wallkill Valley Regional High School",
+    "type": "School",
+    "address": "10 Grumm Road, Hardyston Township, NJ 07419",
+    "county": "Sussex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4ebe26c8-b7c6-5d03-9f57-8fed10547d0e",
+    "name": "Sussex County Community College",
+    "type": "College/University",
+    "address": "1 College Hill Road, Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "5a63dd84-3089-58e3-b26a-1fb446c862c2",
+    "name": "Sussex County Judicial Center",
+    "type": "Courthouse",
+    "address": "43-47 High Street, Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "461bb4a5-dc8f-574b-ace2-444f00caeb52",
+    "name": "Andover Joint Municipal Court",
+    "type": "Courthouse",
+    "address": "134 Newton-sparta Rd, Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "a9062454-5b48-5376-adf4-66d404106514",
+    "name": "Byram Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "134 Newton-sparta Rd, Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "34bfd5b5-c334-5432-bda2-0f8e45c85be4",
+    "name": "Frankford Joint Municipal Ct",
+    "type": "Courthouse",
+    "address": "151 Us Highway 206, Augusta, NJ 07822",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "386f6966-1104-581a-8faf-28a5f1fac58d",
+    "name": "Franklin Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "46 Main Street, Franklin, NJ 07416",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "4993a30f-6511-5b07-a0c6-34c887f19892",
+    "name": "Green Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "134 Newton Sparta Rd, Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "fa78b8b4-35b5-5b09-af38-a5baf62e732f",
+    "name": "Hamburg Municipal Court",
+    "type": "Courthouse",
+    "address": "65 Main Street, Sparta, NJ 07871",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "50b8106f-5fb7-5d78-81e9-9c1049cbddb6",
+    "name": "Hardyston Municipal Court",
+    "type": "Courthouse",
+    "address": "149 Wheatsworth Rd, Hardyston, NJ 07419",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "d5b15928-7135-5127-a425-f96935c3b37a",
+    "name": "Hopatcong Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "134 Newton-sparta Rd, Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "ac07454c-4a5d-5550-bbd3-1907cc926633",
+    "name": "Montague Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "151 Us Highway 206, Augusta, NJ 07822",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "f4b617f0-3ad7-5b91-b196-bdaedf4f806c",
+    "name": "Newton Town Municipal Court",
+    "type": "Courthouse",
+    "address": "39 Trinity St, Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "39968912-d949-5adc-bf26-5d5828f8fdec",
+    "name": "Ogdensburg Boro Municipal Ct",
+    "type": "Courthouse",
+    "address": "65 Main Street, Sparta, NJ 07871",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "641b87b0-52cb-589c-8363-bb4ae86e3d57",
+    "name": "Sparta Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "65 Main St, Sparta, NJ 07871",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "ec039c42-93a3-5f4f-a901-7f605f1a843d",
+    "name": "Stanhope Municipal Court",
+    "type": "Courthouse",
+    "address": "134 Newton-sparta Rd, Newton, NJ 07860",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "cf1a7dee-b7c6-50bb-9cc4-95243da9c8d7",
+    "name": "Stillwater Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "888 Route 23, Wantage, NJ 07461",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "c1c745ea-b372-56c0-bb6f-eba890a096d7",
+    "name": "Sussex Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "888 Route 23, Wantage, NJ 07461",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "e43ab925-bae4-53c4-a48b-0744d93c8dd2",
+    "name": "Vernon Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "21 Church Street, Vernon, NJ 07462",
+    "county": "Sussex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "9a00f89f-fd1d-5a53-9483-febd7a52176e",
+    "name": "Sussex Airport",
+    "type": "Airport",
+    "address": "57 County Route 639, Wantage, NJ 07461",
+    "county": "Sussex",
+    "source": "nj_airports_curated",
+    "confidence": "high"
+  }
+]

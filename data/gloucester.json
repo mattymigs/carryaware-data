@@ -1,0 +1,992 @@
+[
+  {
+    "id": "4359800f-9042-5f29-acab-d112560f4156",
+    "name": "Clayton High School",
+    "type": "School",
+    "address": "55 Pop Kramer Blvd, Suite A, Clayton, NJ 08312-1700",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "53ae9d82-317a-53bd-8732-fd8b742a3c8c",
+    "name": "Clayton Middle School",
+    "type": "School",
+    "address": "55 Pop Kramer Blvd, Suite B, Clayton, NJ 08312-1700",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "af28e977-606f-5f93-872e-8e42895a5d82",
+    "name": "Herma S. Simmons Elementary School",
+    "type": "School",
+    "address": "300 West Chestnut Street, Clayton, NJ 08312-1700",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b5b23353-bded-507c-b946-b4a656aa829a",
+    "name": "Clearview Regional High School",
+    "type": "School",
+    "address": "625 Breakneck Rd, Mullica Hill, NJ 08062-9436",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b58bccb3-57da-5c60-afe9-cd6988bc3360",
+    "name": "Clearview Regional Middle School",
+    "type": "School",
+    "address": "595 Jefferson Rd, Mullica Hill, NJ 08062-9436",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "019a1f03-3ac1-5bdc-9f97-0cad916d7cbb",
+    "name": "Delsea Regional High School",
+    "type": "School",
+    "address": "242 Fries Mill Rd, Franklinville, NJ 08322-9139",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3ffb5afa-a967-5d66-986e-1a6bb68bd11f",
+    "name": "Delsea Regional Middle School",
+    "type": "School",
+    "address": "Fries Mill Rd, Franklinville, NJ 08322",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "26ca2c0c-7c2d-53f7-9172-45ff19dee5d6",
+    "name": "Central Early Childhood Center",
+    "type": "School",
+    "address": "1040 Monmouth Road, Deptford, NJ 08096",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0bc68bfc-f33f-54f3-af38-af6cd94badd5",
+    "name": "Deptford Township High School",
+    "type": "School",
+    "address": "575 S Fox Run Rd, Deptford, NJ 08096-4203",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f9298dbe-ddb8-55c9-8bae-51d0b3b22fb8",
+    "name": "Deptford Township Middle School",
+    "type": "School",
+    "address": "890 Bankbridge Rd, Sewell, NJ 08080",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "02ebfa49-de44-512f-9908-1b741649d816",
+    "name": "Good Intent Elementary School",
+    "type": "School",
+    "address": "1555 Good Intent Rd, Deptford, NJ 08096-6101",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b4d34571-dbe9-5ced-a78c-e051214cb812",
+    "name": "Lake Tract Elementary School",
+    "type": "School",
+    "address": "690 Iszard Rd, Deptford, NJ 08096",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5a55d5fe-bcf3-50a6-93f4-4b06d87152a7",
+    "name": "Oak Valley Elementary School",
+    "type": "School",
+    "address": "525 College Blvd, Wenonah, NJ 08090",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "350b5d54-5bc5-55e5-b5e0-8536ad4a8758",
+    "name": "Pine Acres Early Childhood Center",
+    "type": "School",
+    "address": "720 Purdue Ave, Wenonah, NJ 08090",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "81efa1dd-b950-5a6c-9bb0-8bd972cfd021",
+    "name": "Shady Lane Elementary School",
+    "type": "School",
+    "address": "130 Peach Street, Westville, NJ 08093-9718",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9448b0e8-8286-5757-a38c-6515f978a6c3",
+    "name": "Jeffrey Clark School",
+    "type": "School",
+    "address": "7 Quaker Rd, Mickleton, NJ 08056",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e5343578-f82f-5133-95f9-24ee90c3fe7f",
+    "name": "Samuel Mickle School",
+    "type": "School",
+    "address": "559 Kings Highway, Mickleton, NJ 08056",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c2256238-5c7b-5b25-af92-21e78258724d",
+    "name": "Aura Elementary School",
+    "type": "School",
+    "address": "900 Clems Run, Glassboro, NJ 08028-0338",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "abeaef16-7953-52b2-b8c3-b1207b154fda",
+    "name": "Gateway Regional High School",
+    "type": "School",
+    "address": "775 Tanyard Rd, Woodbury Hts, NJ 08096-6218",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2bb30722-efd2-5e29-9712-c0996e27d83f",
+    "name": "Dorothy L. Bullock School",
+    "type": "School",
+    "address": "370 New St E, Glassboro, NJ 08028",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b64579dc-76ba-5d63-9424-3b5e5fc5f1fd",
+    "name": "Glassboro High School",
+    "type": "School",
+    "address": "560 Joseph L Bowe Blvd, Glassboro, NJ 08028",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "eeb62d8e-8bef-5cd4-80a7-e2cd0809c17a",
+    "name": "J. Harvey Rodgers School",
+    "type": "School",
+    "address": "301 Georgetown Rd, Glassboro, NJ 08028",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "af821adf-a4ed-5ca1-8f72-171790cb988f",
+    "name": "Thomas E. Bowe Middle School",
+    "type": "School",
+    "address": "Carpenter Street And Mancuso Lane, 7 Ruth Mancuso Lane, Glassboro, NJ 08028",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fcb1a89a-036d-594a-8678-356e683266a0",
+    "name": "Bankbridge Regional School",
+    "type": "School",
+    "address": "870 Bankbridge Road, Sewell, NJ 08080",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ff113df7-4ae9-52cb-bb64-6bcf8f8c6881",
+    "name": "Adult Regional High School",
+    "type": "School",
+    "address": "1360 Tanyard Road, Sewell, NJ 08080",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "79016652-31c1-5993-8380-fa9f69b6feb1",
+    "name": "Gloucester County Institute Of Technology",
+    "type": "School",
+    "address": "1360 Tanyard Road, Sewell, NJ 08080-9510",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1230f5cf-7a99-5601-bcea-d15625e3dc88",
+    "name": "Broad Street Elementary School",
+    "type": "School",
+    "address": "255 West Broad St, Gibbstown, NJ 08027",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2c506fe4-5a55-583a-8ada-3d92d89b54d7",
+    "name": "Nehaunsey Middle School",
+    "type": "School",
+    "address": "415 Swedesboro Road, Gibbstown, NJ 08027",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1bfe6d22-0a3e-5acb-8f19-8fc1b3e28999",
+    "name": "Harrison Township Elementary School",
+    "type": "School",
+    "address": "120 N Main Street, Mullica Hill, NJ 08062-9494",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9676ba80-8e51-57bf-b289-a0a199a77d18",
+    "name": "Pleasant Valley School",
+    "type": "School",
+    "address": "401 Cedar Rd, Mullica Hill, NJ 08062-9494",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d796e99c-0957-568a-a4f2-b47e3242f411",
+    "name": "Kingsway Regional High School",
+    "type": "School",
+    "address": "201 Kings Highway, Woolwich Twp, NJ 08085-9608",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cd113848-f083-5501-adf0-b19ec8004823",
+    "name": "Kingsway Regional Middle School",
+    "type": "School",
+    "address": "203 Kings Highway, Woolwich Twp, NJ 08085",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3100828e-c9e6-5446-8753-df7232e282b8",
+    "name": "Logan Middle School",
+    "type": "School",
+    "address": "110 School Lane, Logan Township, NJ 08085",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "88d130fd-032b-5259-b446-49731458d345",
+    "name": "Logan Township Elementary School",
+    "type": "School",
+    "address": "110 School Lane, Logan Township, NJ 08085",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3ae5a9be-bcac-5a42-815b-142a5b4dbdce",
+    "name": "The Francis E Donnelly Early Childhood Learning Center",
+    "type": "School",
+    "address": "100 Peachwood Drive, Logan Township, NJ 08085",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a47c7b68-f8fe-5243-985b-b3115b573076",
+    "name": "Centre City Elementary School",
+    "type": "School",
+    "address": "301 Columbus Dr, Mantua, NJ 08051",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3496a66e-05a8-5d89-bb36-8d27ea3918eb",
+    "name": "J. Mason Tomlin Elementary School",
+    "type": "School",
+    "address": "393 Main St, Mantua, NJ 08051",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "44452202-252f-5928-bd38-e9014de9c485",
+    "name": "Sewell Elementary School",
+    "type": "School",
+    "address": "40 Mcanally Dr, Sewell, NJ 08080",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6f95f7d1-7be6-5015-9406-7214ecfbd48b",
+    "name": "Holly Glen Elementary School",
+    "type": "School",
+    "address": "900 North Main Street, Williamstown, NJ 08094-9102",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "43d8365d-0ee1-5a51-8ffa-f1da714add64",
+    "name": "Oak Knoll Elementary School",
+    "type": "School",
+    "address": "23 Bodine Avenue, Williamstown, NJ 08094",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "98beed8e-5989-5cfd-93f0-a315dc90c700",
+    "name": "Radix Elementary",
+    "type": "School",
+    "address": "363 Radix Rd, Williamstown, NJ 08094-8602",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d46a3c0e-0c6b-505d-a0c9-a8a00a47d8ca",
+    "name": "Whitehall Elementary School",
+    "type": "School",
+    "address": "161 Whitehall Rd, Williamstown, NJ 08094-9201",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "dd09efea-676b-526f-b3de-59da1c836ae2",
+    "name": "Williamstown High School",
+    "type": "School",
+    "address": "700 N Tuckahoe Rd, Williamstown, NJ 08094-8827",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e469327e-4097-55b7-afc8-237846890edb",
+    "name": "Williamstown Middle School",
+    "type": "School",
+    "address": "561 Clayton Rd, Williamstown, NJ 08094",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b16d3962-3ac7-550a-977f-e676008cf8fb",
+    "name": "National Park School",
+    "type": "School",
+    "address": "516 Lakehurst Ave, National Park, NJ 08063-1534",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9f47fca9-3dce-5278-b7c1-0d97148b65df",
+    "name": "Billingsport Elementary School",
+    "type": "School",
+    "address": "441 Nassau Ave, Paulsboro, NJ 08066",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4350272a-c678-5118-85e1-3dd18c802a3c",
+    "name": "Loudenslager Elementary School",
+    "type": "School",
+    "address": "100 Baird Ave, Paulsboro, NJ 08066-1536",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3826f0c6-0f1f-5fc0-a751-312c057c6316",
+    "name": "Paulsboro High School",
+    "type": "School",
+    "address": "670 N Delaware St, Paulsboro, NJ 08066",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "45db10b2-0bd1-507a-a793-0d5a82060087",
+    "name": "Paulsboro Junior High School",
+    "type": "School",
+    "address": "670 N Delaware Street, Paulsboro, NJ 08066",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "57ed2958-7e82-501a-ae4b-cda983857e2b",
+    "name": "Memorial Elementary School",
+    "type": "School",
+    "address": "400 Hudson Avenue, Pitman, NJ 08071-1014",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c9342242-0418-50ef-8eac-f0036350414e",
+    "name": "Pitman Elementary School",
+    "type": "School",
+    "address": "138 East Holly Avenue, Pitman, NJ 08071-1014",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d58b39d9-7f4a-503e-9680-08e8c61c2f2e",
+    "name": "Pitman Jr./sr. High School",
+    "type": "School",
+    "address": "225 Linden Avenue, Pitman, NJ 08071-1014",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "acfc88a8-f4be-5eb7-84bb-70eea8739b0a",
+    "name": "South Harrison Elementary School",
+    "type": "School",
+    "address": "904 Mullica Hill Rd, P O Box 112, Harrisonville, NJ 08039-0112",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0fb84737-1731-5ff0-9dee-b4e85c348885",
+    "name": "General Charles G. Harker School",
+    "type": "School",
+    "address": "1771 Oldmans Creek Road, Woolwich Township, NJ 08085",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0f1960eb-eaaf-5dbd-b7f7-ee088fe723d5",
+    "name": "Governor Charles C. Stratton",
+    "type": "School",
+    "address": "15 Fredrick Boulevard, Woolwich Township, NJ 08085",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "18712f89-4f74-54c7-b365-92b9016c802f",
+    "name": "Margaret C. Clifford School",
+    "type": "School",
+    "address": "601 Auburn Avenue, Swedesboro, NJ 08085",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "05307517-6bd9-561f-bb7a-09c2304d8717",
+    "name": "Walter Hill School",
+    "type": "School",
+    "address": "1815 Kings Highway, Swedesboro, NJ 08085",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "aea98494-21c4-5915-9015-047070a51ed4",
+    "name": "Caroline L. Reutter School",
+    "type": "School",
+    "address": "2150 Delsea Dr, Franklinville, NJ 08322-2522",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c98c8a42-59ea-5ca6-94f4-9b1821b0281c",
+    "name": "Main Road School",
+    "type": "School",
+    "address": "1452 Main Rd, Newfield, NJ 08344-5341",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b578f658-2571-536e-8f48-f26508a3320a",
+    "name": "Mary F. Janvier School",
+    "type": "School",
+    "address": "1532 Pennsylvania Ave, Franklinville, NJ 08322-2355",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "99aa444d-b0cd-5c4b-909e-199e301c587e",
+    "name": "Bells Elementary School",
+    "type": "School",
+    "address": "227 Greentree Rd, Turnersville, NJ 08012",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1b84caab-390f-5c3f-8961-d8665b958d4f",
+    "name": "Birches Elementary School",
+    "type": "School",
+    "address": "416 Westminster Blvd, Turnersville, NJ 08012-1625",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "84e8aefe-950b-53c2-ba76-d2cd0ad376c5",
+    "name": "Bunker Hill Middle School",
+    "type": "School",
+    "address": "372 Pitman Downer Rd, Sewell, NJ 08080",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f4d4950d-82f9-5922-8756-0b68c67c1439",
+    "name": "Chestnut Ridge Middle School",
+    "type": "School",
+    "address": "641 Hurffville Crosskeys Rd, Sewell, NJ 08080",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b46c6c2c-f372-56d8-81af-8e5aaff3d32d",
+    "name": "Elwood Kindle",
+    "type": "School",
+    "address": "211 Washington Ave, Pitman, NJ 08071",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "62983245-78c5-51c1-a800-6cf10d4078a5",
+    "name": "Grenloch Terrace Early Childhood Center",
+    "type": "School",
+    "address": "251 Woodbury Turnersville Rd, Sewell, NJ 08080",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "527c24a5-d6a7-5190-a8e2-cbdef364d5a8",
+    "name": "Hurffville Elementary School",
+    "type": "School",
+    "address": "200 Hurffville Grenloch Rd, Sewell, NJ 08080-9499",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e22084e9-2bf2-5043-9bf4-cce93f020387",
+    "name": "Orchard Valley Middle School",
+    "type": "School",
+    "address": "238 Pitman Downer Rd, Sewell, NJ 08080-2118",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9c9f2617-b17e-550c-8070-ce5d8466ebf4",
+    "name": "Thomas Jefferson Elementary School",
+    "type": "School",
+    "address": "95 Altair Dr, Turnersville, NJ 08012-2437",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "898892c5-5572-536e-8164-cdf26729f95e",
+    "name": "Washington Township High School",
+    "type": "School",
+    "address": "519 Hurffville Crosskeys Rd, Sewell, NJ 08080-2700",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4ecc7c09-700f-5a5d-a650-0b7d88c24d39",
+    "name": "Wedgwood Elementary School",
+    "type": "School",
+    "address": "236 Hurffville Rd, Sewell, NJ 08080-9475",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3ffb5f4e-0aa6-5da3-9cf4-7953b01782f6",
+    "name": "Whitman Elementary School",
+    "type": "School",
+    "address": "827 Whitman School Dr, Turnersville, NJ 08012-1186",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1d18be5a-a08a-59cf-a811-4d236f2dd64e",
+    "name": "Wenonah Elementary School",
+    "type": "School",
+    "address": "200 N Clinton Ave, Wenonah, NJ 08090",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c603cf35-e9d1-53f3-8a2d-91d94cc962b3",
+    "name": "Green - Fields Elementary School",
+    "type": "School",
+    "address": "15 Hill Lane, Woodbury, NJ 08096",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "67817272-0e26-5d2d-96cf-e5d9328fe29e",
+    "name": "Oakview Elementary School",
+    "type": "School",
+    "address": "350 Dubois Ave, West Deptford, NJ 08096",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "df5f8d07-9834-57d1-91d2-9f77fef1ad2d",
+    "name": "Red Bank Elementary School",
+    "type": "School",
+    "address": "192 Philadelphia Ave, West Deptford, NJ 08086-9703",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ac9e92b0-80ab-5854-a4aa-c3156cb152d2",
+    "name": "West Deptford Early Childhood Center",
+    "type": "School",
+    "address": "1261 Red Bank Avenue, West Deptford, NJ 08086",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1036584e-3b83-55b6-8afa-d8cb9de9841d",
+    "name": "West Deptford High School",
+    "type": "School",
+    "address": "1600 Old Crown Point Rd, West Deptford, NJ 08093",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e3b92e26-3a6b-5bc3-b0d7-fac7981970a8",
+    "name": "West Deptford Middle School",
+    "type": "School",
+    "address": "675 Grove Rd, West Deptford, NJ 08066-1925",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "59afbb44-ca6c-5f71-9ea9-8dfc4671ece8",
+    "name": "Parkview Elementary School",
+    "type": "School",
+    "address": "101 Birch St, Westville, NJ 08093",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bebd6ca3-705e-5e36-a6d9-6021edc0bbb1",
+    "name": "Evergreen Avenue Elementary School",
+    "type": "School",
+    "address": "160 North Evergreen Avenue, Woodbury, NJ 08096",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "17f95b6b-33d9-5ef0-9aae-acc073a1b768",
+    "name": "Walnut Street School",
+    "type": "School",
+    "address": "60 Walnut Street, Woodbury, NJ 08096",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ba3fe572-0c37-5b60-ac97-01263fc87f78",
+    "name": "West End Memorial Elementary School",
+    "type": "School",
+    "address": "215 Queen Street, Woodbury, NJ 08096",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a6b21a90-7750-5b42-bc6c-18a32cb41e5d",
+    "name": "Woodbury Jr - Sr High School",
+    "type": "School",
+    "address": "25 N. Broad Street, Woodbury, NJ 08096-4602",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "82fbec2c-7b93-5a83-9895-a043b4c546e9",
+    "name": "Woodbury Heights Elementary",
+    "type": "School",
+    "address": "100 Academy Ave, Woodbury Hts, NJ 08097",
+    "county": "Gloucester",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "78368fd9-e2b8-559b-ab4f-ddf85240e858",
+    "name": "Rowan College Of South Jersey Gloucester Campus",
+    "type": "College/University",
+    "address": "1400 Tanyard Road, Sewell, NJ 08080",
+    "county": "Gloucester",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "6fd00c54-c899-5bf2-81a6-b31f138f77f2",
+    "name": "Rowan University",
+    "type": "College/University",
+    "address": "201 Mullica Hill Road, Glassboro, NJ 08028",
+    "county": "Gloucester",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "074b8d92-9e16-5c77-a8b4-ec209e796152",
+    "name": "Gloucester County Old Courthouse",
+    "type": "Courthouse",
+    "address": "1 North Broad Street, Woodbury, NJ 08096",
+    "county": "Gloucester",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "c32c4179-f3b0-5d30-92b6-73fb4642768b",
+    "name": "Gloucester County Justice Complex",
+    "type": "Courthouse",
+    "address": "70 Hunter Street, Woodbury, NJ 08096",
+    "county": "Gloucester",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "d7803ca4-7b73-5d54-be70-cfcabd998819",
+    "name": "Clayton Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "680 Whig Lane, Monroeville, NJ 08343",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "f66f4215-c8b9-5a2a-8c2a-230c12dd9a7e",
+    "name": "Deptford Joint Municipal Court",
+    "type": "Courthouse",
+    "address": "1011 Cooper Street, Deptford, NJ 08096",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "783912b5-6e12-5616-9c9a-c805f9c9b475",
+    "name": "East Greenwich Municipal Court",
+    "type": "Courthouse",
+    "address": "159 Democrat Rd, Mickleton, NJ 08056",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "e335d975-4022-52ce-92ca-542cc6ff8a12",
+    "name": "Elk Joint Municipal Court",
+    "type": "Courthouse",
+    "address": "680 Whig Lane, Monroeville, NJ 08343",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "d68dde34-943c-59f4-b1f6-bf4bdd7fbd9a",
+    "name": "Franklin Joint Municipal Court",
+    "type": "Courthouse",
+    "address": "1571 Delsea Drive, Franklinville, NJ 08322",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "c2798d53-45f0-57c5-a24a-13f2a4328c14",
+    "name": "Glassboro Municipal Court",
+    "type": "Courthouse",
+    "address": "1 South Main St, Glassboro, NJ 08028",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "541b4856-0db7-5cdb-8549-196114653fe7",
+    "name": "Greenwich Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "21 North Walnut St, Gibbstown, NJ 08027",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "9a9d5c62-7b63-5413-af3b-5d081217d196",
+    "name": "Harrison Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "397 Main Street, Mantua, NJ 08051",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "9f75c42d-ff9d-5b57-b4bb-e7f5b1ca5c3d",
+    "name": "Logan Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "125 Main St, Bridgeport, NJ 08014",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "502d4049-e5e0-5c8b-89d1-cd340bd6a642",
+    "name": "Mantua Joint Municipal Court",
+    "type": "Courthouse",
+    "address": "397 Main Street, Mantua, NJ 08051",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "83091c78-f6cd-57a6-9b79-67d13000784a",
+    "name": "Newfield Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "1571 Delsea Dr, Franklinville, NJ 08322",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "4d44f60d-a21f-5251-8182-e911f9c625de",
+    "name": "Paulsboro Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "1211 Delaware St, Paulsboro, NJ 08066",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "3a27e3c0-c995-5f4f-b3a2-482bba054847",
+    "name": "Pitman Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "397 Main Street, Mantua, NJ 08051",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "8e610a79-a9ab-54ca-8c4e-c64f0cc8d01b",
+    "name": "South Harrison Municipal Court",
+    "type": "Courthouse",
+    "address": "120 Village Green Dr, Woolwich, NJ 08085",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "7a587fc7-6738-5519-9d6a-9fd9c430db0e",
+    "name": "Swedesboro Municipal Court",
+    "type": "Courthouse",
+    "address": "120 Village Green Dr, Woolwich Twp, NJ 08085",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "00d3bba4-acf6-5963-98fc-c62928b86199",
+    "name": "Wenonah Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "397 Main Street, Mantua, NJ 08051",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "97d672a1-f459-5bf5-9905-95cc8b5f76da",
+    "name": "Westville Municipal Court",
+    "type": "Courthouse",
+    "address": "165 Broadway, Westville, NJ 08093",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "11307f73-bfd2-5252-999f-12120930ca4e",
+    "name": "Woodbury City Municipal Court",
+    "type": "Courthouse",
+    "address": "1011 Cooper Street, Deptford, NJ 08096",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "89ba6b9f-26b6-5f61-ae4a-79961efbf350",
+    "name": "Woodbury Hts Municipal Court",
+    "type": "Courthouse",
+    "address": "397 Main Street, Mantua, NJ 08051",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "8cf333f3-ef03-531e-ac23-8e2de63c832c",
+    "name": "Woolwich Joint Municipal Court",
+    "type": "Courthouse",
+    "address": "120 Village Green Dr, Woolwich Twp, NJ 08085",
+    "county": "Gloucester",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "41336c1e-ee7f-5c30-9f9f-677b24bdece8",
+    "name": "Cross Keys Airport",
+    "type": "Airport",
+    "address": "1535 North Tuckahoe Road, Williamstown, NJ 08094",
+    "county": "Gloucester",
+    "source": "nj_airports_curated",
+    "confidence": "high"
+  }
+]

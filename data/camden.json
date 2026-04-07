@@ -1,0 +1,1676 @@
+[
+  {
+    "id": "ba645916-8929-5d04-98bd-24889bab3ab8",
+    "name": "Audubon Junior/senior High School",
+    "type": "School",
+    "address": "350 Edgewood Avenue, Audubon, NJ 08106",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6c51cb04-16eb-592b-ad4b-746849e48f49",
+    "name": "Audubon Park Preschool",
+    "type": "School",
+    "address": "2 Road C, Audubon Park, NJ 08106",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "79957cbe-1cf2-5282-b1f2-ce89d8378f48",
+    "name": "Haviland Avenue School",
+    "type": "School",
+    "address": "240 South Haviland Avenue, Audubon, NJ 08106",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "23dd5bae-c1d3-543d-a04c-c052c86eeddd",
+    "name": "Mansion Avenue School",
+    "type": "School",
+    "address": "300 Mansion Avenue, Audubon, NJ 08106",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bb47ba84-f5f1-527f-8a3a-f6fa01550728",
+    "name": "Avon Elementary School",
+    "type": "School",
+    "address": "862 Mercer Dr, Haddonfield, NJ 08033",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a3cb51db-beaf-5da0-a919-581454850c3d",
+    "name": "Woodland Middle School",
+    "type": "School",
+    "address": "1 School Lane, Barrington, NJ 08007",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8f2984cf-2d6a-5a1a-8f88-5d5b7eaab03b",
+    "name": "Bell Oaks Upper Elementary School",
+    "type": "School",
+    "address": "256 Anderson Avenue, Bellmawr, NJ 08031",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f74ce9ab-c147-5f1c-acfc-039918e8f519",
+    "name": "Bellmawr Park Elementary School",
+    "type": "School",
+    "address": "29 Peach Road, Bellmawr, NJ 08031",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d5aa43a6-1c0e-5d12-a5d1-7cc47dddff72",
+    "name": "Ethel M Burke Elementary School",
+    "type": "School",
+    "address": "112 South Black Horse Pike, Bellmawr, NJ 08031",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "da5fe725-09bf-5109-83cf-27cd34ffd193",
+    "name": "Berlin Community School",
+    "type": "School",
+    "address": "215 S Franklin Ave, Berlin, NJ 08009-9220",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "24350860-a0cc-538b-96e8-6006d785b384",
+    "name": "Dwight D Eisenhower Middle School",
+    "type": "School",
+    "address": "235 Grove Avenue, West Berlin, NJ 08091",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fd0356fd-eb17-5d76-bcf3-4e5ad86d3ea2",
+    "name": "John F Kennedy Elementary School",
+    "type": "School",
+    "address": "228 Mt Vernon Avenue, West Berlin, NJ 08091",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b57c489d-8a07-504e-a3e1-d033a4e5c005",
+    "name": "Highland Regional High School",
+    "type": "School",
+    "address": "450 Erial Road, Blackwood, NJ 08012",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "31239f25-b353-57c8-ba52-6a1bfa1da99f",
+    "name": "Timber Creek Regional High School",
+    "type": "School",
+    "address": "501 Jarvis Road, Erial, NJ 08081",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1232c990-85c9-5a70-8f2a-58f6538fa62b",
+    "name": "Triton Regional High School",
+    "type": "School",
+    "address": "250 Schubert Ave, Runnemede, NJ 08078",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "95e98488-bed7-50d3-aa19-79e5136620ec",
+    "name": "Alice Costello Elementary School",
+    "type": "School",
+    "address": "301 Haakon Rd., Brooklawn, NJ 08030",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "aa484f0e-c690-5afb-9261-b70926e14cc8",
+    "name": "Camden Big Picture Learning Academy",
+    "type": "School",
+    "address": "1875 Park Boulevard, Camden, NJ 08103",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e3f111e9-7c94-5797-970b-17e9f32a1566",
+    "name": "Camden High School",
+    "type": "School",
+    "address": "1700 Park Boulevard, Camden, NJ 08103",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cd3fb07e-d440-542d-99f1-d7b7a6b477d9",
+    "name": "Cooper's Poynt Family School",
+    "type": "School",
+    "address": "201 State Street, Camden, NJ 08102",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "637b2d13-7d79-55ac-a825-ef8ea8ad9dbc",
+    "name": "Creative Arts High School",
+    "type": "School",
+    "address": "1875 Park Blvd, Camden, NJ 08103",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a3f0c4b4-7609-5619-9a3d-31da8427abb9",
+    "name": "Dr. Charles E. Brimm Medical Arts High School",
+    "type": "School",
+    "address": "1875 Park Blvd, Camden, NJ 08103",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "173f1f5f-6a98-5049-9a01-220cc1cd4f66",
+    "name": "Dr. Henry H. Davis Elementary School",
+    "type": "School",
+    "address": "3425 Cramer Street, Camden, NJ 08105",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "13f39e73-fc1e-50bd-a766-c98b20fb22d3",
+    "name": "Eastside High School",
+    "type": "School",
+    "address": "3100 Federal Street, Camden, NJ 08105",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "426ef046-a37e-5f26-a310-eb46b4ae9deb",
+    "name": "Forest Hill School",
+    "type": "School",
+    "address": "1625 Wildwood Avenue, Camden, NJ 08103",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "647ee7d7-5a60-5880-b37e-cf2e449795fb",
+    "name": "Henry B. Wilson Family School",
+    "type": "School",
+    "address": "2250 South 8th Street, Camden, NJ 08104",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "21bf9c66-5049-588a-b91b-b31764d1465b",
+    "name": "Martha F. Wilson Early Childhood Development Center",
+    "type": "School",
+    "address": "1602 Pine Street, Camden, NJ 08103",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9c60e144-a93f-5af8-876c-14a28626ec21",
+    "name": "Morgan Village Middle School",
+    "type": "School",
+    "address": "990 Morgan Boulevard, Camden, NJ 08104",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "920ccb48-963f-53e3-b0d0-b07ac0f6be18",
+    "name": "Octavius V. Catto Community Family School",
+    "type": "School",
+    "address": "3100 Westfield Ave, Camden, NJ 08105",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e3037da0-4683-5616-b16a-0c4a4a2c9a5a",
+    "name": "Riletta Twyne Cream Early Childhood Center",
+    "type": "School",
+    "address": "1875 Mulford Street, Camden, NJ 08104",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "42042a4e-8e39-5b09-85b9-263efbf95d7a",
+    "name": "Thomas H. Dudley Family School",
+    "type": "School",
+    "address": "2250 Berwick Street, Camden, NJ 08105-1160",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9f8d596f-50be-5202-8b31-b59f5424a1b0",
+    "name": "Veterans Memorial Family School",
+    "type": "School",
+    "address": "800 N 26th Street, Camden, NJ 08105",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e1671d42-67fc-5535-b756-3d75ed47499a",
+    "name": "Yorkship Elementary School",
+    "type": "School",
+    "address": "1251 Collings Road, Camden, NJ 08104",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5674948b-7d08-5696-8970-18dbecf64c25",
+    "name": "Camden County Technical School - Gtc",
+    "type": "School",
+    "address": "343 Berlin Cross Keys Road, Sicklerville, NJ 08081",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0b5c21f4-4485-5aaf-be12-31e1234a4d89",
+    "name": "Camden County Technical School - Pennsauken",
+    "type": "School",
+    "address": "6008 Browning Road, Pennsauken, NJ 08109",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3026bafb-5693-5954-aee1-a0dd66dfff61",
+    "name": "Camden Prep, Inc",
+    "type": "School",
+    "address": "1575 Mt. Ephraim Ave, Camden, NJ 08104",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8f48c2ff-579f-5ad0-862a-59d492f3fc9d",
+    "name": "A. Russell Knight Elementary School",
+    "type": "School",
+    "address": "140 Old Carriage Rd., Cherry Hill, NJ 08034-3332",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8d845de1-c53a-51e1-862b-6a2d70544bbf",
+    "name": "Bret Harte Elementary School",
+    "type": "School",
+    "address": "1909 Queen Anne Dr., Cherry Hill, NJ 08003-2843",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c34f8f49-b071-5b30-9f20-7be26a97f952",
+    "name": "Cherry Hill High School East",
+    "type": "School",
+    "address": "1750 Kresson Rd., Cherry Hill, NJ 08003-2598",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e308a196-0a21-5ae5-bcd1-a489ca971234",
+    "name": "Cherry Hill High School West",
+    "type": "School",
+    "address": "2101 Chapel Ave., Cherry Hill, NJ 08034-2099",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "aed3c16e-1aa4-5a3f-9c07-a956745d189d",
+    "name": "Clara Barton Elementary School",
+    "type": "School",
+    "address": "223 Rhode Island Ave., Cherry Hill, NJ 08034-3121",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "736d3be3-6d53-5162-afc8-a5f2f7fe2ea0",
+    "name": "Estelle V. Malberg Early Childhood Center",
+    "type": "School",
+    "address": "1220 Winston Way, Cherry Hill, NJ 08034-2919",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "72915e25-cb3c-5b97-94d5-6fcc16ea9c65",
+    "name": "Henry C. Beck Middle School",
+    "type": "School",
+    "address": "950 Cropwell Rd., Cherry Hill, NJ 08003-1499",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f50423f3-03db-540b-9de5-2fc76a363e9a",
+    "name": "Horace Mann Elementary School",
+    "type": "School",
+    "address": "150 Walt Whitman Blvd., Cherry Hill, NJ 08003-3747",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "487b23b0-0c9d-56de-9a7d-8cf0a9e1734c",
+    "name": "James F. Cooper Elementary School",
+    "type": "School",
+    "address": "1960 Greentree Rd., Cherry Hill, NJ 08003-1121",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "97a49e6a-9f7d-56f9-9b88-82f62ff67b51",
+    "name": "James Johnson Elementary School",
+    "type": "School",
+    "address": "500 Kresson Rd., Cherry Hill, NJ 08034-3121",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "dd2c6a51-d4ac-56b5-99d7-c9c4ff61f889",
+    "name": "John A. Carusi Middle School",
+    "type": "School",
+    "address": "315 Roosevelt Dr., Cherry Hill, NJ 08034-1599",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "04f27308-1c6f-5019-882c-f33cfe6f7bea",
+    "name": "Joseph D. Sharp Elementary School",
+    "type": "School",
+    "address": "300 Old Orchard Rd., Cherry Hill, NJ 08003-1299",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2a83f5cf-4733-501b-819a-8a3c4def7a5a",
+    "name": "Joyce Kilmer Elementary School",
+    "type": "School",
+    "address": "2900 Chapel Ave., Cherry Hill, NJ 08002-1661",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7d07a395-9ef3-5cf8-987e-b8431c97058b",
+    "name": "Kingston Elementary School",
+    "type": "School",
+    "address": "320 Kingston Rd., Cherry Hill, NJ 08034-1600",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cb97bbce-2f12-51c9-a5ed-adaa6ec38d0a",
+    "name": "Richard Stockton Elementary School",
+    "type": "School",
+    "address": "200 Wexford Dr., Cherry Hill, NJ 08003-1827",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cfcb1b87-82b1-50cb-870d-bdc72ede1105",
+    "name": "Rosa International Middle School",
+    "type": "School",
+    "address": "485 Browning Lane, Cherry Hill, NJ 08003-3160",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3cf5eca4-3092-5c5b-8efa-b4169047b051",
+    "name": "Thomas Paine Elementary School",
+    "type": "School",
+    "address": "4001 Church Rd., Cherry Hill, NJ 08034-1199",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "45f7d20e-f14c-5c5c-bb7c-844465a2561f",
+    "name": "Woodcrest Elementary School",
+    "type": "School",
+    "address": "400 Cranford Dr., Cherry Hill, NJ 08003-3499",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "582fec26-7136-5881-be57-6ac569ea8cce",
+    "name": "Clementon Elementary School",
+    "type": "School",
+    "address": "4 Audubon Ave, Clementon, NJ 08021",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a777069f-d0b6-5afc-9199-84590b7c43a6",
+    "name": "Collingswood High School",
+    "type": "School",
+    "address": "424 Collings Ave, Collingswood, NJ 08108",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3ed026e7-485e-524a-ae1d-1b8b19150d2c",
+    "name": "Collingswood Middle School",
+    "type": "School",
+    "address": "414 Collings Ave, Collingswood, NJ 08108",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c79f66ba-8907-5d4f-9c87-2b9609a66ea9",
+    "name": "Collingswood Pre Sch Penguins Childhood Center",
+    "type": "School",
+    "address": "201 Dayton Avenue, Collingswood, NJ 08108",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "043d8a61-0637-5799-95dc-81eb4840a6e8",
+    "name": "Collingswood Pre School At Oaklyn",
+    "type": "School",
+    "address": "136 Kendall Blvd, Oaklyn, NJ 08107",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6f8ca41d-bedf-510f-8e54-ebbf58cc583a",
+    "name": "Collingswood Preschool At Parkview",
+    "type": "School",
+    "address": "540 Collings Ave, Suite 12, Collingswood, NJ 08108",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f6ef00e9-081a-5e98-8ede-0b72e5161e54",
+    "name": "James A. Garfield Elementary School",
+    "type": "School",
+    "address": "480 Haddon Ave, Collingswood, NJ 08108",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2ebacbd9-4bb5-523f-9612-61a14ea56895",
+    "name": "Mark Newbie Elementary School",
+    "type": "School",
+    "address": "2 East Browning Rd, Collingswood, NJ 08108",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0e75aefc-7fcc-5118-bf6b-a0ef1133ebde",
+    "name": "Thomas Sharp Elementary School",
+    "type": "School",
+    "address": "400 Comly Ave, West Collingswood, NJ 08107",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5aafb5c8-d530-58f5-9a16-721fd12cfeae",
+    "name": "William P Tatem Elementary School",
+    "type": "School",
+    "address": "265 Lincoln Avenue, Collingswood, NJ 08108",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "eaab6b02-fd71-5a70-8b0e-ca81df98091b",
+    "name": "Zane North Elementary School",
+    "type": "School",
+    "address": "801 Stokes Avenue, Collingswood, NJ 08108",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5a4135c3-c99f-52b1-921b-70d233b8a1ff",
+    "name": "Eastern Camden County Regional High School",
+    "type": "School",
+    "address": "1401 Laurel Oak Road, Voorhees, NJ 08043-0995",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "438601f0-d484-55a6-92e8-4edb40db8c50",
+    "name": "Gibbsboro Elementary School",
+    "type": "School",
+    "address": "37 Kirkwood Rd, Gibbsboro, NJ 08026-1432",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "243ccb2e-be6d-5b63-8a3d-10470c035590",
+    "name": "Cold Springs School",
+    "type": "School",
+    "address": "1194 Market Street, Gloucester City, NJ 08030",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d5db9dc7-91bf-539f-9cf1-4bd24caaad64",
+    "name": "Gloucester City High School",
+    "type": "School",
+    "address": "1300 Market Street, Gloucester City, NJ 08030",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9eaca54a-609a-500e-a94d-0f0a75d73f82",
+    "name": "Gloucester City Middle School",
+    "type": "School",
+    "address": "500 Market Street, Gloucester City, NJ 08030",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "69ec7698-9e61-53c4-a95e-a6dd3ab15687",
+    "name": "Ann A. Mullen Middle School",
+    "type": "School",
+    "address": "1400 Sicklerville Road, Sicklerville, NJ 08081",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "22e2248f-f9f4-5bd7-9d67-09f5a8e1f434",
+    "name": "Blackwood Elementary School",
+    "type": "School",
+    "address": "260 Blenheim Erial Rd, Blackwood, NJ 08012",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "69122632-8381-5dfd-bfeb-07cec3c1d4bc",
+    "name": "Charles W. Lewis Middle School",
+    "type": "School",
+    "address": "875 Erial Road, Blackwood, NJ 08012",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b0a3fb19-0ccb-55b4-985b-678ba88d2b83",
+    "name": "Chews Elementary School",
+    "type": "School",
+    "address": "600 Chewslanding Somerdale Rd, Blackwood, NJ 08012",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "33cd75f3-63bd-5f6f-882f-1164ad415861",
+    "name": "Erial Elementary School",
+    "type": "School",
+    "address": "20 Essex Avenue, Sicklerville, NJ 08081",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d734ee0b-978d-52f9-b2db-a3bd0d296b92",
+    "name": "Glen Landing Middle School",
+    "type": "School",
+    "address": "85 Little Gloucester Road, Blackwood, NJ 08012",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "27720a7e-1e06-5594-8fc6-c217c295e371",
+    "name": "Glendora Elementary School",
+    "type": "School",
+    "address": "201 Station Ave, Glendora, NJ 08029",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e464e186-495c-573b-ac7d-b4ddd35bb654",
+    "name": "Gloucester Township Elementary School",
+    "type": "School",
+    "address": "270 South Black Horse Pike, Blackwood, NJ 08012-2996",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "98e71f7b-0584-58ee-b6bb-6b16f58fa1ad",
+    "name": "James W. Lilley Elementary School",
+    "type": "School",
+    "address": "1275 Williamstown Road, Erial, NJ 08081",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0bdbb291-e8ea-5c3a-a514-cdc0fda34532",
+    "name": "Loring Flemming Elementary School",
+    "type": "School",
+    "address": "135 Little Gloucester Rd, Blackwood, NJ 08012-3311",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6cf6c330-e09e-5c32-9376-d105599c52dd",
+    "name": "Union Valley Elementary School",
+    "type": "School",
+    "address": "1300 Jarvis Road, Sicklerville, NJ 08081",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2dd4ea43-8af2-55d0-9a2a-b93b91be5349",
+    "name": "Atlantic Avenue",
+    "type": "School",
+    "address": "21 East Atlantic Avenue, Haddon Heights, NJ 08035",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "df3da7d0-bd2a-54f7-9428-a8544c781ea2",
+    "name": "Glenview Avenue",
+    "type": "School",
+    "address": "1700 Sycamore Street, Haddon Heights, NJ 08035",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "31a7560b-bb7f-5d2a-82a9-aa8059e525aa",
+    "name": "Haddon Heights Jr./sr. High School",
+    "type": "School",
+    "address": "301 Second Avenue, Haddon Heights, NJ 08035",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "001753a0-89a4-514f-b7db-299c6c9199a0",
+    "name": "Seventh Avenue",
+    "type": "School",
+    "address": "316 Seventh Avenue, Haddon Heights, NJ 08035",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "587595a2-3e8f-55da-b53e-1855560fcead",
+    "name": "Clyde S. Jennings Elementary School",
+    "type": "School",
+    "address": "100 Cedar Avenue, Oaklyn, NJ 08107",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "84b0f8e6-a964-5481-980d-92309c4358d4",
+    "name": "Haddon Township High School",
+    "type": "School",
+    "address": "406 Memorial Avenue, Westmont, NJ 08108-3398",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e88cbdac-0ebb-5a1e-ba74-49389353981b",
+    "name": "Stoy Elementary School",
+    "type": "School",
+    "address": "206 Briarwood Avenue, Haddonfield, NJ 08033",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "22796566-803b-58f9-be23-5e0419a23a01",
+    "name": "Strawbridge Elementary School",
+    "type": "School",
+    "address": "307 Strawbridge Avenue, Westmont, NJ 08108",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c2f71596-f2c1-5f83-8d6a-48dddf5994cb",
+    "name": "Thomas A. Edison Elementary School",
+    "type": "School",
+    "address": "205 Melrose Avenue, Westmont, NJ 08108",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "949f9ec1-770c-59fd-aba8-7767df92767f",
+    "name": "Van Sciver Elementary School",
+    "type": "School",
+    "address": "625 Rhoads Avenue, Haddonfield, NJ 08033",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c81d4ea8-f4c8-576e-9bd0-45595863f04f",
+    "name": "William G. Rohrer Middle School",
+    "type": "School",
+    "address": "101 Macarthur Boulevard, Westmont, NJ 08108",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "119f1256-99fc-5b32-9480-67f30d305fe2",
+    "name": "Central School",
+    "type": "School",
+    "address": "Three Lincoln Avenue, Haddonfield, NJ 08033",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1f9ef9de-aff8-55ed-8d46-1d5293812e63",
+    "name": "Elizabeth Haddon School",
+    "type": "School",
+    "address": "501 West Redman Avenue, Haddonfield, NJ 08033",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "54fdeddb-da94-5104-af8a-2ce4a2c1a951",
+    "name": "Haddonfield Memorial High School",
+    "type": "School",
+    "address": "401 Kings Highway East, Haddonfield, NJ 08033-1206",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "af7cc6f0-c910-59a5-80f0-289f481ac073",
+    "name": "Haddonfield Middle School",
+    "type": "School",
+    "address": "Five Lincoln Avenue, Haddonfield, NJ 08033",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f7a73f02-6bc3-51a4-a955-085f70ed3e7e",
+    "name": "J. Fithian Tatem School",
+    "type": "School",
+    "address": "One Glover Avenue, Haddonfield, NJ 08033",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ec174882-8738-5fe5-a270-45e235017b7d",
+    "name": "Kipp: Cooper Norcross, A New Jersey Nonprofit Corporation",
+    "type": "School",
+    "address": "525 Clinton Street, Camden, NJ 08103",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c2835524-5cc7-572f-9036-d0b7b0e63a4e",
+    "name": "Laurel Springs School",
+    "type": "School",
+    "address": "623 Grand Avenue, Laurel Springs, NJ 08021",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "be76c6d5-c68c-594a-a26b-7e1c5fdc352a",
+    "name": "Lawnside School District",
+    "type": "School",
+    "address": "426 East Charleston Ave, Lawnside, NJ 08045-1404",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7e51ae4b-8b20-5be3-8280-2c59c537beb2",
+    "name": "Early Childhood Center",
+    "type": "School",
+    "address": "809 Egg Harbor Road, Lindenwold, NJ 08021",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cdeeb60c-e92b-57ff-a9b8-36bd291c25ce",
+    "name": "Lindenwold High School",
+    "type": "School",
+    "address": "801 Egg Harbor Road, Lindenwold, NJ 08021",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ef141c08-1df0-5c28-952e-b838927993a6",
+    "name": "Lindenwold Middle School",
+    "type": "School",
+    "address": "40 White Horse Avenue, Lindenwold, NJ 08021",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "095a0af7-3fca-5fa3-b56d-ea4328a3f884",
+    "name": "Lindenwold School Five",
+    "type": "School",
+    "address": "550 Chews Landing Rd., Lindenwold, NJ 08021",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8cc5a5da-10b6-590d-a25b-ce9c1c3cd1bd",
+    "name": "Lindenwold School Four",
+    "type": "School",
+    "address": "900 Gibbsboro Rd., Lindenwold, NJ 08021",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "be49cb9a-a61f-5506-9e2f-80a41ca44bc1",
+    "name": "Magnolia",
+    "type": "School",
+    "address": "420 North Warwick Rd, Magnolia, NJ 08049-1320",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a3960c5e-3389-5519-87e7-ee03b0c47c5d",
+    "name": "Mastery Schools Of Camden, Inc",
+    "type": "School",
+    "address": "1001 North 17th Street, Camden, NJ 08105",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3b5c1b89-c572-5a59-9861-2fe10049bb5a",
+    "name": "Merchantville Elementary School",
+    "type": "School",
+    "address": "130 S Centre St, Merchantville, NJ 08109-2207",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e473b7b5-0117-54ec-9e2c-22cba6cb1976",
+    "name": "Mary Bray Elementary School",
+    "type": "School",
+    "address": "225 West Kings Highway, Mount Ephraim, NJ 08059-1803",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0999bc4f-3c6d-5626-9ba8-3a7d1fda0432",
+    "name": "Raymond W. Kershaw School",
+    "type": "School",
+    "address": "125 South Black Horse Pike, Mount Ephraim, NJ 08059-1803",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "20046e83-72b8-5d36-bcec-8c5f6a9161be",
+    "name": "Oaklyn Public School",
+    "type": "School",
+    "address": "136 Kendall Blvd, Oaklyn, NJ 08107",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "26cafb9c-4391-5db4-ab73-5133add41f80",
+    "name": "A.e. Burling High School",
+    "type": "School",
+    "address": "3600 Harris Avenue, Pennsauken, NJ 08110",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "944716e8-3680-546b-b595-25b690c5493f",
+    "name": "Baldwin Elementary School",
+    "type": "School",
+    "address": "41ST & Sharon Terrace, Pennsauken, NJ 08110",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a0956a83-0178-5ec9-ab06-937b8d3dd699",
+    "name": "Benjamin Franklin Elementary School",
+    "type": "School",
+    "address": "7201 Irving Avenue, Pennsauken, NJ 08109-3173",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e3a88aac-b1b3-57b7-a70d-e481271ef586",
+    "name": "Delair Elementary School",
+    "type": "School",
+    "address": "850 Derousse Avenue, Delair, NJ 08110-3411",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "01f4c5d4-6a3f-5ef6-b21c-67c673433612",
+    "name": "G.h. Carson Elementary School",
+    "type": "School",
+    "address": "4150 Garfield Avenue, Pennsauken, NJ 08109",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7b68ba52-04e1-55d3-8194-1331f4b6ed33",
+    "name": "George B. Fine Elementary School",
+    "type": "School",
+    "address": "3800 Gladwyn Ave, Pennsauken, NJ 08109-3415",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bdcf9618-6a9c-5c66-98e9-5f8fd1b9c22b",
+    "name": "Howard M. Phifer Middle School",
+    "type": "School",
+    "address": "8201 Park Ave, Pennsauken, NJ 08109-3544",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "235f7985-eee1-5cd3-a998-acd61b71bb63",
+    "name": "Pennsauken High School",
+    "type": "School",
+    "address": "800 Hylton Road, Pennsauken, NJ 08110",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c8fdead7-9486-5ccb-a6e3-bd773b2ea0a8",
+    "name": "Pennsauken Intermediate School",
+    "type": "School",
+    "address": "8125 Park Avenue, Pennsauken, NJ 08109",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "16071f2e-a1ea-5c80-8956-821217e2c7bd",
+    "name": "Roosevelt Science Technology Engineering And Mathematics (st",
+    "type": "School",
+    "address": "5526 Wisteria Ave, Pennsauken, NJ 08109-1242",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "360814a8-aaa9-55d2-9a24-ee5a5dea8909",
+    "name": "Dr. Albert M. Bean School",
+    "type": "School",
+    "address": "70 E Third Ave, Pine Hill, NJ 08021-6204",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7ac7a699-041f-506c-ac36-7656c6235e75",
+    "name": "John H. Glenn School",
+    "type": "School",
+    "address": "1005 Turnerville Rd, Pine Hill, NJ 08021-6526",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c4c69ea9-2b9a-5f1a-bf85-9ea7fec93d73",
+    "name": "Overbrook Senior High School",
+    "type": "School",
+    "address": "1200 Turnerville Road, Pine Hill, NJ 08021",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b32b8cf2-c9cd-5e83-897d-3307cbf2f598",
+    "name": "Pine Hill Middle School",
+    "type": "School",
+    "address": "1100 Turnerville Road, Pine Hill, NJ 08021",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8facc963-def7-5f5c-913b-70da078b4627",
+    "name": "Aline Bingham Elementary School",
+    "type": "School",
+    "address": "100 First & Orchard Ave, Runnemede, NJ 08078",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "62033b99-b9d9-5b14-9429-b93a0436888a",
+    "name": "Grade Downing Elementary School",
+    "type": "School",
+    "address": "3RD & Central Aves, Runnemede, NJ 08078",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0730212e-402c-570c-a03e-93d4b7d01b92",
+    "name": "Mary E. Volz Elementary School",
+    "type": "School",
+    "address": "509 West Third Avenue, Runnemede, NJ 08078",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "545dcdc5-3eb2-5ba6-8e4d-44443cd23ede",
+    "name": "Somerdale Park School",
+    "type": "School",
+    "address": "301 Grace Street, Somerdale, NJ 08083",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9dc0e01e-2ce0-568a-a98c-d7a8543681af",
+    "name": "Sterling High School",
+    "type": "School",
+    "address": "501 South Warwick Road, Somerdale, NJ 08083-2175",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fbfc43ec-6096-565c-be01-acc1213a13c0",
+    "name": "Parkview Elementary School",
+    "type": "School",
+    "address": "123 Parkview Rd, Stratford, NJ 08084",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d4fff8ea-3bc9-57a1-a00d-e6def8669345",
+    "name": "Samuel S. Yellin Elementary School",
+    "type": "School",
+    "address": "111 Warwick Road, Stratford, NJ 08084",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c5a5f594-7255-5aed-9c19-7d1cd13bcbbd",
+    "name": "Edward T. Hamilton",
+    "type": "School",
+    "address": "1 Boundary Lane, Voorhees, NJ 08043-9545",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "df8fac05-484f-50cd-a33c-79d7a7d154c9",
+    "name": "Kresson School",
+    "type": "School",
+    "address": "7 School Lane, Voorhees, NJ 08043-9545",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ab281aa5-15ae-58e0-b6fd-9174c5f32ae6",
+    "name": "Osage School",
+    "type": "School",
+    "address": "112 Somerdale Road, Voorhees, NJ 08043-9545",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7ae1b0e6-78fd-5bf6-a718-e06a3e6c77bc",
+    "name": "Signal Hill School",
+    "type": "School",
+    "address": "33 Signal Hill Drive, Voorhees, NJ 08043-9545",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5a0dbc98-ac8d-59dc-a0cb-864d4e45fe82",
+    "name": "Voorhees Early Childhood Development Center",
+    "type": "School",
+    "address": "250 Haddonfield-berlin Road, Gibbsboro, NJ 08026",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4e999410-7577-5995-90ba-c06b98dd1112",
+    "name": "Voorhees Middle School",
+    "type": "School",
+    "address": "1000 Holly Oak Dr, Voorhees, NJ 08043",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2328bb2a-03f1-5856-b206-c1116ca1be04",
+    "name": "Atco Elementary School",
+    "type": "School",
+    "address": "2162 Cooper Road, Atco, NJ 08004-1033",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "eb61995f-6a9a-5755-8f0b-3bd7e9459a23",
+    "name": "Thomas Richards Early Childhood Center",
+    "type": "School",
+    "address": "934 Lincoln Avenue, Atco, NJ 08004-1325",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d6cd9ebd-b3b4-5279-a353-799ecd6201d1",
+    "name": "Waterford Elementary School",
+    "type": "School",
+    "address": "1106 Old White Horse Pike, Waterford, NJ 08089-1816",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "737c9939-0d97-5cb3-a3af-1f3b25f73498",
+    "name": "Winslow Township Early Childhood Education Center",
+    "type": "School",
+    "address": "511 Edwards Ave, Chesilhurst, NJ 08089",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9f9cbfa2-c14b-58aa-8ee2-a7821b50abd0",
+    "name": "Winslow Township Elementary School Five",
+    "type": "School",
+    "address": "130 Oak Leaf Road, Berlin, NJ 08009",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "72b72b5e-ba08-5ed1-84ee-6bb66094d255",
+    "name": "Winslow Township Elementary School Four",
+    "type": "School",
+    "address": "541 Kali Road, Sicklerville, NJ 08081",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "542904b1-63e4-52a2-a66f-a9a63aefd521",
+    "name": "Winslow Township Elementary School One",
+    "type": "School",
+    "address": "413 Inskip Road, Blue Anchor, NJ 08037-9511",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e363de9e-a9ec-56fe-af7d-3da394b0ff3b",
+    "name": "Winslow Township Elementary School Six",
+    "type": "School",
+    "address": "617 Sickler Avenue, Sicklerville, NJ 08081",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c9a08b2b-aa45-5e2f-9611-956cc71b2f07",
+    "name": "Winslow Township Elementary School Three",
+    "type": "School",
+    "address": "131 Sicklerville Road, Sicklerville, NJ 08081",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9f41df2c-3dcb-599f-80aa-1efcfc952c25",
+    "name": "Winslow Township Elementary School Two",
+    "type": "School",
+    "address": "125 First Ave, Sicklerville, NJ 08081",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "072ecab2-cc1c-50cc-9ff4-e602d9dad2f7",
+    "name": "Winslow Township High School",
+    "type": "School",
+    "address": "10 Cooper Folly Road, Atco, NJ 08004",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a67cca47-d94d-5f59-a2d8-be26c3297ccd",
+    "name": "Winslow Township Middle School",
+    "type": "School",
+    "address": "30 Cooper Folly Road, Atco, NJ 08004",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5c7e6f48-4122-5ca6-8a8b-30e12da2b77a",
+    "name": "Woodlynne Boro Public School",
+    "type": "School",
+    "address": "131 Elm Avenue, Woodlynne, NJ 08107",
+    "county": "Camden",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c29803c5-310c-5a80-9db0-e220463352bd",
+    "name": "Camden County College",
+    "type": "College/University",
+    "address": "200 College Drive, Blackwood, NJ 08012",
+    "county": "Camden",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "cc736fe0-9b4c-5b06-9ce1-37aed0108615",
+    "name": "Rutgers University - Camden",
+    "type": "College/University",
+    "address": "303 Cooper Street, Camden, NJ 08102",
+    "county": "Camden",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "ec354c43-5435-53cb-a7f3-9b1d3dea9bef",
+    "name": "Camden County Hall Of Justice",
+    "type": "Courthouse",
+    "address": "101 South 5th Street, Camden, NJ 08103",
+    "county": "Camden",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "c03f7ab9-d775-5e39-9554-bb7d48e9dc3d",
+    "name": "Audubon Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "606 W. Nicholson Rd, Audubon, NJ 08106",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "315cfa5f-4702-5828-ad2e-1f6391910ec9",
+    "name": "Barrington Municipal Court",
+    "type": "Courthouse",
+    "address": "500 White Horse Pike, Oaklyn, NJ 08107",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "e1582674-8bda-5e06-86ae-0502906eaf06",
+    "name": "Bellmawr Municipal Court",
+    "type": "Courthouse",
+    "address": "21 E. Browning Rd., Bellmawr, NJ 08099",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "9f61a554-8dbd-598e-b122-942c3b1fd536",
+    "name": "Berlin Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "59 S White Horse Pk, Berlin, NJ 08009",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "01626703-a787-5673-9438-b4292e805572",
+    "name": "Berlin Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "135 Route 73 South, West Berlin, NJ 08091",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "edbfbf21-b496-5239-aee9-90ff5c172d37",
+    "name": "Brooklawn Municipal Court",
+    "type": "Courthouse",
+    "address": "500 White Horse Pike, Oaklyn, NJ 08107",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "890a5f6b-bbd1-534f-af47-21802bdf94fc",
+    "name": "Camden City Municipal Court",
+    "type": "Courthouse",
+    "address": "520 Market St, Camden, NJ 08101",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "ce4f3eeb-3b77-5a09-b9de-cfb224cbf321",
+    "name": "Cherry Hill Twp Municipal Ct",
+    "type": "Courthouse",
+    "address": "820 Mercer Street, Cherry Hill, NJ 08002",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "7fb28d6e-6afc-5df9-b6cf-e10cfd495bfd",
+    "name": "Chesilhurst Municipal Court",
+    "type": "Courthouse",
+    "address": "201 Grant Ave, Chesilhurst, NJ 08089",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "6801fd3f-6316-57c4-b780-92149f21d501",
+    "name": "Clementon Municipal Court",
+    "type": "Courthouse",
+    "address": "101 Gibbsboro Road, Clementon, NJ 08021",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "65a62238-fe30-59e5-ab19-7cdd65ddd6eb",
+    "name": "Collingswood Municipal Court",
+    "type": "Courthouse",
+    "address": "30 W. Collings Ave, Collingswood, NJ 08108",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "8a7320f7-6f95-502d-9725-7e9e0e1ebc4e",
+    "name": "Gloucester Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "Po Box 8, Blackwood, NJ 08012",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "9a06080f-ce29-55c9-bfeb-ff074bb321d5",
+    "name": "Haddon Heights Municipal Court",
+    "type": "Courthouse",
+    "address": "606 W. Nicholson Rd., Audubon, NJ 08106",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "26a7bf28-7182-5fa4-8413-cbb5a9bae376",
+    "name": "Haddon Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "135 Haddon Ave, Haddon Twp, NJ 08108",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "cd9600cd-bba3-5e84-9fdd-2538a9de3c5c",
+    "name": "Haddonfield Municipal Court",
+    "type": "Courthouse",
+    "address": "24 N Black Horse Pk, Runnemede, NJ 08078",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "cc9eca1e-68b0-50b5-855c-79c05513e12f",
+    "name": "Hi - Nella Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "100 Wykagyl Rd, Hi-nella, NJ 08083",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "a6546e67-a647-5603-b948-49f7812c6634",
+    "name": "Laurel Springs Municipal Court",
+    "type": "Courthouse",
+    "address": "24 N Black Horse Pk, Runnemede, NJ 08078",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "46295f85-c8bc-5400-bba5-60ea79f66dcc",
+    "name": "Lawnside Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "4 Douglas Ave, Lawnside, NJ 08045",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "6296ebf6-2d4d-5dfd-9729-34c3f7671bd3",
+    "name": "Lindenwold Municipal Court",
+    "type": "Courthouse",
+    "address": "2001 Egg Harbor Rd, Lindenwold, NJ 08021",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "21b319df-7965-5d2b-a5c1-a83d192a4870",
+    "name": "Magnolia Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "24 N. Black Horse Pi, Runnemede, NJ 08078",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "5162262a-ede2-56cc-88c3-75e5486888e8",
+    "name": "Oaklyn Borough Municipal Court",
+    "type": "Courthouse",
+    "address": "500 White Horse Pike, Oaklyn, NJ 08107",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "6e7b0942-90de-5d4e-8209-35e30e688faa",
+    "name": "Pennsauken Municipal Court",
+    "type": "Courthouse",
+    "address": "2400 Bethel Ave, Pennsauken, NJ 08109",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "ff202604-92c2-5e11-bfc6-c04041f6e051",
+    "name": "Pine Hill Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "24 N Black Horse Pk, Runnemede, NJ 08078",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "494ba5d7-1e85-5bf5-9a11-37109d7c7b77",
+    "name": "Pine Valley Municipal Court",
+    "type": "Courthouse",
+    "address": "1 Club Road, Clementon, NJ 08021",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "884fda78-cb7e-562d-ad4b-5c5fe01f8731",
+    "name": "Somerdale Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "24 N Black Horse Pk, Runnemede, NJ 08078",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "21f5faf0-a176-5076-ab43-b8ec9d29f0ac",
+    "name": "Stratford Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "500 White Horse Pike, Oaklyn, NJ 08107",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "f445a53c-dfbe-5681-b425-cb74d3810b25",
+    "name": "Voorhees Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "2400 Voorhees Town C, Voorhees, NJ 08043",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "047b4e2c-f3ed-5bb9-8f40-2b22db9925a1",
+    "name": "Waterford Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "2131 Auburn Ave, Atco, NJ 08004",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "f7f3914b-fd3b-55a7-b366-3ca3b5cd8ef7",
+    "name": "Winslow Township Municipal Ct",
+    "type": "Courthouse",
+    "address": "125 So Rt 73, Braddock, NJ 08037",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "3821b6cf-c88a-5d7b-be7a-12ff49ba4c21",
+    "name": "Woodlynne Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "200 Cooper Avenue, Woodlynne, NJ 08107",
+    "county": "Camden",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "585234ab-19aa-5a65-8595-e2a427a63516",
+    "name": "Camden County Airport",
+    "type": "Airport",
+    "address": "2311 Egg Harbor Road, Lindenwold, NJ 08021",
+    "county": "Camden",
+    "source": "nj_airports_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "f9837ff0-bdf1-5ac3-a48a-a2ea00893ec6",
+    "name": "Walter Rand Transportation Center",
+    "type": "Transit Hub",
+    "address": "100 South Broadway, Camden, NJ 08103",
+    "county": "Camden",
+    "source": "nj_transit_hubs_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "312202ce-b2c5-525f-9af0-f0fa0805699b",
+    "name": "Camden County Administration Building",
+    "type": "Government Building",
+    "address": "520 Market Street, Camden, NJ 08102",
+    "county": "Camden",
+    "source": "nj_government_buildings_curated",
+    "confidence": "high"
+  }
+]

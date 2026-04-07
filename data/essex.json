@@ -1,0 +1,2819 @@
+[
+  {
+    "id": "9f3ace6c-4622-5367-aa21-4bae3b82f5a8",
+    "name": "Belleville High School",
+    "type": "School",
+    "address": "100 Passaic Ave, Belleville, NJ 07109-1807",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6b4b9088-881f-545a-a124-b17bc76a4c87",
+    "name": "Belleville Middle School",
+    "type": "School",
+    "address": "279 Washington Ave, Belleville, NJ 07109-3150",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "50d931fc-9cb9-5e99-b570-cb015de1a275",
+    "name": "Belleville PS10",
+    "type": "School",
+    "address": "527 Belleville Ave, Belleville, NJ 07109-1307",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "63789821-4489-5b36-aeb6-0fcfde33d5ad",
+    "name": "Belleville PS3",
+    "type": "School",
+    "address": "230 Joralemon St, Belleville, NJ 07109-3210",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2c92ee31-429d-5b72-a26c-6f0483cc9732",
+    "name": "Belleville PS4",
+    "type": "School",
+    "address": "30 Magnolia Street, Belleville, NJ 07109-3210",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9d6a4e66-5748-5c98-bc69-766a0df0a379",
+    "name": "Belleville PS5",
+    "type": "School",
+    "address": "149 Adelaide St, Belleville, NJ 07109-2207",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d904c9ba-c448-5e15-b04b-006dedfc3088",
+    "name": "Belleville PS7",
+    "type": "School",
+    "address": "20 Passaic Ave, Belleville, NJ 07109-1864",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b78c4ac1-2717-5a40-9d5a-f40c8db4e05f",
+    "name": "Belleville PS8",
+    "type": "School",
+    "address": "183 Union Ave, Belleville, NJ 07109-1628",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3ee53f1c-ff07-5a4e-b7cd-2f619c02feab",
+    "name": "Belleville PS9",
+    "type": "School",
+    "address": "301 Ralph St, Belleville, NJ 07109-3309",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1547c55d-9f43-5805-8b4f-c2955db7939c",
+    "name": "Hornblower Early Childhood Center",
+    "type": "School",
+    "address": "229 Main Street, Belleville, NJ 07109",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "385278a3-6f96-584f-ba53-a43710fb35fc",
+    "name": "Berkeley Elementary School",
+    "type": "School",
+    "address": "351 Bloomfield Ave, Bloomfield, NJ 07003-4804",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9b19be87-f406-587d-a84c-f64d09c2dbec",
+    "name": "Bloomfield High School",
+    "type": "School",
+    "address": "160 Broad Street, Bloomfield, NJ 07003-2628",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "13c6f53f-9fbe-5f7f-a727-1ddfa0294e15",
+    "name": "Bloomfield Middle School",
+    "type": "School",
+    "address": "60 Huck Road, Bloomfield, NJ 07003-4144",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "27c6a720-f083-5411-8774-ec269cfb2e64",
+    "name": "Brookdale Elementary School",
+    "type": "School",
+    "address": "1230 Broad Street, Bloomfield, NJ 07003-3031",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "96592323-15a6-5d39-a84f-c0a1fee2a05b",
+    "name": "Carteret Elementary School",
+    "type": "School",
+    "address": "158 Grove Street, Bloomfield, NJ 07003-5650",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1ee8ba5e-0862-5216-937c-105ee410a535",
+    "name": "Demarest Elementary School",
+    "type": "School",
+    "address": "465 Broughton Ave, Bloomfield, NJ 07003-4232",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8d5f8a07-2e91-5aa1-a239-b3bdcec7ad9a",
+    "name": "Fairview Elementary School",
+    "type": "School",
+    "address": "376 Berkeley Avenue, Bloomfield, NJ 07003-5036",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4125afd0-9d8d-58c4-a931-a786bd08643f",
+    "name": "Franklin Elementary School",
+    "type": "School",
+    "address": "85 Curtis Street, Bloomfield, NJ 07003-3875",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0d384716-3cd4-5299-92f5-622158661019",
+    "name": "Oak View Elementary School",
+    "type": "School",
+    "address": "150 Garrabrant Avenue, Bloomfield, NJ 07003",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8a68ebcd-2311-522f-92c4-3f9a1444302c",
+    "name": "The Early Childhood Center @ Forest Glen",
+    "type": "School",
+    "address": "280 Davey Street, Bloomfield, NJ 07003",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b836c19f-4a33-5eb3-95c1-234b927433c5",
+    "name": "Watsessing Elementary School",
+    "type": "School",
+    "address": "71 Prospect Street, Bloomfield, NJ 07003-3223",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "be2f45d6-d727-5915-b2be-57a52107345a",
+    "name": "Grover Cleveland Middle School",
+    "type": "School",
+    "address": "36 Academy Rd, Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "870b71da-426d-5719-8402-e80c1611061a",
+    "name": "Harrison School",
+    "type": "School",
+    "address": "104 Gray Street, West Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "dcad91d2-a393-5de2-8eba-ad8e91ec3fd7",
+    "name": "James Caldwell High School",
+    "type": "School",
+    "address": "265 Westville Ave, West Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7b211c93-ea80-5873-bfbe-ec1d76d97f24",
+    "name": "Jefferson Elementary School",
+    "type": "School",
+    "address": "85 Prospect St, West Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5617b082-dd5a-543e-9db2-ae8f9181745c",
+    "name": "Lincoln Elementary School",
+    "type": "School",
+    "address": "18 Crane St, Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9a354361-3d25-5644-a65c-7230490d64bf",
+    "name": "Washington Elementary School",
+    "type": "School",
+    "address": "201 Central Ave, West Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2dabd88b-7a4b-510e-82ef-637a20da64cb",
+    "name": "Wilson Elementary School",
+    "type": "School",
+    "address": "71 Orton Rd, West Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0178708e-51d5-56f6-b1af-e062516ea0a0",
+    "name": "Cedar Grove High School",
+    "type": "School",
+    "address": "90 Rugby Road, Cedar Grove, NJ 07009",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3a30e17e-2049-50dd-a843-67e665318139",
+    "name": "Memorial Middle School",
+    "type": "School",
+    "address": "500 Ridge Road, Cedar Grove, NJ 07009",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "437c8a73-8212-5c10-84f7-67b96b4ca74b",
+    "name": "North End Elementary School",
+    "type": "School",
+    "address": "122 Stevens Avenue, Cedar Grove, NJ 07009-1147",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "45a212b8-a892-5ad7-a8f7-b4e5d2b73b56",
+    "name": "South End Elementary School",
+    "type": "School",
+    "address": "116 Harper Terrace, Cedar Grove, NJ 07009",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "121f46f6-6390-568c-96b8-ec58313573a7",
+    "name": "Althea Gibson Academy",
+    "type": "School",
+    "address": "490 William Street, William Street, East Orange, NJ 07017",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "78f7f6f2-2db4-571a-858e-edd32620ddff",
+    "name": "Benjamin Banneker Academy",
+    "type": "School",
+    "address": "500 South Clinton Street, East Orange, NJ 07018",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f08d4cce-170e-51b8-bebc-1f55ed70f83a",
+    "name": "Cicely L. Tyson Community Elementary School",
+    "type": "School",
+    "address": "45 North Arlington Street, East Orange, NJ 07017",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e3f80edb-6017-5a62-8db1-5a89085f200e",
+    "name": "Cicely L. Tyson Community Middle/high School",
+    "type": "School",
+    "address": "35 Winans Street, East Orange, NJ 07017",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "293bf8a8-f3f4-567d-8e7b-54d1937a3fc1",
+    "name": "Dionne Warwick Institute",
+    "type": "School",
+    "address": "120 Central Ave, East Orange, NJ 07018-3939",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2d493126-a668-5f57-afc6-98e61e4849f3",
+    "name": "East Orange Campus High School",
+    "type": "School",
+    "address": "344 Prospect Street, East Orange, NJ 07017",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "80dc932d-aa08-5a41-8862-08005bd99dde",
+    "name": "East Orange Stem Academy High School",
+    "type": "School",
+    "address": "129 Renshaw Avenue, East Orange, NJ 07017-3308",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2d29b3c2-cc68-5073-bbef-9ed6a923e09c",
+    "name": "Ecole Toussaint Louverture",
+    "type": "School",
+    "address": "330 Central Ave, East Orange, NJ 07018-2802",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e5904686-5dff-5d4c-a5f9-059676c71df7",
+    "name": "Edward T. Bowser, Sr. School Of Excellence",
+    "type": "School",
+    "address": "180 Lincoln Street, East Orange, NJ 07017-2503",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4ca4619a-e860-5960-a906-586ea824f065",
+    "name": "Gordon Parks Academy",
+    "type": "School",
+    "address": "98 Greenwood Ave, East Orange, NJ 07017-5106",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "85c45aed-e947-52a6-bebe-6604eb4ddaa3",
+    "name": "J. Garfield Jackson Sr. Academy",
+    "type": "School",
+    "address": "106 Prospect Street, East Orange, NJ 07017-2203",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "112f6da2-6e8f-5a58-adb0-959e2edf9670",
+    "name": "John L. Costley Middle School",
+    "type": "School",
+    "address": "116 Hamilton St, East Orange, NJ 07017-2912",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ff79cc4b-7658-5544-b563-dde7cfa95a67",
+    "name": "Langston Hughes Elementary School",
+    "type": "School",
+    "address": "160 Rhode Island Avenue, East Orange, NJ 07018-2438",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c7583adc-07d3-55ba-91ce-8c3c2cf43ba1",
+    "name": "Mildred Barry Garvin Elementary",
+    "type": "School",
+    "address": "1 Grove Place, East Orange, NJ 07017-4706",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7a33ad15-ac89-5ca6-9091-324d1cbc34db",
+    "name": "Patrick F. Healy Middle School",
+    "type": "School",
+    "address": "116 Hamilton St, East Orange, NJ 07017-2912",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "da6e95e5-372e-5041-9f7b-1ca75ddd16b6",
+    "name": "Shelia Y. Oliver Academy",
+    "type": "School",
+    "address": "404 North Grove Street, East Orange, NJ 07017-4518",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c75821c7-8351-5d86-b5a5-4d1bf60354a0",
+    "name": "Sojourner Truth Middle School",
+    "type": "School",
+    "address": "116 Hamilton St, East Orange, NJ 07017-2912",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f2cd762b-d164-5896-a405-af770e5e4bbe",
+    "name": "Wahlstrom Early Childhood Academy",
+    "type": "School",
+    "address": "340 Prospect Street, East Orange, NJ 07017",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d7fa5cee-0058-5658-9152-49b212517c27",
+    "name": "Whitney E. Houston Academy",
+    "type": "School",
+    "address": "215 Dodd St, East Orange, NJ 07017-2106",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e23b4cdb-4c14-5dee-8930-2fbace394aab",
+    "name": "Essex County Donald M. Payne, Sr. School Of Technology",
+    "type": "School",
+    "address": "498-544 West Market St, Newark, NJ 07107-1218",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e776aede-37df-543d-bdff-a9606fdf4e6f",
+    "name": "Essex County Newark Tech",
+    "type": "School",
+    "address": "91 West Market St, Newark, NJ 07103",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7b24ece5-d725-55af-9826-f14aad486cc0",
+    "name": "Essex County West Caldwell Tech",
+    "type": "School",
+    "address": "620 Passaic Ave, West Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ff4cfbe6-dd3e-50bd-bf37-59f84174acf3",
+    "name": "Essex Fells Elementary School",
+    "type": "School",
+    "address": "102 Hawthorne Rd, Essex Fells, NJ 07021-1120",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "264903ec-790f-5cdb-978b-bbb86c0a798f",
+    "name": "Essex Campus Academy",
+    "type": "School",
+    "address": "369 Passaic Avenue, Fairfield, NJ 07004",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e34c78d3-ba66-534b-ad25-11f38eb7e9cc",
+    "name": "Essex High School",
+    "type": "School",
+    "address": "369 Passaic Avenue, Fairfield, NJ 07004",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5336de5e-6ab8-55a6-a0f2-6f29037f4096",
+    "name": "Essex Junior Academy",
+    "type": "School",
+    "address": "369 Passaic Avenue, Fairfield, NJ 07004",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "be44fcb2-173b-519e-b290-6940415cb46a",
+    "name": "Adlai E. Stevenson School",
+    "type": "School",
+    "address": "15 Knoll Road, Fairfield, NJ 07004",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6449dd10-281e-51e8-8029-cc3feea46393",
+    "name": "Winston S. Churchill School",
+    "type": "School",
+    "address": "233 Fairfield Road, Fairfield, NJ 07004",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0cd744ca-0f88-5dfd-950b-6f837f4f8783",
+    "name": "Central School",
+    "type": "School",
+    "address": "180 Hillside Ave, Glen Ridge, NJ 07028",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "393943e5-509b-592e-af67-f5e163503cf0",
+    "name": "Forest Avenue School",
+    "type": "School",
+    "address": "287 Forest Ave, Glen Ridge, NJ 07028-1818",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3340eb0b-bd55-5271-a9eb-67f7449a50e1",
+    "name": "Glen Ridge High School",
+    "type": "School",
+    "address": "200 Ridgewood Ave, Glen Ridge, NJ 07028-1228",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d44d1582-351a-58ef-8906-047d35366fcc",
+    "name": "Linden Avenue School",
+    "type": "School",
+    "address": "205 Linden Ave, Glen Ridge, NJ 07028",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d49f4ffc-03a6-5bb1-8f33-0fc2c6f1a640",
+    "name": "Ridgewood Avenue School",
+    "type": "School",
+    "address": "235 Ridgewood Ave, Glen Ridge, NJ 07028-1019",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8845fa62-5dfd-5aae-90d8-7c74cd8fa40c",
+    "name": "Augusta Preschool Academy",
+    "type": "School",
+    "address": "97 Augusta Street, Irvington, NJ 07111",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "95d10683-c12d-5657-97fb-aa459a63377e",
+    "name": "Berkeley Terrace Elementary School",
+    "type": "School",
+    "address": "787 Grove Street, Irvington, NJ 07111-3605",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bbb8f8d2-7882-54ab-98c2-b31a8000a63a",
+    "name": "Chancellor Avenue Elementary School",
+    "type": "School",
+    "address": "844 Chancellor Avenue, Irvington, NJ 07111",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8b9b5dd7-044d-5044-8f33-af3b3ee60537",
+    "name": "Florence Avenue Elementary School",
+    "type": "School",
+    "address": "1324 Springfield Avenue, Irvington, NJ 07111-1916",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2fa522d4-0915-51a4-b136-b3530401eaf1",
+    "name": "Grove Street Elementary School",
+    "type": "School",
+    "address": "602 Grove Street, Irvington, NJ 07111-4531",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b9513128-a513-55e6-87d9-e49b31d23292",
+    "name": "Irvington High School",
+    "type": "School",
+    "address": "1253 Clinton Avenue, Irvington, NJ 07111-2437",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bd890923-9ae9-5be1-adab-d1a4096e5696",
+    "name": "Madison Avenue",
+    "type": "School",
+    "address": "173 Madison Avenue, Irvington, NJ 07111",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9b0efc50-2f91-5c35-b877-a7ebf8bbdc6c",
+    "name": "Mt. Vernon Avenue Elementary School",
+    "type": "School",
+    "address": "54 Mt Vernon Avenue, Irvington, NJ 07111",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "15be69b6-df53-59e5-8ced-5e9d34ce926d",
+    "name": "Thurgood Marshall Elementary School",
+    "type": "School",
+    "address": "141-181 Montgomery Avenue, Irvington, NJ 07111",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e885a62f-2754-5961-b070-9d71dd48bee7",
+    "name": "Union Avenue Middle School",
+    "type": "School",
+    "address": "427 Union Avenue, Irvington, NJ 07111-2811",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7296ae6b-9f36-5f91-924a-691a68e6d01e",
+    "name": "University Elementary School",
+    "type": "School",
+    "address": "1 University Place, Irvington, NJ 07111",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6d6a9e44-1981-5541-8d80-ae60e1a61f7b",
+    "name": "University Middle School",
+    "type": "School",
+    "address": "255 Myrtle Avenue, Irvington, NJ 07111-2621",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a64f7d15-980b-50fd-8fe7-bec138749da0",
+    "name": "Burnet Hill Elementary School",
+    "type": "School",
+    "address": "25 Byron Place, Livingston, NJ 07039",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3cb811f2-d52e-5e06-bdcf-3df934c0d527",
+    "name": "Collins Elementary School",
+    "type": "School",
+    "address": "67 Martin Rd, Livingston, NJ 07039-4631",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "eda1c9a6-3a78-5211-ab5f-faa1a282c94c",
+    "name": "Harrison Elementary School",
+    "type": "School",
+    "address": "148 North Livingston Ave, Livingston, NJ 07039-4631",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b12b5ae2-9c30-5f3d-9ea2-19b6064f16e3",
+    "name": "Heritage Middle School",
+    "type": "School",
+    "address": "20 Foxcroft Dr, Livingston, NJ 07039-2614",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "aaa62b8f-ee7d-5de7-b407-08f04547d00d",
+    "name": "Hillside Elementary School",
+    "type": "School",
+    "address": "98 Belmont Drive, Livingston, NJ 07039",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f08cdbf1-4383-57a5-91c8-aa96eba25475",
+    "name": "Livingston High School",
+    "type": "School",
+    "address": "30 Robert Harp Drive, Livingston, NJ 07039",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2d57d5ae-6ab4-5257-ae12-6df13e471c19",
+    "name": "Mount Pleasant Elementary School",
+    "type": "School",
+    "address": "11 Broadlawn Dr, Livingston, NJ 07039-3117",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c532754f-88e9-5f51-955a-050bbe984333",
+    "name": "Mount Pleasant Middle School",
+    "type": "School",
+    "address": "11 Broadlawn Dr, Livingston, NJ 07039-3117",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3fb3fa9b-d74f-5800-b9b8-0c6d24c2072e",
+    "name": "Riker Hill Elementary School",
+    "type": "School",
+    "address": "31 Blackstone Dr, Livingston, NJ 07039-1801",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7411cb06-1c82-5833-88a1-5ef071f9b89e",
+    "name": "Deerfield School",
+    "type": "School",
+    "address": "26 Troy Lane, Short Hills, NJ 07078",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e4dda1dc-6f8b-577e-8af6-db42a85e7750",
+    "name": "Glenwood School",
+    "type": "School",
+    "address": "325 Taylor Road South, Short Hills, NJ 07078",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "401005f1-e23c-5bff-aa03-14b5ef4b4ba6",
+    "name": "Hartshorn School",
+    "type": "School",
+    "address": "400 Hartshorn Drive, Short Hills, NJ 07078",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "906b298a-3499-5950-9531-c035a397c128",
+    "name": "Millburn High School",
+    "type": "School",
+    "address": "462 Millburn Ave, Millburn, NJ 07041-1210",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "35f6ae96-fa43-5a6c-8cc8-a0f9106b9d23",
+    "name": "Millburn Middle School",
+    "type": "School",
+    "address": "25 Old Short Hills Rd, Millburn, NJ 07041",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f5c60007-3443-5770-8d0b-7ae445afe05a",
+    "name": "South Mountain School",
+    "type": "School",
+    "address": "2 Southern Slope Drive, Millburn, NJ 07041",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "05ac0ba9-6c2a-5c61-b679-dc2c168e2e6b",
+    "name": "Washington School",
+    "type": "School",
+    "address": "71 Spring Street, Millburn, NJ 07041",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "01942f94-876c-5c1a-b332-234ddb13d2d3",
+    "name": "Wyoming School",
+    "type": "School",
+    "address": "55 Myrtle Ave, Millburn, NJ 07041",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "df2c5218-9906-5318-9737-bc51802c8336",
+    "name": "Bradford Elementary School",
+    "type": "School",
+    "address": "87 Mt Hebron Rd, Upper Montclair, NJ 07042",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9b98a2b1-53f5-53ae-9af3-d0dbf34f2af7",
+    "name": "Buzz Aldrin Middle School",
+    "type": "School",
+    "address": "173 Bellevue Ave, Upper Montclair, NJ 07042",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "48b65410-ed1e-5376-8564-49e3bb0a85cd",
+    "name": "Charles H. Bullock School",
+    "type": "School",
+    "address": "55 Washington Street, Montclair, NJ 07042",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8d744db8-97de-572c-87fd-9d7f8c09b742",
+    "name": "Edgemont Elementary School",
+    "type": "School",
+    "address": "20 Edgemont Rd, Montclair, NJ 07042-2305",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "56455cf4-862d-52fc-813f-ec825ac4c573",
+    "name": "Glenfield Middle School",
+    "type": "School",
+    "address": "25 Maple Ave, Montclair, NJ 07042-4513",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2012ab8a-eb48-5082-9746-d024ddfd17c3",
+    "name": "Hillside Elementary School",
+    "type": "School",
+    "address": "54 Orange Rd, Montclair, NJ 07042-2110",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ac7329a0-0b1a-56c6-9e2b-357da770e8a4",
+    "name": "Montclair High School",
+    "type": "School",
+    "address": "100 Chestnut St, Montclair, NJ 07042-2908",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1da477a7-e398-5d2a-8059-29a1ade650e7",
+    "name": "Nishuane Elementary School",
+    "type": "School",
+    "address": "32 Cedar Ave, Montclair, NJ 07042-3110",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a97d629f-4b90-5d0d-8dbc-a4705f0caa51",
+    "name": "Northeast Elementary School",
+    "type": "School",
+    "address": "603 Grove St, Upper Montclair, NJ 07042",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1d123759-5f27-5b5e-b91c-c77cf6d548d2",
+    "name": "Renaissance Middle School At The Rand Building",
+    "type": "School",
+    "address": "176 North Fullerton Avenue, Montclair, NJ 07042",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "aaa12971-c7dd-5f60-9891-98ff16eb4eb9",
+    "name": "Watchung Elementary School",
+    "type": "School",
+    "address": "14 Garden St, Montclair, NJ 07042-4116",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "89a16a2e-8372-5d91-b644-0b05b5a474c6",
+    "name": "Abington Avenue School",
+    "type": "School",
+    "address": "209 Abington Avenue, Newark, NJ 07107",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3dcf6ad6-830c-5a0b-91ec-98cd8eae40fb",
+    "name": "American History High School",
+    "type": "School",
+    "address": "74 Montgomery St, Newark, NJ 07103",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8c69c46a-a27f-59f8-9a18-e6ed84de6cbd",
+    "name": "Ann Street School",
+    "type": "School",
+    "address": "30 Ann St, Newark, NJ 07105-3108",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "41f40936-98e6-51c6-92ee-4670938a60bc",
+    "name": "Arts High School",
+    "type": "School",
+    "address": "550 M L King Blvd, Newark, NJ 07102-1214",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0ea599ab-2422-5d38-9b88-c744c4ba6b1a",
+    "name": "Avon Avenue School",
+    "type": "School",
+    "address": "219 Avon Ave, Newark, NJ 07108-2801",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b0080602-384e-5a0e-8c20-ef21460e365b",
+    "name": "Bard Early College High School",
+    "type": "School",
+    "address": "321 Bergen Street, Newark, NJ 07103",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9be13f33-e3ac-5168-a49c-823818fbfa30",
+    "name": "Barringer High School",
+    "type": "School",
+    "address": "90 Parker St, Newark, NJ 07104-1028",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bdcb9d71-e1df-5485-b24d-63c1ca075859",
+    "name": "Belmont Runyon Elementary School",
+    "type": "School",
+    "address": "1 Belmont Runyon Way, Newark, NJ 07108-2406",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b77048a3-6ec3-5d9e-b979-d70ef20842d6",
+    "name": "Branch Brook School",
+    "type": "School",
+    "address": "228 Ridge St, Newark, NJ 07104-1204",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c4d8d28b-ffa2-5a9c-b73f-7eb32878ed84",
+    "name": "Bruce Street School",
+    "type": "School",
+    "address": "333 Clinton Pl, Newark, NJ 07112-1563",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c81f28a9-c201-5ee3-9e20-4a276d6eb653",
+    "name": "Camden Street Elementary School",
+    "type": "School",
+    "address": "281 Camden St, Newark, NJ 07103-2635",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "aca1ba7e-0166-50e3-a624-23bc1ac12391",
+    "name": "Central High School",
+    "type": "School",
+    "address": "246 18TH Avenue, Newark, NJ 07108",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e79c3fd1-26b6-568c-8a4a-1cf31b9de65c",
+    "name": "Chancellor Avenue School",
+    "type": "School",
+    "address": "321 Chancellor Ave, Newark, NJ 07112-1201",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e43f9604-bd40-5b98-9611-d04003f223a1",
+    "name": "Dr. E. Alma Flagg School",
+    "type": "School",
+    "address": "150 Third St, Newark, NJ 07107",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "dac09a07-f95a-5280-aa29-224b9168fb5e",
+    "name": "Dr. William H. Horton Elementary School",
+    "type": "School",
+    "address": "291 N 7TH St, Newark, NJ 07107-1799",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "084e27fc-1dc4-5518-aab0-4ca53ba832d8",
+    "name": "Eagle Academy For Young Men Of Newark",
+    "type": "School",
+    "address": "279 Chancellor Avenue, Newark, NJ 07112",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "81bd4ac8-3c3c-5e40-882d-4e084c3e10fd",
+    "name": "East Side High School",
+    "type": "School",
+    "address": "238 Van Buren St, Newark, NJ 07105-2512",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "088172f5-98c2-55d7-97ff-be5b6bec00db",
+    "name": "East Ward Elementary School",
+    "type": "School",
+    "address": "104 Oliver Street, Newark, NJ 07105",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e35962fa-87cb-5d14-9a76-68f79ae08f4d",
+    "name": "Elliott Street Elementary School",
+    "type": "School",
+    "address": "721 Summer Avenue, Newark, NJ 07104",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "db3410be-84b2-5eab-9e04-cea1b3fb0097",
+    "name": "First Avenue School",
+    "type": "School",
+    "address": "214 First Ave, Newark, NJ 07107-1802",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6524231c-4801-5109-819a-61d76f25954b",
+    "name": "Fourteenth Avenue School",
+    "type": "School",
+    "address": "26 Speedway Ave, Newark, NJ 07106",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0a0b55f8-8430-5ad0-bbe0-2dd579d484e0",
+    "name": "Franklin Elementary School",
+    "type": "School",
+    "address": "42 Park Ave, Newark, NJ 07104-1044",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e9b1e1e5-e767-5759-9db4-84cbc53a7d0b",
+    "name": "George Washington Carver Elementary School",
+    "type": "School",
+    "address": "333 Clinton Pl, Newark, NJ 07112-1563",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cfab058c-dcb0-5b81-bf23-1865b26a69c3",
+    "name": "Grover Cleveland Elementary School",
+    "type": "School",
+    "address": "388 Bergen St, Newark, NJ 07108",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "88e7a4bb-6f63-5070-b1ee-0f702c630dfc",
+    "name": "Harriet Tubman Elementary School",
+    "type": "School",
+    "address": "504 S Tenth St, Newark, NJ 07103-1802",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "093a22c2-f5e2-558a-a077-1b41787ee605",
+    "name": "Hawkins Street School",
+    "type": "School",
+    "address": "8 Hawkins St, Newark, NJ 07105-3918",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f22ae91b-7b8e-541f-9730-badf57963571",
+    "name": "Hawthorne Avenue School",
+    "type": "School",
+    "address": "428 Hawthorne Ave, Newark, NJ 07108",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e08c1684-6c58-557f-9c82-dcb541ea5c1f",
+    "name": "Ironbound Academy Elementary School",
+    "type": "School",
+    "address": "366 East Kinney Street, Newark, NJ 07105",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "709f395f-a36e-557d-8bad-238d5f8db3ff",
+    "name": "Ivy Hill Elementary School",
+    "type": "School",
+    "address": "107 Ivy Street, Newark, NJ 07106",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "aa7f84cb-92a6-52bf-88de-05dc2a88fa14",
+    "name": "John F. Kennedy School",
+    "type": "School",
+    "address": "311 S Tenth St, Newark, NJ 07103-2114",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cc83ec54-0524-557d-80f2-90a0a523a891",
+    "name": "Lafayette Street School",
+    "type": "School",
+    "address": "205 Lafayette St, Newark, NJ 07105-1843",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1edd6ead-8c90-583a-afdd-00fba3518777",
+    "name": "Lincoln Elementary School",
+    "type": "School",
+    "address": "87 Richelieu Ter, Newark, NJ 07106-2419",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b5342048-f714-59ec-a118-f716cd6f9a80",
+    "name": "Louise A. Spencer Elementary School",
+    "type": "School",
+    "address": "66 Muhammad Ali Avenue, Newark, NJ 07108-2914",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9b6217e9-3f1e-5b18-8778-a550a2fe1630",
+    "name": "Luis Muñoz Marin Elementary School",
+    "type": "School",
+    "address": "663 Broadway, Newark, NJ 07104",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0d83f610-5d2d-5a6e-acc7-e1c7b157eb24",
+    "name": "Malcolm X Shabazz High School",
+    "type": "School",
+    "address": "80 Johnson Ave, Newark, NJ 07108",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2a72bf5a-7767-5a5d-9222-5b4f05c3680f",
+    "name": "Mckinley Elementary School",
+    "type": "School",
+    "address": "1 Colonnade Pl, Newark, NJ 07104-1810",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "db9a9824-51cd-5cd3-9e74-2c4c22c846d7",
+    "name": "Michelle Obama Elementary School",
+    "type": "School",
+    "address": "186 14th Avenue, Newark, NJ 07103",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0e55ea92-a1a2-5524-a1f9-ba2fdc146923",
+    "name": "Mt Vernon Place School",
+    "type": "School",
+    "address": "142 Mount Vernon Pl, Newark, NJ 07106-3303",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2e51c8b5-3727-56ee-a481-9f84c2558b0b",
+    "name": "NJ Regional Day School - Newark",
+    "type": "School",
+    "address": "334 Lyons Ave, Newark, NJ 07112-1441",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3e563107-b77a-57f2-8976-1108f5dc34ed",
+    "name": "Nelson Mandela Elementary School",
+    "type": "School",
+    "address": "74 Hartford St, Newark, NJ 07103",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "65696640-fa5e-501d-8946-90bcce718327",
+    "name": "Newark Evening Educational Center",
+    "type": "School",
+    "address": "150 Newton St, Newark, NJ 07103",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "31562e39-8ca4-50f3-bb30-05abdbdd3ec5",
+    "name": "Newark Sch Of Data Science And Information Technology",
+    "type": "School",
+    "address": "746 Sanford Avenue, Newark, NJ 07106",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "637e4433-dbb5-5a33-9093-8b3faeca3810",
+    "name": "Newark School Of Architecture & Interior Design",
+    "type": "School",
+    "address": "155 Jefferson Street, Newark, NJ 07105",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "259ce851-5bfe-5cca-b0f5-f8fd585a29b5",
+    "name": "Newark School Of Fashion & Design",
+    "type": "School",
+    "address": "239 Woodside Avenue, Newark, NJ 07104",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8cc9ee05-a4cf-5f33-9425-2cd48d958e8e",
+    "name": "Newark School Of Global Studies",
+    "type": "School",
+    "address": "24 Crane Street, Newark, NJ 07104",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b771d54f-6a47-523d-b496-09c15a2550f9",
+    "name": "Newark Vocational High School",
+    "type": "School",
+    "address": "301 West Kinney St, Newark, NJ 07103-2927",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1e0f7588-a15d-5e95-aaf4-eff90ef114db",
+    "name": "Oliver Street School",
+    "type": "School",
+    "address": "86 Oliver St, Newark, NJ 07105",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "85bcb335-5f89-5ab4-ae17-49f085a4532a",
+    "name": "Park Elementary School",
+    "type": "School",
+    "address": "120 Manchester Place, Newark, NJ 07104",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "39a43b43-1bf3-581c-ba99-3ff76785f1e7",
+    "name": "Peshine Avenue School",
+    "type": "School",
+    "address": "433 Peshine Avenue, Newark, NJ 07112",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9b5952a0-50c7-5400-8014-a9ea8e5eab14",
+    "name": "Quitman Street School",
+    "type": "School",
+    "address": "21 Quitman St, Newark, NJ 07103-4105",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9b73d0c5-82f8-50d9-9eaa-d30a342f96f8",
+    "name": "Rafael Hernandez School",
+    "type": "School",
+    "address": "345 Broadway, Newark, NJ 07104",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "72661d35-8919-5888-a527-256aec105a37",
+    "name": "Ridge Street School",
+    "type": "School",
+    "address": "735 Ridge St, Newark, NJ 07104-2323",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0adc4df1-886a-5d21-a673-70a20f907bfb",
+    "name": "Roberto Clemente Elementary School",
+    "type": "School",
+    "address": "257 Summer Ave, Newark, NJ 07104-2717",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9e1ec33b-6786-51ba-b253-04c161506dd7",
+    "name": "Salome Ureña Elementary School",
+    "type": "School",
+    "address": "284 First Avenue, Newark, NJ 07107",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "29c81776-135d-5ffe-a382-0f1dd25c631c",
+    "name": "Science Park High School",
+    "type": "School",
+    "address": "260 Norfolk Street, Newark, NJ 07103",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "23f40f27-88ee-5502-998b-84f6e2d6dec7",
+    "name": "Sir Isaac Newton Elementary School",
+    "type": "School",
+    "address": "150 Newton Street, Newark, NJ 07103-2639",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8dcf1f92-3c33-5668-b613-a3051a46a06f",
+    "name": "South 17th Street School",
+    "type": "School",
+    "address": "619 S Seventeenth St, Newark, NJ 07103-1159",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "511ae5b6-6042-5b85-90e8-2034c79524ad",
+    "name": "South Street Elementary School",
+    "type": "School",
+    "address": "44-48 Hermon Street, Newark, NJ 07105",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "884c7c4a-d590-5a5a-b95c-b4a6ae66bafc",
+    "name": "Speedway Avenue School",
+    "type": "School",
+    "address": "701 South Orange Avenue, Newark, NJ 07106-2209",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9ea875da-1041-5683-ad84-b244c272441e",
+    "name": "Sussex Avenue School",
+    "type": "School",
+    "address": "307 Sussex Ave, Newark, NJ 07107-3133",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "095ebf5e-422e-514f-bf98-1729454c45c1",
+    "name": "Technology High School",
+    "type": "School",
+    "address": "223 Broadway, Newark, NJ 07104",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "79985570-8995-534a-82bb-0ee98eadd74e",
+    "name": "Thirteenth Avenue School",
+    "type": "School",
+    "address": "359 Thirteenth Ave, Newark, NJ 07103-2125",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3b28f190-8168-5f1f-b019-39ab9f61aebb",
+    "name": "University High School",
+    "type": "School",
+    "address": "55 Clinton Pl, Newark, NJ 07108-1221",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "138acb8f-86fb-5133-a0c0-97fb365ec2e2",
+    "name": "Weequahic High School",
+    "type": "School",
+    "address": "279 Chancellor Ave, Newark, NJ 07112-1201",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1ef3a691-d075-5d9f-b48e-6a4e69abd13e",
+    "name": "West Side High School",
+    "type": "School",
+    "address": "403 South Orange Avenue, Newark, NJ 07103",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ff6bcd51-6a51-5303-a097-dec7958be90f",
+    "name": "Wilson Avenue School",
+    "type": "School",
+    "address": "19 Wilson Ave, Newark, NJ 07105",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bf100b60-2c61-5e00-88c9-7e0d0fb3f477",
+    "name": "Gould/mountain Elementary School",
+    "type": "School",
+    "address": "132 Gould Ave, N Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "121f2e6f-9f86-5f44-8d49-bfac0a696398",
+    "name": "Grandview Elementary School",
+    "type": "School",
+    "address": "35 Hamilton Dr East, N Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5b3d3cc6-dee5-54dc-841b-043e0b3cdbb1",
+    "name": "John H. Walker Middle School",
+    "type": "School",
+    "address": "325 Franklin Ave, Nutley, NJ 07110-2735",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5237f80f-edcb-5870-a5aa-b93e5584fe83",
+    "name": "Lincoln School",
+    "type": "School",
+    "address": "301 Harrison St, Nutley, NJ 07110-2614",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f8f42d6e-8b9d-5cc9-b23e-4a6961e2e8e2",
+    "name": "Nutley Early Childhood Center",
+    "type": "School",
+    "address": "777 Bloomfield Avenue, Nutley, NJ 07110-1023",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a8f55ed5-8cbd-51e2-a9d5-edbb2779184c",
+    "name": "Nutley High School",
+    "type": "School",
+    "address": "300 Franklin Ave, Nutley, NJ 07110-2734",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "244d53cb-4af0-565d-8034-250e081ef37e",
+    "name": "Radcliffe School",
+    "type": "School",
+    "address": "379 Bloomfield Ave, Nutley, NJ 07110-2252",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "db25114a-41fc-5f6d-8b9c-fe06adc13bab",
+    "name": "Spring Garden School",
+    "type": "School",
+    "address": "59 S Spring Garden Ave, Nutley, NJ 07110-1527",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f0f62afe-554e-52b5-bfe3-378d3f4ac0ac",
+    "name": "Washington School",
+    "type": "School",
+    "address": "155 Washington Ave, Nutley, NJ 07110-3501",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9eb3c3dd-20de-5491-8290-7fae9bd07b2f",
+    "name": "Yantacaw School",
+    "type": "School",
+    "address": "20 Yantacaw Place, Nutley, NJ 07110",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "286e7e67-e2d8-5b01-9a69-8c408f60013c",
+    "name": "Central Elementary School",
+    "type": "School",
+    "address": "33 Cleveland Street, Orange, NJ 07050",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a3d5ab81-31bd-5060-8a88-67a722d53bec",
+    "name": "Cleveland Street Elementary School",
+    "type": "School",
+    "address": "355 Cleveland St, Orange, NJ 07050-1916",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "52e4b6e2-fdf1-594b-aa60-5e75103b79af",
+    "name": "Forest Street Community Elementary School",
+    "type": "School",
+    "address": "651 Forest St, Orange, NJ 07050",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "54b75ca2-1d95-5fa7-9b23-372e2cd82898",
+    "name": "Heywood Avenue Elementary School",
+    "type": "School",
+    "address": "421 Heywood Ave, Orange, NJ 07050-2006",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6f281181-f3fa-53f1-b263-e71f7b171838",
+    "name": "Lincoln Avenue Elementary School",
+    "type": "School",
+    "address": "216 Lincoln Ave, Orange, NJ 07050-2605",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "09b31eb7-e5fd-52b0-b320-ed8ac17647ad",
+    "name": "Oakwood Avenue Community School",
+    "type": "School",
+    "address": "135 Oakwood Ave, Orange, NJ 07050-3909",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5ba49f50-f1e5-57a6-bf6e-9727e591763d",
+    "name": "Orange Early Childhood Center",
+    "type": "School",
+    "address": "397 Park Avenue, Orange, NJ 07050",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d61c3abc-d711-5870-b962-c1a0cd848adc",
+    "name": "Orange High School",
+    "type": "School",
+    "address": "400 Lincoln Ave, Orange, NJ 07050-2208",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bf723b39-8672-56ed-98fe-0d5453a6c307",
+    "name": "Orange Preparatory Academy School Of Inquiry And Innovation",
+    "type": "School",
+    "address": "400 Central Ave, Orange, NJ 07050-2420",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bad9020d-f8fa-5730-8744-c9bc200ec0d6",
+    "name": "Park Avenue Elementary School",
+    "type": "School",
+    "address": "231 Park Ave, Orange, NJ 07050-4102",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8a4e7646-08c2-5582-894d-27ed83ebd9fb",
+    "name": "Rosa Parks Community School",
+    "type": "School",
+    "address": "369 Main Street, Orange, NJ 07050",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4cc75061-52e2-509c-a429-561342e17edd",
+    "name": "Stem Innovation Academy Of The Oranges",
+    "type": "School",
+    "address": "445 Scotland Road, South Orange, NJ 07079",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "be2a0f64-2850-5b30-bd29-e08fd107a4a5",
+    "name": "Lester C Noecker",
+    "type": "School",
+    "address": "100 Passaic Ave, Roseland, NJ 07068",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4b4f8c46-cd68-5fb1-be9b-ed668979c10a",
+    "name": "Clinton Elementary School",
+    "type": "School",
+    "address": "27 Berkshire Rd, Maplewood, NJ 07040-1429",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d67aad19-48de-590d-8351-4afe989b11f1",
+    "name": "Columbia High School",
+    "type": "School",
+    "address": "17 Parker Ave, Maplewood, NJ 07040-1327",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "78567fc7-5ac7-529e-8d68-37a4f8e4963f",
+    "name": "Delia Bolden Elementary School",
+    "type": "School",
+    "address": "518 Ridgewood Rd, Maplewood, NJ 07040-2158",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "292e3c68-fc49-5b05-a6eb-c2a339026737",
+    "name": "Maplewood Middle School",
+    "type": "School",
+    "address": "7 Burnett St, Maplewood, NJ 07040-2620",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "904334de-0ece-5f60-9a67-2a36240416ca",
+    "name": "Marshall Elementary School",
+    "type": "School",
+    "address": "262 Grove Rd, S Orange, NJ 07079-2367",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0a5e1c17-4200-5413-91cf-7afb2365b90c",
+    "name": "Montrose Early Childhood Center",
+    "type": "School",
+    "address": "358 Clark Street, South Orange, NJ 07079",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "aad638c9-b4e6-5233-9924-bf7fc7ba5aaf",
+    "name": "Seth Boyden Elementary Demonstration School",
+    "type": "School",
+    "address": "274 Boyden Ave, Maplewood, NJ 07040-3010",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7adf504c-1f95-52ae-8d5e-00dc8feeff49",
+    "name": "South Mountain Elementary School",
+    "type": "School",
+    "address": "444 West South Orange Ave, S Orange, NJ 07079-1234",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9d2a5d1b-5638-55ca-95e1-4db22438c59a",
+    "name": "South Orange Middle School",
+    "type": "School",
+    "address": "70 North Ridgewood Road, S Orange, NJ 07079-1518",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1524aefd-b66c-54a8-a535-3a0cd5aeb347",
+    "name": "Tuscan Elementary School",
+    "type": "School",
+    "address": "25 Harvard Ave, Maplewood, NJ 07040-3109",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "12ab8b5d-2466-56bd-a055-6b0b0ca758a3",
+    "name": "Brookdale Avenue School",
+    "type": "School",
+    "address": "14 Brookdale Court, Verona, NJ 07044-2431",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1cda6699-ef55-51fd-bfa8-f93e613b3bc2",
+    "name": "Forest Avenue School",
+    "type": "School",
+    "address": "118 Forest Ave, Verona, NJ 07044-1224",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "88ced562-5da4-5e68-8be0-895ab013d16a",
+    "name": "Frederic N. Brown Elementary School",
+    "type": "School",
+    "address": "125 Grove Ave, Verona, NJ 07044-1621",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2818664b-5cf3-5991-b636-42af87a4d3a5",
+    "name": "Henry B. Whitehorne Middle School",
+    "type": "School",
+    "address": "600 Bloomfield Ave, Verona, NJ 07044-1817",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0e4ec686-b6d1-571d-91bc-dd305d1f3d08",
+    "name": "Laning Avenue School",
+    "type": "School",
+    "address": "18 Lanning Rd, Verona, NJ 07044-2510",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "267c61a2-928d-5f7b-b8b8-e3fdea6363bb",
+    "name": "Verona High School",
+    "type": "School",
+    "address": "151 Fairview Ave, Verona, NJ 07044-1320",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "df555e42-695e-57c0-baba-0401dffdf39c",
+    "name": "West Essex High School",
+    "type": "School",
+    "address": "65 West Greenbrook Rd, North Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "26cc9ca7-926a-5ae2-b743-ea624b88c471",
+    "name": "West Essex Middle School",
+    "type": "School",
+    "address": "65 West Greenbrook Rd, North Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0eb608fc-362c-5004-b282-50bbbed93317",
+    "name": "Betty Maddalena Early Learning Center",
+    "type": "School",
+    "address": "747 Nothfield Avenue, West Orange, NJ 07052",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ddf98b34-ab70-59e2-b668-ebb8551c2eb0",
+    "name": "Edison Middle School",
+    "type": "School",
+    "address": "75 William St, W Orange, NJ 07052-5725",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "51ebd505-df42-5274-9ead-9d3e26f18aa0",
+    "name": "Gregory Elementary School",
+    "type": "School",
+    "address": "301 Gregory Ave, W Orange, NJ 07052-4439",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c91a1e1c-549b-5188-ad9d-8733a8292559",
+    "name": "Hazel Avenue Elementary School",
+    "type": "School",
+    "address": "45 Hazel Ave, W Orange, NJ 07052-4524",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "866f85b8-7dc6-5d29-b6c4-c915e04095d2",
+    "name": "Kelly Elementary School",
+    "type": "School",
+    "address": "555 Pleasant Valley Way, W Orange, NJ 07052-2803",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "40f5ec8b-748d-5640-8bae-f09917b11be8",
+    "name": "Liberty Middle School",
+    "type": "School",
+    "address": "1 Kelly Drive, West Orange, NJ 07052",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "de423eef-9723-5882-8afa-ec425cdc3f22",
+    "name": "Mount Pleasant Elementary School",
+    "type": "School",
+    "address": "9 Manger Road, West Orange, NJ 07052",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ea053256-db6d-5dba-9b4d-a46b21e902f2",
+    "name": "Redwood Elementary School",
+    "type": "School",
+    "address": "75 Redwood Ave, W Orange, NJ 07052-3623",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "92ec8966-7434-52a6-bdc2-6d5230f1a747",
+    "name": "Roosevelt Middle School",
+    "type": "School",
+    "address": "36 Gilbert Pl, W Orange, NJ 07052-3948",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "17fff0c5-334a-5821-8773-ab4cd2bfe35a",
+    "name": "St. Cloud Elementary School",
+    "type": "School",
+    "address": "71 Sheridan Ave, W Orange, NJ 07052-2635",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "eebea12f-127b-58c5-9418-1be9abd602d0",
+    "name": "Washington Elementary School",
+    "type": "School",
+    "address": "289 Main St, W Orange, NJ 07052-5615",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3e3f3f59-0205-5c2a-a63d-9764d88b0507",
+    "name": "West Orange Early Childhood Learning Center",
+    "type": "School",
+    "address": "242 Main Street, West Orange, NJ 07052",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "af050096-f9ea-5096-a8df-4d82aff2e2a4",
+    "name": "West Orange High School",
+    "type": "School",
+    "address": "51 Conforti Ave, West Orange, NJ 07052-2829",
+    "county": "Essex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0dc4fe30-b811-501b-a700-106909f9dcc9",
+    "name": "Abundant Life Academy",
+    "type": "School",
+    "address": "390 Washington Avenue, Nutley, NJ 07110",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "aaa327fc-0a3e-5265-97a8-affb62c7ae8d",
+    "name": "Alif Muhammad's Nia School",
+    "type": "School",
+    "address": "17 Academy St Suite 706, Suite 706, Newark, NJ 07102",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "741426c3-46fa-591a-8be6-b27d7898019e",
+    "name": "B'nai Jeshurun Early Childhood Cnt",
+    "type": "School",
+    "address": "1025 South Orange Avenue, Short Hills, NJ 07078",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "4aadc3ee-ce1a-56be-9c15-ad40226e8b37",
+    "name": "Buzzing Bees Academy",
+    "type": "School",
+    "address": "122 Brighton Ave., East Orange, NJ 07017",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "39b6884f-d7cd-5617-9018-a04c4b66a394",
+    "name": "Clark School",
+    "type": "School",
+    "address": "671 Park Ave, East Orange, NJ 07017",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "f23b0181-3a46-5706-9b5e-4de262d9e163",
+    "name": "Clinton Hill Community & Early Childhood Center",
+    "type": "School",
+    "address": "30 Demarest St., Newark, NJ 07112",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "582732ed-22ce-5ad7-80f8-54d5590488c8",
+    "name": "Elyon Learning Center Academy",
+    "type": "School",
+    "address": "16 Stratford Place, Newark, NJ 07108",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "e62613e3-81b7-552c-a6c8-260bc5949cea",
+    "name": "Far Brook School",
+    "type": "School",
+    "address": "52 Great Hills Road, Short Hills, NJ 07078",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "cd7724c4-7c43-5ec1-a184-48b2089a6b1b",
+    "name": "Fusion Academy",
+    "type": "School",
+    "address": "427 Bloomfield Ave., Montclair, NJ 07042",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "4a050100-0b87-503c-9095-ccc9e13c9638",
+    "name": "Golda Och Academy - Lower School",
+    "type": "School",
+    "address": "122 Gregory Avenue, West Orange, NJ 07052",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "105d0ad5-49df-53ed-ac9f-748cce31fe15",
+    "name": "Golda Och Academy - Upper School",
+    "type": "School",
+    "address": "1418 Pleasant Valley Way, West Orange, NJ 07052",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "f43f34bb-88b7-5d7a-8b21-02ef2e8e5976",
+    "name": "Good Shepherd Academy",
+    "type": "School",
+    "address": "24 Brookline Avenue, Nutley, NJ 07110",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "95c6a492-aab5-5a32-8bf6-1cf64b7123d7",
+    "name": "Harvest Children's Academy",
+    "type": "School",
+    "address": "913-917 Stuyvesant Avenue, Irvington, NJ 07111",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "140564ae-1231-5339-a49c-70af70aa7c84",
+    "name": "Ief - Al - Ghazaly Jr/sr High School",
+    "type": "School",
+    "address": "369 Passaic Avenue, Fairfield, NJ 07004",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "2e903934-f9b7-525c-a77c-82787058eae6",
+    "name": "Jamas Children's University",
+    "type": "School",
+    "address": "141 Hoffman Blvd., East Orange, NJ 07017",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "92abe44a-23f9-5f1c-8453-1f5cd809c6f8",
+    "name": "Jewish Comm Cnt Metro West",
+    "type": "School",
+    "address": "760 Northfield Avenue, West Orange, NJ 07052",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "e07f2dd9-e594-521c-b008-ea5a81fb35b8",
+    "name": "Joseph Kushner Hebrew Academy, Inc",
+    "type": "School",
+    "address": "110 South Orange Avenue, Livingston, NJ 07039",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "0f5c11b7-1ad9-570a-8939-e96a4074068b",
+    "name": "Jump Immersion School - East Hanover",
+    "type": "School",
+    "address": "316 Ridgedale Avenue, East Hanover, NJ 07936",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "beeeccad-d961-5c93-b587-f1740b74e487",
+    "name": "Jxg Inc. Looking Glass Children's Center",
+    "type": "School",
+    "address": "16 Bellevue Avenue, Bloomfield, NJ 07003",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "6151de30-1ab4-506b-8d9a-c83ba4627a3c",
+    "name": "Lacordaire Academy",
+    "type": "School",
+    "address": "155 Lorraine Avenue, Upper Montclair, NJ 07043",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "6aabbd6e-3fb7-5867-a6c5-af41f30ebf1f",
+    "name": "Leaders For Life Academy",
+    "type": "School",
+    "address": "84-86 Clinton Place, Newark, NJ 07108",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "6098bcb2-b217-5c2e-92fe-2255908b089b",
+    "name": "Love Grows Inc. Tutor Time Children",
+    "type": "School",
+    "address": "481 Northfield Ave, West Orance, NJ 07052",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "c42d59ba-9d3f-5226-ad95-bd5d4d5b018d",
+    "name": "Maarif School",
+    "type": "School",
+    "address": "236 Hoover Ave., Bloomfield, NJ 07003",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "08741c63-a3c7-5f81-ae52-9166064b1a68",
+    "name": "Madrasatu Ahlis Sunnah",
+    "type": "School",
+    "address": "215 North Oraton Avenue, East Orange, NJ 07017",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "9df52026-9304-52a5-b9a9-75863a50cdc5",
+    "name": "Maplewood Outside School",
+    "type": "School",
+    "address": "513 Valley St., Maplewood, NJ 07040",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "db78659a-6c71-5fc7-848a-a10cbb4e621d",
+    "name": "Mercy Land Children And Academic Center",
+    "type": "School",
+    "address": "396 15th Ave., Newark, NJ 07103",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "0fa7b8f6-1657-5481-9195-400c3ddb002e",
+    "name": "Montclair Cooperative School",
+    "type": "School",
+    "address": "65 Chestnut St, Montclair, NJ 07042",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "2c575b18-39d2-507e-88c4-eeda675190ae",
+    "name": "Montclair Kimberley Academy",
+    "type": "School",
+    "address": "201 Valley Road, Montclair, NJ 07042",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "f2be4e58-134d-5a87-949a-7eb23d0412c2",
+    "name": "Montessori Childrens Academy Of Short Hills, The",
+    "type": "School",
+    "address": "200 Hartshorn Drive, Short Hills, NJ 07078",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "de38ce34-c5ae-530d-9080-40eb2733d3e6",
+    "name": "Mt. St. Dominic Academy",
+    "type": "School",
+    "address": "3 Ryerson Ave, Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "c097ddf7-99f4-5313-a777-a78cea6a7e22",
+    "name": "Newark Academy",
+    "type": "School",
+    "address": "91 South Orange Avenue, Livingston, NJ 07039",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "cf9343ef-4b74-5b4b-9339-663e48ce30a7",
+    "name": "Our Lady Of Sorrows School",
+    "type": "School",
+    "address": "172 Academy St, South Orange, NJ 07079",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "41cb1b06-8340-583a-8e1e-538c6da5ea49",
+    "name": "Our Lady Of The Lake",
+    "type": "School",
+    "address": "26 Lakeside Ave., Verona, NJ 07044",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "611ab5a2-8144-5d7a-b731-1756af9ce669",
+    "name": "Perpetual Help Day Nursery",
+    "type": "School",
+    "address": "170 Broad Street, Newark, NJ 07104",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "b35ef9dc-d7a3-5c3a-8a19-683a880787a0",
+    "name": "Playhouse",
+    "type": "School",
+    "address": "88 Franklin Avenue, West Orange, NJ 07052",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "bbf3726a-166e-577f-aeec-e28262ca0962",
+    "name": "Polkadots And Roses Childcare Center",
+    "type": "School",
+    "address": "138 Hickory Street, Orange, NJ 07050",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "6c58421c-a101-5d84-8e01-2bf96e41a7db",
+    "name": "Rainbow Montessori School Bloomfield",
+    "type": "School",
+    "address": "1293 Broad Street, Bloomfield, NJ 07003",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "4ad99322-8f0f-50d3-8a36-4cec6a402d4c",
+    "name": "Rock Christian Academy For The Peforming Arts",
+    "type": "School",
+    "address": "15 Cleveland Ave., Newark, NJ 07106",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "0ab62882-6558-540a-bd35-45ba23652d74",
+    "name": "Saint Benedict Preparatory School",
+    "type": "School",
+    "address": "520 Dr Martin Luther King Blvd., Newark, NJ 07102",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "7cb3c11e-4ac3-546b-b27e-35eafd8b88e1",
+    "name": "Saint Cassian School",
+    "type": "School",
+    "address": "190 Lorraine Avenue, Upper Montclair, NJ 07043",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "99dee160-8f40-5fce-b17b-281bcb8087d8",
+    "name": "Saint Catherine Of Siena School",
+    "type": "School",
+    "address": "39 E Bradford Ave, Cedar Grove, NJ 07009",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "cc319892-88bd-5994-89d4-5c80614fab26",
+    "name": "Saint James Preschool",
+    "type": "School",
+    "address": "581 Valley Rd., Montclair, NJ 07442",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "494c6293-a5a2-55d4-8f3e-57b4f9ef1c12",
+    "name": "Saint Joseph School",
+    "type": "School",
+    "address": "115 Telford Street, East Orange, NJ 07018",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "4e209114-e0d8-5650-bb96-890d55caa182",
+    "name": "Saint Michael School",
+    "type": "School",
+    "address": "27 Crittenden St, Newark, NJ 07104",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "831248a2-fe02-5251-bc4c-d6c278293444",
+    "name": "Saint Peter School",
+    "type": "School",
+    "address": "152 William Street, Belleville, NJ 07109",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "5debcce7-8e36-5870-9a95-91c175f013f8",
+    "name": "Saint Rose Of Lima Academy",
+    "type": "School",
+    "address": "52 Short Hills Avenue, Short Hills, NJ 07078",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "08c12443-ab2b-5aef-8710-4011e883f93d",
+    "name": "Saint Stephen's Preschool",
+    "type": "School",
+    "address": "119 Main St, Millburn, NJ 07041",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "9349e50c-7ce6-594a-8003-bf59dee54833",
+    "name": "Saint Thomas Apostle",
+    "type": "School",
+    "address": "50 Byrd Ave, Bloomfield, NJ 07003",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "cfb16133-1ab6-56db-99ad-08f440ca6c41",
+    "name": "Saint Vincent Academy",
+    "type": "School",
+    "address": "228 West Market St, Newark, NJ 07103",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "2a88205d-2519-539d-8474-a6c2a5dbd894",
+    "name": "Sandy Lane Nursery School",
+    "type": "School",
+    "address": "634 Mill Street, Belleville, NJ 07109",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "94fa870b-54b1-5b93-8d15-d411982a8b5f",
+    "name": "Seton Hall Prep",
+    "type": "School",
+    "address": "120 Northfield Avenue, West Orange, NJ 07052",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "a9d8e7aa-5c71-5fd7-99ae-cdd7bb41911c",
+    "name": "So Orange Country Day School",
+    "type": "School",
+    "address": "461 Vose Avenue, South Orange, NJ 07079",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "42776b5e-0793-58fb-9963-8ce32a52b01c",
+    "name": "The Goddard School",
+    "type": "School",
+    "address": "161 Millburn Ave., Millburn, NJ 07041",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "631d627e-43cd-525e-a6bd-d15e36a94c90",
+    "name": "The Pingry School",
+    "type": "School",
+    "address": "50 Country Day Drive, Short Hills, NJ 07078",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "5b779024-7263-556d-9aff-c2422b89db6a",
+    "name": "Weekday",
+    "type": "School",
+    "address": "111 Irvington Ave., South Orange, NJ 07040",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "92c077da-a4c0-58f0-bca1-ef615d33e988",
+    "name": "Winston School, The",
+    "type": "School",
+    "address": "30 East Lane, Short Hills, NJ 07078",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "56c109eb-046c-50b2-9452-efd3d45fb81e",
+    "name": "Zadie's Early Childhood Center",
+    "type": "School",
+    "address": "280 S. Harrison St, East Orange, NJ 07018",
+    "county": "Essex",
+    "source": "nj_schools_nonpublic",
+    "confidence": "high"
+  },
+  {
+    "id": "49c857b9-ce08-504e-8c1f-c5505b6a9f7f",
+    "name": "Essex County College",
+    "type": "College/University",
+    "address": "303 University Avenue, Newark, NJ 07102",
+    "county": "Essex",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "049cac14-f67a-5725-98f6-68aca55f2f34",
+    "name": "New Jersey Institute Of Technology",
+    "type": "College/University",
+    "address": "323 Martin Luther King Jr Boulevard, Newark, NJ 07102",
+    "county": "Essex",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "f78762d6-c413-5078-a891-940b4ab79985",
+    "name": "Rutgers University - Newark",
+    "type": "College/University",
+    "address": "190 University Avenue, Newark, NJ 07102",
+    "county": "Essex",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "9e8a10a7-e108-5bab-95fc-0246054208d3",
+    "name": "Seton Hall University",
+    "type": "College/University",
+    "address": "400 South Orange Avenue, South Orange, NJ 07079",
+    "county": "Essex",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "a3c5c512-9743-5523-8dfd-6c80d1d4ac75",
+    "name": "Bloomfield College Of Montclair State University",
+    "type": "College/University",
+    "address": "467 Franklin Street, Bloomfield, NJ 07003",
+    "county": "Essex",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "11ec5b60-06f1-5663-9b27-a7285983e90a",
+    "name": "Essex County Historic Courthouse",
+    "type": "Courthouse",
+    "address": "470 Dr. Martin Luther King, Jr. Boulevard, Newark, NJ 07102",
+    "county": "Essex",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "3d9fb367-30d2-57a3-a96e-89e97e6a5c1a",
+    "name": "Essex County Veterans Courthouse",
+    "type": "Courthouse",
+    "address": "50 West Market Street, Newark, NJ 07102",
+    "county": "Essex",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "9b8cfba2-c252-54f3-a6f3-62f761767540",
+    "name": "Essex County Wynona Lipman Family Courthouse",
+    "type": "Courthouse",
+    "address": "350 University Avenue, Newark, NJ 07102",
+    "county": "Essex",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "ceb0705d-0ca0-50a3-8b01-3a8bab33774f",
+    "name": "Essex County Dr. Martin Luther King, Jr. Justice Building",
+    "type": "Courthouse",
+    "address": "495 Dr. Martin Luther King, Jr. Boulevard, Newark, NJ 07102",
+    "county": "Essex",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "6721d4e7-501d-540e-a40c-b325a80120d9",
+    "name": "Belleville Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "152 Washington Ave, Belleville, NJ 07109",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "b82b7e84-afcd-5a3b-9a0f-27c452831b8d",
+    "name": "Bloomfield Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "1 Municipal Plaza, Bloomfield, NJ 07003",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "70cce85f-189c-5054-8355-d94e3a6d25e0",
+    "name": "Cedar Grove Municipal Court",
+    "type": "Courthouse",
+    "address": "525 Pompton Ave, Cedar Grove, NJ 07009",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "49432387-653d-5350-85d2-91c849a4ef1d",
+    "name": "Fairfield Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "230 Fairfield Rd, Fairfield, NJ 07004",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "346189ba-24af-548e-a458-206747348b18",
+    "name": "Livingston Municipal Court",
+    "type": "Courthouse",
+    "address": "357 South Livingston, Livingston, NJ 07039",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "23b39a7b-a5b1-5e58-a40b-c32053a37527",
+    "name": "Maplewood Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "1618 Springfield Ave, Maplewood, NJ 07040",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "3956bb7c-5b1d-5830-aabf-89c373ca6217",
+    "name": "Millburn Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "435 Essex St, Millburn, NJ 07041",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "5786f4df-a9f2-5f63-ad2f-1345d3ba7c4c",
+    "name": "Montclair Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "647 Bloomfield Ave., Montclair, NJ 07042",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "2a2f3629-3ab0-590d-8c8a-65a2dbd921cc",
+    "name": "Newark Municipal Court",
+    "type": "Courthouse",
+    "address": "31 Green Street, Newark, NJ 07102",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "7a44d0c2-2854-5320-8afa-bc60e2856aa1",
+    "name": "North Caldwell Municipal Court",
+    "type": "Courthouse",
+    "address": "141 Gould Avenue, No Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "83a2ce53-dd61-50ac-b609-8a1bbe9d71fa",
+    "name": "Nutley Town Municipal Court",
+    "type": "Courthouse",
+    "address": "228 Chestnut St, Nutley, NJ 07110",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "0939dcee-594a-5823-972b-da7e50110ca0",
+    "name": "Orange City Municipal Court",
+    "type": "Courthouse",
+    "address": "29 Park Street, Orange, NJ 07050",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "671cc440-1f29-51cf-a274-858c450ce696",
+    "name": "Roseland Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "19 Harrison Ave, Roseland, NJ 07068",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "434ffa55-b22d-516f-9230-10df21f092e1",
+    "name": "South Orange Municipal Court",
+    "type": "Courthouse",
+    "address": "1618 Springfield Ave, Maplewood, NJ 07040",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "5a76bd7a-7b80-5e08-8d1d-f224021c3a15",
+    "name": "Verona Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "141 Gould Avenue, North Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "3f1bc92b-85b1-56de-9c8f-75fa6c6de2af",
+    "name": "West Caldwell Municipal Court",
+    "type": "Courthouse",
+    "address": "21 Clinton Rd, West Caldwell, NJ 07006",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "be628ba0-bc0b-5d18-a31f-12c7eb76ebb5",
+    "name": "West Orange Municipal Court",
+    "type": "Courthouse",
+    "address": "60 Main Street, West Orange, NJ 07052",
+    "county": "Essex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "193b6a33-8082-5da1-9c4d-b6b46ee8e0f1",
+    "name": "Newark Liberty International Airport",
+    "type": "Airport",
+    "address": "3 Brewster Road, Newark, NJ 07114",
+    "county": "Essex",
+    "source": "nj_airports_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "240fbecc-80fd-50fe-9322-0b2a6756bc0e",
+    "name": "Newark Penn Station",
+    "type": "Transit Hub",
+    "address": "1 Raymond Plaza West, Newark, NJ 07102",
+    "county": "Essex",
+    "source": "nj_transit_hubs_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "3418b57d-f08c-5c14-bec3-694119a91cb6",
+    "name": "Newark Broad Street Station",
+    "type": "Transit Hub",
+    "address": "25 University Avenue, Newark, NJ 07102",
+    "county": "Essex",
+    "source": "nj_transit_hubs_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "0109511d-5568-5fd5-9e18-420ac980899c",
+    "name": "Essex County Hall Of Records",
+    "type": "Government Building",
+    "address": "465 Martin Luther King Jr Blvd, Newark, NJ 07102",
+    "county": "Essex",
+    "source": "nj_government_buildings_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "5b10114b-1fa3-5ca9-8c11-6481b6e555cf",
+    "name": "Newark City Hall",
+    "type": "Government Building",
+    "address": "920 Broad Street, Newark, NJ 07102",
+    "county": "Essex",
+    "source": "nj_government_buildings_curated",
+    "confidence": "high"
+  }
+]

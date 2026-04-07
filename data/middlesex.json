@@ -1,0 +1,2045 @@
+[
+  {
+    "id": "99bc4c31-f14b-5dab-bbee-b70088e31d95",
+    "name": "Carteret High School",
+    "type": "School",
+    "address": "199 Washington Avenue, Carteret, NJ 07008",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "187837a2-f9be-59ac-b200-38783c3d6122",
+    "name": "Carteret Junior High School",
+    "type": "School",
+    "address": "195 Washington Ave, Carteret, NJ 07008",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "82879b61-a2a7-5cbe-aded-f9c9ef10b89f",
+    "name": "Carteret Middle School",
+    "type": "School",
+    "address": "300 Carteret Avenue, Carteret, NJ 07008",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2dc44d4c-31fb-5921-8760-cbd744761bcd",
+    "name": "Columbus Elementary School",
+    "type": "School",
+    "address": "1 Carteret Avenue, Carteret, NJ 07008",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0c76d5a1-ba05-5b69-b9c9-53ca5672652b",
+    "name": "Nathan Hale Elementary School",
+    "type": "School",
+    "address": "678 Roosevelt Avenue, Carteret, NJ 07008",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "55cd3e5a-1a38-595f-8c1b-4b3eedf3ecb3",
+    "name": "Private Nicholas Minue Elementary School",
+    "type": "School",
+    "address": "83 Post Blvd, Carteret, NJ 07008",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b20a5411-3fbe-5dfc-bc9a-113dfe79931d",
+    "name": "Cranbury School",
+    "type": "School",
+    "address": "23 N Main St, Cranbury, NJ 08512",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "36df2ed6-fe42-5b98-93e6-ae285b877af5",
+    "name": "Dunellen High School",
+    "type": "School",
+    "address": "411 First Street, Dunellen, NJ 08812",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6ddd5049-6b0b-55ef-a293-8437c46249da",
+    "name": "John P. Faber Elementary School",
+    "type": "School",
+    "address": "400 High Street, Dunellen, NJ 08812",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1a45fcf9-55c3-520c-af02-04f1ebd0b044",
+    "name": "Lincoln Middle School",
+    "type": "School",
+    "address": "400 Dunellen Avenue, Dunellen, NJ 08812",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a77f5bcb-0401-5e6a-9298-05518925616b",
+    "name": "Bowne - Munro Elementary School",
+    "type": "School",
+    "address": "120 Main Street, East Brunswick, NJ 08816",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c64fa603-c371-5526-8fac-ee88b2b8e15d",
+    "name": "Central Elementary School",
+    "type": "School",
+    "address": "371 Cranbury Road, East Brunswick, NJ 08816",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b913f424-7cb7-5e5e-a551-2eac70895ec3",
+    "name": "Chittick Elementary School",
+    "type": "School",
+    "address": "5 Flagler Street, East Brunswick, NJ 08816",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7817f337-5795-5b70-a846-44fa9da95d57",
+    "name": "Churchill Junior High School",
+    "type": "School",
+    "address": "18 Norton Road, East Brunswick, NJ 08816",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c0ab86ce-cc1e-58a0-a40a-63f0ccef8907",
+    "name": "East Brunswick High School",
+    "type": "School",
+    "address": "380 Cranbury Road, East Brunswick, NJ 08816",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d0f74ef7-39f9-5fe3-b3e3-7497f198cacc",
+    "name": "Frost Elementary School",
+    "type": "School",
+    "address": "65 Frost Avenue, East Brunswick, NJ 08816",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "06354bfa-f0e2-52cb-b162-d1f859c418b4",
+    "name": "Hammarskjold Upper Elementary School",
+    "type": "School",
+    "address": "200 Rues Lane, East Brunswick, NJ 08816",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "50c8ec54-1dce-53ac-a6ed-1720fd1ba4ae",
+    "name": "Irwin Elementary School",
+    "type": "School",
+    "address": "71 Racetrack Road, East Brunswick, NJ 08816",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "32bad2d5-3a19-591d-889d-de116c297266",
+    "name": "Lawrence Brook Elementary School",
+    "type": "School",
+    "address": "48 Sullivan Way, East Brunswick, NJ 08816",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4afa5dff-4d6f-5c3d-be5d-53e8e968f8a0",
+    "name": "Memorial Elementary School",
+    "type": "School",
+    "address": "14 Innes Road, East Brunswick, NJ 08816",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "181a7148-52b6-57be-9441-4f05e591b4e5",
+    "name": "Warnsdorfer Elementary School",
+    "type": "School",
+    "address": "9 Hardenburg Lane, East Brunswick, NJ 08816",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "703b0b2f-e8f5-5062-9a21-14610fa4d614",
+    "name": "Benjamin Franklin Elementary School",
+    "type": "School",
+    "address": "2485 Woodbridge Avenue, Edison, NJ 08817",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "44dcd0e6-6dc0-5e25-b8db-b9c035a0fa24",
+    "name": "Edison Early Learning Center",
+    "type": "School",
+    "address": "10 Boulevard Of The Eagles, Edison, NJ 08817",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "04664658-67fd-5313-8697-271262703de0",
+    "name": "Edison High School",
+    "type": "School",
+    "address": "50 Boulevard Of The Eagles, Edison, NJ 08817",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c8945b78-eb8e-52dd-bb32-c68e0fd409cd",
+    "name": "Franklin D Roosevelt School",
+    "type": "School",
+    "address": "838 New Dover Rd, Edison, NJ 08820",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d27c13f9-67e5-544b-ae62-74319d6db662",
+    "name": "Herbert Hoover Middle School",
+    "type": "School",
+    "address": "174 Jackson Avenue, Edison, NJ 08837",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "226b056d-b6e3-5ec7-9bbf-2f54e296696e",
+    "name": "James Madison Intermediate School",
+    "type": "School",
+    "address": "838 New Dover Road, Edison, NJ 08820",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "651390f9-5304-54b1-a759-c36564e113b8",
+    "name": "James Madison Primary School",
+    "type": "School",
+    "address": "840 New Dover Road, Edison, NJ 08820",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "49d56167-6a0b-5f43-9ba1-1eb1b69df87f",
+    "name": "James Monroe Elementary School",
+    "type": "School",
+    "address": "7 Sharp Rd, Edison, NJ 08837",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7b69e926-24db-5992-994e-e4f703a8e13a",
+    "name": "John Adams Middle School",
+    "type": "School",
+    "address": "1081 New Dover Road, Edison, NJ 08820",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "99261750-d7af-51ba-adf8-e75f4908fc1d",
+    "name": "John Marshall Elementary School",
+    "type": "School",
+    "address": "15 Cornell Street, Edison, NJ 08817",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c05bfaa7-0c49-55c5-a305-24d8485aedd0",
+    "name": "John P. Stevens High School",
+    "type": "School",
+    "address": "855 Grove Avenue, Edison, NJ 08820",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "535110b1-afa8-538d-b329-276eb3e91efd",
+    "name": "Lincoln Elementary School",
+    "type": "School",
+    "address": "53 Brookville Road, Edison, NJ 08817",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "698072f4-15eb-5123-885b-0dac88286c17",
+    "name": "Lindeneau Elementary School",
+    "type": "School",
+    "address": "50 Blossom Street, Edison, NJ 08817",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fa61b582-26b9-5aa1-96bd-5d7110983f3d",
+    "name": "Martin Luther King Elementary School",
+    "type": "School",
+    "address": "285 Tingley Lane, Edison, NJ 08820",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bd616cfa-59aa-592b-a586-85948ba040f2",
+    "name": "Menlo Park Elementary School",
+    "type": "School",
+    "address": "155 Monroe Avenue, Edison, NJ 08820",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0f838fd8-2a94-5805-9cfb-4cf2729518bc",
+    "name": "Thomas Jefferson Middle School",
+    "type": "School",
+    "address": "450 Division Street, Edison, NJ 08817",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "68dc7842-66d8-5e08-b890-d2350cb70751",
+    "name": "Washington Elementary School",
+    "type": "School",
+    "address": "153 Winthrop Road, Edison, NJ 08817",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e19d0f4b-7944-5feb-a8fb-ea2b0ad72ed9",
+    "name": "Woodbrook Elementary School",
+    "type": "School",
+    "address": "15 Robin Road, Edison, NJ 08820",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "630c5e3f-ba0b-544e-96ff-dd0f025440fa",
+    "name": "Woodrow Wilson Middle School",
+    "type": "School",
+    "address": "50 Woodrow Wilson Drive, Edison, NJ 08820",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "256f833b-9ed0-54c6-b3e2-9ceee08c9de8",
+    "name": "Academy Learning Center",
+    "type": "School",
+    "address": "145 Pergola Avenue, Monroe Township, NJ 08831",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e8e58050-0d58-5e82-9bdb-d7f53b8bf53b",
+    "name": "Bright Beginnings Learning Center",
+    "type": "School",
+    "address": "1660 Stelton Road, Piscataway, NJ 08854-5917",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "876e87c1-ed06-5b2e-8c71-f8ac3d2853b2",
+    "name": "Center For Lifelong Learning",
+    "type": "School",
+    "address": "333 Cheesequake Rd, Parlin, NJ 08859",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b75d659c-b439-523c-b457-68649817345b",
+    "name": "Future Foundations Academy (ffa)",
+    "type": "School",
+    "address": "1690 Stelton Road, Piscataway, NJ 08854-5917",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "16baea77-1f5b-5fc2-85fd-0293e90524b5",
+    "name": "Nuview Academy",
+    "type": "School",
+    "address": "1 Park Avenue, Piscataway, NJ 08854",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a9f53534-7b86-5417-9510-0ad9f88de529",
+    "name": "Piscataway Regional Day School",
+    "type": "School",
+    "address": "1670 Stelton Rd, Piscataway, NJ 08854-5917",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6f4a8c51-1843-54a2-9ef1-8d4825e0e3ab",
+    "name": "Bartle Elementary School",
+    "type": "School",
+    "address": "435 Mansfield Street, Highland Park, NJ 08904",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3bc26823-559a-5c09-af0c-a4e33a4d617e",
+    "name": "Highland Park High School",
+    "type": "School",
+    "address": "102 North Fifth Avenue, Highland Park, NJ 08904",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3816111a-3df1-50d7-a370-b00869435271",
+    "name": "Highland Park Middle School",
+    "type": "School",
+    "address": "330 Wayne Street, Highland Park, NJ 08904",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "be7ec278-2fba-559d-9748-d925276a809e",
+    "name": "Irving Primary School",
+    "type": "School",
+    "address": "121 South Eleventh Avenue, Highland Park, NJ 08904",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d97b57ce-ab56-599b-8dd7-061d08fb488a",
+    "name": "Grace M. Breckwedel Middle School",
+    "type": "School",
+    "address": "13 Augusta St, Jamesburg, NJ 08831-1457",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4e22b817-074e-5f4b-91b0-46f4663c2442",
+    "name": "John F. Kennedy Elementary School",
+    "type": "School",
+    "address": "28 Front Street, Jamesburg, NJ 08831",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "345bf125-f78a-5cb1-858a-c4b19ca00097",
+    "name": "Campbell Elementary School",
+    "type": "School",
+    "address": "24 Durham Avenue, Metuchen, NJ 08840",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cc643e01-ef61-5345-a5f4-b9acad6d19c1",
+    "name": "Edgar Middle School",
+    "type": "School",
+    "address": "49 Brunswick Avenue, Metuchen, NJ 08840",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f2eea5fc-1e29-5c6b-aeb4-4ff4548d5103",
+    "name": "Metuchen High School",
+    "type": "School",
+    "address": "400 Grove Ave, Metuchen, NJ 08840-1104",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5388bbe8-2d00-5af6-834a-09f5e419d368",
+    "name": "Mildred B. Moss Elementary School",
+    "type": "School",
+    "address": "16 Simpson Place, Metuchen, NJ 08840",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b7e5db3b-4328-509b-b958-99fa07ac98e7",
+    "name": "Hazelwood Elementary School",
+    "type": "School",
+    "address": "800 Hazelwood Avenue, Middlesex, NJ 08846",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e3f9b0b8-f220-56b3-9851-09a464046511",
+    "name": "Middlesex High School",
+    "type": "School",
+    "address": "300 John F. Kennedy Drive, Middlesex, NJ 08846-1489",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4deeb5af-6da7-5c5c-a632-712d6850ea5b",
+    "name": "Parker Elementary School",
+    "type": "School",
+    "address": "South Lincoln Avenue, Middlesex, NJ 08846",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c28d25a2-cb42-5739-9df8-f23567e65b47",
+    "name": "Von E. Mauger Middle School",
+    "type": "School",
+    "address": "Fisher Avenue, Middlesex, NJ 08846",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e2c1ed55-fe09-5295-ae6a-c94e1a80bcd1",
+    "name": "Watchung Elementary School",
+    "type": "School",
+    "address": "Fisher Avenue, Middlesex, NJ 08846",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b78efd2c-f0d6-5210-b01c-954243f3b250",
+    "name": "Woodland Intermediate School",
+    "type": "School",
+    "address": "Fisher Avenue, Middlesex, NJ 08846",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6dd86a2e-4c5f-563f-840f-232e822238f5",
+    "name": "East Brunswick Magnet School",
+    "type": "School",
+    "address": "112 Rues Lane, East Brunswick, NJ 08816-4235",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7d45536f-28dc-5f21-a116-a936e983bc19",
+    "name": "Edison Academy Magnet School",
+    "type": "School",
+    "address": "100 Technology Drive, Edison, NJ 08837",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "75a72def-7e12-5bfc-820b-a0ebb1c0f479",
+    "name": "Perth Amboy Magnet School",
+    "type": "School",
+    "address": "457 High Street, Perth Amboy, NJ 08861",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "303b1180-2861-5c27-b6e3-5a51efc2e6f1",
+    "name": "Piscataway Magnet School",
+    "type": "School",
+    "address": "21 Suttons Lane, Piscataway, NJ 08854-5715",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "283c3a93-2301-50c7-b7b6-6d4e49074c31",
+    "name": "Woodbridge Academy Magnet School",
+    "type": "School",
+    "address": "1 Convery Boulevard, Woodbridge, NJ 07095-2650",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6aa16791-50fa-505f-a42c-01cbba89824e",
+    "name": "Joyce Kilmer School",
+    "type": "School",
+    "address": "21 West Church Street, Milltown, NJ 08850",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2d3423a3-27bb-50bc-af5b-7dd593f36427",
+    "name": "Parkview School",
+    "type": "School",
+    "address": "80 Violet Terrace, Milltown, NJ 08850",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b315932c-471d-5af6-a35b-fff962171701",
+    "name": "Applegarth Elementary School",
+    "type": "School",
+    "address": "227 Applegarth Rd, Monroe Twp, NJ 08831",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "50476b29-dd0b-5124-9d32-d9e240672f49",
+    "name": "Barclay Brook School",
+    "type": "School",
+    "address": "358 Buckelew Avenue, Monroe Twp, NJ 08831",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f81bc7db-5cee-5877-ae0d-19e8df50f41c",
+    "name": "Brookside Elementary School",
+    "type": "School",
+    "address": "370 Buckelew Avenue, Monroe Township, NJ 08831",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7ee8179d-23fc-5c10-bb74-15e3366f3aee",
+    "name": "Mill Lake",
+    "type": "School",
+    "address": "115 Monmouth Road, Monroe Twp, NJ 08831",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5b221e83-ca11-52d5-a7d8-430928f5b953",
+    "name": "Monroe Township High School",
+    "type": "School",
+    "address": "200 Schoolhouse Road, Monroe Township, NJ 08831",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "38c22333-6b72-5c6c-8502-990f55751947",
+    "name": "Monroe Township Middle School",
+    "type": "School",
+    "address": "1629 Perrineville Road, Monroe Township, NJ 08831",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9f88e7bc-a0af-54d7-96ca-98b8124f5013",
+    "name": "Oak Tree Elementary School",
+    "type": "School",
+    "address": "226 Applegarth Road, Monroe Township, NJ 08831",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "07073ccc-e5ca-5dd7-95e1-a12ff0c15ee7",
+    "name": "Woodland School",
+    "type": "School",
+    "address": "42 Harrison Ave, Monroe Township, NJ 08831",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "652d33af-5559-5845-acef-adb97588d842",
+    "name": "A Chester Redshaw School",
+    "type": "School",
+    "address": "216 Livingston Avenue, New Brunswick, NJ 08901-2930",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d44e5f13-c74b-57d9-887a-a19e6026475c",
+    "name": "Blanquita B. Valenti Community School",
+    "type": "School",
+    "address": "50 Jersey Ave, New Brunswick, NJ 08901",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e46e3b18-f731-5730-a4f3-a23f890f6ad5",
+    "name": "Lincoln Elementary School",
+    "type": "School",
+    "address": "66 Bartlett Street, New Brunswick, NJ 08901-1152",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0b9aa848-3e41-5d91-bf8f-9143868c9da2",
+    "name": "Livingston Elementary School",
+    "type": "School",
+    "address": "206 Delavan Street, New Brunswick, NJ 08901-3035",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b62cef1a-12a6-5acb-81cc-4587691708bd",
+    "name": "Lord Stirling Community School",
+    "type": "School",
+    "address": "101 Redmond Street, New Brunswick, NJ 08901-1343",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "de24e350-c7d5-5642-87ea-b066b4f9a9bd",
+    "name": "Mckinley Community School",
+    "type": "School",
+    "address": "15 Van Dyke Ave, New Brunswick, NJ 08901-3255",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a359e5e3-d675-5f9c-a90d-d2c1f2a3fbe4",
+    "name": "New Brunswick Adult High School",
+    "type": "School",
+    "address": "268 Baldwin Street, New Brunswick, NJ 08901",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c994f10f-b3de-534c-bece-cf2684b002f2",
+    "name": "New Brunswick High School",
+    "type": "School",
+    "address": "1000 Somerset St, New Brunswick, NJ 08901-3309",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "808c9b89-06ee-5ef5-9296-d7eb45e6c6b2",
+    "name": "New Brunswick Middle School",
+    "type": "School",
+    "address": "1125 Livingston Avenue, New Brunswick, NJ 08901",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d5c95c88-de33-5a9d-8ec2-16fea4eb2076",
+    "name": "Pathways Middle School",
+    "type": "School",
+    "address": "40 Van Dyke Avenue, New Brunswick, NJ 08901",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "165eef24-fa73-5457-968c-b4fdaecf1639",
+    "name": "Paul Robeson Community School For The Arts",
+    "type": "School",
+    "address": "199 Paul Robeson Blvd, New Brunswick, NJ 08901-2734",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3ddbb9e4-5d0f-5d57-bbd7-a4e7bdce8cb1",
+    "name": "Robert J. Boyler Elementary School",
+    "type": "School",
+    "address": "133 Tunison Rd, New Brunswick, NJ 08901-1652",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f5988c87-50d3-5148-a4ba-b978ca499f91",
+    "name": "Roosevelt Elementary School",
+    "type": "School",
+    "address": "83 Livingston Ave, New Brunswick, NJ 08901-2522",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "424157c4-89fa-5f92-a70e-046f9dcc15f8",
+    "name": "Arthur M. Judd",
+    "type": "School",
+    "address": "1595 Roosevelt Avenue, North Brunswick, NJ 08902",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f6d7aabc-c5fa-5303-b7ca-7451d4ff928a",
+    "name": "John Adams",
+    "type": "School",
+    "address": "1450 Redmond Street, North Brunswick, NJ 08902",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e596ead5-aee1-5fc4-8921-581dde7c98ec",
+    "name": "Linwood School",
+    "type": "School",
+    "address": "25 Linwood Place, North Brunswick, NJ 08902",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d6d55201-ff1e-5bcd-b8f9-889e9e10b48b",
+    "name": "Livingston Park",
+    "type": "School",
+    "address": "1128 Livingston Avenue, North Brunswick, NJ 08902",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b63f4add-c5c8-55b5-b1b4-01dc01643fd8",
+    "name": "North Brunswick Township High School",
+    "type": "School",
+    "address": "98 Raider Road, North Brunswick, NJ 08902-9607",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "04f82f49-f07b-5670-8363-36f9a3bbfdea",
+    "name": "North Brunswick Twp Early Childhood Center",
+    "type": "School",
+    "address": "25 Linwood Place, North Brunswick, NJ 08902",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c96446c9-3850-5225-bbec-32e2528cd908",
+    "name": "North Brunswick Twp. Middle School",
+    "type": "School",
+    "address": "100 Renaissance Blvd, North Brunswick, NJ 08902",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6d7dfd59-5560-5a0b-8642-0ec59c61b576",
+    "name": "Parsons",
+    "type": "School",
+    "address": "116 Hollywood Street, North Brunswick, NJ 08902",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b26db38b-12b2-5bca-8d2e-9c3f82694b43",
+    "name": "Alan B. Shepard Elementary School",
+    "type": "School",
+    "address": "33 Bushnell Rd, Old Bridge, NJ 08857-2320",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c640abb7-8753-5d66-a9b2-7c1828d48934",
+    "name": "Carl Sandburg Middle School",
+    "type": "School",
+    "address": "3439 Route 516, Old Bridge, NJ 08857",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "29dec287-4a12-5593-a3c3-7d7198bde3d9",
+    "name": "James A. Mcdivitt Elementary School",
+    "type": "School",
+    "address": "1 Manny Martin Way, Old Bridge, NJ 08857",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c90c1b99-96e5-523b-b17c-e4fd3601d760",
+    "name": "Jonas Salk Middle School",
+    "type": "School",
+    "address": "155 W Greystone Road, Old Bridge, NJ 08857-9625",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4942ff6e-a2fb-502f-a4fb-6c0072cadf4c",
+    "name": "Leroy Gordon Cooper Elementary School",
+    "type": "School",
+    "address": "160 Birchwood Drive, Cliffwood Beach, NJ 07735-6123",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a8806f0b-4f4f-5454-9b01-90fdd930276b",
+    "name": "M. Scott Carpenter Elementary School",
+    "type": "School",
+    "address": "One Par Avenue, Old Bridge, NJ 08857-3045",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5e505e3c-7319-568e-9922-4bcd18bbfe06",
+    "name": "Madison Park Elementary School",
+    "type": "School",
+    "address": "33 Harvard Rd, Parlin, NJ 08859-1211",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "64d5ac90-1f5f-538d-ac89-f9e173541d66",
+    "name": "Memorial Elementary School",
+    "type": "School",
+    "address": "11 Ely Ave, Laurence Harbor, NJ 08879",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "154cdcc1-d947-58ea-826d-d5be8ebf5d51",
+    "name": "Old Bridge High School",
+    "type": "School",
+    "address": "4209 Route 516, Matawan, NJ 07747",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "85508397-45af-5543-bbb1-cf654a9b8e26",
+    "name": "Raymond E. Voorhees Elementary School",
+    "type": "School",
+    "address": "11 Liberty Street, Old Bridge, NJ 08857-3414",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6b9d8f8b-a937-54b7-a4e3-64a8ef22e91d",
+    "name": "Southwood Elementary School",
+    "type": "School",
+    "address": "64 Southwood Dr, Old Bridge, NJ 08857-1453",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bb07e00f-67be-5ff7-9abb-dd9bf2b7470d",
+    "name": "Virgil I. Grissom Elementary School",
+    "type": "School",
+    "address": "One Sims Avenue, Old Bridge, NJ 08857-1435",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "45c80ad1-32b1-5dc5-b9b6-a4f6da01e523",
+    "name": "Walter M. Schirra Elementary School",
+    "type": "School",
+    "address": "One Awn St, Old Bridge, NJ 08857-1819",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "02e74b76-b783-5954-829b-4c7b98319faf",
+    "name": "William A. Miller Elementary School",
+    "type": "School",
+    "address": "2 Old Matawan Road, Old Bridge, NJ 08857",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0603bf9c-00c8-5d26-a2c6-81591ee17ef3",
+    "name": "Anthony V. Ceres Elementary School",
+    "type": "School",
+    "address": "445 State Street, Perth Amboy, NJ 08861-3534",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2b274696-08f9-5795-ad1e-791b68a3eb1d",
+    "name": "Dual Language School",
+    "type": "School",
+    "address": "300 Eagle Avenue, Perth Amboy, NJ 08861",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "82d480a5-db7f-5d64-8a5a-1dbeaf0ae890",
+    "name": "Edmund Hmieleski Early Childhood Center",
+    "type": "School",
+    "address": "925 Amboy Avenue, Perth Amboy, NJ 08861",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1674a5ad-5629-5ded-aed2-6f423a010822",
+    "name": "Edward J. Patten Elementary School",
+    "type": "School",
+    "address": "500 Charles Street, Perth Amboy, NJ 08861",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1d807e05-27ac-593e-bef9-1a4d7d7df15a",
+    "name": "Herbert N. Richardson 21st Century School",
+    "type": "School",
+    "address": "318 Stockton Street, Perth Amboy, NJ 08861-3910",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0816ed6c-efb5-57a1-843c-d0141d7dde5e",
+    "name": "Ignacio Cruz Early Childhood Center",
+    "type": "School",
+    "address": "601 Cortlandt St, Perth Amboy, NJ 08861",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "68211e7f-a469-59f3-b513-6af81f97fd68",
+    "name": "James J. Flynn Elementary School",
+    "type": "School",
+    "address": "850 Chamberlain Avenue, Perth Amboy, NJ 08861-1705",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6d0a565d-f94f-56fe-87be-88689956a5e4",
+    "name": "Perth Amboy High School",
+    "type": "School",
+    "address": "931 Convery Blvd, Perth Amboy, NJ 08861",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f0990ba5-f086-54e6-bcbe-d2d06120a3cc",
+    "name": "Robert N. Wilentz Elementary School",
+    "type": "School",
+    "address": "51 First Street, Perth Amboy, NJ 08861",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "97d8e859-c700-55a7-920b-79aebdd5cb06",
+    "name": "Rose M. Lopez Elementary School",
+    "type": "School",
+    "address": "435 Seaman Avenue, Perth Amboy, NJ 08861",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c41f9af9-46bc-5b85-ae17-ddaedfdd7299",
+    "name": "Samuel E. Shull Middle School",
+    "type": "School",
+    "address": "380 Hall Avenue, Perth Amboy, NJ 08861-3205",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a8944815-81b2-5b44-abd3-5e36e616c2fe",
+    "name": "William C. Mcginnis Middle School",
+    "type": "School",
+    "address": "271 State Street, Perth Amboy, NJ 08861-4347",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b06d640b-ea01-5f89-a937-e6bd7f7b98f7",
+    "name": "Arbor Elementary School",
+    "type": "School",
+    "address": "1717 Lester Place, Piscataway, NJ 08854",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "70a15271-f9ee-5b43-8411-78922418bb79",
+    "name": "Conackamack Middle School",
+    "type": "School",
+    "address": "5205 Witherspoon Street, Piscataway, NJ 08854",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e9866c83-061b-5163-b2b8-5b69c88f3e13",
+    "name": "Dwight D. Eisenhower Elementary School",
+    "type": "School",
+    "address": "360 Stelton Road, Piscataway, NJ 08854",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7884d299-f2df-5248-8187-2a4851cdcda2",
+    "name": "Grandview Elementary School",
+    "type": "School",
+    "address": "130 North Randolphville Rd, Piscataway, NJ 08854",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "dbb0cbee-fd6a-5819-be2d-b0a881ee0609",
+    "name": "Knollwood Elementary School",
+    "type": "School",
+    "address": "333 Willow Avenue, Piscataway, NJ 08854-1332",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3e70f151-ea80-556c-bb44-fbf6f573db96",
+    "name": "Martin Luther King Elementary School",
+    "type": "School",
+    "address": "5205 Ludlow Street, Piscataway, NJ 08854",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f4772c41-604e-5658-ba9c-188b32cf56a4",
+    "name": "Piscataway Township High School",
+    "type": "School",
+    "address": "100 Behmer Road, Piscataway, NJ 08854",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "66f20a30-ad9d-5cf5-9980-97572fa8c6e4",
+    "name": "Piscataway Township Schools Children's Corner",
+    "type": "School",
+    "address": "275 Old New Brunswick Road, Piscataway, NJ 08854",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6c95f3ee-184d-5d3e-96e8-35e105a0af13",
+    "name": "Quibbletown Middle School",
+    "type": "School",
+    "address": "99 Academy Street, Piscataway, NJ 08854",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f6443591-fff6-529b-8e12-118a4e84330c",
+    "name": "Randolphville Elementary School",
+    "type": "School",
+    "address": "One Suttie Avenue, Piscataway, NJ 08854",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3fe68f30-025d-5e0d-b969-db38373d4962",
+    "name": "Theodore Schor Middle School",
+    "type": "School",
+    "address": "243 North Randolphville Rd, Piscataway, NJ 08854",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "05e6d42f-0737-5228-8754-140fbe0622b4",
+    "name": "Cheesequake School",
+    "type": "School",
+    "address": "111 Highway 34, Matawan, NJ 07747",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a7fb8a02-85a8-5544-a3fe-62259c34eaa6",
+    "name": "Dwight D. Eisenhower Elementary School",
+    "type": "School",
+    "address": "601 Ernston Road, Parlin, NJ 08859-2126",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f49c7660-c645-5472-a908-7b33e1547a6e",
+    "name": "Emma Arleth Elementary School",
+    "type": "School",
+    "address": "3198 Washington Road, Parlin, NJ 08859-1558",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a0593abf-946f-5f63-a7f4-2165a1503829",
+    "name": "Harry S. Truman Elementary School",
+    "type": "School",
+    "address": "One Taft Place, Parlin, NJ 08859-1672",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6e07d7cb-bf6f-5e5c-841f-e55ed7da3547",
+    "name": "Project Before At Selover School",
+    "type": "School",
+    "address": "150 Lincoln St., South Amboy, NJ 08879",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2e8e6d5d-d9d6-5fa7-b208-b4b0464682de",
+    "name": "Samsel Upper Elementary School",
+    "type": "School",
+    "address": "298 Ernston Road, Parlin, NJ 08859",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6e31c3b0-f46e-5da0-b18d-bdf81acb8ea1",
+    "name": "Sayreville Middle School",
+    "type": "School",
+    "address": "800 Washington Road, Parlin, NJ 08859-1050",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "46e7e55c-f434-5e34-8680-f2d6b251d646",
+    "name": "Sayreville War Memorial High School",
+    "type": "School",
+    "address": "820 Washington Road, Parlin, NJ 08859-1050",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1c5f45ba-45f4-5aed-b927-4ea335bb3caf",
+    "name": "Woodrow Wilson Elementary School",
+    "type": "School",
+    "address": "65 Dane Street, Sayreville, NJ 08872",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bc110b58-9acc-5e30-bd59-f199c57dfcbd",
+    "name": "South Amboy Elementary",
+    "type": "School",
+    "address": "249 John Street, South Amboy, NJ 08879-1741",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "44c50477-4705-5ca4-861d-554b23d73275",
+    "name": "South Amboy Middle/high School",
+    "type": "School",
+    "address": "200 Governor Harold G Hoffman, South Amboy, NJ 08879",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4cca1ed7-cd2d-5309-9cc2-831c1bbb38c7",
+    "name": "Brooks Crossing Elementary School",
+    "type": "School",
+    "address": "50 Deans Rhode Hall Road, Monmouth Junction, NJ 08852",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b7a22247-3578-5e5e-bc37-20cfca5a9c10",
+    "name": "Brunswick Acres Elementary School",
+    "type": "School",
+    "address": "41 Kory Drive, Kendall Park, NJ 08824",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1bc731c7-881f-5d8d-ab1e-c865d3f6ffda",
+    "name": "Cambridge Elementary School",
+    "type": "School",
+    "address": "35 Cambridge Road, Kendall Park, NJ 08824",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8438eff9-5e90-5829-b392-630449501e1c",
+    "name": "Constable Elementary School",
+    "type": "School",
+    "address": "29 Constable Road, Kendall Park, NJ 08824",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d35c4467-54f3-554c-8e73-b7d38343ceb4",
+    "name": "Crossroads North Middle School",
+    "type": "School",
+    "address": "635 Georges Road, Monmouth Junction, NJ 08852",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "980e7524-6402-589d-9349-00b3dfff4b4c",
+    "name": "Crossroads South Middle School",
+    "type": "School",
+    "address": "195 Major Road, Monmouth Junction, NJ 08852",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "da845706-779a-5b4c-ba4d-8def31f8109b",
+    "name": "Dayton Elementary School",
+    "type": "School",
+    "address": "310 Georges Road, Dayton, NJ 08810",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2bab415a-b8ed-5d43-82ae-4784faac54bd",
+    "name": "Deans Elementary School",
+    "type": "School",
+    "address": "848 Georges Road, Monmouth Junction, NJ 08852",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "63cb0021-9284-5588-a7de-2555b7e3ebb4",
+    "name": "Greenbrook Elementary School",
+    "type": "School",
+    "address": "23 Roberts Street, Kendall Park, NJ 08824",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f62055f6-cb29-5bff-bc86-3fd64e5bb788",
+    "name": "Indian Fields Elementary School",
+    "type": "School",
+    "address": "359 Ridge Road, Dayton, NJ 08810",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8f782411-c730-53bb-9d8e-22e95397bb72",
+    "name": "Monmouth Junction Elementary School",
+    "type": "School",
+    "address": "630 Ridge Road, Monmouth Junction, NJ 08852-9514",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1bfc9f94-f426-5901-84b5-450881aced44",
+    "name": "South Brunswick High School",
+    "type": "School",
+    "address": "750 Ridge Road, Monmouth Junction, NJ 08852-9721",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a77698da-3472-57ba-8735-9698ddee1ec3",
+    "name": "Franklin Elementary School",
+    "type": "School",
+    "address": "1000 Franklin Ave, South Plainfield, NJ 07080",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c07430c5-15f5-5560-b7d5-0868858c5635",
+    "name": "Grant Elementary School",
+    "type": "School",
+    "address": "305 Cromwell Place, South Plainfield, NJ 07080",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b6590505-728a-5fa8-b137-21136ee5b265",
+    "name": "John E. Riley Elementary School",
+    "type": "School",
+    "address": "100 Morris Ave, South Plainfield, NJ 07080",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "aaa06d65-afee-508d-a598-7ab1c001d2e5",
+    "name": "John F Kennedy Elementary School",
+    "type": "School",
+    "address": "2900 Norwood Avenue, South Plainfield, NJ 07080",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "abc40da5-43d7-5cac-b139-8213ae99d0d9",
+    "name": "Riley Preschool Annex",
+    "type": "School",
+    "address": "125 Jackson Avenue, South Plainfield, NJ 07080",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8fca8390-d593-53b5-a119-b3b5a232d288",
+    "name": "Roosevelt Elementary School",
+    "type": "School",
+    "address": "135 Jackson Avenue, South Plainfield, NJ 07080",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "188f1d75-a186-5ca7-8004-b1b0225f5417",
+    "name": "Roosevelt Preschool Annex",
+    "type": "School",
+    "address": "125 Jackson Avenue, South Plainfield, NJ 07080",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e67f6ceb-9aba-56d6-acb1-808e81c0eea3",
+    "name": "South Plainfield High School",
+    "type": "School",
+    "address": "200 Lake Street, South Plainfield, NJ 07080",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fc108b4f-fc9c-5c77-a921-291036a932b5",
+    "name": "South Plainfield Middle School",
+    "type": "School",
+    "address": "2201 Plainfield Avenue, South Plainfield, NJ 07080",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5986c8bd-48a7-586e-87e2-27caf7ac0a73",
+    "name": "South River Early Learning Center",
+    "type": "School",
+    "address": "19 Montgomery Street, South River, NJ 08882",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ec6caa95-5227-5959-a471-d1a2c6bb23a4",
+    "name": "South River Elementary School",
+    "type": "School",
+    "address": "81 Johnson Place, South River, NJ 08882",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7e3a273b-3e14-51b1-908d-6cce162c4f68",
+    "name": "South River High School",
+    "type": "School",
+    "address": "11 Montgomery Street, South River, NJ 08882",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3200160d-201e-5338-ab38-c4cc4d62991b",
+    "name": "South River Middle School",
+    "type": "School",
+    "address": "3 Montgomery Street, South River, NJ 08882",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e5212b09-43b3-500f-8ef3-d6ae2651fe9c",
+    "name": "South River Primary School",
+    "type": "School",
+    "address": "22 David Street, South River, NJ 08882",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4feef711-04e1-5a64-9166-6be9ee315df2",
+    "name": "E Raymond Appleby Elementary School",
+    "type": "School",
+    "address": "23 Vliet Street, Spotswood, NJ 08884",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9d096e60-f139-5555-9a3f-e14bb2fef396",
+    "name": "G Austin Schoenly Elementary School",
+    "type": "School",
+    "address": "80 Kane Avenue, Spotswood, NJ 08884",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "97d521f6-206e-530a-9bea-fe22a863905a",
+    "name": "Spotswood High School",
+    "type": "School",
+    "address": "105 Summerhill Road, Spotswood, NJ 08884",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0b774d58-4c72-56bd-b259-e82f742cf2dc",
+    "name": "Spotswood Memorial Middle School",
+    "type": "School",
+    "address": "115 Summerhill Road, Spotswood, NJ 08884",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "27556bb1-0ab6-508f-aa3b-d3829213922f",
+    "name": "Avenel Middle School",
+    "type": "School",
+    "address": "Woodbine Avenue, Avenel, NJ 07001",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "eec8f43d-c8a3-5d6f-b089-68b8d8ed4674",
+    "name": "Avenel Street Elementary School",
+    "type": "School",
+    "address": "Avenel Street, Avenel, NJ 07001-1411",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e831da5a-3e7b-521c-bbca-c01721f7f2ca",
+    "name": "Claremont Avenue Elementary School",
+    "type": "School",
+    "address": "Claremont Avenue, Colonia, NJ 07067",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d2fae35f-8170-577e-a8b6-3949238698b7",
+    "name": "Colonia High School",
+    "type": "School",
+    "address": "East Street, Colonia, NJ 07067",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "aa1fb554-533b-5d33-82ed-8efb6b7f132b",
+    "name": "Colonia Middle School",
+    "type": "School",
+    "address": "Delaware Avenue, Colonia, NJ 07067",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "61bfe604-14cf-5c26-ab27-13c9381fe8c8",
+    "name": "Fords Middle School",
+    "type": "School",
+    "address": "Fanning Street, Fords, NJ 08863",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7bdc9502-50af-5b8b-8302-3f1478b719ea",
+    "name": "Indiana Avenue Elementary School",
+    "type": "School",
+    "address": "Indiana Avenue, Iselin, NJ 08830",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f90b0896-223d-59d4-8e96-fa5653e08b85",
+    "name": "Iselin Middle School",
+    "type": "School",
+    "address": "900 Woodruff Street, Iselin, NJ 08830",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1d753d86-461b-54d7-8419-dfa1df593d55",
+    "name": "John F. Kennedy Memorial High School",
+    "type": "School",
+    "address": "200 Washington Avenue, Iselin, NJ 08830",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fa8a8724-94da-5bdf-9ec1-abf1f9d39ee3",
+    "name": "Kennedy Park Elementary School",
+    "type": "School",
+    "address": "Goodrich Avenue, Iselin, NJ 08830",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c5bd7cf5-c255-512c-8851-d6aa2c47ebfa",
+    "name": "Lafayette Estates Elementary School",
+    "type": "School",
+    "address": "Ford Avenue, Fords, NJ 08863",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4cfe87f4-84eb-571c-8965-a77f7231ac70",
+    "name": "Lynn Crest Elementary School",
+    "type": "School",
+    "address": "98 Ira Avenue, Colonia, NJ 07067",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "adfe2060-1293-5b71-8640-90fb84f7e272",
+    "name": "Matthew Jago Elementary School",
+    "type": "School",
+    "address": "99 Central Avenue, Sewaren, NJ 07077",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d125afa8-f9b0-5aa3-abbe-8983e5ccd520",
+    "name": "Mawbey Street Elementary School",
+    "type": "School",
+    "address": "275 Mawbey Street, Woodbridge, NJ 07095",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "544aae31-04da-51dc-87e7-95bfb1b20cd9",
+    "name": "Menlo Park Terrace Elementary School",
+    "type": "School",
+    "address": "19 Maryknoll Road, Metuchen, NJ 08840",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f4d3d917-0752-57ef-a0a6-80fd97ad94c5",
+    "name": "Oak Ridge Heights Elementary School",
+    "type": "School",
+    "address": "720 Inman Avenue, Colonia, NJ 07067",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1309d930-920f-5440-84bc-3d30953d2c16",
+    "name": "Oak Tree Road Elementary School",
+    "type": "School",
+    "address": "Wilus Way, Iselin, NJ 08830",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ba05fc9f-29d0-5239-bf74-31471f5c5b23",
+    "name": "Pennsylvania Avenue Elementary School",
+    "type": "School",
+    "address": "Pennsylvania Avenue, Colonia, NJ 07067",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e1e17ac4-6577-5236-98c3-b29fc957318a",
+    "name": "Port Reading Avenue Elementary School",
+    "type": "School",
+    "address": "Turner Street, Port Reading, NJ 07064-1326",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7ac9e3a0-0bad-5142-97cc-bf5f0a753942",
+    "name": "Robert Mascenik Elementary School",
+    "type": "School",
+    "address": "300 Benjamin Avenue, Iselin, NJ 08830",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4e97b1df-d68d-5356-b7fa-186a88eca84a",
+    "name": "Ross Street Elementary School",
+    "type": "School",
+    "address": "Ross Street, Woodbridge, NJ 07095",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bd09be00-4e66-59b3-b5f2-478f62ca0485",
+    "name": "Woodbine Avenue Elementary School",
+    "type": "School",
+    "address": "Woodbine Avenue, Avenel, NJ 07001",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ce8d4966-17b0-5780-8e13-fcbcf162d537",
+    "name": "Woodbridge High School",
+    "type": "School",
+    "address": "25 Samuel Lupo Place, Woodbridge, NJ 07095",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "38c32321-5449-5a3b-b6a6-a3a33beb6f41",
+    "name": "Woodbridge Middle School",
+    "type": "School",
+    "address": "525 Barron Avenue, Woodbridge, NJ 07095",
+    "county": "Middlesex",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "96d148c5-64d1-5c9d-820b-b0c286d1bf63",
+    "name": "Middlesex College",
+    "type": "College/University",
+    "address": "2600 Woodbridge Avenue, Edison, NJ 08818",
+    "county": "Middlesex",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "fd83b447-9086-521c-994f-b230cdacd690",
+    "name": "Rutgers University - New Brunswick",
+    "type": "College/University",
+    "address": "57 Us Highway 1, New Brunswick, NJ 08901",
+    "county": "Middlesex",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "5456f05a-10cd-5dc3-971e-9eb5715b72cf",
+    "name": "Middlesex County Courthouse",
+    "type": "Courthouse",
+    "address": "56 Paterson Street, New Brunswick, NJ 08903",
+    "county": "Middlesex",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "a29a7b6e-5d00-55ca-a744-a30487643d5b",
+    "name": "Carteret Municipal Court",
+    "type": "Courthouse",
+    "address": "230 Roosevelt Avenue, Carteret, NJ 07008",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "db6a9e8b-751d-51c3-a0b5-11d785176ea1",
+    "name": "Cranbury Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "641 Plainsboro Road, Plainsboro, NJ 08536",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "66ea0d1f-153f-53da-933a-d0b98a6c14a3",
+    "name": "Dunellen Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "355 North Ave, Dunellen, NJ 08812",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "60c44274-e5f3-5de0-853b-f468341aab11",
+    "name": "East Brunswick Municipal Court",
+    "type": "Courthouse",
+    "address": "1 Civic Center Drive, East Brunswick, NJ 08816",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "d7d0bb63-e8db-525a-abcf-d8a45ed8fc60",
+    "name": "Edison Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "100 Municipal Blvd, Edison, NJ 08817",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "475c146e-2948-58a8-a7e2-b5cced3283e7",
+    "name": "Helmetta Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "51 Main Street, Helmetta, NJ 08828",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "6dc078e6-2526-5cfe-8f30-6c7cf49862ee",
+    "name": "Jamesburg Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "131 Perrineville Rd, Jamesburg, NJ 08831",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "8a640033-ee59-5539-9593-9190a4fed9ea",
+    "name": "Metuchen Municipal Court",
+    "type": "Courthouse",
+    "address": "500 Main Street, Metuchen, NJ 08840",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "5f710fa5-c39e-54d3-b304-1fb2774360b3",
+    "name": "Middlesex Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "1200 Mountain Ave, Middlesex, NJ 08846",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "d136d4be-4b41-5b2e-a922-0bfda82008cf",
+    "name": "Milltown Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "39 Washington Ave, Milltown, NJ 08850",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "833c094f-7c2d-5911-8206-e9fa110b5c0e",
+    "name": "Monroe Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "1 Municipal Plaza, Monroe Twp, NJ 08831",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "b4da6964-256f-5149-a8d1-9e3b648e0531",
+    "name": "New Brunswick Municipal Court",
+    "type": "Courthouse",
+    "address": "25 Kirkpatrick St, New Brunswick, NJ 08903",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "b404fff5-9e36-5f19-abf2-5abc4d5aabce",
+    "name": "Perth Amboy Municipal Court",
+    "type": "Courthouse",
+    "address": "361 New Brunswick Av, Perth Amboy, NJ 08861",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "f0494783-30e1-5216-a685-a4cb97bdea7f",
+    "name": "Piscataway Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "555 Sidney Rd, Piscataway, NJ 08854",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "ad6addda-3777-5f54-952e-76b308e308b7",
+    "name": "Plainsboro Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "641 Plainsboro Rd, Plainsboro, NJ 08536",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "41b6eeae-ad6c-5481-ad50-0fa7ade3f392",
+    "name": "Sayreville Municipal Court",
+    "type": "Courthouse",
+    "address": "1000 Main Street, Sayreville, NJ 08872",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "d935da54-0400-5620-ada2-8ae78617e17d",
+    "name": "South Amboy Municipal Court",
+    "type": "Courthouse",
+    "address": "140 North Broadway, South Amboy, NJ 08879",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "aee42de1-e3d1-567b-be78-2a9c914aa50f",
+    "name": "South River Municipal Court",
+    "type": "Courthouse",
+    "address": "61 Main St, South River, NJ 08882",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "c4f8e2b8-63be-5b69-995f-e39d5d16deea",
+    "name": "Spotswood Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "77 Summerhill Road, Spotswood, NJ 08884",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "cb98a080-0404-50da-93b4-f0f5071c3885",
+    "name": "Woodbridge Municipal Court",
+    "type": "Courthouse",
+    "address": "1 Main Street, Woodbridge, NJ 07095",
+    "county": "Middlesex",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "9ec1c16c-edde-5390-80b3-2cf8a8acadf6",
+    "name": "Central Jersey Regional Airport",
+    "type": "Airport",
+    "address": "1100 Terminal Circle, Manville, NJ 08835",
+    "county": "Middlesex",
+    "source": "nj_airports_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "5bb7b162-cf88-5e1c-a178-6b987a51c572",
+    "name": "New Brunswick Station",
+    "type": "Transit Hub",
+    "address": "French Street & Albany Street, New Brunswick, NJ 08901",
+    "county": "Middlesex",
+    "source": "nj_transit_hubs_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "e4b8a854-cb49-5277-a5e8-07418a56bb4d",
+    "name": "Metropark Station",
+    "type": "Transit Hub",
+    "address": "100 Middlesex Essex Turnpike, Iselin, NJ 08830",
+    "county": "Middlesex",
+    "source": "nj_transit_hubs_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "d6e6424a-d3c9-5ab0-bc4c-8d2f2bb44ec2",
+    "name": "Middlesex County Administration Building",
+    "type": "Government Building",
+    "address": "75 Bayard Street, New Brunswick, NJ 08901",
+    "county": "Middlesex",
+    "source": "nj_government_buildings_curated",
+    "confidence": "high"
+  }
+]

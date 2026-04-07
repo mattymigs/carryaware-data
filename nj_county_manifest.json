@@ -1,28 +1,261 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-27T23:00:00Z",
+  "lastUpdated": "2026-04-07T14:07:29Z",
   "state": "NJ",
   "counties": [
     {
+      "county": "Atlantic",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Burlington",
+        "Camden",
+        "Cape May",
+        "Cumberland",
+        "Gloucester",
+        "Ocean"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/atlantic.json"
+    },
+    {
+      "county": "Bergen",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Essex",
+        "Hudson",
+        "Morris",
+        "Passaic"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/bergen.json"
+    },
+    {
+      "county": "Burlington",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Atlantic",
+        "Camden",
+        "Mercer",
+        "Monmouth",
+        "Ocean"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/burlington.json"
+    },
+    {
+      "county": "Camden",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Atlantic",
+        "Burlington",
+        "Gloucester"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/camden.json"
+    },
+    {
+      "county": "Cape May",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Atlantic",
+        "Cumberland"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/cape_may.json"
+    },
+    {
+      "county": "Cumberland",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Atlantic",
+        "Cape May",
+        "Gloucester",
+        "Salem"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/cumberland.json"
+    },
+    {
       "county": "Essex",
       "version": 1,
-      "lastUpdated": "2026-03-27T23:00:00Z",
-      "adjacentCounties": ["Passaic", "Morris"],
-      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/nj_county_essex_restricted_places.json"
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Bergen",
+        "Hudson",
+        "Morris",
+        "Passaic",
+        "Union"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/essex.json"
+    },
+    {
+      "county": "Gloucester",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Atlantic",
+        "Camden",
+        "Cumberland",
+        "Salem"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/gloucester.json"
+    },
+    {
+      "county": "Hudson",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Bergen",
+        "Essex",
+        "Union"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/hudson.json"
+    },
+    {
+      "county": "Hunterdon",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Mercer",
+        "Morris",
+        "Somerset",
+        "Warren"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/hunterdon.json"
+    },
+    {
+      "county": "Mercer",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Burlington",
+        "Hunterdon",
+        "Middlesex",
+        "Monmouth",
+        "Somerset"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/mercer.json"
+    },
+    {
+      "county": "Middlesex",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Mercer",
+        "Monmouth",
+        "Somerset",
+        "Union"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/middlesex.json"
+    },
+    {
+      "county": "Monmouth",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Burlington",
+        "Mercer",
+        "Middlesex",
+        "Ocean"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/monmouth.json"
     },
     {
       "county": "Morris",
       "version": 1,
-      "lastUpdated": "2026-03-27T23:00:00Z",
-      "adjacentCounties": ["Essex", "Passaic"],
-      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/nj_county_morris_restricted_places.json"
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Bergen",
+        "Essex",
+        "Hunterdon",
+        "Passaic",
+        "Somerset",
+        "Sussex",
+        "Union",
+        "Warren"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/morris.json"
+    },
+    {
+      "county": "Ocean",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Atlantic",
+        "Burlington",
+        "Monmouth"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/ocean.json"
     },
     {
       "county": "Passaic",
       "version": 1,
-      "lastUpdated": "2026-03-27T23:00:00Z",
-      "adjacentCounties": ["Essex", "Morris"],
-      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/nj_county_passaic_restricted_places.json"
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Bergen",
+        "Essex",
+        "Morris",
+        "Sussex"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/passaic.json"
+    },
+    {
+      "county": "Salem",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Cumberland",
+        "Gloucester"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/salem.json"
+    },
+    {
+      "county": "Somerset",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Hunterdon",
+        "Mercer",
+        "Middlesex",
+        "Morris",
+        "Union"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/somerset.json"
+    },
+    {
+      "county": "Sussex",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Morris",
+        "Passaic",
+        "Warren"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/sussex.json"
+    },
+    {
+      "county": "Union",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Essex",
+        "Hudson",
+        "Middlesex",
+        "Morris",
+        "Somerset"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/union.json"
+    },
+    {
+      "county": "Warren",
+      "version": 1,
+      "lastUpdated": "2026-04-07T14:07:29Z",
+      "adjacentCounties": [
+        "Hunterdon",
+        "Morris",
+        "Sussex"
+      ],
+      "datasetURL": "https://mattymigs.github.io/carryaware-data/data/warren.json"
     }
   ]
 }

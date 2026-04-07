@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "a150cba5-c67d-5c61-88e9-1faad2b5a5e4",
+    "name": "Bayonne Alternative High School",
+    "type": "School",
+    "address": "669 Avenue A, Bayonne, NJ 07002",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f070dfa9-22c9-5390-8f69-0f8537bcd659",
+    "name": "Bayonne High School",
+    "type": "School",
+    "address": "669 Avenue A, Bayonne, NJ 07002",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4af15cec-e25a-5336-86bd-67fecf371b99",
+    "name": "Henry E. Harris Community School",
+    "type": "School",
+    "address": "135 Avenue C, Bayonne, NJ 07002",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c899d4d5-2929-5c97-8093-35c99fda972a",
+    "name": "Horace Mann Community School",
+    "type": "School",
+    "address": "25 West 38TH Street, Bayonne, NJ 07002",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f1920b8b-ded6-5e33-abce-8af1e6f35ac2",
+    "name": "John M. Bailey Community School",
+    "type": "School",
+    "address": "75 West 10TH Street, Bayonne, NJ 07002",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9e5f359a-05cb-5a16-8a38-86ed372e4430",
+    "name": "Lincoln Community School #5",
+    "type": "School",
+    "address": "208 Prospect Avenue, Bayonne, NJ 07002",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "00a97b2b-6914-57af-b4f3-69adbb147140",
+    "name": "Mary J Donohoe Community School",
+    "type": "School",
+    "address": "25 East 5th Street, Bayonne, NJ 07002",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5158def0-4056-5b16-b7e9-8d5e3a07351d",
+    "name": "Nicholas Oresko Community School",
+    "type": "School",
+    "address": "33 East 24th Street, Bayonne, NJ 07002",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9f96ef6b-12d1-5b87-90ef-705edbec18a0",
+    "name": "Philip G. Vroom Community School",
+    "type": "School",
+    "address": "18 West 26TH St, Bayonne, NJ 07002-3803",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b42e3106-4c3a-5d4e-9fb6-57cb34755cc1",
+    "name": "Walter F. Robinson Community School",
+    "type": "School",
+    "address": "95 West 31ST Street, Bayonne, NJ 07002",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fc554980-aa28-5dd3-8ff9-232dd3b86387",
+    "name": "Washington Community School #9",
+    "type": "School",
+    "address": "191 Avenue B, Bayonne, NJ 07002",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ca1d97b8-9a47-5368-98b6-d822b1b3b014",
+    "name": "William Shemin Midtown Community School #8",
+    "type": "School",
+    "address": "550 Avenue A, Bayonne, NJ 07002",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8fabfd6c-e473-5745-aab1-a5e1a696dc89",
+    "name": "Woodrow Wilson Community School",
+    "type": "School",
+    "address": "101 West 56TH Street, Bayonne, NJ 07002",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f5a43761-19c4-5967-a190-7b8bf65a1e12",
+    "name": "East Newark Elementary School",
+    "type": "School",
+    "address": "501 11 North Third Street, E Newark, NJ 07029",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7c53c194-2eb7-5ed5-a083-82dcce395277",
+    "name": "Anna L. Klein",
+    "type": "School",
+    "address": "301 69TH St, Guttenberg, NJ 07093-2411",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f944eec3-cd68-5341-add8-80142af45bdd",
+    "name": "Hamilton Intermediate School",
+    "type": "School",
+    "address": "223 Hamilton Street, Harrison, NJ 07029",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c204355f-9081-54d3-8097-e711aa7c9477",
+    "name": "Harrison High School",
+    "type": "School",
+    "address": "401 Kingsland Avenue, Harrison, NJ 07029-1405",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "28a66c78-d6a9-560e-9d11-cf31a77b287d",
+    "name": "Kennedy Elementary School",
+    "type": "School",
+    "address": "1 Washington Street, Harrison, NJ 07029-2613",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "392aac4a-6fa0-5ef0-8d80-dfd60db0663f",
+    "name": "Lincoln Elementary School",
+    "type": "School",
+    "address": "221 Cross Street, Harrison, NJ 07029-2613",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "623fa410-d179-5888-928d-b3a1eb6ab50d",
+    "name": "Washington Middle School",
+    "type": "School",
+    "address": "One North Fifth Street, Harrison, NJ 07029-2515",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4da6cef3-64e8-5158-bb76-033aa4d27b36",
+    "name": "Hoboken High School",
+    "type": "School",
+    "address": "Ninth & Clinton St, Hoboken, NJ 07030",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a5c349fa-d597-5811-8186-e3ad24afa3da",
+    "name": "Hoboken Middle School",
+    "type": "School",
+    "address": "158 Fourth Street, Hoboken, NJ 07030",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0a79d8b5-c355-5323-8222-6f9b45654b80",
+    "name": "Joseph F Brandt Elementary School",
+    "type": "School",
+    "address": "215 Ninth Street, Hoboken, NJ 07030",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "06360b36-b8f9-544c-ae75-bd16fe257079",
+    "name": "Thomas G. Connors Elementary School",
+    "type": "School",
+    "address": "201 Monroe Street, Hoboken, NJ 07030",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "69849c0e-2e3e-5968-9ed3-41fe23f4ec65",
+    "name": "Wallace Elementary School",
+    "type": "School",
+    "address": "1100 Willow Avenue, Hoboken, NJ 07030",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "85c921d6-0950-5f45-876f-7937a87a4772",
+    "name": "Academy Of Career And Technical Education",
+    "type": "School",
+    "address": "One High Tech Way, Secaucus, NJ 07094-1682",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3af3978d-6bfa-59c4-9dce-82ade47a3f9b",
+    "name": "Academy Of Technology Design",
+    "type": "School",
+    "address": "525 Montgomery Street, Jersey City, NJ 07302-3237",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "885e882d-e299-5e09-88a2-659c95678a77",
+    "name": "Adult High School And Post Secondary Programs",
+    "type": "School",
+    "address": "1 North 5th Street, Harrison, NJ 07029",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "40f2c5e8-3d38-5e79-a271-b929a2b390c1",
+    "name": "Bayonne Academy",
+    "type": "School",
+    "address": "669 Avenue A, Bayonne, NJ 07094-1851",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "601972ef-0891-5142-afc3-627d45c2f808",
+    "name": "County Prep High School",
+    "type": "School",
+    "address": "525 Montgomery Street, Jersey City, NJ 07306-3237",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f54f90ba-22ef-5fe5-958e-8666a4f10dd0",
+    "name": "Explore Middle School",
+    "type": "School",
+    "address": "180 9th Street, Jersey City, NJ 07302",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "267f2064-8052-5696-9ab0-47a13287fc09",
+    "name": "High Tech High School",
+    "type": "School",
+    "address": "One High Tech Way, Secaucus, NJ 07094-1682",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "132ea85a-a94a-57d9-b7b6-db1d08244896",
+    "name": "Academy I",
+    "type": "School",
+    "address": "209 Bergen Avenue, Jersey City, NJ 07305",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bd4556d0-563c-53db-8c9b-33d100bb8f13",
+    "name": "Adult Evening High School",
+    "type": "School",
+    "address": "2 Palisade Avenue, Jersey City, NJ 07306",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c46234e8-4ccb-5104-8e79-9ddc5629f43a",
+    "name": "Alexander D. Sullivan School",
+    "type": "School",
+    "address": "171 Seaview Ave, Jersey City, NJ 07305-2412",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cc8616ba-26fc-5d50-b9c6-f9a7582e590e",
+    "name": "Alfred Zampella School",
+    "type": "School",
+    "address": "201 North St, Jersey City, NJ 07307-3336",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d4de816f-2e5f-51bd-bc7a-8bbf6d5b42b1",
+    "name": "Chaplain Charles Watters School",
+    "type": "School",
+    "address": "220 Virginia Ave, Jersey City, NJ 07304-1424",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fb13846b-24b9-5f84-98e4-165866d8c4ae",
+    "name": "Charles E. Trefurt School",
+    "type": "School",
+    "address": "96 Franklin St, Jersey City, NJ 07307",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "36108dc8-9007-505c-a0c9-b446017e7d7a",
+    "name": "Christa Mcauliffe School",
+    "type": "School",
+    "address": "167 Hancock Ave, Jersey City, NJ 07307-2017",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "38e38db4-77cc-5839-bc53-ee3fcd8c2263",
+    "name": "Cornelia F. Bradford School",
+    "type": "School",
+    "address": "96 Sussex St, Jersey City, NJ 07302-4402",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "00dfb65a-5fa2-51d4-abbc-20d6914868b4",
+    "name": "Dr Ronald Mcnair High School",
+    "type": "School",
+    "address": "123 Coles Street, Jersey City, NJ 07302",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d65231fa-41ac-5024-93c2-2f11fbcb29d1",
+    "name": "Dr. Charles P. Defuccio School",
+    "type": "School",
+    "address": "214 Plainfield Ave, Jersey City, NJ 07306-7006",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c5f9db80-d52d-5f3f-a379-1ee2429a1f4d",
+    "name": "Dr. Maya Angelou Elementary School",
+    "type": "School",
+    "address": "239 Ocean Avenue, Jersey City, NJ 07305-2626",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5e0ffa47-8b9c-571a-a0d8-898df8a1e658",
+    "name": "Dr. Michael Conti School",
+    "type": "School",
+    "address": "182 Merseles St, Jersey City, NJ 07302-2235",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "521a9525-b829-569b-bc68-4993f13edf81",
+    "name": "Dr. Paul Rafalides School",
+    "type": "School",
+    "address": "362 Union St, Jersey City, NJ 07304-1212",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ddb1c0c5-74bc-59dd-971a-5465a5e84269",
+    "name": "Ezra L. Nolan School",
+    "type": "School",
+    "address": "88 Gates Ave, Jersey City, NJ 07305-2448",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5f7c1665-2162-5e21-aa66-a3ed7d67ce01",
+    "name": "Frank R Conwell School",
+    "type": "School",
+    "address": "111 Bright Street, Jersey City, NJ 07302-4342",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "310a58b8-437c-5754-9dfc-a5a851060998",
+    "name": "Franklin L. Williams School",
+    "type": "School",
+    "address": "222 Laidlaw Avenue, Jersey City, NJ 07306",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5fff12bf-043a-5a71-851d-28715ab14458",
+    "name": "Gladys Nunery School",
+    "type": "School",
+    "address": "123 Claremont Ave, Jersey City, NJ 07305-3603",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e68f4afc-df09-5157-bb1e-50dd6478926e",
+    "name": "Henry Snyder High School",
+    "type": "School",
+    "address": "239 Bergen Ave, Jersey City, NJ 07305-1524",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "341855b8-b497-56da-9ee9-fa2176454c8e",
+    "name": "Infinity Institute",
+    "type": "School",
+    "address": "222 Mercer Street, Jersey City, NJ 07302",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1222405e-975f-5236-a6e7-b3e4671b4c5f",
+    "name": "Innovation High School",
+    "type": "School",
+    "address": "239 Bergen Avenue, Jersey City, NJ 07305",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "01861176-191a-5930-a441-a4dcfc653e33",
+    "name": "James F. Murray School",
+    "type": "School",
+    "address": "339 Stegman Parkway, Jersey City, NJ 07305-1408",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "17d7ad20-bf60-5c78-ad50-d568d9459752",
+    "name": "James J Ferris High School",
+    "type": "School",
+    "address": "35 Colgate St, Jersey City, NJ 07302-3307",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "79cc3d58-cdef-54f7-8b68-34e21dc1cee3",
+    "name": "Joseph H. Brensinger School",
+    "type": "School",
+    "address": "600 Bergen Ave, Jersey City, NJ 07304",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "90139d64-9b31-50f9-b4ed-62c661e188ac",
+    "name": "Jotham W. Wakeman School",
+    "type": "School",
+    "address": "100 St Pauls Ave, Jersey City, NJ 07306-2208",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c8f34e24-ddd3-58fb-b372-d02d78f3924b",
+    "name": "Julia A. Barnes School",
+    "type": "School",
+    "address": "91 Astor Place, Jersey City, NJ 07304-2920",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e835f0e0-5419-5753-a9ee-2998d8c16f64",
+    "name": "Liberty High School",
+    "type": "School",
+    "address": "299 Sip Avenue, Jersey City, NJ 07306",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "baa8db9b-9e6b-5170-9516-a54d94b8c166",
+    "name": "Lincoln High School",
+    "type": "School",
+    "address": "60 Crescent Ave, Jersey City, NJ 07304-2925",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f755cf5d-4690-595a-bbe6-21a0120c9031",
+    "name": "Mahatma K. Gandhi School",
+    "type": "School",
+    "address": "143 Romaine Ave, Jersey City, NJ 07306-5218",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "0a5c4c8f-5b89-5bcd-b99c-565ad494d4a0",
+    "name": "Martin Center For The Arts",
+    "type": "School",
+    "address": "59 Wilkinson Ave, Jersey City, NJ 07305-4227",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "506313d3-41df-5a33-aaa1-74187c142b91",
+    "name": "Martin Luther King, Jr. School",
+    "type": "School",
+    "address": "886 Bergen Ave, Jersey City, NJ 07306-4302",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "6ad914f3-5f98-5f83-a070-0401c0dfaf7d",
+    "name": "Middle School # 4",
+    "type": "School",
+    "address": "107 Bright Street, Jersey City, NJ 07302",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d9ae2057-e9d1-5983-a458-7b78350b8000",
+    "name": "Nicolaus Copernicus School",
+    "type": "School",
+    "address": "3385 Kennedy Blvd, Jersey City, NJ 07307-4210",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d988bfac-e30f-5670-a62c-ad33e464666a",
+    "name": "Ollie Culbreth, Jr. School",
+    "type": "School",
+    "address": "153 Union St, Jersey City, NJ 07304-2317",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e1d70b21-3fc1-583f-8b3d-7da09f642420",
+    "name": "Patricia M. Noonan School, PS #26",
+    "type": "School",
+    "address": "164 Laidlaw Ave, Jersey City, NJ 07306",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1ea14d78-c85d-52e4-8419-02d01d067dc4",
+    "name": "President Barack Obama Elementary School",
+    "type": "School",
+    "address": "1830 Kennedy Blvd, Jersey City, NJ 07305-2123",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "487940f6-78c0-5acc-831f-25fdc6802754",
+    "name": "Rafael Cordero Y Molina",
+    "type": "School",
+    "address": "158 Erie St, Jersey City, NJ 07302-1718",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "18d96a1e-0d02-5406-a6df-aa002afdd68a",
+    "name": "Regional Day School",
+    "type": "School",
+    "address": "425 Johnston Avenue, Jersey City, NJ 07304",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3fced854-d8bd-5a7e-8fb3-7f8db9375547",
+    "name": "Rev. Dr. Ercel F. Webb School",
+    "type": "School",
+    "address": "264 Van Horne Street, Jersey City, NJ 07304",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2859299e-1157-5c47-a3f6-20f59b1a3f8f",
+    "name": "Whitney M. Young, Jr. School",
+    "type": "School",
+    "address": "135 Stegman St, Jersey City, NJ 07305-3208",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1511fc9d-765c-554a-9a47-36b5b060512c",
+    "name": "William L Dickinson High School",
+    "type": "School",
+    "address": "2 Palisade Ave, Jersey City, NJ 07306-1202",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9cf75343-94f5-5afe-bc46-4e7bcb824677",
+    "name": "Franklin Elementary School",
+    "type": "School",
+    "address": "100 Davis Ave, Kearny, NJ 07032-3328",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2d1971e8-b1b3-57f5-9b53-834dcc3bb0c6",
+    "name": "Garfield Elementary School",
+    "type": "School",
+    "address": "360 Belgrove Dr, Kearny, NJ 07032-1628",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7bcc3d44-b4e2-5da1-aa2a-7107f6d7a5ff",
+    "name": "Kearny High School",
+    "type": "School",
+    "address": "336 Devon St, Kearny, NJ 07032-2612",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1a321c5e-4074-5bfc-811c-ef42b2dafe16",
+    "name": "Lincoln Middle School",
+    "type": "School",
+    "address": "121 Beech St, Kearny, NJ 07032-2707",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "eccf90c9-d07f-5cee-87f5-3b5c522bbe51",
+    "name": "Roosevelt Elementary School",
+    "type": "School",
+    "address": "733 Kearny Ave, Kearny, NJ 07032-3005",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "793597cc-4c41-5775-917d-a52f3efd6d1c",
+    "name": "Schuyler Elementary School",
+    "type": "School",
+    "address": "644 Forest St, Kearny, NJ 07032-3798",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "481b3c24-b91a-5016-95f1-326db4b548fd",
+    "name": "Washington Elementary School",
+    "type": "School",
+    "address": "80 Belgrove Dr, Kearny, NJ 07032-1504",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3deb69c7-d0f4-52ca-be2d-8460555c38c8",
+    "name": "Franklin Elementary School",
+    "type": "School",
+    "address": "5211 Columbia Avenue, N Bergen, NJ 07047-5916",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2a6e337c-5838-5f14-b5e7-02beb18c47e7",
+    "name": "Horace Mann Elementary School",
+    "type": "School",
+    "address": "1215 83RD Street, North Bergen, NJ 07047-4215",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5cf3a263-b730-5995-8522-60aaf5134b8e",
+    "name": "John F Kennedy Elementary School",
+    "type": "School",
+    "address": "1210 11th St, N Bergen, NJ 07047-1810",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fc394d9f-1e4b-5807-a75d-fd4267250265",
+    "name": "Lincoln Elementary School",
+    "type": "School",
+    "address": "1206 63RD St, North Bergen, NJ 07047-3408",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "42cc0e7c-3562-56f7-8200-eb22a263ba63",
+    "name": "Mckinley Elementary School",
+    "type": "School",
+    "address": "3110 Liberty Ave, North Bergen, NJ 07047-2319",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5248fe17-a69d-596a-ae1c-cbc13e2a58c1",
+    "name": "North Bergen High School",
+    "type": "School",
+    "address": "7417 Kennedy Blvd, N Bergen, NJ 07047-5916",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cc97a984-5ce2-5e9c-a332-ed06108236a7",
+    "name": "North Bergen Junior High School",
+    "type": "School",
+    "address": "2000 85th Street, North Bergen, NJ 07047",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a2d17126-3d26-5594-aa81-53ae97ae5d4c",
+    "name": "Robert Fulton Elementary School",
+    "type": "School",
+    "address": "7407 Hudson Ave, North Bergen, NJ 07047-5607",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "79670947-6aed-5e69-b53a-269eab7cee4b",
+    "name": "Clarendon School",
+    "type": "School",
+    "address": "685 Fifth St, Secaucus, NJ 07094-3004",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "bec223c9-68cf-59a8-9d0d-3fbec209b020",
+    "name": "Huber Street School",
+    "type": "School",
+    "address": "1520 Paterson Plank Rd, Secaucus, NJ 07094",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "598e7539-af40-50aa-9835-906baa0ca7f0",
+    "name": "Secaucus High School",
+    "type": "School",
+    "address": "11 Mill Ridge Road, Secaucus, NJ 07094",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "208759fa-8dae-5066-bbd4-445398198177",
+    "name": "Secaucus Middle School",
+    "type": "School",
+    "address": "11 Mill Ridge Road, Secaucus, NJ 07094",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5fbf355b-4fdf-545c-81c5-493164258be1",
+    "name": "Colin Powell Elementary School",
+    "type": "School",
+    "address": "1500 New York Avenue, Union City, NJ 07087",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "d7a8ce91-3301-5b7f-a977-30b00784e34a",
+    "name": "Emerson Middle School",
+    "type": "School",
+    "address": "318 - 18th Street, Union City, NJ 07087",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8c874a4a-4948-5523-8d15-eb6ea2465982",
+    "name": "Esther Salas Academy",
+    "type": "School",
+    "address": "516 36th Street, Union City, NJ 07087",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "acc180d0-def9-5247-954d-b141d8f76b29",
+    "name": "Eugenio Maria De Hostos Center For Early Childhood Education",
+    "type": "School",
+    "address": "2200 Kennedy Blvd, Union City, NJ 07087",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a2fcf785-2740-5206-ac56-d10f71d289f0",
+    "name": "George Washington Elementary School",
+    "type": "School",
+    "address": "3905 New York Ave, Union City, NJ 07087-4821",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "071a3f53-6279-5cfc-96c0-91d7c87e18fc",
+    "name": "Hudson Elementary School",
+    "type": "School",
+    "address": "167 19TH St, Union City, NJ 07087",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b9f3c9c3-c306-5938-b7a6-54e2c9eb6f17",
+    "name": "Jefferson Elementary School",
+    "type": "School",
+    "address": "3400 Palisade Avenue, Union City, NJ 07087",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9269dc67-3d28-5e25-94de-05365b71b786",
+    "name": "Jose Marti Stem Academy",
+    "type": "School",
+    "address": "1800 Summit Ave, Union City, NJ 07087",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "3dfdb710-3054-546b-9aff-d908185ecef4",
+    "name": "Robert Waters Elementary School",
+    "type": "School",
+    "address": "2800 Summit Ave, Union City, NJ 07087-2323",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "73dbd34f-8292-52ff-99b7-036a4b600edf",
+    "name": "Sara M. Gilmore Academy",
+    "type": "School",
+    "address": "1700 Kerrigan Avenue, Union City, NJ 07087",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "459a672d-0baf-55b0-ba66-f1bf72bf8ef5",
+    "name": "Theodore Roosevelt Elementary School",
+    "type": "School",
+    "address": "4507 Hudson Ave, Union City, NJ 07087-6317",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "323ceccb-00c5-51e7-adef-168be9926623",
+    "name": "Thomas A Edison Elementary School",
+    "type": "School",
+    "address": "507 West St, Union City, NJ 07087-2811",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "139c8cd1-d75c-5247-919e-6fe64f35856d",
+    "name": "Union City Evening High School",
+    "type": "School",
+    "address": "2215 Kerrigan Avenue, Union City, NJ 07087",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5ea98afa-6023-5a27-b680-d7874bfce891",
+    "name": "Union City High School",
+    "type": "School",
+    "address": "2500 Kennedy Blvd, Union City, NJ 07087",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e2427f21-f269-5627-8a8d-ba15425bfe33",
+    "name": "Union Hill Middle School",
+    "type": "School",
+    "address": "3800 Hudson Ave, Union City, NJ 07087-6020",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b5e97348-fc2a-58a0-9ed1-1c6e7d662134",
+    "name": "Veterans' Memorial Elementary School",
+    "type": "School",
+    "address": "1401 Central Avenue, Union City, NJ 07087",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ecc66fed-c712-5fad-a68e-b15a739d1aa8",
+    "name": "Daniel Webster School",
+    "type": "School",
+    "address": "2700 Palisade Ave, Daniel Webster School, Weehawken, NJ 07086",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5f5da8c1-23b9-564a-ab4f-82eabf554f2c",
+    "name": "Theodore Roosevelt School",
+    "type": "School",
+    "address": "1 Louisa Place, T. Roosevelt School, Weehawken, NJ 07086",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "9a0c19c6-6c50-560c-a215-dd65ef3b3e0c",
+    "name": "Weehawken High School",
+    "type": "School",
+    "address": "53 Liberty Place, Weehawken, NJ 07086",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f19f7ca7-7d12-5f80-ad55-1155f6d0ee4d",
+    "name": "Albio Sires Elementary School",
+    "type": "School",
+    "address": "6300 Palisade Ave, West New York, NJ 07093-2318",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ac87a71f-c524-530a-8a1b-cdb9275e5302",
+    "name": "Early Childhood School",
+    "type": "School",
+    "address": "5204 Hudson Ave, West New York, NJ 07093-2614",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "dea22561-4689-5a4a-8f78-2a964fafda10",
+    "name": "Harry L Bain",
+    "type": "School",
+    "address": "6200 Broadway, West New York, NJ 07093-2639",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "15f012fd-95a7-513c-9fde-3248625619f3",
+    "name": "Memorial High School",
+    "type": "School",
+    "address": "5501 Park Ave, West New York, NJ 07093-3523",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "68a9365c-6213-56ae-bb48-e7910d159b22",
+    "name": "Public School Number Five",
+    "type": "School",
+    "address": "5401 Hudson Ave, West New York, NJ 07093-2617",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8e542ef1-1ab0-5c7a-9eb6-934d48c839c2",
+    "name": "Public School Number One",
+    "type": "School",
+    "address": "6129 Madison St, West New York, NJ 07093-1512",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a512a8bd-7cbb-5f79-bdc7-2a8d055c332f",
+    "name": "Public School Number Three",
+    "type": "School",
+    "address": "600 55TH St, West New York, NJ 07093-4626",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f6727987-5259-59e5-bcbb-1ef8f3cfaaf7",
+    "name": "Public School Number Two",
+    "type": "School",
+    "address": "5200 Broadway, West New York, NJ 07093-2638",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b4e12f1c-e87e-594d-aa8e-a3b9e9cf230f",
+    "name": "West New York Middle School",
+    "type": "School",
+    "address": "201 57TH St, West New York, NJ 07093-2705",
+    "county": "Hudson",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "639c2561-f29a-5e0a-9ab0-c8cdd8ccf5c3",
+    "name": "Hudson County Community College",
+    "type": "College/University",
+    "address": "70 Sip Avenue, Jersey City, NJ 07306",
+    "county": "Hudson",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "7c669768-049c-52c5-92ee-2173c264a1e8",
+    "name": "New Jersey City University",
+    "type": "College/University",
+    "address": "2039 John F. Kennedy Boulevard, Jersey City, NJ 07305",
+    "county": "Hudson",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "4e952a27-c801-557a-8a34-b18935267824",
+    "name": "Saint Peter's University",
+    "type": "College/University",
+    "address": "2641 John F. Kennedy Boulevard, Jersey City, NJ 07306",
+    "county": "Hudson",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "d0314f71-7cfd-5f30-8331-b5cfd3f9a7c6",
+    "name": "Stevens Institute Of Technology",
+    "type": "College/University",
+    "address": "1 Castle Point Terrace, Hoboken, NJ 07030",
+    "county": "Hudson",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "b898362e-dd8d-5f88-b4cd-bd44430092b3",
+    "name": "Hudson County Administration Building",
+    "type": "Courthouse",
+    "address": "595 Newark Avenue, Jersey City, NJ 07306",
+    "county": "Hudson",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "4942bb0b-2d3b-57a2-ab77-0c72cf8ea163",
+    "name": "William J. Brennan Jr. Courthouse",
+    "type": "Courthouse",
+    "address": "583 Newark Avenue, Jersey City, NJ 07306",
+    "county": "Hudson",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "fdde1f39-ece2-5748-9985-24eabbd796bf",
+    "name": "Bayonne City Municipal Court",
+    "type": "Courthouse",
+    "address": "630 Avenue \"c\", Bayonne, NJ 07002",
+    "county": "Hudson",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "00635e3b-33d8-5ec2-a49e-6dc4858dc000",
+    "name": "East Newark Municipal Court",
+    "type": "Courthouse",
+    "address": "34 Sherman Ave, East Newark, NJ 07029",
+    "county": "Hudson",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "bbbdcff5-804a-529a-a2bb-e89c0e3bb0e2",
+    "name": "Guttenberg Municipal Court",
+    "type": "Courthouse",
+    "address": "6808 Park Avenue, Guttenberg, NJ 07093",
+    "county": "Hudson",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "4fc5c493-4b5e-5faf-b101-c4ed5cd459fc",
+    "name": "Harrison Municipal Court",
+    "type": "Courthouse",
+    "address": "318 Harrison Ave, Harrison, NJ 07029",
+    "county": "Hudson",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "d5624a52-9777-5651-a861-120468f04e85",
+    "name": "Hoboken City Municipal Court",
+    "type": "Courthouse",
+    "address": "100 Newark Street, Hoboken, NJ 07030",
+    "county": "Hudson",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "2896e02e-7870-57ac-b4f1-71c7b26c206c",
+    "name": "Jersey City Municipal Court",
+    "type": "Courthouse",
+    "address": "365 Summit Avenue, Jersey City, NJ 07306",
+    "county": "Hudson",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "27b62efb-a86c-580f-88c3-9b6a32978721",
+    "name": "Kearny Municipal Court",
+    "type": "Courthouse",
+    "address": "404 Kearny Avenue, Kearny, NJ 07032",
+    "county": "Hudson",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "5ca7a5b9-5660-5ba6-a8f6-c91e13114a77",
+    "name": "North Bergen Municipal Court",
+    "type": "Courthouse",
+    "address": "4225 Bergen Turnpike, North Bergen, NJ 07047",
+    "county": "Hudson",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "9360b9d0-11d4-5a10-9982-7503e5516d92",
+    "name": "Secaucus Town Municipal Court",
+    "type": "Courthouse",
+    "address": "1203 Paterson Plank, Secaucus, NJ 07094",
+    "county": "Hudson",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "010e62b3-30e6-5680-8e00-dfda75b128ef",
+    "name": "Union City Municipal Court",
+    "type": "Courthouse",
+    "address": "3715 Palisade Ave, Union City, NJ 07087",
+    "county": "Hudson",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "694e7b56-ae03-5c69-9510-eada26d89cbb",
+    "name": "Weehawken Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "400 Park Ave, Weehawken, NJ 07086",
+    "county": "Hudson",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "da4efffc-58f0-5640-aedc-98f0c9608464",
+    "name": "West 30th Street Heliport",
+    "type": "Airport",
+    "address": "West 30th Street, New York, NY 10001",
+    "county": "Hudson",
+    "source": "nj_airports_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "673cbded-b926-5376-9a57-40a11302d430",
+    "name": "Hoboken Terminal",
+    "type": "Transit Hub",
+    "address": "1 Hudson Place, Hoboken, NJ 07030",
+    "county": "Hudson",
+    "source": "nj_transit_hubs_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "697c9846-a3b1-5f05-b4fb-1159236cb0e4",
+    "name": "Journal Square Transportation Center",
+    "type": "Transit Hub",
+    "address": "1 Journal Square Plaza, Jersey City, NJ 07306",
+    "county": "Hudson",
+    "source": "nj_transit_hubs_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "5300153e-e610-5a1b-9c3c-e33c5cfba6a3",
+    "name": "Exchange Place Path Station",
+    "type": "Transit Hub",
+    "address": "2 Exchange Place, Jersey City, NJ 07302",
+    "county": "Hudson",
+    "source": "nj_transit_hubs_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "ee6dff7b-a08f-5cb5-9686-82cc1263983d",
+    "name": "Hudson County Administration Building",
+    "type": "Government Building",
+    "address": "595 Newark Avenue, Jersey City, NJ 07306",
+    "county": "Hudson",
+    "source": "nj_government_buildings_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "f48d59d0-d374-5ae5-8349-fa699fac7095",
+    "name": "Jersey City City Hall",
+    "type": "Government Building",
+    "address": "280 Grove Street, Jersey City, NJ 07302",
+    "county": "Hudson",
+    "source": "nj_government_buildings_curated",
+    "confidence": "high"
+  }
+]

@@ -1,0 +1,533 @@
+[
+  {
+    "id": "1444e977-21df-5484-b34a-819081b1a5ca",
+    "name": "Allamuchy Township School",
+    "type": "School",
+    "address": "20 Johnsonburg Road, Allamuchy, NJ 07820-0394",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "419072cd-013a-5301-b43a-30252f675268",
+    "name": "Mountain Villa School",
+    "type": "School",
+    "address": "1686 County Rt 517, Allamuchy, NJ 07820",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ba1540a6-a59e-5822-975a-7f9eddf1c782",
+    "name": "Alpha Borough School",
+    "type": "School",
+    "address": "817 North Boulevard, Alpha, NJ 08865-4245",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "367ece8d-22d1-59c7-bf8d-5c74ec6df234",
+    "name": "Belvidere Elementary School",
+    "type": "School",
+    "address": "807 Oxford Street, Belvidere, NJ 07823",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "71a8b42b-bf17-53d5-95d5-19cf46547d64",
+    "name": "Belvidere High School",
+    "type": "School",
+    "address": "809 Oxford Street, Belvidere, NJ 07823",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "cfc0edf9-0436-5a17-91c2-6ab3f95caf17",
+    "name": "Blairstown Elementary School",
+    "type": "School",
+    "address": "1 Sunset Hill Road, P O Box E, Blairstown, NJ 07825",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f6810d88-d24f-509f-9a23-ea98896de19c",
+    "name": "Franklin Township School",
+    "type": "School",
+    "address": "52 Asbury Broadway Road, Washington, NJ 07882",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "fb176e73-9ceb-5343-9701-0d105d97d21a",
+    "name": "Frelinghuysen Township Elementary School",
+    "type": "School",
+    "address": "780 Route 94, Newton, NJ 07860",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "43c4d6ec-d58e-5950-b6fa-14e5ff11d6ef",
+    "name": "Central Elementary School",
+    "type": "School",
+    "address": "281 Route 46, Great Meadows, NJ 07838",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "c567d4a5-b1b5-5f7d-b0c7-d0bf4ccd8565",
+    "name": "Great Meadows Regional Middle School",
+    "type": "School",
+    "address": "273 Route 46, Great Meadows, NJ 07838-0074",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7ee9e03c-b83c-5aa7-bbc9-39994d012e7c",
+    "name": "Greenwich School",
+    "type": "School",
+    "address": "101 Wyndham Farm Boulevard, Stewartsville, NJ 08886",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1365e103-03ed-54b5-8ee3-3822d65e50f8",
+    "name": "Stewartsville Middle School",
+    "type": "School",
+    "address": "642 South Main Street, Stewartsville, NJ 08886-9756",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7cb1a3d0-e020-5558-b5a9-12cafc7d299d",
+    "name": "Hackettstown High School",
+    "type": "School",
+    "address": "599 Warren Street, Hackettstown, NJ 07840",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7e3f0a62-beb3-5335-9d90-95e61804a601",
+    "name": "Hackettstown Middle School",
+    "type": "School",
+    "address": "500 Washington Street, Hackettstown, NJ 07840-2230",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1883498d-0847-57e8-b90c-a3ce23b187b1",
+    "name": "Hatchery Hill Elementary School",
+    "type": "School",
+    "address": "398 5th Avenue, Hackettstown, NJ 07840-2497",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "30f60aea-01b6-59c3-afac-7b58bfb8ab97",
+    "name": "Willow Grove Elementary School",
+    "type": "School",
+    "address": "601 Willow Grove Street, Hackettstown, NJ 07840-1713",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "ef4054a8-c670-56fa-8451-c9e7c14cb8f1",
+    "name": "Harmony Township School",
+    "type": "School",
+    "address": "2551 Belvidere Road, Phillipsburg, NJ 08865-2155",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a8806904-073c-5c48-a019-738b8484a8b6",
+    "name": "Hope Township School",
+    "type": "School",
+    "address": "320 Johnsonburg Road, Po Box 293, Hope, NJ 07844-0293",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5b182fe8-b74f-5f91-8266-3fa736ba6e68",
+    "name": "Knowlton Township Board Of Education",
+    "type": "School",
+    "address": "80 Route 46, Delaware, NJ 07833-0152",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4b31b0bd-030c-51d1-99b7-192e2ab0b7d6",
+    "name": "Lopatcong Elementary School",
+    "type": "School",
+    "address": "263 Route 57, Phillipsburg, NJ 08865-9410",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "7ced900b-4369-5b03-b8d3-e8008d2c86b9",
+    "name": "Lopatcong Township Middle School",
+    "type": "School",
+    "address": "321 Stonehenge Drive, Phillipsburg, NJ 08865-9410",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5afd903e-a2c6-54a0-946a-f4c35e4c5d77",
+    "name": "Mansfield Township Elementary",
+    "type": "School",
+    "address": "50 Port Murray Road, Port Murray, NJ 07865-9702",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "04f4bcd8-bf90-5732-ae58-a822c1c98828",
+    "name": "North Warren Regional School",
+    "type": "School",
+    "address": "10 Noe Rd, Po Box 410, Blairstown, NJ 07825-0410",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "72b2d1bf-4feb-536a-bb0e-26c58199a526",
+    "name": "Oxford Central School",
+    "type": "School",
+    "address": "17 Kent Street, Oxford, NJ 07863-0510",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "5f1f82dd-8a59-5f14-b2df-24b3fb3fa9a6",
+    "name": "Philipsburg Primary School",
+    "type": "School",
+    "address": "1000 Green Street, Phillipsburg, NJ 08865-1520",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "4e112f5e-1b3e-57f8-91eb-35fc0dc40491",
+    "name": "Phillipsburg Early Childhood Learning Center",
+    "type": "School",
+    "address": "459 Center Street, Phillipsburg, NJ 08865",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "82af8c17-d29e-508f-ac06-f576477a2603",
+    "name": "Phillipsburg Elementary School",
+    "type": "School",
+    "address": "525 Warren Street, Phillipsburg, NJ 08865-3419",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f10a3001-5c16-5015-83c0-afdeab7d5b36",
+    "name": "Phillipsburg High School",
+    "type": "School",
+    "address": "1 Stateliner Blvd., Phillipsburg, NJ 08865",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f9465b18-e4ad-5457-817a-51dc43ae6f84",
+    "name": "Phillipsburg Middle School",
+    "type": "School",
+    "address": "200 Hillcrest Blvd., Phillipsburg, NJ 08865",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b4e51be1-e1c4-5bd4-bd8c-ec8def532707",
+    "name": "Pohatcong Township School",
+    "type": "School",
+    "address": "240 Rte 519, Phillipsburg, NJ 08865",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "e21ec28d-624e-57e7-8557-f1e01493319b",
+    "name": "Warren County Vocational Technical School",
+    "type": "School",
+    "address": "1500 Route 57, Washington, NJ 07882-9618",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "f7f70df6-9cff-5040-b25d-aa56b40ad135",
+    "name": "Warren Hills Regional High School",
+    "type": "School",
+    "address": "41 Jackson Valley Road, Washington, NJ 07882",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "b54c1e4b-c7bd-505b-a630-1470928e8a7c",
+    "name": "Warren Hills Regional Middle School",
+    "type": "School",
+    "address": "64 66 Carlton Avenue, Washington, NJ 07882",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "2254cdb4-7471-5c1e-8dbb-c1c827ab3705",
+    "name": "Taylor Street School",
+    "type": "School",
+    "address": "16 24 Taylor Street, Washington, NJ 07882-1494",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "24fbec15-d8f5-5c4e-95cd-84db562948f4",
+    "name": "Washington Memorial School",
+    "type": "School",
+    "address": "300 West Stewart Street, Washington, NJ 07882",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "8f274990-6178-5750-a930-7470f194f3df",
+    "name": "Brass Castle School",
+    "type": "School",
+    "address": "16 Castle Street, Washington, NJ 07882-9804",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "50da76b5-0042-553d-846f-8b9f570a7854",
+    "name": "Port Colden School",
+    "type": "School",
+    "address": "30 Port Colden Road, Washington, NJ 07882-9475",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "1673f3c8-55bb-57e8-a08e-42490420072e",
+    "name": "White Township Consolidated School",
+    "type": "School",
+    "address": "565 Cr 519, Belvidere, NJ 07823-9798",
+    "county": "Warren",
+    "source": "nj_schools_public",
+    "confidence": "high"
+  },
+  {
+    "id": "a27da2b5-27db-5ed6-a4c5-cb6242b4e275",
+    "name": "Warren County Community College",
+    "type": "College/University",
+    "address": "475 Route 57 West, Washington, NJ 07882",
+    "county": "Warren",
+    "source": "nj_colleges_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "d18d7b77-500d-591a-a8f2-f05e4828c93b",
+    "name": "Warren County Courthouse",
+    "type": "Courthouse",
+    "address": "413 Second Street, Belvidere, NJ 07823",
+    "county": "Warren",
+    "source": "nj_courthouses_curated",
+    "confidence": "high"
+  },
+  {
+    "id": "0cd67f74-2578-5ab1-9f7f-2f71baa01a38",
+    "name": "Allamuchy Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "292 Alphano Rd, Allamuchy, NJ 07820",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "59305fcd-607f-506b-bce6-4f3054f8c27a",
+    "name": "Alpha Boro Municipal Court",
+    "type": "Courthouse",
+    "address": "1001 East Blvd., Alpha, NJ 08865",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "801de8f8-c89c-5d98-9d31-f88f255f00cb",
+    "name": "Belvidere Town Municipal Court",
+    "type": "Courthouse",
+    "address": "691 Water Street, Belvidere, NJ 07823",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "bf72d3b9-9d5a-5dd9-ba29-51e29d9871c7",
+    "name": "Blairstown Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "151 Us Hwy 206, Augusta, NJ 07822",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "bf3a0176-5d5b-58c3-9c66-bc9681878d92",
+    "name": "Franklin Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "691 Water Street, Belvidere, NJ 07823",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "1d03c228-7d27-5426-a889-f7957d63b98d",
+    "name": "Greenwich Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "50 Municipal Dr, Phillipsburg, NJ 08865",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "e4cc502a-64dc-5c19-972d-949b2eb52654",
+    "name": "Hackettstown Municipal Court",
+    "type": "Courthouse",
+    "address": "215 Stiger St, Hackettstown, NJ 07840",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "f9ddf4e1-9953-5243-bc25-e438b4a7d8db",
+    "name": "Harmony Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "691 Water Street, Belvidere, NJ 07823",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "0ed1a694-bde9-5b37-a545-d4fa33d75416",
+    "name": "Knowlton Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "292 Alphano Road, Allamuchy, NJ 07820",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "9cd0088b-9dcb-567d-a8c9-01d82bd0aaf8",
+    "name": "Liberty Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "691 Water Street, Belvidere, NJ 07823",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "86cff2a6-393d-50f5-9510-abda9d23748b",
+    "name": "Lopatcong Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "50 Municipal Dr., Phillipsburg, NJ 08865",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "bff034dd-aeab-5e4b-ac92-7bac011a5af7",
+    "name": "Mansfield Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "100 Port Murray Road, Port Murray, NJ 07865",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "b0a6b75f-740f-5e35-acc2-77e64eef53dd",
+    "name": "North Warren Municipal Court",
+    "type": "Courthouse",
+    "address": "Po Box 134, Hope, NJ 07844",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "fb116265-010f-53ae-8c65-6cd543be6a8e",
+    "name": "Oxford Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "100 Port Murray Rd, Port Murray, NJ 07865",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "00f5d159-a9dc-5d18-a505-b6de47af5ffe",
+    "name": "Phillipsburg Municipal Court",
+    "type": "Courthouse",
+    "address": "1001 East Blvd, Alpha, NJ 08865",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "06c1811a-0ed7-5571-8c99-a43f7f889ebb",
+    "name": "Pohatcong Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "50 Municipal Drive, Phillipsburg, NJ 08865",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "5b928890-bcd3-5cff-aa0f-227cec2b2d5c",
+    "name": "Washington Twp Municipal Ct",
+    "type": "Courthouse",
+    "address": "100 Port Murray Road, Port Murray, NJ 07865",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "fffedca4-8171-52c1-9ee1-b6ede98c22b1",
+    "name": "White Twp Municipal Court",
+    "type": "Courthouse",
+    "address": "Po Box 134, Hope, NJ 07844",
+    "county": "Warren",
+    "source": "nj_municipal_courts_official",
+    "confidence": "high"
+  },
+  {
+    "id": "b6281d14-d1bf-5d8b-89d9-d27911ad1146",
+    "name": "Hackettstown Airport",
+    "type": "Airport",
+    "address": "72 Airport Road, Hackettstown, NJ 07840",
+    "county": "Warren",
+    "source": "nj_airports_curated",
+    "confidence": "high"
+  }
+]
