@@ -77,7 +77,7 @@
     },
     {
       "county": "Essex",
-      "version": 1,
+      "version": 2,
       "lastUpdated": "2026-04-07T14:07:29Z",
       "adjacentCounties": [
         "Bergen",
@@ -162,7 +162,7 @@
     },
     {
       "county": "Morris",
-      "version": 1,
+      "version": 2,
       "lastUpdated": "2026-04-07T14:07:29Z",
       "adjacentCounties": [
         "Bergen",
@@ -189,7 +189,7 @@
     },
     {
       "county": "Passaic",
-      "version": 1,
+      "version": 2,
       "lastUpdated": "2026-04-07T14:07:29Z",
       "adjacentCounties": [
         "Bergen",
