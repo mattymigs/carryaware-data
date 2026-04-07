@@ -6,7 +6,9 @@
     "address": "100 Brookside Avenue, Allendale, NJ 07401",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0299482,
+    "longitude": -74.1364791
   },
   {
     "id": "ba93a70a-dba1-5198-aa3e-aa7384fcef4b",
@@ -15,7 +17,9 @@
     "address": "89 Hillsdale Avenue, Allendale, NJ 07401",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0315627,
+    "longitude": -74.1406543
   },
   {
     "id": "827706b7-28ff-5ad9-ad1a-83dc2cf10900",
@@ -24,7 +28,9 @@
     "address": "500 Hillside Avenue, Alpine, NJ 07620",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9420979,
+    "longitude": -73.9262694
   },
   {
     "id": "c910891f-507c-57d7-ad31-27ca1f183a71",
@@ -33,7 +39,9 @@
     "address": "540 Farview Avenue, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9545086,
+    "longitude": -74.058307
   },
   {
     "id": "610cd367-b34e-5b4f-bb74-00aaa8d003c1",
@@ -42,7 +50,9 @@
     "address": "540 Farview Avenue, Paramus, NJ 07652-4832",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9545086,
+    "longitude": -74.058307
   },
   {
     "id": "adb87724-b830-5a98-b91b-5de97d468285",
@@ -51,7 +61,9 @@
     "address": "540 Farview Avenue, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9545086,
+    "longitude": -74.058307
   },
   {
     "id": "8b572121-1f2d-5c93-8dfe-804ff59f5199",
@@ -60,7 +72,9 @@
     "address": "540 Farview Avenue, Paramus, NJ 07652-4832",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9545086,
+    "longitude": -74.058307
   },
   {
     "id": "2dae0a68-79ee-54c3-8bc7-917d0747391b",
@@ -69,7 +83,9 @@
     "address": "540 Farview Avenue, Paramus, NJ 07652-1831",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9545086,
+    "longitude": -74.058307
   },
   {
     "id": "9e6f5e30-16de-5798-80e6-297c8cd142c6",
@@ -78,7 +94,9 @@
     "address": "333 East Ridgewood Avenue, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9693797,
+    "longitude": -74.0819105
   },
   {
     "id": "8bfdef95-7c4f-525f-a832-3b2190aa698b",
@@ -87,7 +105,9 @@
     "address": "400 Paramus Road, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9501907,
+    "longitude": -74.0883598
   },
   {
     "id": "3623cfc0-9ec3-5c30-bbbe-fa7982c192c9",
@@ -96,7 +116,9 @@
     "address": "200 Hackensack Avenue, Hackensack, NJ 07601-6110",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9012393,
+    "longitude": -74.0353448
   },
   {
     "id": "76626aa6-d0b1-5924-9fbc-28f505ad6061",
@@ -105,7 +127,9 @@
     "address": "162 Knickerbocker Road, Demarest, NJ 07627",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9643688,
+    "longitude": -73.9735648
   },
   {
     "id": "f2b57294-78db-5388-a5b3-74dad370c69b",
@@ -114,25 +138,9 @@
     "address": "E.285 Pascack Road, Paramus, NJ 07652-4237",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "1e494538-2c05-51a1-86f9-d7b0ea6d9e16",
-    "name": "Bergen County Technical High School - Teterboro",
-    "type": "School",
-    "address": "504 Route 46 West, Teterboro, NJ 07608",
-    "county": "Bergen",
-    "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "eda56940-3c0b-5c63-8384-a1c41dc77271",
-    "name": "Bergen County Technical Schools Adult & Continuing Education",
-    "type": "School",
-    "address": "200A Hackensack Avenue, Adult Education Bldg., Hackensack, NJ 07601",
-    "county": "Bergen",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9599027,
+    "longitude": -74.0600716
   },
   {
     "id": "2db0c238-95cb-5fc2-b11e-90416c052f9c",
@@ -141,7 +149,9 @@
     "address": "295 Pascack Road, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9599027,
+    "longitude": -74.0600716
   },
   {
     "id": "fedd090f-463c-535f-aebb-de100d1b7032",
@@ -150,7 +160,9 @@
     "address": "80 S Prospect Ave, Bergenfield, NJ 07621-1958",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9249239,
+    "longitude": -74.0075912
   },
   {
     "id": "eaa38d56-bb2d-56df-ba0b-9174cd233f31",
@@ -159,7 +171,9 @@
     "address": "2 N Franklin Avenue, Bergenfield, NJ 07621",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9285208,
+    "longitude": -74.0037565
   },
   {
     "id": "4c19f392-e5bd-5f3d-a04f-9400cf3afbfc",
@@ -168,7 +182,9 @@
     "address": "273 Murray Hill Terrace, Bergenfield, NJ 07621",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9150041,
+    "longitude": -73.9933708
   },
   {
     "id": "56f5742d-16d0-5920-8f0a-70325910470f",
@@ -177,7 +193,9 @@
     "address": "200 Hickory Avenue, Bergenfield, NJ 07621",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9321244,
+    "longitude": -73.9869596
   },
   {
     "id": "26066d76-ad00-58b8-9913-88fe541b2d98",
@@ -186,7 +204,9 @@
     "address": "115 Highview Avenue, Bergenfield, NJ 07621",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9180242,
+    "longitude": -74.0079968
   },
   {
     "id": "77bba91b-c55d-5fa1-a845-c1a7ffd52157",
@@ -195,7 +215,9 @@
     "address": "130 S Washington Ave, Bergenfield, NJ 07621-2902",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9221583,
+    "longitude": -73.9983546
   },
   {
     "id": "449ba30f-9f89-59f8-a267-7aa888997de4",
@@ -204,7 +226,9 @@
     "address": "49 S Summit Street, Bergenfield, NJ 07621",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9263516,
+    "longitude": -73.9929658
   },
   {
     "id": "2c240056-06bc-5235-bb37-5f99a039a221",
@@ -213,7 +237,9 @@
     "address": "2 Henry C Luthin Place, Bogota, NJ 07603",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8780379,
+    "longitude": -74.0243621
   },
   {
     "id": "9cd5883a-e1b5-54db-ad99-4e9785b0c671",
@@ -222,7 +248,9 @@
     "address": "131 East Fort Lee Road, Bogota, NJ 07603",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8747874,
+    "longitude": -74.0247782
   },
   {
     "id": "586c752e-5a7e-5823-8d46-7ddf91317fbd",
@@ -231,7 +259,9 @@
     "address": "25 Fischer Ave, Bogota, NJ 07603",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.869683,
+    "longitude": -74.0267724
   },
   {
     "id": "623dc8c7-4248-5adb-a258-41d7fdac349d",
@@ -240,7 +270,9 @@
     "address": "134 W. Main, Bogota, NJ 07603",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8777648,
+    "longitude": -74.028226
   },
   {
     "id": "1eefad10-5a90-535c-8a77-cc5e8ff66d4f",
@@ -249,7 +281,9 @@
     "address": "550 Washington Street, Carlstadt, NJ 07072",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8430409,
+    "longitude": -74.0951899
   },
   {
     "id": "1d4c7a97-9717-5538-b461-1ecbcd4fb24c",
@@ -258,7 +292,9 @@
     "address": "120 Paterson Avenue, East Rutherford, NJ 07073",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8322754,
+    "longitude": -74.0930239
   },
   {
     "id": "b9fa48b3-2283-5d2a-a7e8-1706601d8569",
@@ -267,7 +303,9 @@
     "address": "64 Riverview Avenue, Cliffside Park, NJ 07010",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.821256,
+    "longitude": -73.9864994
   },
   {
     "id": "f255653e-15cb-5eae-8943-8ea1c628c79b",
@@ -276,7 +314,9 @@
     "address": "397 Palisade Avenue, Cliffside Park, NJ 07010",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8174994,
+    "longitude": -73.9904246
   },
   {
     "id": "8bca997b-2926-5532-aaf4-00340cb08359",
@@ -285,7 +325,9 @@
     "address": "279 Columbia Avenue, Cliffside Park, NJ 07010",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8265587,
+    "longitude": -73.986256
   },
   {
     "id": "a1841136-782e-54f3-8dd9-ad4fbed2ae7f",
@@ -294,7 +336,9 @@
     "address": "214 Day Ave, Cliffside Park, NJ 07010",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.811342,
+    "longitude": -73.993602
   },
   {
     "id": "9fe532b7-fe48-5a0f-b611-c7fe70447751",
@@ -303,7 +347,9 @@
     "address": "440 Oakdene Ave, Cliffside Park, NJ 07010",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8263774,
+    "longitude": -73.9920271
   },
   {
     "id": "07fa701b-dcb7-504f-aec7-4a071ff4fc38",
@@ -312,7 +358,9 @@
     "address": "340 Homans Avenue, Closter, NJ 07624-2907",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9666,
+    "longitude": -73.9496997
   },
   {
     "id": "b3a210a8-b0fc-5740-9040-dbd60f6a1655",
@@ -321,7 +369,9 @@
     "address": "275 High Street, Closter, NJ 07624-1809",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.974952,
+    "longitude": -73.967936
   },
   {
     "id": "cc2c2cea-e677-5148-9cf3-e7bdbd019ebd",
@@ -330,7 +380,9 @@
     "address": "1 Lincoln Drive, Cresskill, NJ 07626",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.94501,
+    "longitude": -73.964183
   },
   {
     "id": "7052f22b-1c99-5bd0-a16b-bb5a0852d04a",
@@ -339,7 +391,9 @@
     "address": "1 Lincoln Drive, Cresskill, NJ 07626",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.94501,
+    "longitude": -73.964183
   },
   {
     "id": "223f1cb9-4a4c-5184-ae63-f634d32427db",
@@ -348,7 +402,9 @@
     "address": "51 Brookside Ave, Cresskill, NJ 07626",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9444441,
+    "longitude": -73.9685326
   },
   {
     "id": "75668a7b-a544-5f47-bf45-57ee0ed44be6",
@@ -357,7 +413,9 @@
     "address": "1 Dogwood Lane, Cresskill, NJ 07626",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.941687,
+    "longitude": -73.960242
   },
   {
     "id": "72d498d5-7d2a-5147-b63c-965b35504e52",
@@ -366,7 +424,9 @@
     "address": "130 County Rd, Demarest, NJ 07627-2431",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9520428,
+    "longitude": -73.9562485
   },
   {
     "id": "ebd03ed8-54ba-58a4-8db7-9c8b17e65795",
@@ -375,7 +435,9 @@
     "address": "568 Piermont Rd, Demarest, NJ 07627-1617",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.957349,
+    "longitude": -73.9618665
   },
   {
     "id": "79e0e39c-ca76-5b4a-9ec6-c2f4f72a14c4",
@@ -384,7 +446,9 @@
     "address": "15 Columbus Road, Demarest, NJ 07627",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9566365,
+    "longitude": -73.9709909
   },
   {
     "id": "6611a972-c0f9-5156-bdca-ac38d4a02bd2",
@@ -393,7 +457,9 @@
     "address": "101 New Milford Ave, Dumont, NJ 07628-2913",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9437758,
+    "longitude": -73.9972162
   },
   {
     "id": "2c58939f-4112-5143-b574-a4843ad5be1f",
@@ -402,7 +468,9 @@
     "address": "100 Grant Ave, Dumont, NJ 07628-1650",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9479576,
+    "longitude": -73.9848177
   },
   {
     "id": "d0e1a249-01fe-5a43-b06e-26dc873617d3",
@@ -411,7 +479,9 @@
     "address": "31 Depew St, Dumont, NJ 07628-3601",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9376517,
+    "longitude": -73.9864742
   },
   {
     "id": "f9cda0e3-a445-55e1-8631-e04712120ccb",
@@ -420,7 +490,9 @@
     "address": "80 Prospect Ave, Dumont, NJ 07628-2736",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9414334,
+    "longitude": -74.0038679
   },
   {
     "id": "cf92e169-9368-5e13-8fce-4121f66afbbb",
@@ -429,7 +501,9 @@
     "address": "435 Prospect Ave, Dumont, NJ 07628-1417",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.949519,
+    "longitude": -74.0020929
   },
   {
     "id": "60acdbcd-97a8-54b4-93f0-28fa81b74da5",
@@ -438,7 +512,9 @@
     "address": "100 Uhland Street, East Rutherford, NJ 07073",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.834917,
+    "longitude": -74.0987985
   },
   {
     "id": "e1ce6660-1446-5902-8c1a-a902a36b719c",
@@ -447,7 +523,9 @@
     "address": "258 Grove Street, East Rutherford, NJ 07073",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8346869,
+    "longitude": -74.099424
   },
   {
     "id": "02271855-1555-5cb6-906e-836779e45a9b",
@@ -456,7 +534,9 @@
     "address": "125 Carlton Avenue, East Rutherford, NJ 07073",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8463226,
+    "longitude": -74.1144527
   },
   {
     "id": "1b89c2a1-d8d3-5b72-b82e-54e516d12de0",
@@ -465,7 +545,9 @@
     "address": "251 Undercliff Ave, Edgewater, NJ 07020-1112",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.822441,
+    "longitude": -73.978532
   },
   {
     "id": "671fc4f8-d153-5d70-a1f5-2175ba4ef9b6",
@@ -474,7 +556,9 @@
     "address": "801 Undercliff Ave, Edgewater, NJ 07020",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.841455,
+    "longitude": -73.97056
   },
   {
     "id": "b18a7c53-1f9b-5b05-8aa2-c2569a474629",
@@ -483,7 +567,9 @@
     "address": "99 Roosevelt Ave, Elmwood Park, NJ 07407-1152",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.892608,
+    "longitude": -74.125365
   },
   {
     "id": "a8e501d4-f0e4-54cc-80f2-3941d56f51c2",
@@ -492,7 +578,9 @@
     "address": "151 Gilbert Avenue, Elmwood Park, NJ 07407",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9099922,
+    "longitude": -74.1240841
   },
   {
     "id": "7948c939-6384-58ff-b51e-499f79b00290",
@@ -501,7 +589,9 @@
     "address": "375 River Drive, Elmwood Park, NJ 07407-1622",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8901336,
+    "longitude": -74.1280766
   },
   {
     "id": "431c81ab-0f90-5cc9-8157-4c88cc1775fb",
@@ -510,7 +600,9 @@
     "address": "375 River Dr, Elmwood Park, NJ 07407-1622",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8901336,
+    "longitude": -74.1280766
   },
   {
     "id": "87800213-8086-54f5-82e7-9b8f0ff52b54",
@@ -519,7 +611,9 @@
     "address": "73 Sixteenth Avenue, Elmwood Park, NJ 07407-2925",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9184123,
+    "longitude": -74.1194474
   },
   {
     "id": "0482d1f6-5c2b-514f-8ba0-973582560a5a",
@@ -528,7 +622,9 @@
     "address": "131 Main Street, Emerson, NJ 07630",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9740281,
+    "longitude": -74.0156389
   },
   {
     "id": "67c3bd8d-20f8-5ff1-ba3a-b8df09f15cd7",
@@ -537,7 +633,9 @@
     "address": "1 Haines Avenue, Emerson, NJ 07630",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8312114,
+    "longitude": -73.9993057
   },
   {
     "id": "773f2c00-69ee-5d98-a2ad-e00792259a45",
@@ -546,7 +644,9 @@
     "address": "175 Linwood Avenue, Emerson, NJ 07630-1847",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9743082,
+    "longitude": -74.0225111
   },
   {
     "id": "a1451c3a-df52-5e4e-9331-126bb4ca7014",
@@ -555,7 +655,9 @@
     "address": "700 Floyd St, Englewood Cliffs, NJ 07632",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.89446,
+    "longitude": -73.946151
   },
   {
     "id": "fa39bf46-aa5e-591f-83ae-f2ecdcf047dc",
@@ -564,7 +666,9 @@
     "address": "143 Charlotte Pl, Englewood Cliffs, NJ 07632",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8760347,
+    "longitude": -73.9564496
   },
   {
     "id": "af484d02-8b3f-572e-8d64-2b6269c8267a",
@@ -573,7 +677,9 @@
     "address": "186 Davison Place, Englewood, NJ 07631",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9034325,
+    "longitude": -73.9645822
   },
   {
     "id": "5111116a-ed9a-5c94-a32f-6683031900d9",
@@ -582,7 +688,9 @@
     "address": "50 Durie Ave, Englewood, NJ 07631",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.905562,
+    "longitude": -73.972571
   },
   {
     "id": "7dbd108a-947a-5eb7-9469-f2d4303a2cf9",
@@ -591,7 +699,9 @@
     "address": "325 Tenafly Rd, Englewood, NJ 07631-1742",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9077176,
+    "longitude": -73.9733764
   },
   {
     "id": "168f2e6b-b1e5-55e5-ba34-9ace93659bf0",
@@ -600,7 +710,9 @@
     "address": "274 Knickerbocker Rd, Englewood, NJ 07631-1534",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8987752,
+    "longitude": -73.9832611
   },
   {
     "id": "19502b66-be00-57df-9475-39809aa55343",
@@ -609,7 +721,9 @@
     "address": "325 Tryon Avenue, Englewood, NJ 07631",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9048574,
+    "longitude": -73.9845235
   },
   {
     "id": "a95dac54-2162-5df0-8ef3-f98746b2bc19",
@@ -618,7 +732,9 @@
     "address": "14 00 Berdan Avenue, Fair Lawn, NJ 07410",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9326016,
+    "longitude": -74.1259066
   },
   {
     "id": "b3bbf55b-df51-5f91-9693-dc8c1966ff57",
@@ -627,7 +743,9 @@
     "address": "8-01 Phillip St, Fair Lawn, NJ 07410",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9358578,
+    "longitude": -74.1044259
   },
   {
     "id": "4847c8c7-0c54-5813-a3fd-75ade71d2dad",
@@ -636,7 +754,9 @@
     "address": "10 - 00 Hopper Ave, Fair Lawn, NJ 07410-1815",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.934681,
+    "longitude": -74.1294809
   },
   {
     "id": "90409b37-c158-5890-b5fd-8641e1806d20",
@@ -645,7 +765,9 @@
     "address": "9-04 Morlot Ave, Fair Lawn, NJ 07410",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9245458,
+    "longitude": -74.138925
   },
   {
     "id": "5ebfd7f7-d356-5b9b-a9e3-2035f45f2070",
@@ -654,7 +776,9 @@
     "address": "12 - 00 First Street, Fair Lawn, NJ 07410",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9305495,
+    "longitude": -74.1388482
   },
   {
     "id": "3845c30f-1009-5bb9-b7d1-637c8445897d",
@@ -663,7 +787,9 @@
     "address": "18-00 Radburn Rd, Fair Lawn, NJ 07410",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9449045,
+    "longitude": -74.1151587
   },
   {
     "id": "15ff55e4-a4ec-5833-835d-0d0b5b10da1a",
@@ -672,7 +798,9 @@
     "address": "35 - 01 Morlot Avenue, Fair Lawn, NJ 07410-4919",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9342543,
+    "longitude": -74.10427
   },
   {
     "id": "36ce348c-1517-54fc-ad74-c2b4059e801b",
@@ -681,7 +809,9 @@
     "address": "30-07 Broadway, Fair Lawn, NJ 07410-3918",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9243652,
+    "longitude": -74.1050444
   },
   {
     "id": "c703c289-abf3-5ebb-a652-41120d887876",
@@ -690,7 +820,9 @@
     "address": "16-50 Parmelee Ave., Fair Lawn, NJ 07410",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9366726,
+    "longitude": -74.1318799
   },
   {
     "id": "217bc5b0-b341-5497-a7ab-afa2c66a2739",
@@ -699,7 +831,9 @@
     "address": "140 Anderson Avenue, Fairview, NJ 07022",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8136207,
+    "longitude": -73.9970529
   },
   {
     "id": "fc5962c9-aab0-5836-a4a0-eeaf4ff82bba",
@@ -708,7 +842,9 @@
     "address": "130 Hamilton Avenue, Fairview, NJ 07022",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8129289,
+    "longitude": -73.9972701
   },
   {
     "id": "3c1a7030-6c24-57b1-b929-15eee9c321b7",
@@ -717,7 +853,9 @@
     "address": "403 Cliff Street, Fairview, NJ 07022",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8188528,
+    "longitude": -73.996348
   },
   {
     "id": "cc718e0f-5622-5958-ae65-00de2f05ca97",
@@ -726,7 +864,9 @@
     "address": "3000 Lemoine Ave, Fort Lee, NJ 07024",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8649777,
+    "longitude": -73.9611221
   },
   {
     "id": "e071f469-c9e8-5bea-984d-58cc54be9bf6",
@@ -735,7 +875,9 @@
     "address": "467 Stillwell Avenue, Fort Lee, NJ 07024-2140",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8491073,
+    "longitude": -73.9806978
   },
   {
     "id": "1d75bcba-072c-54f7-879b-65134274b2c9",
@@ -744,7 +886,9 @@
     "address": "250 Hoym Street, Fort Lee, NJ 07024",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.850171,
+    "longitude": -73.971916
   },
   {
     "id": "e9cb6eba-39e4-59ec-9720-b906595e4c77",
@@ -753,7 +897,9 @@
     "address": "2047 Jones Road, Fort Lee, NJ 07024",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8589908,
+    "longitude": -73.9788413
   },
   {
     "id": "5af2811c-984b-52c4-a014-07e4ba07b21c",
@@ -762,7 +908,9 @@
     "address": "2405 Second Street, Fort Lee, NJ 07024",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8648744,
+    "longitude": -73.9650973
   },
   {
     "id": "77f74642-e3a3-505d-9798-21d6bb8d053c",
@@ -771,7 +919,9 @@
     "address": "1193 Anderson Ave, Fort Lee, NJ 07024-1761",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.839238,
+    "longitude": -73.981789
   },
   {
     "id": "3b61a492-0be4-5bbf-922f-78e6a92119df",
@@ -780,7 +930,9 @@
     "address": "749 Colonial Road, Franklin Lakes, NJ 07417",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0147475,
+    "longitude": -74.2250909
   },
   {
     "id": "2446ddc7-6073-51c4-aa5d-5f08e4990b48",
@@ -789,7 +941,9 @@
     "address": "755 Franklin Avenue, Franklin Lakes, NJ 07417",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.020791,
+    "longitude": -74.2041251
   },
   {
     "id": "56fde586-9983-59d3-a3b8-cf3d2c40772d",
@@ -798,7 +952,9 @@
     "address": "765 High Mountain Road, Franklin Lakes, NJ 07417-2914",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.990926,
+    "longitude": -74.21079
   },
   {
     "id": "1c8972cb-a65f-54a0-bbc0-e9ac1fbc1515",
@@ -807,7 +963,9 @@
     "address": "305 Woodside Avenue, Franklin Lakes, NJ 07417-2030",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.026197,
+    "longitude": -74.1849306
   },
   {
     "id": "d8c65ae5-4b51-5ab5-986b-be4a930da7fd",
@@ -816,7 +974,9 @@
     "address": "111 Palisade Ave, Garfield, NJ 07026",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.867544,
+    "longitude": -74.107466
   },
   {
     "id": "c61ffedb-1e07-515e-a8be-ccfb294db913",
@@ -825,7 +985,9 @@
     "address": "147 Cedar Street, Garfield, NJ 07026",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8789048,
+    "longitude": -74.1085867
   },
   {
     "id": "56ef04a3-37df-5e67-b21f-a029789991ad",
@@ -834,7 +996,9 @@
     "address": "241 Ray Street, Garfield, NJ 07026",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8847617,
+    "longitude": -74.1170609
   },
   {
     "id": "a6789523-6907-5be3-bfbc-b95aa34f3c11",
@@ -843,7 +1007,9 @@
     "address": "500 Palisade Ave, Garfield, NJ 07026-2637",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.88168,
+    "longitude": -74.112245
   },
   {
     "id": "90f81c5b-746c-551f-ac5a-2aed6160971a",
@@ -852,7 +1018,9 @@
     "address": "175 Lanza Ave, Garfield, NJ 07026",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8870822,
+    "longitude": -74.1186876
   },
   {
     "id": "5434066f-b35e-5861-816d-5cff365728f6",
@@ -861,7 +1029,9 @@
     "address": "541 Midland Ave, Garfield, NJ 07026",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8839966,
+    "longitude": -74.1008233
   },
   {
     "id": "a62a1471-a416-5536-9a8e-6e98838fb88d",
@@ -870,7 +1040,9 @@
     "address": "464 Outwater Lane, Garfield, NJ 07026",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8850331,
+    "longitude": -74.0979675
   },
   {
     "id": "52043d78-76de-5e28-a0aa-2f3c1ef0ad76",
@@ -879,7 +1051,9 @@
     "address": "55 Lincoln Place, Garfield, NJ 07026",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.867418,
+    "longitude": -74.1034063
   },
   {
     "id": "b1f9c24e-15fe-528b-863a-990d5ce4719c",
@@ -888,7 +1062,9 @@
     "address": "225 Lincoln Pl, Garfield, NJ 07026",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8733597,
+    "longitude": -74.1031734
   },
   {
     "id": "4f82ea5d-8e70-525c-8602-b891e52f57fc",
@@ -897,7 +1073,9 @@
     "address": "62 Alpine Street, Garfield, NJ 07026",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8893267,
+    "longitude": -74.1053527
   },
   {
     "id": "3bb92977-4f57-56e2-aec9-415a11ec7216",
@@ -906,7 +1084,9 @@
     "address": "12 Madonna Place, Garfield, NJ 07026",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.884169,
+    "longitude": -74.1214352
   },
   {
     "id": "f2aba956-0a4e-571f-95d0-f547aebc674f",
@@ -915,7 +1095,9 @@
     "address": "380 Harristown Road, Glen Rock, NJ 07452",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9519168,
+    "longitude": -74.1308999
   },
   {
     "id": "9455a8be-8d88-50fb-aeca-19088f5fd73b",
@@ -924,7 +1106,9 @@
     "address": "600 S Maple Ave, Glen Rock, NJ 07452-1821",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9604642,
+    "longitude": -74.1284694
   },
   {
     "id": "06c6fca0-2124-5f3a-b22f-e3116c1639d7",
@@ -933,7 +1117,9 @@
     "address": "100 Pinelynn Rd, Glen Rock, NJ 07452-3025",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9567687,
+    "longitude": -74.1151035
   },
   {
     "id": "fc4d9a2b-6773-5707-b209-5de46b1375b0",
@@ -942,7 +1128,9 @@
     "address": "400 Hamilton Avenue, Glen Rock, NJ 07452-2328",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9556484,
+    "longitude": -74.1229635
   },
   {
     "id": "ead89494-80f1-5e33-85ad-b6d162af26b7",
@@ -951,7 +1139,9 @@
     "address": "600 Harristown Road, Glen Rock, NJ 07452",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.956058,
+    "longitude": -74.122807
   },
   {
     "id": "742dc614-e3ca-577a-9b6a-40b074bb4833",
@@ -960,7 +1150,9 @@
     "address": "640 Doremus Ave, Glen Rock, NJ 07452-2033",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.961769,
+    "longitude": -74.135919
   },
   {
     "id": "1bee5445-0723-562e-8a6f-8b779a9d8e46",
@@ -969,7 +1161,9 @@
     "address": "105 Grand Avenue, Hackensack, NJ 07601",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.901051,
+    "longitude": -74.043188
   },
   {
     "id": "589197aa-440b-5730-af1b-b38303ff59ac",
@@ -978,7 +1172,9 @@
     "address": "56 Longview Avenue, Hackensack, NJ 07601",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8806345,
+    "longitude": -74.057941
   },
   {
     "id": "b7f5bfe9-5c44-5e60-9b1b-4d92b03c4629",
@@ -987,7 +1183,9 @@
     "address": "First & Beech Streets, Hackensack, NJ 07601",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8856549,
+    "longitude": -74.0526406
   },
   {
     "id": "754fe0c3-7bd7-5026-afda-55ffde32d144",
@@ -996,7 +1194,9 @@
     "address": "360 Union Street, Hackensack, NJ 07601",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8887704,
+    "longitude": -74.0436819
   },
   {
     "id": "b0054ff8-7d70-5223-9ead-ed643cb50364",
@@ -1005,7 +1205,9 @@
     "address": "421 Jackson Ave, Hackensack, NJ 07601",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.865673,
+    "longitude": -74.0410503
   },
   {
     "id": "7120a95c-42a1-5a5a-8fc5-f954aa583324",
@@ -1014,7 +1216,9 @@
     "address": "261 Maple Hill Dr, Hackensack, NJ 07601",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8934931,
+    "longitude": -74.0585374
   },
   {
     "id": "f255c529-01d7-589e-a340-df468d9d730f",
@@ -1023,7 +1227,9 @@
     "address": "191 Harriot Ave, Harrington Park, NJ 07640-1401",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9869269,
+    "longitude": -73.9837054
   },
   {
     "id": "0eddb070-c4fd-5af6-819e-2a1511b6f4bb",
@@ -1032,7 +1238,9 @@
     "address": "1 Burton Avenue, Hasbrouck Heights, NJ 07604",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.856706,
+    "longitude": -74.079217
   },
   {
     "id": "73ddae9f-aa96-5e5d-8931-bbc88bcd830a",
@@ -1041,7 +1249,9 @@
     "address": "365 Boulevard, Hasbrouck Heights, NJ 07604-1402",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8681629,
+    "longitude": -74.0760937
   },
   {
     "id": "0c41bdd1-a62e-5fe5-b5fc-57f515cb6848",
@@ -1050,7 +1260,9 @@
     "address": "365 Boulevard, Hasbrouck Heights, NJ 07604-1402",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8681629,
+    "longitude": -74.0760937
   },
   {
     "id": "f2351c13-7c81-52e0-8b5c-812f032ebc87",
@@ -1059,7 +1271,9 @@
     "address": "Burton & Paterson Aves, Hasbrouck Heights, NJ 07604",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8620244,
+    "longitude": -74.0259218
   },
   {
     "id": "a56ed9b8-5fb7-5d73-bc50-5eb833e7cd78",
@@ -1068,7 +1282,9 @@
     "address": "205 Valley Rd, Haworth, NJ 07641-1218",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9622402,
+    "longitude": -73.9860009
   },
   {
     "id": "0a846301-9aaa-55d4-aa40-5e4ecf118aea",
@@ -1077,7 +1293,9 @@
     "address": "1000 Hillsdale Ave, Hillsdale, NJ 07642",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0073098,
+    "longitude": -74.066752
   },
   {
     "id": "fd63b588-0f7c-52bb-891f-26648de191fe",
@@ -1086,7 +1304,9 @@
     "address": "120 Magnolia Ave, Hillsdale, NJ 07642-2131",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.003995,
+    "longitude": -74.037451
   },
   {
     "id": "1ad41f0d-9d46-5e51-81d6-47aceddac06e",
@@ -1095,7 +1315,9 @@
     "address": "50 Piermont Ave, Hillsdale, NJ 07642",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0096006,
+    "longitude": -74.0222299
   },
   {
     "id": "6625538b-ff7c-516d-a48e-8dda26e1c051",
@@ -1104,7 +1326,9 @@
     "address": "70 Lloyd Road, Ho Ho Kus, NJ 07423",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9994526,
+    "longitude": -74.1028794
   },
   {
     "id": "c61d4665-5a25-58ab-8181-a31fb9726e3d",
@@ -1113,7 +1337,9 @@
     "address": "281 Broad Avenue, Leonia, NJ 07605",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8569065,
+    "longitude": -73.9913974
   },
   {
     "id": "ce692fad-2f3d-57af-8611-169f8a880e27",
@@ -1122,7 +1348,9 @@
     "address": "100 Christie Heights Street, Leonia, NJ 07605-1525",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8710538,
+    "longitude": -73.9882317
   },
   {
     "id": "f565c609-4f5b-5e58-8606-09f68f06ca95",
@@ -1131,7 +1359,9 @@
     "address": "500 Broad Avenue, Leonia, NJ 07605",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8681279,
+    "longitude": -73.9843432
   },
   {
     "id": "b17c1ffc-8e1d-5392-af92-2c3feda90097",
@@ -1140,7 +1370,9 @@
     "address": "130 Liberty St, Little Ferry, NJ 07643-1756",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.84824,
+    "longitude": -74.043065
   },
   {
     "id": "fc45c1fc-4fb3-515d-b83d-27d315a76e1d",
@@ -1149,7 +1381,9 @@
     "address": "130 A Liberty St, Little Ferry, NJ 07643-1710",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8585942,
+    "longitude": -74.0407594
   },
   {
     "id": "6bf75964-07e8-52ad-8d13-5a28e0aefb79",
@@ -1158,7 +1392,9 @@
     "address": "370 Westervelt Place, Lodi, NJ 07644",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.882592,
+    "longitude": -74.089353
   },
   {
     "id": "9bf4676a-8e68-5fb2-9973-bf46d061370b",
@@ -1167,7 +1403,9 @@
     "address": "200 Kipp Avenue, Lodi, NJ 07644",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.863049,
+    "longitude": -74.076898
   },
   {
     "id": "486ab0d2-1f08-5c27-a2f8-341eb362f2d9",
@@ -1176,7 +1414,9 @@
     "address": "99 Putnam Street, Lodi, NJ 07644",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.885685,
+    "longitude": -74.086065
   },
   {
     "id": "5093fb59-be5b-5715-bcf2-1d63b2aecd9f",
@@ -1185,7 +1425,9 @@
     "address": "435 Passaic Avenue, Lodi, NJ 07644",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8734037,
+    "longitude": -74.0910237
   },
   {
     "id": "d6058772-5f08-5605-a1d3-f60e9b67f7a3",
@@ -1194,7 +1436,9 @@
     "address": "75 First Street, Lodi, NJ 07644",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8786497,
+    "longitude": -74.0771696
   },
   {
     "id": "0b4070a8-5277-57ac-b4df-21fb62d14349",
@@ -1203,7 +1447,9 @@
     "address": "310 N Main Street, Lodi, NJ 07644",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8818604,
+    "longitude": -74.0836328
   },
   {
     "id": "72bd3b5b-a441-5bb4-8b53-70f75e1fe9e6",
@@ -1212,7 +1458,9 @@
     "address": "80 Union Street, Lodi, NJ 07644",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8762623,
+    "longitude": -74.0830099
   },
   {
     "id": "4ba5da8c-db57-5ec7-ba96-8a99e57e6b31",
@@ -1221,7 +1469,9 @@
     "address": "640 Lake Ave, Lyndhurst, NJ 07071-1207",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8132507,
+    "longitude": -74.1140007
   },
   {
     "id": "ebe980dc-52d2-5d80-a326-ba42f98a2085",
@@ -1230,7 +1480,9 @@
     "address": "360 Stuyvesant Ave, Lyndhurst, NJ 07071-2122",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8123338,
+    "longitude": -74.1276182
   },
   {
     "id": "cff200d6-4705-5de3-812d-9ab44b8d81b2",
@@ -1239,7 +1491,9 @@
     "address": "336 Lake Ave., Lyndhurst, NJ 07071-1416",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.817259,
+    "longitude": -74.1208402
   },
   {
     "id": "f00b95ab-cc5e-5e81-a3bb-4cf0633d4b2c",
@@ -1248,7 +1502,9 @@
     "address": "400 Weart Avenue, Lyndhurst, NJ 07071",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8094101,
+    "longitude": -74.1264015
   },
   {
     "id": "b1f7665a-392b-5e7e-92d2-f08d6d2ab5f7",
@@ -1257,7 +1513,9 @@
     "address": "625 Page Avenue, Lyndhurst, NJ 07071",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.803889,
+    "longitude": -74.121022
   },
   {
     "id": "2f3cda2f-c9b0-52f0-8948-ef66ee4f878b",
@@ -1266,7 +1524,9 @@
     "address": "530 Stuyvesant Ave, Lyndhurst, NJ 07071-2628",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8084225,
+    "longitude": -74.1304173
   },
   {
     "id": "823e7a33-e903-50b1-885d-592667c8e3c2",
@@ -1275,7 +1535,9 @@
     "address": "709 Ridge Rd, Lyndhurst, NJ 07071-3215",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7991717,
+    "longitude": -74.1255894
   },
   {
     "id": "a9a9bae6-0a8a-5c77-9ca5-da7258dfcae0",
@@ -1284,7 +1546,9 @@
     "address": "20 Malcolm Rd, Mahwah, NJ 07430-1822",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0936589,
+    "longitude": -74.140068
   },
   {
     "id": "2b29f9c2-ae85-5f32-b7ff-54652cefaac6",
@@ -1293,7 +1557,9 @@
     "address": "39 Fardale Avenue, Mahwah, NJ 07430",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0413715,
+    "longitude": -74.1760223
   },
   {
     "id": "357535e3-8c20-5c8f-9a66-f02b9af0fbc9",
@@ -1302,7 +1568,9 @@
     "address": "80 Ridge Road, Mahwah, NJ 07430",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0642178,
+    "longitude": -74.1693315
   },
   {
     "id": "62ccf07b-5033-570a-804e-3e6949fbee05",
@@ -1311,7 +1579,9 @@
     "address": "160 Ridge Road, Mahwah, NJ 07430",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0648797,
+    "longitude": -74.1693038
   },
   {
     "id": "55149320-a0f4-5952-9734-ae517bfb61ba",
@@ -1320,7 +1590,9 @@
     "address": "50 Ridge Road, Mahwah, NJ 07430",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0640271,
+    "longitude": -74.1693405
   },
   {
     "id": "70a95a74-802e-5d52-8de9-fd0091197d5b",
@@ -1329,7 +1601,9 @@
     "address": "150 Ridge Road, Mahwah, NJ 07430",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.064873,
+    "longitude": -74.169304
   },
   {
     "id": "aad6b00f-ac9a-5807-a7fd-2e56dda5f50a",
@@ -1338,7 +1612,9 @@
     "address": "452 Maywood Ave, Maywood, NJ 07607-1969",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.901073,
+    "longitude": -74.062795
   },
   {
     "id": "6272f88b-bd25-53b9-8602-d4e729caf8bb",
@@ -1347,7 +1623,9 @@
     "address": "764 Grant Ave, Maywood, NJ 07607-1621",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9106921,
+    "longitude": -74.0621764
   },
   {
     "id": "0a3e436f-0ab8-5d56-8483-74f7b8fd542f",
@@ -1356,7 +1634,9 @@
     "address": "41 E. Center Street, Midland Park, NJ 07432",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9924674,
+    "longitude": -74.1394573
   },
   {
     "id": "69288791-4f6b-5cf0-834b-06c40238172a",
@@ -1365,7 +1645,9 @@
     "address": "31 Highland Ave, Midland Park, NJ 07432-1803",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9913511,
+    "longitude": -74.1403305
   },
   {
     "id": "378273bd-88df-521b-833d-135e0e19115c",
@@ -1374,7 +1656,9 @@
     "address": "250 Prospect St, Midland Park, NJ 07432",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0002024,
+    "longitude": -74.1365962
   },
   {
     "id": "87596b8a-4449-5074-b2ea-f98a9ef23153",
@@ -1383,7 +1667,9 @@
     "address": "47 Spring Valley Road, Montvale, NJ 07645",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0540106,
+    "longitude": -74.0490631
   },
   {
     "id": "15aba985-9b17-5568-b085-b62375488cbb",
@@ -1392,7 +1678,9 @@
     "address": "53 Grand Avenue West, Montvale, NJ 07645",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.055592,
+    "longitude": -74.0732933
   },
   {
     "id": "4afe3d3f-b244-56f0-86b4-8a75dda02f3e",
@@ -1401,7 +1689,9 @@
     "address": "20 West Park Street, Moonachie, NJ 07074-1115",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.844488,
+    "longitude": -74.0482317
   },
   {
     "id": "73564b4e-2510-5a79-ae60-b1405dda1574",
@@ -1410,7 +1700,9 @@
     "address": "812 Berkley Street, New Milford, NJ 07646",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9271702,
+    "longitude": -74.0222513
   },
   {
     "id": "e130dd8a-729c-5594-bc8a-c5d2631524bc",
@@ -1419,7 +1711,9 @@
     "address": "195 Sutton Place, New Milford, NJ 07646",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9467777,
+    "longitude": -74.0129077
   },
   {
     "id": "0df4cf8c-89f8-509a-8e7f-f329499d85b2",
@@ -1428,7 +1722,9 @@
     "address": "470 Marion Avenue, New Milford, NJ 07646",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9372796,
+    "longitude": -74.0127533
   },
   {
     "id": "f4776748-1cb0-565c-ae5b-1d11c3e96b7b",
@@ -1437,7 +1733,9 @@
     "address": "330 River Road, New Milford, NJ 07646",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.94208,
+    "longitude": -74.0217645
   },
   {
     "id": "edd19bdc-7d17-5226-8320-c2fdd3cec915",
@@ -1446,7 +1744,9 @@
     "address": "50 Webster Street, North Arlington, NJ 07031",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7955078,
+    "longitude": -74.1216975
   },
   {
     "id": "a878a4e4-78aa-5b34-95d6-cf6a4c8c06a5",
@@ -1455,7 +1755,9 @@
     "address": "175 Albert Street, North Arlington, NJ 07031",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.794339,
+    "longitude": -74.1338657
   },
   {
     "id": "8a6699f1-75fc-58a2-8157-a7b57d824778",
@@ -1464,7 +1766,9 @@
     "address": "222 Ridge Road, North Arlington, NJ 07031",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7895855,
+    "longitude": -74.1326426
   },
   {
     "id": "16535c1e-dfa1-5397-bb3d-ec3335e141f4",
@@ -1473,7 +1777,9 @@
     "address": "45 Beech Street, North Arlington, NJ 07031",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.780916,
+    "longitude": -74.1336405
   },
   {
     "id": "9bc3ffe6-41eb-5dd2-b042-bcf47c4e1dfd",
@@ -1482,7 +1788,9 @@
     "address": "100 Prospect Avenue, North Arlington, NJ 07031",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.786476,
+    "longitude": -74.139802
   },
   {
     "id": "ce4bb3da-0058-5a36-a7a8-5f79ccd6d5f8",
@@ -1491,7 +1799,9 @@
     "address": "191 Rutherford Place, North Arlington, NJ 07031",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7855141,
+    "longitude": -74.1325054
   },
   {
     "id": "df156ccc-cce5-5952-9f3d-959d48dbcafa",
@@ -1500,7 +1810,9 @@
     "address": "298 Hillside Ave, Allendale, NJ 07401-1447",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0358724,
+    "longitude": -74.1438221
   },
   {
     "id": "4613b4b5-b462-5a13-bca3-277665f9b929",
@@ -1509,7 +1821,9 @@
     "address": "200 Summit Street, Norwood, NJ 07648",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.995102,
+    "longitude": -73.9614088
   },
   {
     "id": "26de71a2-bd55-571c-9c79-c554c0bc1854",
@@ -1518,7 +1832,9 @@
     "address": "150 Knickerbocker Road, Demarest, NJ 07627-1026",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9614467,
+    "longitude": -73.9746988
   },
   {
     "id": "d9fef289-9d3a-557d-b826-01d9421f444a",
@@ -1527,7 +1843,9 @@
     "address": "140 Central Avenue, Old Tappan, NJ 07675",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0113695,
+    "longitude": -73.9787741
   },
   {
     "id": "9ac050cf-cad0-5cbe-842b-6730b4250534",
@@ -1536,7 +1854,9 @@
     "address": "441 Tappan Road, Northvale, NJ 07647",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0133035,
+    "longitude": -73.9528495
   },
   {
     "id": "5a90d490-8ac6-5142-b4b2-07538f8b7d47",
@@ -1545,7 +1865,9 @@
     "address": "177 Summit St, Norwood, NJ 07648-1812",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9944083,
+    "longitude": -73.9621826
   },
   {
     "id": "521ae44a-9c55-5ea0-b2a2-a47e299c9dde",
@@ -1554,7 +1876,9 @@
     "address": "25 Dogwood Dr, Oakland, NJ 07436-2659",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0179796,
+    "longitude": -74.2462871
   },
   {
     "id": "4c17988f-5499-5a7b-b082-09d9c0a4ed8f",
@@ -1563,7 +1887,9 @@
     "address": "114 Seminole Ave, Oakland, NJ 07436-2924",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0339677,
+    "longitude": -74.2279987
   },
   {
     "id": "c5881e12-cfe4-5120-a5c7-f7b031555981",
@@ -1572,7 +1898,9 @@
     "address": "111 Manito Ave, Oakland, NJ 07436-4012",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0353397,
+    "longitude": -74.2146533
   },
   {
     "id": "38e38c07-5c11-5c9f-84e1-f285e2336b9d",
@@ -1581,7 +1909,9 @@
     "address": "117C Franklin Avenue, Oakland, NJ 07436-2924",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0275985,
+    "longitude": -74.2235025
   },
   {
     "id": "fce3da62-c523-52d7-9ecb-26d5bd9c8f70",
@@ -1590,7 +1920,9 @@
     "address": "71 Oak St, Oakland, NJ 07436-1944",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0246902,
+    "longitude": -74.2523703
   },
   {
     "id": "808dd599-4556-5d6e-83f1-cb910a788537",
@@ -1599,7 +1931,9 @@
     "address": "275 Old Tappan Rd, Old Tappan, NJ 07675-7047",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.012345,
+    "longitude": -73.987812
   },
   {
     "id": "a0d9cf08-55e0-5d96-872f-72ef19835e18",
@@ -1608,25 +1942,9 @@
     "address": "1 School St, Old Tappan, NJ 07675",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "a34b4b14-c00a-574a-aea4-6f30fb5fd0c6",
-    "name": "Oradell Public School",
-    "type": "School",
-    "address": "350 Propect Avenue, Oradell, NJ 07649",
-    "county": "Bergen",
-    "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "42a4e9ca-4b8d-5ebb-b5c1-7fc0f070afc7",
-    "name": "Charles R Smith Early Chilhood Center",
-    "type": "School",
-    "address": "270 First Street, Palisades Park, NJ 07650",
-    "county": "Bergen",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.010654,
+    "longitude": -73.98595
   },
   {
     "id": "fc432232-1837-5dc7-b90e-c445b78341c7",
@@ -1635,16 +1953,9 @@
     "address": "401 Glen Ave, Palisades Park, NJ 07650",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "a670bc6f-47d6-567d-b548-02bf419e382d",
-    "name": "Palisades Park Jr - Sr High School",
-    "type": "School",
-    "address": "Veterans Plaza, Palisades Park, NJ 07650",
-    "county": "Bergen",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.847645,
+    "longitude": -73.992481
   },
   {
     "id": "d86dca57-8201-53c5-91cb-09521093830a",
@@ -1653,7 +1964,9 @@
     "address": "190 Spring Valley Road, Paramus, NJ 07652-5342",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9300572,
+    "longitude": -74.0549538
   },
   {
     "id": "d6f4ad52-b2cd-580e-b166-599b21b4d588",
@@ -1662,7 +1975,9 @@
     "address": "East 203 Midland Avenue, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9471931,
+    "longitude": -74.0547473
   },
   {
     "id": "42bd3515-62dc-5b7c-8049-14892576df44",
@@ -1671,7 +1986,9 @@
     "address": "241 West Midland Avenue, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9509402,
+    "longitude": -74.0735666
   },
   {
     "id": "1c7720d7-eb9c-5402-9976-7bc56479ce96",
@@ -1680,7 +1997,9 @@
     "address": "99 East Century Road, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.92711,
+    "longitude": -74.061443
   },
   {
     "id": "68488ef5-1977-5482-b168-e41b463d8d49",
@@ -1689,7 +2008,9 @@
     "address": "145 E. Ridgewood Avenue, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9718695,
+    "longitude": -74.0898882
   },
   {
     "id": "258b7e79-86fe-50f3-8cae-e6810fb7e1af",
@@ -1698,7 +2019,9 @@
     "address": "345 Lockwood Drive, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9438819,
+    "longitude": -74.064319
   },
   {
     "id": "a58da07b-51ce-5579-8972-1d51c56b8034",
@@ -1707,7 +2030,9 @@
     "address": "W 110 Ridgewood Avenue, Paramus, NJ 07652-4131",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9696018,
+    "longitude": -74.080764
   },
   {
     "id": "33bf2c0c-3a99-5dab-8763-31f1ad28654a",
@@ -1716,7 +2041,9 @@
     "address": "560 Roosevelt Boulevard, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.964093,
+    "longitude": -74.0829533
   },
   {
     "id": "84efc2c4-efd9-548b-9af0-5383e843e3bd",
@@ -1725,7 +2052,9 @@
     "address": "167 Sibbald Dr, Park Ridge, NJ 07656",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0264385,
+    "longitude": -74.0285533
   },
   {
     "id": "4cab11a3-67af-5950-949c-bfa4e6d958bc",
@@ -1734,7 +2063,9 @@
     "address": "2 Park Ave, Park Ridge, NJ 07656-1240",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.03457,
+    "longitude": -74.042292
   },
   {
     "id": "a469fcf5-3207-5b93-98c2-727272a00856",
@@ -1743,7 +2074,9 @@
     "address": "18 South First Street, Park Ridge, NJ 07656",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0387988,
+    "longitude": -74.0539314
   },
   {
     "id": "c3db2d8c-1c0b-56fe-9b93-ac3c2c097f09",
@@ -1752,7 +2085,9 @@
     "address": "225 West Grand Avenue, Montvale, NJ 07645",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0424317,
+    "longitude": -74.0360748
   },
   {
     "id": "63b68295-c110-5772-b5cb-b466a019435f",
@@ -1761,7 +2096,9 @@
     "address": "200 Piermont Avenue, Hillsdale, NJ 07642",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.007685,
+    "longitude": -74.030058
   },
   {
     "id": "1af675b7-f5e9-521d-98c1-49483d149858",
@@ -1770,7 +2107,9 @@
     "address": "97 Yawpo Ave, Oakland, NJ 07436-2740",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.021245,
+    "longitude": -74.233744
   },
   {
     "id": "422784bd-4ae9-59f2-8ec6-5e752818f6ea",
@@ -1779,7 +2118,9 @@
     "address": "331 George Street, Franklin Lakes, NJ 07417",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0003412,
+    "longitude": -74.19579
   },
   {
     "id": "35626cb3-4d22-501d-8077-262721e0b65a",
@@ -1788,7 +2129,9 @@
     "address": "2 Monroe Street, Ramsey, NJ 07446-1411",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0667281,
+    "longitude": -74.1501277
   },
   {
     "id": "4d7bdd38-d59e-5939-b3ca-0c1504d6353d",
@@ -1797,7 +2140,9 @@
     "address": "35 School Street, Ramsey, NJ 07446-1833",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.057818,
+    "longitude": -74.1455959
   },
   {
     "id": "c614571b-d51b-5acd-8d2c-6fd36d677d94",
@@ -1806,7 +2151,9 @@
     "address": "10 Hubbard Lane, Ramsey, NJ 07446-2202",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0463696,
+    "longitude": -74.1584048
   },
   {
     "id": "2a69aef0-394b-51e9-aa68-54c9de75d7f8",
@@ -1815,7 +2162,9 @@
     "address": "256 E Main Street, Ramsey, NJ 07446-1927",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0577848,
+    "longitude": -74.1352915
   },
   {
     "id": "be4b6736-5697-5bd2-9a10-df100a2341fe",
@@ -1824,7 +2173,9 @@
     "address": "200 Island Avenue, Ramsey, NJ 07446-1566",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0651929,
+    "longitude": -74.1412807
   },
   {
     "id": "4686e667-bbbf-5a57-9abe-e25e61c915ee",
@@ -1833,7 +2184,9 @@
     "address": "104 Henry St, Ridgefield Park, NJ 07660-2209",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8471519,
+    "longitude": -74.0222692
   },
   {
     "id": "6ee4360e-e80d-5587-8e57-de4368504697",
@@ -1842,16 +2195,9 @@
     "address": "712 Lincoln Avenue, Ridgefield Park, NJ 07660",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "12493c36-2e3d-5814-99f7-7dda6b827f7d",
-    "name": "Ridgefield Park Jr Sr High School",
-    "type": "School",
-    "address": "1 Ozzie Nelson Drive, Ridgefield Park, NJ 07660",
-    "county": "Bergen",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8616133,
+    "longitude": -74.0256936
   },
   {
     "id": "a4f48a03-aa27-57e8-b69d-79d86b1ea442",
@@ -1860,7 +2206,9 @@
     "address": "508 Teaneck Road, Ridgefield Park, NJ 07660",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.862918,
+    "longitude": -74.0162447
   },
   {
     "id": "105226bd-1414-57f9-84e1-30f327818828",
@@ -1869,7 +2217,9 @@
     "address": "635 Bergen Blvd, Ridgefield, NJ 07657",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8290022,
+    "longitude": -73.9942229
   },
   {
     "id": "31be8e02-1c33-5397-b16a-b9a249a9b9f6",
@@ -1878,7 +2228,9 @@
     "address": "555 Walnut St, Ridgefield, NJ 07657",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8311271,
+    "longitude": -74.0002977
   },
   {
     "id": "a0dfb903-2de5-507c-aa37-3e6ee3d91e5b",
@@ -1887,7 +2239,9 @@
     "address": "455 Shaler Boulevard, Ridgefield, NJ 07657",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.83042,
+    "longitude": -74.0043846
   },
   {
     "id": "eb300e8f-f88f-5d8b-9d97-81f69cfd5b6a",
@@ -1896,7 +2250,9 @@
     "address": "650 Prospect Ave, Ridgefield, NJ 07657",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.836141,
+    "longitude": -74.003559
   },
   {
     "id": "c3ec9a0b-0477-5605-a6d4-66b96c36a1fa",
@@ -1905,7 +2261,9 @@
     "address": "335 North Van Dien Ave, Ridgewood, NJ 07451",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.986275,
+    "longitude": -74.0995308
   },
   {
     "id": "623506c3-3c14-5059-9610-cdaeffd16e82",
@@ -1914,7 +2272,9 @@
     "address": "155 Washington Pl, Ridgewood, NJ 07451",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9802903,
+    "longitude": -74.1273125
   },
   {
     "id": "04ead15c-a1c5-5a23-b61e-c2047613efaa",
@@ -1923,7 +2283,9 @@
     "address": "865 East Glen Avenue, Ridgewood, NJ 07451",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9896745,
+    "longitude": -74.1146747
   },
   {
     "id": "f061ed8c-19d8-50d6-8d8f-22c3a8dfd255",
@@ -1932,7 +2294,9 @@
     "address": "531 Stevens Avenue, Ridgewood, NJ 07451",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9594318,
+    "longitude": -74.1034969
   },
   {
     "id": "a7b7d566-969f-5b59-a7d3-c75124e9f875",
@@ -1941,7 +2305,9 @@
     "address": "230 Demarest St, Ridgewood, NJ 07451",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9730809,
+    "longitude": -74.1288076
   },
   {
     "id": "03a5e1a6-2919-5542-87e0-5573aed49aa9",
@@ -1950,7 +2316,9 @@
     "address": "325 West Ridgewood Ave, Ridgewood, NJ 07450-3624",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9859401,
+    "longitude": -74.1309903
   },
   {
     "id": "835509b2-9b92-5e38-b129-c65839c44bc7",
@@ -1959,7 +2327,9 @@
     "address": "627 East Ridgewood Ave, Ridgewood, NJ 07451",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9776885,
+    "longitude": -74.1064717
   },
   {
     "id": "522d8b75-f176-59fa-b2dc-eb659cabe99e",
@@ -1968,7 +2338,9 @@
     "address": "45 South Pleasant Ave, Ridgewood, NJ 07451",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9736061,
+    "longitude": -74.099422
   },
   {
     "id": "b38b7981-581b-5885-9c49-7dfa4a7fe4ba",
@@ -1977,7 +2349,9 @@
     "address": "340 Bogert Ave, Ridgewood, NJ 07451",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.987109,
+    "longitude": -74.103001
   },
   {
     "id": "5b954667-199d-5d82-8d4b-41abdf836bdc",
@@ -1986,7 +2360,9 @@
     "address": "601 Morningside Rd, Ridgewood, NJ 07451",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9978565,
+    "longitude": -74.1219723
   },
   {
     "id": "7a043fe3-e227-5b47-872c-c335d07d7cf6",
@@ -1995,7 +2371,9 @@
     "address": "230 Woodland Avenue, River Edge, NJ 07661",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9390667,
+    "longitude": -74.0357835
   },
   {
     "id": "c9ca37b6-b596-5c18-b764-b79d2d79fa6e",
@@ -2004,7 +2382,9 @@
     "address": "55 Pyle Street, Oradell, NJ 07649",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.944933,
+    "longitude": -74.034417
   },
   {
     "id": "6ef32cc3-243e-5437-a22d-6a8a43083957",
@@ -2013,7 +2393,9 @@
     "address": "410 Bogert Rd, River Edge, NJ 07661-1813",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9215269,
+    "longitude": -74.0364678
   },
   {
     "id": "de5b56d4-725e-5ae9-a05a-5278ff55990f",
@@ -2022,7 +2404,9 @@
     "address": "711 Summit Ave, River Edge, NJ 07661-2201",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9344761,
+    "longitude": -74.0334624
   },
   {
     "id": "c5c569fe-eda2-5405-9094-661932f38b5d",
@@ -2031,7 +2415,9 @@
     "address": "393 Rivervale Road, River Vale, NJ 07675",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0076439,
+    "longitude": -74.0106364
   },
   {
     "id": "3de875a6-6dc5-5a98-be62-9c56ef8cbf8a",
@@ -2040,7 +2426,9 @@
     "address": "617 Westwood Ave, River Vale, NJ 07675-6241",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.994428,
+    "longitude": -74.010459
   },
   {
     "id": "217d3c4d-4639-582c-9d8c-c40a51bf7e33",
@@ -2049,7 +2437,9 @@
     "address": "801 Rivervale Rd, River Vale, NJ 07675-6148",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.031783,
+    "longitude": -74.010105
   },
   {
     "id": "7776c07e-75a5-58f9-97b3-d5e6b30dff91",
@@ -2058,7 +2448,9 @@
     "address": "300 Rochelle Ave, Rochelle Park, NJ 07662-3915",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.905579,
+    "longitude": -74.077016
   },
   {
     "id": "1aa3d43f-e1c9-5e01-8203-0b079f9aea03",
@@ -2067,7 +2459,9 @@
     "address": "414 Montross Avenue, Rutherford, NJ 07070-2218",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8266039,
+    "longitude": -74.1173856
   },
   {
     "id": "bd6646b5-4602-5742-9d80-c06d57a90fa9",
@@ -2076,7 +2470,9 @@
     "address": "70 E Pierrepont Ave, Rutherford, NJ 07070-2333",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8213915,
+    "longitude": -74.1099601
   },
   {
     "id": "8f60b34e-7ba6-5267-8017-33e7ed24c5e6",
@@ -2085,7 +2481,9 @@
     "address": "56 Elliott Pl, Rutherford, NJ 07070-1965",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8289835,
+    "longitude": -74.1083314
   },
   {
     "id": "1321921a-fd75-5f80-9a0d-970dee268300",
@@ -2094,7 +2492,9 @@
     "address": "359 Union Ave, Rutherford, NJ 07070-1519",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.837072,
+    "longitude": -74.115269
   },
   {
     "id": "c5d6b18e-ce75-5831-b4d5-5e987fff1d9d",
@@ -2103,7 +2503,9 @@
     "address": "89 Wood St, Rutherford, NJ 07070-1571",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.833718,
+    "longitude": -74.106683
   },
   {
     "id": "3f1a77c2-2f9d-52ed-a5b4-e0680af13577",
@@ -2112,7 +2514,9 @@
     "address": "95 Caldwell Avenue, Saddle Brook, NJ 07663",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.893458,
+    "longitude": -74.0964161
   },
   {
     "id": "6f3ccbb1-c12f-59ad-aca2-9007da50f00f",
@@ -2121,7 +2525,9 @@
     "address": "30 Cambridge Avenue, Saddle Brook, NJ 07663",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9121575,
+    "longitude": -74.0969245
   },
   {
     "id": "3caace92-191a-5e92-b151-c8f76970833c",
@@ -2130,7 +2536,9 @@
     "address": "355 Mayhill Street, Saddle Brook, NJ 07663",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9048828,
+    "longitude": -74.0916031
   },
   {
     "id": "9695bc57-aac3-5b45-8a0d-e6fa2b5f34b3",
@@ -2139,7 +2547,9 @@
     "address": "260 Floral Lane, Saddle Brook, NJ 07663",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9150683,
+    "longitude": -74.1033859
   },
   {
     "id": "3e6dd058-16e0-5b3e-81f9-db179c5e36b8",
@@ -2148,7 +2558,9 @@
     "address": "225 Market Street, Saddle Brook, NJ 07663",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8968014,
+    "longitude": -74.0890561
   },
   {
     "id": "8ddea25a-b67c-514e-9103-daaea383476a",
@@ -2157,7 +2569,9 @@
     "address": "97 E Allendale Rd, Saddle River, NJ 07458-3023",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.030957,
+    "longitude": -74.094969
   },
   {
     "id": "8c2caa9e-261b-55e0-8f04-149666d652cb",
@@ -2166,7 +2580,9 @@
     "address": "123 Union St, Lodi, NJ 07644",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8751539,
+    "longitude": -74.080754
   },
   {
     "id": "034466da-f31e-5d1f-8648-b34ae8170be1",
@@ -2175,16 +2591,9 @@
     "address": "404 Maywood Avenue, Maywood, NJ 07607",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "cdeacb11-123e-52e3-9f1b-eb14ce3e8a8f",
-    "name": "Moonachie Campus",
-    "type": "School",
-    "address": "Robert L. Craig School, 20 West Park Street, Moonachie, NJ 07074",
-    "county": "Bergen",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.89979,
+    "longitude": -74.063757
   },
   {
     "id": "5f3fa913-a003-5980-8d5f-bf036b75f4a6",
@@ -2193,7 +2602,9 @@
     "address": "Dyer Avenue, Memorial School, South Hackensack, NJ 07606-1537",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8312114,
+    "longitude": -73.9993057
   },
   {
     "id": "ace1b591-3a4f-537a-affe-b57e9d609d3f",
@@ -2202,7 +2613,9 @@
     "address": "1315 Taft Road, Teaneck, NJ 07666",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9002824,
+    "longitude": -74.0109376
   },
   {
     "id": "d78b0856-6d0c-52ff-b90c-e9b93b704699",
@@ -2211,7 +2624,9 @@
     "address": "1025 Lincoln Place, Teaneck, NJ 07666",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8963385,
+    "longitude": -74.0222134
   },
   {
     "id": "d3638d43-fe8e-5219-ad12-3ead3d48a415",
@@ -2220,7 +2635,9 @@
     "address": "491 W Englewood Avenue, Teaneck, NJ 07666",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.904886,
+    "longitude": -74.016002
   },
   {
     "id": "00c952d7-d941-59ba-a02d-de3a9ede4e32",
@@ -2229,7 +2646,9 @@
     "address": "201 Fycke Lane, Teaneck, NJ 07666",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8771798,
+    "longitude": -74.0026964
   },
   {
     "id": "9a7e5889-86ff-55a8-ac25-bec30e3e9860",
@@ -2238,7 +2657,9 @@
     "address": "100 Elizabeth Ave, Teaneck, NJ 07666-4713",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.891684,
+    "longitude": -74.008315
   },
   {
     "id": "37d74655-706a-5ee7-af0f-f605a6d0a145",
@@ -2247,7 +2668,9 @@
     "address": "One Merrison Street, Teaneck, NJ 07666",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8873038,
+    "longitude": -74.0077098
   },
   {
     "id": "d0197998-97e7-5709-9b47-e42ed5458622",
@@ -2256,7 +2679,9 @@
     "address": "655 Teaneck Rd, Teaneck, NJ 07666-4249",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8800641,
+    "longitude": -74.0082191
   },
   {
     "id": "e6b74e36-e30a-523a-bf4e-a4ed27044fd1",
@@ -2265,7 +2690,9 @@
     "address": "1 Tryon Avenue, Teaneck, NJ 07666",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.904316,
+    "longitude": -73.998933
   },
   {
     "id": "73a1ee52-b503-5361-ad8f-cdbb0f02ecf4",
@@ -2274,7 +2701,9 @@
     "address": "101 Downey Drive, Tenafly, NJ 07670",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9116326,
+    "longitude": -73.9585561
   },
   {
     "id": "05e55ffe-ced0-596d-b0fd-f4b05c5e3c4d",
@@ -2283,7 +2712,9 @@
     "address": "111 Jefferson Avenue, Tenafly, NJ 07670",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.935922,
+    "longitude": -73.9700353
   },
   {
     "id": "202bd11e-9d71-5b46-8d6f-09074a6ea3cb",
@@ -2292,7 +2723,9 @@
     "address": "111 Magnolia Avenue, Tenafly, NJ 07670",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9289767,
+    "longitude": -73.9600741
   },
   {
     "id": "a56b762c-8065-5cdc-8e1e-f8057cd88eb6",
@@ -2301,7 +2734,9 @@
     "address": "19 Columbus Drive, Tenafly, NJ 07670",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.931671,
+    "longitude": -73.966666
   },
   {
     "id": "1d0207bd-33d5-5f5b-a7d6-5d9e6fcbfe2d",
@@ -2310,7 +2745,9 @@
     "address": "10 Sunset Lane, Tenafly, NJ 07670",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9304798,
+    "longitude": -73.968658
   },
   {
     "id": "7e4c7941-8c02-5ecd-8cec-db65aac43c30",
@@ -2319,7 +2756,9 @@
     "address": "75 Tenafly Road, Tenafly, NJ 07670",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9129845,
+    "longitude": -73.9721672
   },
   {
     "id": "978506e0-6b21-598d-8971-82240655d7ba",
@@ -2328,7 +2767,9 @@
     "address": "391 W Saddle River Rd, Upper Saddle River, NJ 07458",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0624246,
+    "longitude": -74.0983859
   },
   {
     "id": "7676435d-3750-5a73-8ddf-104690c13aef",
@@ -2337,7 +2778,9 @@
     "address": "392 W Saddle River Rd, Upper Saddle River, NJ 07458",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0585156,
+    "longitude": -74.0983147
   },
   {
     "id": "878da18b-366d-5529-b6f3-e8e2d352b696",
@@ -2346,7 +2789,9 @@
     "address": "391 W Saddle River Rd, Upper Saddle River, NJ 07458",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0624246,
+    "longitude": -74.0983859
   },
   {
     "id": "e83811e9-1743-5aa2-a2f2-e426159915f8",
@@ -2355,7 +2800,9 @@
     "address": "165 Crescent Avenue, Waldwick, NJ 07463",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0189829,
+    "longitude": -74.1366496
   },
   {
     "id": "462cd945-42d2-595b-8eb6-828e908ebcc2",
@@ -2364,7 +2811,9 @@
     "address": "153 Summit Avenue, Waldwick, NJ 07463",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0164618,
+    "longitude": -74.1102065
   },
   {
     "id": "f10615b8-e1f4-5cee-b9a0-d76437a75313",
@@ -2373,7 +2822,9 @@
     "address": "155 Wyckoff Avenue, Waldwick, NJ 07463",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.011763,
+    "longitude": -74.1328259
   },
   {
     "id": "efa1aff8-8aa1-5c06-8e5e-e1d147978ca1",
@@ -2382,7 +2833,9 @@
     "address": "155 Wyckoff Avenue, Waldwick, NJ 07463",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.011763,
+    "longitude": -74.1328259
   },
   {
     "id": "dd26ef21-2e68-5f96-820c-25f879268212",
@@ -2391,7 +2844,9 @@
     "address": "106 King St, Wallington, NJ 07057",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8530377,
+    "longitude": -74.1049092
   },
   {
     "id": "1d760a5e-abbb-5ee0-a902-7e22d200b11a",
@@ -2400,7 +2855,9 @@
     "address": "6 Bond Street, Wallington, NJ 07057",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.851469,
+    "longitude": -74.115708
   },
   {
     "id": "5b1dd4c8-774a-5930-aa1a-1f4a30fa0809",
@@ -2409,7 +2866,9 @@
     "address": "234 Main Ave, Wallington, NJ 07057-1523",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8554188,
+    "longitude": -74.1078027
   },
   {
     "id": "2598db71-d6a3-553c-83f0-b61f3e8407c1",
@@ -2418,7 +2877,9 @@
     "address": "47 Berkeley Ave, Westwood, NJ 07675-2401",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9919524,
+    "longitude": -74.0246718
   },
   {
     "id": "e37ce990-8372-5be0-aa65-4623a2be0b8f",
@@ -2427,7 +2888,9 @@
     "address": "20 Lake Drive, Westwood, NJ 07675-2935",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.982942,
+    "longitude": -74.0444009
   },
   {
     "id": "a6e88b74-6dc8-5cf6-abcc-3c9d22471316",
@@ -2436,7 +2899,9 @@
     "address": "1 Palm Street, Township Of Washington, NJ 07676",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.990429,
+    "longitude": -74.050871
   },
   {
     "id": "f818e692-2188-5cef-b471-9fbb6f0c05f9",
@@ -2445,7 +2910,9 @@
     "address": "600 School Street, Township Of Washington, NJ 07676",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.992925,
+    "longitude": -74.0675107
   },
   {
     "id": "d6d98c69-44b9-51c0-952d-0b4e1e01de77",
@@ -2454,7 +2921,9 @@
     "address": "701 Ridgewood Road, Township Of Washington, NJ 07676",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9797104,
+    "longitude": -74.060446
   },
   {
     "id": "f8b6ff2e-7844-54b7-aa36-f0a03ced6ca7",
@@ -2463,7 +2932,9 @@
     "address": "23 Third Avenue, Westwood, NJ 07675-3331",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9853621,
+    "longitude": -74.0370486
   },
   {
     "id": "025ed88d-971f-558d-b3bb-2f4811343591",
@@ -2472,7 +2943,9 @@
     "address": "250 Wood Ridge Ave, Wood Ridge, NJ 07075-1510",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8522218,
+    "longitude": -74.0914055
   },
   {
     "id": "b93f08e2-feae-525b-8538-2d51e656e098",
@@ -2481,7 +2954,9 @@
     "address": "151 First Street, Wood-ridge, NJ 07075",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8466547,
+    "longitude": -74.0856333
   },
   {
     "id": "b4b7b3d0-0eaf-537f-954a-9fa83473e09e",
@@ -2490,7 +2965,9 @@
     "address": "258 Hackensack St, Wood Ridge, NJ 07075-1207",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8485285,
+    "longitude": -74.0808523
   },
   {
     "id": "bc79382c-4c06-51b6-9e56-8cabd48f3354",
@@ -2499,7 +2976,9 @@
     "address": "100 Dorchester Road, Woodcliff Lake, NJ 07677",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.02534,
+    "longitude": -74.0598928
   },
   {
     "id": "b24a9df5-8c29-5863-9970-59c02842ab52",
@@ -2508,7 +2987,9 @@
     "address": "134 Woodcliff Ave, Woodcliff Lake, NJ 07677-8245",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.02102,
+    "longitude": -74.059361
   },
   {
     "id": "bfbae6ba-c3ae-58de-a222-9b3146cc3d08",
@@ -2517,7 +2998,9 @@
     "address": "325 Mason Ave, Wyckoff, NJ 07481-2822",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.014071,
+    "longitude": -74.1600288
   },
   {
     "id": "1f9bd29e-c390-5a75-8abc-e093b4ef874b",
@@ -2526,7 +3009,9 @@
     "address": "420 Grandview Ave, Wyckoff, NJ 07481-2517",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9831575,
+    "longitude": -74.1551524
   },
   {
     "id": "5aa81986-4fa7-532d-82ad-f575ea70481d",
@@ -2535,7 +3020,9 @@
     "address": "344 Calvin Ct, Wyckoff, NJ 07481-2227",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.990108,
+    "longitude": -74.1666404
   },
   {
     "id": "24713ca0-3d46-5425-9a7f-9e358704d1d9",
@@ -2544,7 +3031,9 @@
     "address": "270 Woodland Ave, Wyckoff, NJ 07481-1935",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.008769,
+    "longitude": -74.1718394
   },
   {
     "id": "968597f9-96bf-5028-abcf-444622f91b8c",
@@ -2553,7 +3042,9 @@
     "address": "356 Sicomac Ave, Wyckoff, NJ 07481-2129",
     "county": "Bergen",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9870421,
+    "longitude": -74.1748667
   },
   {
     "id": "7b01c791-3a47-5868-b7a3-107178c989a1",
@@ -2562,7 +3053,9 @@
     "address": "75 Knickerbocker Road, Englewood, NJ 07631",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8987752,
+    "longitude": -73.9832611
   },
   {
     "id": "775b8ebe-6481-59ef-aaa8-efc06b805b13",
@@ -2571,7 +3064,9 @@
     "address": "400 Kamena Street, Fairview, NJ 07022",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.816283,
+    "longitude": -73.998127
   },
   {
     "id": "eec73485-a49e-5b8b-91ea-c3ad228b4edd",
@@ -2580,7 +3075,9 @@
     "address": "114 Mount Vernon St., Ridgefield Park, NJ 07660",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.856011,
+    "longitude": -74.022195
   },
   {
     "id": "23f0dbcf-75c5-5386-8eed-4a0e6aaebb60",
@@ -2589,7 +3086,9 @@
     "address": "441 North Street, Teaneck, NJ 07666",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.887488,
+    "longitude": -74.024311
   },
   {
     "id": "e311a195-03ce-5eac-a55c-c2b83f57e389",
@@ -2598,7 +3097,9 @@
     "address": "315 Hillside Avenue, Demarest, NJ 07627",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9416518,
+    "longitude": -73.9454359
   },
   {
     "id": "ae68e444-8b02-58d2-be4b-036c47505e90",
@@ -2607,7 +3108,9 @@
     "address": "180 Rodney Street, Glen Rock, NJ 07452",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9562642,
+    "longitude": -74.1305638
   },
   {
     "id": "2ff306ba-f501-5d7c-98d9-400938da0d65",
@@ -2616,7 +3119,9 @@
     "address": "10 County Road, Tenafly, NJ 07670",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9242266,
+    "longitude": -73.9640512
   },
   {
     "id": "9f9b7046-172b-508a-947f-644fed9a1603",
@@ -2625,7 +3130,9 @@
     "address": "187 Wyckoff Ave, Ramsey, NJ 07446",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0451243,
+    "longitude": -74.1596909
   },
   {
     "id": "c4778d90-ba51-563e-8d66-100056f4a868",
@@ -2634,7 +3141,9 @@
     "address": "250 Hargreaves Ave, Teaneck, NJ 07666",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.902529,
+    "longitude": -73.990134
   },
   {
     "id": "3681079f-94e0-55e4-83d5-1797ab67a4d4",
@@ -2643,7 +3152,9 @@
     "address": "785 Franklin Lake Road, Franklin Lakes, NJ 07417",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.994155,
+    "longitude": -74.209262
   },
   {
     "id": "9f6bf839-f91a-5e58-a770-4856b13b1f41",
@@ -2652,7 +3163,9 @@
     "address": "300 High Street, Closter, NJ 07624",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.973453,
+    "longitude": -73.965646
   },
   {
     "id": "151871bc-64a5-5f2a-8720-5f7669bb9c88",
@@ -2661,16 +3174,9 @@
     "address": "115 Spring Valley Rd., Montvale, NJ 07645",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
-  },
-  {
-    "id": "b2540e02-95a0-5990-b9db-9c46fe296d6f",
-    "name": "Apple Montessori School Of Cliffside Park",
-    "type": "School",
-    "address": "600 George Road, Cliffside Park, NJ 07010",
-    "county": "Bergen",
-    "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0511171,
+    "longitude": -74.0514261
   },
   {
     "id": "dcddf366-2eca-50a2-b71a-9de52227024e",
@@ -2679,7 +3185,9 @@
     "address": "8 Adelaide Place, Edgewater, NJ 07020",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8294246,
+    "longitude": -73.9739621
   },
   {
     "id": "479161bb-486a-56fb-a2a6-bb47b65b364e",
@@ -2688,7 +3196,9 @@
     "address": "192 Ramapo Valley Road, Oakland, NJ 07436",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0161953,
+    "longitude": -74.2513607
   },
   {
     "id": "b35d882b-d1d6-5c5f-bed7-1ac7762e6189",
@@ -2697,7 +3207,9 @@
     "address": "75 East Ramapo Avenue, Mahwah, NJ 07430",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0936977,
+    "longitude": -74.1517456
   },
   {
     "id": "d2d23ec7-0fc1-57f7-aece-7e1b381dd203",
@@ -2706,7 +3218,9 @@
     "address": "35 Jefferson Avenue, Emerson, NJ 07630",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9767456,
+    "longitude": -74.0245956
   },
   {
     "id": "c894ccc3-e569-5dd2-86bd-d41c2b3a41de",
@@ -2715,7 +3229,9 @@
     "address": "8 Wright Way, Oakland, NJ 07436",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0058104,
+    "longitude": -74.2482474
   },
   {
     "id": "3ea044ff-e22b-55bd-83a9-f6030130ed1c",
@@ -2724,7 +3240,9 @@
     "address": "E243 Frisch Court, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9168761,
+    "longitude": -74.0519578
   },
   {
     "id": "d0abb1bc-6fb7-50dc-8c3e-c5fb2030b41d",
@@ -2733,7 +3251,9 @@
     "address": "1040 Oradell Avenue, Oradell, NJ 07649",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9586639,
+    "longitude": -74.0480508
   },
   {
     "id": "fa891709-bfe9-5529-b467-23faf23d7857",
@@ -2742,7 +3262,9 @@
     "address": "15 Conklin Place, Hackensack, NJ 07601",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.892251,
+    "longitude": -74.0420837
   },
   {
     "id": "645ba190-d9c1-5fd8-9135-06f71949842d",
@@ -2751,7 +3273,9 @@
     "address": "605 Pascack Road, Township Of Washington, NJ 07676",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9983614,
+    "longitude": -74.0589438
   },
   {
     "id": "db425ae8-06d1-5b81-97e0-39468cddf19d",
@@ -2760,7 +3284,9 @@
     "address": "359 Whiteman Street, Fort Lee, NJ 07024",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8504672,
+    "longitude": -73.9746644
   },
   {
     "id": "00da6708-dc37-5793-b557-573443897e42",
@@ -2769,7 +3295,9 @@
     "address": "215 Kipp Avenue, Hasbrouck Hts, NJ 07604",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8629666,
+    "longitude": -74.0764049
   },
   {
     "id": "b4d0bba4-f874-508d-bbb0-d31a0de06388",
@@ -2778,16 +3306,9 @@
     "address": "320 Fabry Terrace, Teaneck, NJ 07666",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
-  },
-  {
-    "id": "36a69fd1-dad9-53db-9551-94ca22440711",
-    "name": "Don Bosco High School",
-    "type": "School",
-    "address": "492 No. Franklin Turnpike, Ramsey, NJ 07446",
-    "county": "Bergen",
-    "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8720639,
+    "longitude": -74.0021645
   },
   {
     "id": "5c43a5c0-385a-56d9-a787-34fcf3e4ab78",
@@ -2796,7 +3317,9 @@
     "address": "315 E Palisade Avenue, Englewood, NJ 07631",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8884955,
+    "longitude": -73.96191
   },
   {
     "id": "c292b1dc-38fc-5c6c-b03b-3d7d26b12175",
@@ -2805,7 +3328,9 @@
     "address": "25 Baldin Drive, Midland Park, NJ 07432",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9967356,
+    "longitude": -74.1450537
   },
   {
     "id": "26766c79-58bc-52c7-acff-e596dbaaeaa4",
@@ -2814,7 +3339,9 @@
     "address": "518 Sicomac Avenue, Wyckoff, NJ 07481",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9913318,
+    "longitude": -74.1879703
   },
   {
     "id": "9a58b0a2-ff6b-5e01-89be-6ea70739d139",
@@ -2823,7 +3350,9 @@
     "address": "435 Lydecker Street, Englewood, NJ 07631",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9031548,
+    "longitude": -73.957082
   },
   {
     "id": "910aaa9f-62c9-591f-894d-75eb033ce4c8",
@@ -2832,7 +3361,9 @@
     "address": "260 South Main St., Lodi, NJ 07644",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.865688,
+    "longitude": -74.093442
   },
   {
     "id": "6e28b78e-5e57-582c-b8a6-f06d09ee34ba",
@@ -2841,7 +3372,9 @@
     "address": "150 E. Palisade Ave., Englewood, NJ 07631",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8867984,
+    "longitude": -73.9622637
   },
   {
     "id": "3d2cc477-6e4b-5976-863f-310679578507",
@@ -2850,7 +3383,9 @@
     "address": "85 W. Demarest Ave., Englewood, NJ 07631",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8996389,
+    "longitude": -73.9762092
   },
   {
     "id": "b9dea6c1-1d71-5251-ae02-44c5d3d571af",
@@ -2859,16 +3394,9 @@
     "address": "120 West Century Road, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
-  },
-  {
-    "id": "1028d85b-3e52-5cd1-9bec-baec3bfcd367",
-    "name": "Fusion Academy",
-    "type": "School",
-    "address": "10 Sterling Blvd., Suite 201, Englewood, NJ 07631",
-    "county": "Bergen",
-    "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9334824,
+    "longitude": -74.0788777
   },
   {
     "id": "bbd97980-a861-5c8a-a29d-ba31c82a36b4",
@@ -2877,7 +3405,9 @@
     "address": "354 Rock Rd., Glen Rock, NJ 07452",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9621917,
+    "longitude": -74.1246303
   },
   {
     "id": "b795dd1a-937a-5d4c-b729-95a9d1ea82c3",
@@ -2886,7 +3416,9 @@
     "address": "2070 Jones Rd., Fort Lee, NJ 07024",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.859246,
+    "longitude": -73.9780166
   },
   {
     "id": "2c8aec03-bcbe-5913-af0f-ed2de757de47",
@@ -2895,7 +3427,9 @@
     "address": "30 Paterson Ave, Midland Park, NJ 07432",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9854865,
+    "longitude": -74.1408257
   },
   {
     "id": "2f9e6799-be14-5dee-9355-92f6a4abb8ac",
@@ -2904,7 +3438,9 @@
     "address": "156 Forest Ave., Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9267869,
+    "longitude": -74.0512089
   },
   {
     "id": "d6ae4e6c-2136-5314-bc93-67cb9153f337",
@@ -2913,7 +3449,9 @@
     "address": "70 Sterling Place, Teaneck, NJ 07666",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8856783,
+    "longitude": -74.0090353
   },
   {
     "id": "5e818fab-00e1-5483-b55e-a9a442f78066",
@@ -2922,7 +3460,9 @@
     "address": "349 Hillsdale Ave., Hillsdale, NJ 07642",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0026677,
+    "longitude": -74.037535
   },
   {
     "id": "a6be63c5-1bf0-5260-8951-c533647ac784",
@@ -2931,7 +3471,9 @@
     "address": "817 River Road, New Milford, NJ 07646",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.927653,
+    "longitude": -74.025951
   },
   {
     "id": "e46bf281-ccfb-5b2c-a2c5-00697d2782fc",
@@ -2940,7 +3482,9 @@
     "address": "500 Van Emburgh Avenue, Washington Twp, NJ 07676",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9899366,
+    "longitude": -74.0786528
   },
   {
     "id": "5d920038-f935-57fd-8955-377bbc4e867c",
@@ -2949,7 +3493,9 @@
     "address": "210 South Broad Street, Ridgewood, NJ 07450",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9764486,
+    "longitude": -74.121864
   },
   {
     "id": "d62c1206-c82c-5e88-8015-e5e0bbb2a762",
@@ -2958,7 +3504,9 @@
     "address": "8 West Bayview Avenue, Englewood Cliffs, NJ 07632",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.867376,
+    "longitude": -73.959782
   },
   {
     "id": "e105127f-0e6b-53e8-b78e-9a9858d9f8bc",
@@ -2967,7 +3515,9 @@
     "address": "8 Wright Way, Oakland, NJ 07436",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0058104,
+    "longitude": -74.2482474
   },
   {
     "id": "15472d59-8238-5a80-af19-8d107c1e6226",
@@ -2976,7 +3526,9 @@
     "address": "95 Bauer Drive, Oakland, NJ 07436",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0027562,
+    "longitude": -74.2446229
   },
   {
     "id": "d7dcd5ce-2303-590d-8390-6df4571c2652",
@@ -2985,7 +3537,9 @@
     "address": "113 Cottage Place, Ridgewood, NJ 07450",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9816897,
+    "longitude": -74.113968
   },
   {
     "id": "85323b15-251f-55d4-9805-61e69282df3e",
@@ -2994,7 +3548,9 @@
     "address": "11 Harold Street, Tenafly, NJ 07670",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9288103,
+    "longitude": -73.96273
   },
   {
     "id": "f8442af4-ea37-5040-9689-b1a9ac4e446a",
@@ -3003,7 +3559,9 @@
     "address": "1650 Palisade Avenue, Teaneck, NJ 07666",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9086672,
+    "longitude": -74.0005254
   },
   {
     "id": "b2725027-52d8-52f6-bf00-8ca3c22779cd",
@@ -3012,7 +3570,9 @@
     "address": "426 Knickerbocker Road, Tenafly, NJ 07670",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9276672,
+    "longitude": -73.977705
   },
   {
     "id": "ca27f666-0e28-51cb-a0cc-9003fed7f26c",
@@ -3021,7 +3581,9 @@
     "address": "205 Franklin Ave, Ridgewood, NJ 07450",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9803868,
+    "longitude": -74.114341
   },
   {
     "id": "1d5fa122-6103-5de1-a06a-7eafc872cc43",
@@ -3030,7 +3592,9 @@
     "address": "53 S Woodland Street, Englewood, NJ 07631",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.884078,
+    "longitude": -73.9617064
   },
   {
     "id": "75347bb4-d1e9-5233-b919-72e8276cfdb1",
@@ -3039,7 +3603,9 @@
     "address": "10-10 Norma Avenue, Fair Lawn, NJ 07410",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.930386,
+    "longitude": -74.127984
   },
   {
     "id": "26b4a850-6a63-567c-90b8-c3940361e617",
@@ -3048,7 +3614,9 @@
     "address": "925 5th Ave, River Edge, NJ 07661",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9427351,
+    "longitude": -74.0377225
   },
   {
     "id": "405aeba3-2e32-5a65-ac2b-77d8bcee13e7",
@@ -3057,16 +3625,9 @@
     "address": "117 Franklin Avenue, Oakland, NJ 07436",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
-  },
-  {
-    "id": "67224a02-6ff6-5a23-8e1f-8aec4fa9c86a",
-    "name": "Notre Dame Academy",
-    "type": "School",
-    "address": "312 First Street, Palisades Park, NJ 07650",
-    "county": "Bergen",
-    "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0275985,
+    "longitude": -74.2235025
   },
   {
     "id": "b121282b-d25c-5680-a714-bf25d5e4bb27",
@@ -3075,7 +3636,9 @@
     "address": "141 Market Street, Saddle Brook, NJ 07663",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8959582,
+    "longitude": -74.0848625
   },
   {
     "id": "db365afe-7ea3-5d9d-b4d8-94780e19d423",
@@ -3084,7 +3647,9 @@
     "address": "150 Kotte Place, Hackensack, NJ 07601",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.900484,
+    "longitude": -74.0354004
   },
   {
     "id": "8ecb3b0e-7901-5f86-8a40-fb714f7769b2",
@@ -3093,7 +3658,9 @@
     "address": "187-199 Walnut Street, Northvale, NJ 07647",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0025196,
+    "longitude": -73.9471084
   },
   {
     "id": "50c8f58a-f0e0-5448-923f-c6ebb1eb1d93",
@@ -3102,7 +3669,9 @@
     "address": "25 Fremont Avenue, Park Ridge, NJ 07656",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.030999,
+    "longitude": -74.0468785
   },
   {
     "id": "68c5a2b0-254f-53e8-8b42-6220851660be",
@@ -3111,7 +3680,9 @@
     "address": "425 Paramus Road, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9555011,
+    "longitude": -74.0954368
   },
   {
     "id": "edacfafe-17c2-5306-ad07-b7913a439033",
@@ -3120,7 +3691,9 @@
     "address": "64 East Midland Avenue, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9482469,
+    "longitude": -74.068044
   },
   {
     "id": "fde49bba-d628-59be-a52a-27b2f6608a7d",
@@ -3129,7 +3702,9 @@
     "address": "21 Church Place, North Arlington, NJ 07031",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7875224,
+    "longitude": -74.133598
   },
   {
     "id": "ff7c4272-e4be-5f8d-aeeb-09937311afe0",
@@ -3138,7 +3713,9 @@
     "address": "70 Eisenhower Drive, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9300432,
+    "longitude": -74.0785203
   },
   {
     "id": "b1e7a4ea-3faf-5318-b9dc-3262e3d38dc7",
@@ -3147,7 +3724,9 @@
     "address": "620 Valley Brook Avenue, Lyndhurst, NJ 07071",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8078061,
+    "longitude": -74.1176171
   },
   {
     "id": "f08601b2-d31e-57ed-9bf1-59321d5d41a7",
@@ -3156,7 +3735,9 @@
     "address": "147 Chestnut Ridge Road, Saddle River, NJ 07458",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0300626,
+    "longitude": -74.0843613
   },
   {
     "id": "d8e82c78-7715-5b82-ae10-bd4d229e0c52",
@@ -3165,7 +3746,9 @@
     "address": "900 Darlington Ave, Mahwah, NJ 07430",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0766948,
+    "longitude": -74.1819221
   },
   {
     "id": "8c0c7881-0c37-52ce-82b2-57044ba06355",
@@ -3174,7 +3757,9 @@
     "address": "295 Rochelle Avenue, Rochelle Park, NJ 07662",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9048302,
+    "longitude": -74.0780695
   },
   {
     "id": "c1e03567-f337-58e9-ab1b-9c7580e79e13",
@@ -3183,7 +3768,9 @@
     "address": "Greenwood Avenue, Wyckoff, NJ 07481",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0148194,
+    "longitude": -74.1701444
   },
   {
     "id": "ccaf5163-a82d-57a3-9f66-690db5edbd62",
@@ -3192,7 +3779,9 @@
     "address": "460 Hillsdale Avenue, Hillsdale, NJ 07642",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0026443,
+    "longitude": -74.0435597
   },
   {
     "id": "1324b399-8f03-548c-a109-f3c6cfeb55e8",
@@ -3201,7 +3790,9 @@
     "address": "40 Chestnut Ridge Road, Montvale, NJ 07645",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0696659,
+    "longitude": -74.0681028
   },
   {
     "id": "528eac29-ee9f-55f1-8784-304bb947770e",
@@ -3210,7 +3801,9 @@
     "address": "115 Grand Street, New Milford, NJ 07646",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9505731,
+    "longitude": -74.0236873
   },
   {
     "id": "3facd58e-f67e-5f80-83ed-6a286f919522",
@@ -3219,7 +3812,9 @@
     "address": "305 Elm Street, Oradell, NJ 07646",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9507886,
+    "longitude": -74.0250684
   },
   {
     "id": "ff51c895-b6c3-58b9-845a-77317be6aea0",
@@ -3228,7 +3823,9 @@
     "address": "300 Market Street, Elmwood Park, NJ 07407",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.899893,
+    "longitude": -74.118237
   },
   {
     "id": "c6858e3d-279c-5c74-bb44-6a12dfd460ef",
@@ -3237,7 +3834,9 @@
     "address": "64 Chestnut Street, Rutherford, NJ 07070",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8295402,
+    "longitude": -74.1045495
   },
   {
     "id": "393a9dc2-9dfc-5ca3-8338-f30654964e82",
@@ -3246,16 +3845,9 @@
     "address": "431 Fifth Ave, River Edge, NJ 07661",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
-  },
-  {
-    "id": "20e48ef1-9118-50d5-bc69-9d7ff3e36948",
-    "name": "Solomon Schechter Day School Of Bergen Co",
-    "type": "School",
-    "address": "275 Mckinley Avenue, New Milford, NJ 07646",
-    "county": "Bergen",
-    "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9264876,
+    "longitude": -74.0459735
   },
   {
     "id": "b0129d48-a160-5909-881d-b40186d061e4",
@@ -3264,7 +3856,9 @@
     "address": "67 North Summit Street, Tenafly, NJ 07670",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9342655,
+    "longitude": -73.9582655
   },
   {
     "id": "c22756b7-5766-52dc-9609-1d8697cb18b7",
@@ -3273,7 +3867,9 @@
     "address": "340 Bogert Road, River Edge, NJ 07661",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9200459,
+    "longitude": -74.036713
   },
   {
     "id": "fdb60ab6-ae4b-55d3-b68b-ec3552e6acfa",
@@ -3282,7 +3878,9 @@
     "address": "861 Franklin Ave., Franklin Lakes, NJ 07417",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0254802,
+    "longitude": -74.211517
   },
   {
     "id": "049007fe-a4e7-5c77-81a2-46211e241f18",
@@ -3291,7 +3889,9 @@
     "address": "777 Anderson Ave., Cliffside Park, NJ 07010",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.827761,
+    "longitude": -73.9867481
   },
   {
     "id": "9ae0f996-9f37-52e3-ad18-18c8716b428c",
@@ -3300,7 +3900,9 @@
     "address": "1600 Queen Anne Road, Teaneck, NJ 07666",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9050179,
+    "longitude": -74.0027545
   },
   {
     "id": "3789f9da-93ff-5deb-b1f6-6f1898faef0a",
@@ -3309,7 +3911,9 @@
     "address": "200 Robin Road, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9322005,
+    "longitude": -74.0748478
   },
   {
     "id": "0d9bc30a-2105-51eb-b66c-7de4eada2a2b",
@@ -3318,7 +3922,9 @@
     "address": "7-20 Bellair Avenue, Fair Lawn, NJ 07410",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9280125,
+    "longitude": -74.1295188
   },
   {
     "id": "955ecd82-a6e9-5c76-9dad-5e63f788c364",
@@ -3327,7 +3933,9 @@
     "address": "100 West Prospect Street, Waldwick, NJ 07463",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0119411,
+    "longitude": -74.1292817
   },
   {
     "id": "e090a794-0c05-5cdf-9015-fb589b7e005b",
@@ -3336,7 +3944,9 @@
     "address": "70 Wyckoff Avenue, Waldwick, NJ 07463",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0083762,
+    "longitude": -74.1258651
   },
   {
     "id": "a9a39f86-edd4-5ad0-bf3d-c9fd173d35da",
@@ -3345,7 +3955,9 @@
     "address": "405 Englewood Avenue, Teaneck, NJ 07666",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8991974,
+    "longitude": -73.9928461
   },
   {
     "id": "c491cfac-71b0-5d72-86d9-f86c0f3e17a8",
@@ -3354,7 +3966,9 @@
     "address": "485 Wyckoff Ave., Wyckoff, NJ 07481",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0008115,
+    "longitude": -74.1750747
   },
   {
     "id": "fa856277-b918-5108-b120-1cc112360888",
@@ -3363,7 +3977,9 @@
     "address": "155 North Farview Ave, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9302176,
+    "longitude": -74.0651194
   },
   {
     "id": "c710b01f-4220-5158-93b4-68eedde9691c",
@@ -3372,7 +3988,9 @@
     "address": "666 Kinderkamack Road, River Edge, NJ 07661",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.930507,
+    "longitude": -74.033943
   },
   {
     "id": "ee3ceed7-5bfe-56be-9cbd-bcc5eab8b97e",
@@ -3381,7 +3999,9 @@
     "address": "101 West Forest Avenue, Englewood, NJ 07631",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.887743,
+    "longitude": -73.984855
   },
   {
     "id": "cca39716-ff93-5aaa-a6a4-61ff18ecb96a",
@@ -3390,16 +4010,9 @@
     "address": "1500 Queen Anne Rd, Teaneck, NJ 07666",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
-  },
-  {
-    "id": "00f10070-7a0c-5343-953e-9cdcc82af106",
-    "name": "Yeshivat Noam School",
-    "type": "School",
-    "address": "West 70 Century Road, Paramus, NJ 07652",
-    "county": "Bergen",
-    "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.903059,
+    "longitude": -74.00412
   },
   {
     "id": "62c31a93-74b0-5157-9fc5-42d02ab119a1",
@@ -3408,7 +4021,9 @@
     "address": "411 East Clinton Avenue, Tenafly, NJ 07670",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.908632,
+    "longitude": -73.9445229
   },
   {
     "id": "57f77bac-2bde-59e3-875a-860fe989a003",
@@ -3417,7 +4032,9 @@
     "address": "585 Wyckoff Avenue, Mahwah, NJ 07430",
     "county": "Bergen",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0302076,
+    "longitude": -74.1683259
   },
   {
     "id": "63f533ef-0933-59a3-bf25-7016f83c2d25",
@@ -3426,7 +4043,9 @@
     "address": "400 Paramus Road, Paramus, NJ 07652",
     "county": "Bergen",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9501907,
+    "longitude": -74.0883598
   },
   {
     "id": "038fd614-441d-54dd-b5da-a4bea0018b62",
@@ -3435,7 +4054,9 @@
     "address": "262 South Main Street, Lodi, NJ 07644",
     "county": "Bergen",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8664885,
+    "longitude": -74.0926419
   },
   {
     "id": "b9e22ba7-de10-5566-ab9b-c0e51134181a",
@@ -3444,7 +4065,9 @@
     "address": "505 Ramapo Valley Road, Mahwah, NJ 07430",
     "county": "Bergen",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0822446,
+    "longitude": -74.1738235
   },
   {
     "id": "2f0ef121-0d89-5045-9661-c9b35ef86003",
@@ -3453,16 +4076,9 @@
     "address": "10 Main Street, Hackensack, NJ 07601",
     "county": "Bergen",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
-  },
-  {
-    "id": "a765ec93-fdec-5f3c-ad02-46b27f228c27",
-    "name": "Allendale Boro Municipal Court",
-    "type": "Courthouse",
-    "address": "333 Warren Ave, Hohokus, NJ 07423",
-    "county": "Bergen",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8781764,
+    "longitude": -74.0442449
   },
   {
     "id": "dafc7663-d617-5169-9f8d-a1eb08a38f09",
@@ -3471,7 +4087,9 @@
     "address": "100 Church St, Alpine, NJ 07620",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9461207,
+    "longitude": -73.9317588
   },
   {
     "id": "504c1649-72de-5398-b11f-1dc03251c5f3",
@@ -3480,7 +4098,9 @@
     "address": "198 N Washington Ave, Bergenfield, NJ 07621",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9346323,
+    "longitude": -73.9963194
   },
   {
     "id": "4da6bd8b-7b6d-5ec7-9fa3-a9b00c07a1fb",
@@ -3489,7 +4109,9 @@
     "address": "500 Madison St, Carlstadt, NJ 07072",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.841612,
+    "longitude": -74.0948021
   },
   {
     "id": "cb80f93a-44c6-539f-9989-c0796e52ad05",
@@ -3498,7 +4120,9 @@
     "address": "525 Palisade Ave, Cliffside Park, NJ 07010",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8213252,
+    "longitude": -73.9884013
   },
   {
     "id": "04f83206-1e42-5b97-8023-4495e3fcef4d",
@@ -3507,7 +4131,9 @@
     "address": "295 Closter Dock Rd, Closter, NJ 07624",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9773518,
+    "longitude": -73.9654356
   },
   {
     "id": "52ac588e-1350-5f4f-b6ee-5789a8a92f77",
@@ -3516,7 +4142,9 @@
     "address": "67 Union Avenue, Cresskill, NJ 07626",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9413935,
+    "longitude": -73.9593835
   },
   {
     "id": "35249442-dd07-5f19-9217-d04d23d9285d",
@@ -3525,7 +4153,9 @@
     "address": "100 Riveredge Road, Tenafly, NJ 07670",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.927624,
+    "longitude": -73.970268
   },
   {
     "id": "d44ebea4-0861-5f2a-bdfb-c89589ac3c24",
@@ -3534,7 +4164,9 @@
     "address": "50 Washington Ave, Dumont, NJ 07628",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9381073,
+    "longitude": -73.9953008
   },
   {
     "id": "cbf20561-98bb-560f-b2b1-e8655e6ef9c6",
@@ -3543,7 +4175,9 @@
     "address": "55 River Rd, Edgewater, NJ 07020",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8055914,
+    "longitude": -73.9919461
   },
   {
     "id": "a8d23cfa-9f1b-5594-93c3-7f96ec547c44",
@@ -3552,7 +4186,9 @@
     "address": "182 Market St, Elmwood Park, NJ 07407",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9007329,
+    "longitude": -74.1239596
   },
   {
     "id": "10ebf064-78db-5aa9-8baa-90d44a4ae676",
@@ -3561,7 +4197,9 @@
     "address": "146 Linwood Ave, Emerson, NJ 07630",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9746414,
+    "longitude": -74.0242471
   },
   {
     "id": "d9aefa09-f582-5a0a-ae3c-2641d3269f12",
@@ -3570,7 +4208,9 @@
     "address": "73 So Van Brunt St, Englewood, NJ 07631",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8960993,
+    "longitude": -73.9740603
   },
   {
     "id": "9e53b99b-c60f-586c-b12a-b827e70c70ad",
@@ -3579,7 +4219,9 @@
     "address": "59 Anderson Ave, Fairview, NJ 07022",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.811728,
+    "longitude": -73.999906
   },
   {
     "id": "b98cb52f-d216-57e5-b02d-6d20e83cdac6",
@@ -3588,7 +4230,9 @@
     "address": "309 Main St, Fort Lee, NJ 07024",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.85232,
+    "longitude": -73.9725269
   },
   {
     "id": "64c030ec-d1ff-51a8-8142-6583319b915a",
@@ -3597,7 +4241,9 @@
     "address": "111 Outwater Lane, Garfield, NJ 07026",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.881408,
+    "longitude": -74.113485
   },
   {
     "id": "0b2569ee-82b9-50f3-9fab-34429309e9c3",
@@ -3606,7 +4252,9 @@
     "address": "1 Harding Plaza, Glen Rock, NJ 07452",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.960986,
+    "longitude": -74.128017
   },
   {
     "id": "84be2594-961a-5646-a8b9-e45399d04ace",
@@ -3615,7 +4263,9 @@
     "address": "215 State Street, Hackensack, NJ 07601",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8850986,
+    "longitude": -74.0442097
   },
   {
     "id": "29522281-a6fe-5682-867a-f2b85906cd07",
@@ -3624,7 +4274,9 @@
     "address": "248 Hamilton Avenue, Hasbrouck Hts, NJ 07604",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8605225,
+    "longitude": -74.0774793
   },
   {
     "id": "2c956b9a-ad60-59d1-9468-180e072ab0c2",
@@ -3633,7 +4285,9 @@
     "address": "300 Haworth Ave, Haworth, NJ 07641",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.960707,
+    "longitude": -73.991
   },
   {
     "id": "c169eb3b-51da-5646-a2f1-0e0c6bbfb4aa",
@@ -3642,7 +4296,9 @@
     "address": "101 Washington Ave, Westwood, NJ 07675",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9917754,
+    "longitude": -74.0360184
   },
   {
     "id": "a17d89c9-582a-5eda-b90c-b4a03145df3a",
@@ -3651,7 +4307,9 @@
     "address": "333 Warren Ave, Ho-ho-kus, NJ 07423",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9987579,
+    "longitude": -74.1093817
   },
   {
     "id": "c3b13f1d-34dd-5e5b-b710-91ecd63017eb",
@@ -3660,7 +4318,9 @@
     "address": "229 Fort Lee Road, Leonia, NJ 07605",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8621419,
+    "longitude": -73.9884636
   },
   {
     "id": "1c563ca7-d8f9-5330-b5e0-3257a12c1da0",
@@ -3669,25 +4329,9 @@
     "address": "475 Corporate Drive, Mahwah, NJ 07430",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "31b5a6c6-011e-54ff-bd44-33c732009799",
-    "name": "Moonachie Boro Municipal Court",
-    "type": "Courthouse",
-    "address": "510 Route 46 West, Teterboro, NJ 07608",
-    "county": "Bergen",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "8270dcfc-bc51-5235-8cfa-896aff18018d",
-    "name": "North Arlington Municipal Ct",
-    "type": "Courthouse",
-    "address": "214 Ridge Road, No Arlington, NJ 07031",
-    "county": "Bergen",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.085324,
+    "longitude": -74.1565998
   },
   {
     "id": "658fdc44-8dee-58d8-a1df-91186eb442fb",
@@ -3696,7 +4340,9 @@
     "address": "116 Paris Ave, Northvale, NJ 07647",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0076757,
+    "longitude": -73.9519333
   },
   {
     "id": "e9d28550-633b-506b-86e2-80d583a99362",
@@ -3705,7 +4351,9 @@
     "address": "455 Broadway, Norwood, NJ 07648",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9946468,
+    "longitude": -73.9514987
   },
   {
     "id": "407ed6ef-d89e-5a1b-a469-e6302ee55ecd",
@@ -3714,7 +4362,9 @@
     "address": "10 Lawlor Drive, Oakland, NJ 07436",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0216467,
+    "longitude": -74.247174
   },
   {
     "id": "4939c33f-a87a-503c-b19e-f116dde23f3c",
@@ -3723,7 +4373,9 @@
     "address": "227 Old Tappan Rd, Old Tappan, NJ 07675",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.012935,
+    "longitude": -73.984207
   },
   {
     "id": "9f0b1758-3b9a-580d-815b-a4a095493838",
@@ -3732,16 +4384,9 @@
     "address": "275 Broad Avenue, Palisades Park, NJ 07650",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "b1247b1f-255d-50a0-9e43-2963b5989782",
-    "name": "Park Ridge Boro Municipal Ct",
-    "type": "Courthouse",
-    "address": "12 Mercedes Drive, Montvale, NJ 07645",
-    "county": "Bergen",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.848074,
+    "longitude": -73.9982978
   },
   {
     "id": "db305f00-f79f-5e54-9c7e-6633d340b9ce",
@@ -3750,7 +4395,9 @@
     "address": "12 Depiero Drive, Montvale, NJ 07645",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0508986,
+    "longitude": -74.0621397
   },
   {
     "id": "956ce0af-4cf1-51e3-a22f-b4447fbe34be",
@@ -3759,7 +4406,9 @@
     "address": "33 N. Central Ave, Ramsey, NJ 07446",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0582234,
+    "longitude": -74.1440815
   },
   {
     "id": "67ebefef-1401-597b-a6a2-527ce446c9c1",
@@ -3768,7 +4417,9 @@
     "address": "131 N Maple Ave, Ridgewood, NJ 07451",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9823008,
+    "longitude": -74.1116668
   },
   {
     "id": "73e30f90-5a25-506f-a5f9-0351628fa0e8",
@@ -3777,7 +4428,9 @@
     "address": "705 Kinderkamack Rd, River Edge, NJ 07661",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9321236,
+    "longitude": -74.0334337
   },
   {
     "id": "dbd86faa-d713-510a-b730-599ffa68d641",
@@ -3786,7 +4439,9 @@
     "address": "406 Rivervale Rd, River Vale, NJ 07675",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0084178,
+    "longitude": -74.0107576
   },
   {
     "id": "826c9e25-4968-50f4-841c-0d7cb7dc1edf",
@@ -3795,7 +4450,9 @@
     "address": "151 W Passaic St, Rochelle Pk, NJ 07662",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.912195,
+    "longitude": -74.077839
   },
   {
     "id": "e085bca9-c47a-5faa-8c7f-7f6a32563d93",
@@ -3804,7 +4461,9 @@
     "address": "116 Paris Avenue, Northvale, NJ 07647",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0076757,
+    "longitude": -73.9519333
   },
   {
     "id": "0c79c3f0-6cb1-5263-a456-055697ea124f",
@@ -3813,7 +4472,9 @@
     "address": "176 Park Ave, Rutherford, NJ 07070",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8259357,
+    "longitude": -74.1080653
   },
   {
     "id": "d51941f4-2dbd-5a83-9c45-6cff4b83a5ec",
@@ -3822,7 +4483,9 @@
     "address": "100 E. Allendale Rd, Saddle River, NJ 07458",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.030872,
+    "longitude": -74.095345
   },
   {
     "id": "89e3fb04-00be-5c84-aa07-0f34a1e06d9f",
@@ -3831,7 +4494,9 @@
     "address": "818 Teaneck Road, Teaneck, NJ 07666",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8846166,
+    "longitude": -74.0069353
   },
   {
     "id": "821ba1c5-bd84-596b-b683-b5779faaa139",
@@ -3840,16 +4505,9 @@
     "address": "100 Riveredge Rd, Tenafly, NJ 07670",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "901eff8d-d99c-51e2-941f-3de54ea7d176",
-    "name": "Teterboro Boro Municipal Court",
-    "type": "Courthouse",
-    "address": "510 Route 46 West, Teterboro, NJ 07608",
-    "county": "Bergen",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.927624,
+    "longitude": -73.970268
   },
   {
     "id": "6e6b3c7c-9603-57fb-aa72-d0c440e4e717",
@@ -3858,7 +4516,9 @@
     "address": "63 Franklin Turnpike, Waldwick, NJ 07463",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.012021,
+    "longitude": -74.1192884
   },
   {
     "id": "a5b791bb-4cef-5d0d-bb6f-b5c63f2b2978",
@@ -3867,7 +4527,9 @@
     "address": "500 Madison St., Carlstadt, NJ 07072",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.841612,
+    "longitude": -74.0948021
   },
   {
     "id": "82250355-307e-5066-bd38-74795f0fcc0b",
@@ -3876,16 +4538,9 @@
     "address": "101 Washington Ave, Westwood, NJ 07675",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "3a8ca3dd-55aa-55df-834a-633e23dfaed7",
-    "name": "Woodcliff Lake Municipal Court",
-    "type": "Courthouse",
-    "address": "12 Mercedes Drive, Montvale, NJ 07645",
-    "county": "Bergen",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9917754,
+    "longitude": -74.0360184
   },
   {
     "id": "34ce221d-f43a-5572-b8ce-bfdada1f9c2a",
@@ -3894,7 +4549,9 @@
     "address": "340 Franklin Ave., Wyckoff, NJ 07481",
     "county": "Bergen",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0097983,
+    "longitude": -74.1676079
   },
   {
     "id": "55115777-f701-5f24-91af-2d7eb2b14f85",
@@ -3903,25 +4560,9 @@
     "address": "111 Industrial Avenue, Teterboro, NJ 07608",
     "county": "Bergen",
     "source": "nj_airports_curated",
-    "confidence": "high"
-  },
-  {
-    "id": "147be620-270b-5d11-9bae-f4683fc09d24",
-    "name": "Secaucus Junction",
-    "type": "Transit Hub",
-    "address": "675 New County Road, Secaucus, NJ 07094",
-    "county": "Bergen",
-    "source": "nj_transit_hubs_curated",
-    "confidence": "high"
-  },
-  {
-    "id": "31b80d89-7ea4-50ef-b665-357c08c79186",
-    "name": "Bergen County Administration Building",
-    "type": "Government Building",
-    "address": "1 Bergen County Plaza, Hackensack, NJ 07601",
-    "county": "Bergen",
-    "source": "nj_government_buildings_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8491951,
+    "longitude": -74.0721984
   },
   {
     "id": "e0f1c780-cf68-5a47-9182-0ea2c1badffd",
@@ -3930,6 +4571,8 @@
     "address": "65 Central Avenue, Hackensack, NJ 07601",
     "county": "Bergen",
     "source": "nj_government_buildings_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8860085,
+    "longitude": -74.0446931
   }
 ]

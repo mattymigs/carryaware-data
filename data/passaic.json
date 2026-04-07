@@ -6,7 +6,9 @@
     "address": "225 Rafkind Road, Bloomingdale, NJ 07403",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0166705,
+    "longitude": -74.3203261
   },
   {
     "id": "4d81c73f-bbc3-5986-bbba-11764140fb59",
@@ -15,7 +17,9 @@
     "address": "29 Captolene Avenue, Bloomingdale, NJ 07403",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.004945,
+    "longitude": -74.3334595
   },
   {
     "id": "bb4aecf8-842d-58bc-b7a8-14308a4ec5f6",
@@ -24,7 +28,9 @@
     "address": "225 Glenwild Avenue, Bloomingdale, NJ 07403",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0205875,
+    "longitude": -74.3384217
   },
   {
     "id": "6b11757b-340e-538c-b0cf-7a609804ed5e",
@@ -33,7 +39,9 @@
     "address": "350 Piaget Avenue, Clifton, NJ 07011",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8806712,
+    "longitude": -74.1513514
   },
   {
     "id": "ab1fff47-4f49-5793-b9b6-b0db3d9ca37d",
@@ -42,7 +50,9 @@
     "address": "39 Allwood Road, Clifton, NJ 07012",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8328353,
+    "longitude": -74.1429042
   },
   {
     "id": "677820ff-d83b-529e-a7a4-4b99252afd69",
@@ -51,7 +61,9 @@
     "address": "290 Brighton Road, Clifton, NJ 07012",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8542796,
+    "longitude": -74.156742
   },
   {
     "id": "eff07b43-bc78-5903-b2ee-2793d704adfd",
@@ -60,7 +72,9 @@
     "address": "37 Speer Avenue, Clifton, NJ 07013",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8547558,
+    "longitude": -74.1458164
   },
   {
     "id": "63f62319-90af-515d-befc-9d990f476c8b",
@@ -69,16 +83,9 @@
     "address": "333 Colfax Avenue, Clifton, NJ 07013",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "ca320a8a-53cd-55c9-b4aa-7cac796e525e",
-    "name": "Maple Valley Middle School",
-    "type": "School",
-    "address": "776valley Road, Clifton, NJ 07013",
-    "county": "Passaic",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8697911,
+    "longitude": -74.163312
   },
   {
     "id": "f6e20a1f-092b-5c60-ab61-07c471680c39",
@@ -87,7 +94,9 @@
     "address": "158 Park Slope, Clifton, NJ 07011",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8834325,
+    "longitude": -74.1520882
   },
   {
     "id": "d289a5eb-1d7a-5f5b-9c92-a0ba21688d94",
@@ -96,7 +105,9 @@
     "address": "147 Merselis Avenue, Clifton, NJ 07011",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8850019,
+    "longitude": -74.1391073
   },
   {
     "id": "bd560d56-15f7-5786-9404-625d8be3aec2",
@@ -105,7 +116,9 @@
     "address": "165 Clifton Avenue, Clifton, NJ 07011",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.876766,
+    "longitude": -74.1318097
   },
   {
     "id": "92cb0135-2a7f-5a32-b54e-6fe1a439fd46",
@@ -114,7 +127,9 @@
     "address": "782 Van Houten Avenue, Clifton, NJ 07013",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8620439,
+    "longitude": -74.1529215
   },
   {
     "id": "ada8c6e9-7726-5700-85a9-1e93f8e6ba23",
@@ -123,7 +138,9 @@
     "address": "99 St Andrews Boulevard, Clifton, NJ 07012",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8562336,
+    "longitude": -74.1654555
   },
   {
     "id": "3d06fddd-aef6-5afc-8e63-f0cebce6c627",
@@ -132,7 +149,9 @@
     "address": "700 Gregory Avenue, Clifton, NJ 07011",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8686334,
+    "longitude": -74.1459974
   },
   {
     "id": "75e7c049-9c85-5111-a153-652b735edfae",
@@ -141,7 +160,9 @@
     "address": "755 Grove Street, Clifton, NJ 07013",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8587983,
+    "longitude": -74.1874333
   },
   {
     "id": "2206e985-4b97-5954-a9ba-9f38626ec833",
@@ -150,7 +171,9 @@
     "address": "361 Lexington Avenue, Clifton, NJ 07011",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8737461,
+    "longitude": -74.1315956
   },
   {
     "id": "15a47d2e-1d14-5cb4-864f-d3cb05e741b4",
@@ -159,7 +182,9 @@
     "address": "1270 Van Houten Avenue, Clifton, NJ 07013",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8714465,
+    "longitude": -74.1711284
   },
   {
     "id": "ec9e07b7-5e28-5510-a719-cde3231b4a86",
@@ -168,7 +193,9 @@
     "address": "365 Washington Avenue, Clifton, NJ 07011",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8756549,
+    "longitude": -74.156255
   },
   {
     "id": "56e2a95e-6476-5124-b009-a2da81138ea9",
@@ -177,7 +204,9 @@
     "address": "194 West Second Street, Clifton, NJ 07011",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8670785,
+    "longitude": -74.1191097
   },
   {
     "id": "ba0a5ad3-3300-59ac-b5b3-920666e65cb4",
@@ -186,7 +215,9 @@
     "address": "136 Valley Road, Clifton, NJ 07013",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8937101,
+    "longitude": -74.1748667
   },
   {
     "id": "e424768a-cde1-591d-b162-7a8575693a3a",
@@ -195,7 +226,9 @@
     "address": "41 Oak Street, Clifton, NJ 07014",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8290657,
+    "longitude": -74.1322946
   },
   {
     "id": "cd8950af-b5c0-5c84-a723-fe25b2ca0436",
@@ -204,7 +237,9 @@
     "address": "25 Brighton Road, Clifton, NJ 07012",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8461236,
+    "longitude": -74.1593778
   },
   {
     "id": "6ca9698b-b876-545d-8cea-4857d6494d00",
@@ -213,7 +248,9 @@
     "address": "1400 Van Houten Avenue, Clifton, NJ 07013",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8747011,
+    "longitude": -74.1746756
   },
   {
     "id": "c359a5a1-de40-5a3f-a4b4-c51ea34a2866",
@@ -222,7 +259,9 @@
     "address": "91 Henry Street, Haledon, NJ 07508-1236",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.932097,
+    "longitude": -74.1870736
   },
   {
     "id": "e5ed00af-8158-53a4-b156-b95402b82b61",
@@ -231,7 +270,9 @@
     "address": "160 Parmelee Avenue, Hawthorne, NJ 07506",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.953445,
+    "longitude": -74.159698
   },
   {
     "id": "ce72b571-0f04-5717-ba5b-36cf3e1e98c3",
@@ -240,7 +281,9 @@
     "address": "230 Hawthorne Avenue, Hawthorne, NJ 07506",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.95197,
+    "longitude": -74.148775
   },
   {
     "id": "452ac8c7-6795-5a47-91c3-4367dcb45af5",
@@ -249,7 +292,9 @@
     "address": "50 Roosevelt Avenue, Hawthorne, NJ 07506",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9647584,
+    "longitude": -74.1560699
   },
   {
     "id": "ece13b57-2d52-51cc-9a67-61040c85b4fd",
@@ -258,7 +303,9 @@
     "address": "233 Goffle Hill Road, Hawthorne, NJ 07507",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9697743,
+    "longitude": -74.1614854
   },
   {
     "id": "c53645db-c000-503a-86cd-8fb53207039f",
@@ -267,7 +314,9 @@
     "address": "176 Mohawk Avenue, Hawthorne, NJ 07506",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9422705,
+    "longitude": -74.1683575
   },
   {
     "id": "b4403789-0ea3-5edf-b31a-33f2b6a62578",
@@ -276,34 +325,9 @@
     "address": "205 Conklintown Road, Wanaque, NJ 07465-2198",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "8506da1b-ee67-5182-a1c5-4b0d86d118bd",
-    "name": "Little Falls Township Public School # 1",
-    "type": "School",
-    "address": "Little Falls School # 1, 32 Stevens Avenue, Little Falls, NJ 07424-1082",
-    "county": "Passaic",
-    "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "b83f84fb-d023-5a18-9007-9e58533ee7ea",
-    "name": "Little Falls Township Public School # 2",
-    "type": "School",
-    "address": "Little Falls School # 2, 78 Long Hill Road, Little Falls, NJ 07424-1082",
-    "county": "Passaic",
-    "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "d52f260b-2741-5cb0-8247-6f78a4c16ff5",
-    "name": "Little Falls Township Public School # 3",
-    "type": "School",
-    "address": "Little Falls School # 3, 560 Mainstreet, Little Falls, NJ 07424-1082",
-    "county": "Passaic",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0603115,
+    "longitude": -74.281615
   },
   {
     "id": "17fb3b96-2e73-528d-96a5-ce6b6521a1db",
@@ -312,7 +336,9 @@
     "address": "515 High Mountain Road, North Haledon, NJ 07508-2603",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9556528,
+    "longitude": -74.1815928
   },
   {
     "id": "ca23e180-29a9-5096-8c70-b3eb086faac0",
@@ -321,7 +347,9 @@
     "address": "201 Squaw Brook Rd., North Haledon, NJ 07508-2720",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.96099,
+    "longitude": -74.1825208
   },
   {
     "id": "75511650-1086-503d-beeb-f46887f548e4",
@@ -330,7 +358,9 @@
     "address": "36 Parker Ave, Passaic, NJ 07055",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8690807,
+    "longitude": -74.120775
   },
   {
     "id": "baea8d92-41fe-5aeb-9865-cd73feeb742c",
@@ -339,7 +369,9 @@
     "address": "320 Highland Ave., Passaic, NJ 07055",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8705783,
+    "longitude": -74.1343531
   },
   {
     "id": "9a92c639-594f-5787-990c-b9b273894f32",
@@ -348,7 +380,9 @@
     "address": "95 Dayton Ave, Passaic, NJ 07055",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8713677,
+    "longitude": -74.119187
   },
   {
     "id": "fb00eca3-ed4b-509c-893e-12c7ea98eea5",
@@ -357,7 +391,9 @@
     "address": "64 Parker Ave, Passaic, NJ 07055",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8697529,
+    "longitude": -74.1213218
   },
   {
     "id": "d0365c68-9047-52ef-8e7e-34a2c3d6c400",
@@ -366,7 +402,9 @@
     "address": "155 Van Houten Ave., Passaic, NJ 07055-4502",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.847076,
+    "longitude": -74.128778
   },
   {
     "id": "df549f13-1af9-592e-9b2b-8a201109ee06",
@@ -375,7 +413,9 @@
     "address": "85 Hamilton Ave., Passaic, NJ 07055-5215",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.864663,
+    "longitude": -74.124805
   },
   {
     "id": "76c2697d-e032-5a48-99a9-2e9226cf70d0",
@@ -384,7 +424,9 @@
     "address": "63 Dayton Ave, Passaic, NJ 07055",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8712435,
+    "longitude": -74.1191268
   },
   {
     "id": "c9fa38b8-90c7-5a8e-b388-d58603c24690",
@@ -393,7 +435,9 @@
     "address": "291 Lafayette Avenue, Passaic, NJ 07055",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.857059,
+    "longitude": -74.1324713
   },
   {
     "id": "77ff99b4-1706-530c-9d0d-dd70f682bc66",
@@ -402,7 +446,9 @@
     "address": "19 Henry Street, Passaic, NJ 07055",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.861808,
+    "longitude": -74.1295109
   },
   {
     "id": "bd2a43d9-cbc8-59bb-bec0-22feee8950c1",
@@ -411,7 +457,9 @@
     "address": "255 Madison Street, Passaic, NJ 07055",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8625005,
+    "longitude": -74.1296897
   },
   {
     "id": "5378655d-66bb-5f1b-b52b-9f5feecf9b7e",
@@ -420,7 +468,9 @@
     "address": "252 Boulevard, Passaic, NJ 07055",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.856234,
+    "longitude": -74.133372
   },
   {
     "id": "03687603-baff-5d20-865c-b3fb8c5f13e2",
@@ -429,7 +479,9 @@
     "address": "155 Summer St., Passaic, NJ 07055",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8684813,
+    "longitude": -74.135004
   },
   {
     "id": "5bcd5880-2baa-50ba-88f6-83f5784d846c",
@@ -438,7 +490,9 @@
     "address": "151 Harrison St., Passaic, NJ 07055",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.870427,
+    "longitude": -74.1237395
   },
   {
     "id": "4af2fc25-adff-50ba-8529-653a21fb0027",
@@ -447,7 +501,9 @@
     "address": "390 Van Houten Ave., Passaic, NJ 07055",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8533148,
+    "longitude": -74.138518
   },
   {
     "id": "e592ec43-1782-5e6f-989b-2fdd54519f71",
@@ -456,7 +512,9 @@
     "address": "374 Broadway, Passaic, NJ 07055",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9184402,
+    "longitude": -74.1587433
   },
   {
     "id": "d95436b3-5a07-5d6b-ac17-64d75cc4bb18",
@@ -465,7 +523,9 @@
     "address": "390 Gregory Ave., Passaic, NJ 07055",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8623217,
+    "longitude": -74.1337543
   },
   {
     "id": "d843c605-f6f7-5dcc-81c2-62e3720b8c31",
@@ -474,7 +534,9 @@
     "address": "70 Church Street, Haledon, NJ 07508-1753",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9413871,
+    "longitude": -74.1823759
   },
   {
     "id": "839e069e-ec2c-5429-8b3e-53050c9b00af",
@@ -483,7 +545,9 @@
     "address": "45 Reinhardt Road, Wayne, NJ 07470-2210",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9308537,
+    "longitude": -74.2031663
   },
   {
     "id": "12def837-7fd7-5524-aa1f-6837c0eecb39",
@@ -492,7 +556,9 @@
     "address": "45 Reinhardt Road, Wayne, NJ 07470-2210",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9308537,
+    "longitude": -74.2031663
   },
   {
     "id": "dde43dae-7043-544e-b7bd-11aefaccfdab",
@@ -501,7 +567,9 @@
     "address": "100 East Main Street, Little Falls, NJ 07424",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8799234,
+    "longitude": -74.216224
   },
   {
     "id": "f72cdd8d-61ed-510e-9571-a6aa41d925d3",
@@ -510,7 +578,9 @@
     "address": "11-27 16TH Avenue, Paterson, NJ 07501",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9163023,
+    "longitude": -74.1667675
   },
   {
     "id": "eb5bba73-315a-57bc-b44c-891dd84a523c",
@@ -519,7 +589,9 @@
     "address": "350 Market Street, Paterson, NJ 07501",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9142558,
+    "longitude": -74.1639804
   },
   {
     "id": "72362bc8-a561-56c7-a5c3-862986d76763",
@@ -528,7 +600,9 @@
     "address": "660 14th Avenue, Paterson, NJ 07504",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9162427,
+    "longitude": -74.1467368
   },
   {
     "id": "b094dc3a-b731-58a4-8fc1-d6909f33e3fd",
@@ -537,7 +611,9 @@
     "address": "6 Timothy Street, Paterson, NJ 07503",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8956464,
+    "longitude": -74.1584452
   },
   {
     "id": "df70b7e7-266e-55c9-91b0-26eb8f1d78de",
@@ -546,7 +622,9 @@
     "address": "21 Dale Ave, Paterson, NJ 07501",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9136604,
+    "longitude": -74.1684022
   },
   {
     "id": "f204acc5-b0cd-5bc4-a540-62df8f52ba54",
@@ -555,7 +633,9 @@
     "address": "515 Marshall Street, Paterson, NJ 07503",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8958391,
+    "longitude": -74.1673796
   },
   {
     "id": "116ba985-043f-5b3e-896a-b7d328fee141",
@@ -564,7 +644,9 @@
     "address": "851 E 28TH Street, Paterson, NJ 07513",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9079671,
+    "longitude": -74.1478447
   },
   {
     "id": "63c56bc5-3f30-5cd6-92bf-805e48471be2",
@@ -573,7 +655,9 @@
     "address": "150 Park Avenue, Paterson, NJ 07501",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9151207,
+    "longitude": -74.1600607
   },
   {
     "id": "6336f434-c151-5b67-b491-fe750b0a305a",
@@ -582,7 +666,9 @@
     "address": "295-315 Ellison Street, Paterson, NJ 07501",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9174947,
+    "longitude": -74.163934
   },
   {
     "id": "8d3173b4-9124-53df-bec5-c83e7f63821c",
@@ -591,7 +677,9 @@
     "address": "200 Grand Street, Paterson, NJ 07501",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9097567,
+    "longitude": -74.178836
   },
   {
     "id": "7bc6ab46-3597-5d22-817f-01b719d28270",
@@ -600,7 +688,9 @@
     "address": "61-127 Preakness Avenue, Paterson, NJ 07502",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9145925,
+    "longitude": -74.1873923
   },
   {
     "id": "c03abcd1-e713-5179-99b7-138ee223e6b1",
@@ -609,16 +699,9 @@
     "address": "202 Union Avenue, Paterson, NJ 07502",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "cee5af76-c65a-5754-8971-1c93cd10736e",
-    "name": "Maria Magda O'keefe School",
-    "type": "School",
-    "address": "50 Nineteenth Avenue, Paterson, NJ 07513",
-    "county": "Passaic",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9164166,
+    "longitude": -74.1928827
   },
   {
     "id": "9da39ce4-37f1-50fb-942d-81535475d27b",
@@ -627,7 +710,9 @@
     "address": "482-506 Market Street, Paterson, NJ 07501",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9121382,
+    "longitude": -74.1576583
   },
   {
     "id": "d782c5d7-a966-549c-b3bf-ac9f030a27cb",
@@ -636,7 +721,9 @@
     "address": "151 Ellison Street, Paterson, NJ 07501",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9176147,
+    "longitude": -74.1710655
   },
   {
     "id": "bc32e014-875a-5c43-821e-0217c7b5d17e",
@@ -645,7 +732,9 @@
     "address": "152 College Boulevard, Paterson, NJ 07505-1102",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9180239,
+    "longitude": -74.1697779
   },
   {
     "id": "78d8ac7b-8c22-522d-bddf-14229c4ac399",
@@ -654,7 +743,9 @@
     "address": "151 Ellison Street, Paterson, NJ 07505",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9176147,
+    "longitude": -74.1710655
   },
   {
     "id": "6b82c27d-240e-5460-8ef9-20bd522d9721",
@@ -663,7 +754,9 @@
     "address": "201 Memorial Drive, Paterson, NJ 07505",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9167873,
+    "longitude": -74.1681202
   },
   {
     "id": "16346342-b880-5d1c-b2d6-e6c17e08b1d1",
@@ -672,7 +765,9 @@
     "address": "764 11TH Avenue, Paterson, NJ 07514",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9194294,
+    "longitude": -74.1328952
   },
   {
     "id": "8bd91bb6-28b8-59f2-a103-d7be17c3e10c",
@@ -681,7 +776,9 @@
     "address": "55 Clinton Street, Paterson, NJ 07522-1729",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9246964,
+    "longitude": -74.1733665
   },
   {
     "id": "8f92abc3-392d-54fd-bd4b-c9cf71569b77",
@@ -690,7 +787,9 @@
     "address": "434 Rosa Parks Blvd, Paterson, NJ 07501",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9142031,
+    "longitude": -74.1587639
   },
   {
     "id": "d7ef0601-8f17-5984-bfca-8951d14adf38",
@@ -699,7 +798,9 @@
     "address": "413 12TH Avenue, Paterson, NJ 07514",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9206543,
+    "longitude": -74.1465324
   },
   {
     "id": "7460e82b-034a-521e-a711-c077ea0ef386",
@@ -708,7 +809,9 @@
     "address": "1 East 32ND Street, Paterson, NJ 07514",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9220325,
+    "longitude": -74.142463
   },
   {
     "id": "b441264a-dafe-5504-a479-646a12e784d6",
@@ -717,7 +820,9 @@
     "address": "48 Mercer Street, Paterson, NJ 07524-2429",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.927111,
+    "longitude": -74.160541
   },
   {
     "id": "77bf5365-e2c6-5d55-b228-d6126d745176",
@@ -726,7 +831,9 @@
     "address": "121 North Second Street, Paterson, NJ 07522",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8767397,
+    "longitude": -74.1316379
   },
   {
     "id": "5744e919-c383-511f-b60f-438119d45b3c",
@@ -735,7 +842,9 @@
     "address": "690 East 23RD St, Paterson, NJ 07504",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9163496,
+    "longitude": -74.152251
   },
   {
     "id": "c0c57055-be60-57ca-8e57-0c49cdf7cd04",
@@ -744,7 +853,9 @@
     "address": "98 Oak Street, Paterson, NJ 07501",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.911539,
+    "longitude": -74.160605
   },
   {
     "id": "76dca039-5ee9-5701-8b50-32a4291c1eaa",
@@ -753,7 +864,9 @@
     "address": "11 22ND Avenue, Paterson, NJ 07513",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.904282,
+    "longitude": -74.1559076
   },
   {
     "id": "7978108d-87d4-53e8-8dcb-42846153062c",
@@ -762,7 +875,9 @@
     "address": "51 E 18TH Street, Paterson, NJ 07524",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9381106,
+    "longitude": -74.1492415
   },
   {
     "id": "400c7e0d-13f8-5db6-893b-30edbb11935d",
@@ -771,7 +886,9 @@
     "address": "31 James Street, Paterson, NJ 07502",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9200629,
+    "longitude": -74.1891421
   },
   {
     "id": "3d19936c-e7d4-5039-84be-f1ca6c7796bc",
@@ -780,7 +897,9 @@
     "address": "22 Passaic Street, Paterson, NJ 07501",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9156601,
+    "longitude": -74.1766687
   },
   {
     "id": "17d1642f-6397-53c9-8a19-0fa5246d3f0b",
@@ -789,7 +908,9 @@
     "address": "500 East 37TH Street, Paterson, NJ 07504-1739",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.90621,
+    "longitude": -74.1412545
   },
   {
     "id": "d954ee28-481d-5227-af09-bcc16c99022d",
@@ -798,7 +919,9 @@
     "address": "322 10TH Avenue, Paterson, NJ 07514",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.923686,
+    "longitude": -74.1516321
   },
   {
     "id": "dfb7da51-24a6-5ac9-af4d-42cd565530df",
@@ -807,7 +930,9 @@
     "address": "287 Trenton Avenue, Paterson, NJ 07503",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8958574,
+    "longitude": -74.1461836
   },
   {
     "id": "46258298-cd8e-5289-823f-562ca4c31a94",
@@ -816,7 +941,9 @@
     "address": "1 East 32ND Street, Paterson, NJ 07514",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9220325,
+    "longitude": -74.142463
   },
   {
     "id": "ac8f1216-1c45-5589-88bc-c202a7e7674e",
@@ -825,7 +952,9 @@
     "address": "250 Richmond Ave, Paterson, NJ 07502",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9200296,
+    "longitude": -74.1995564
   },
   {
     "id": "ddcf7a10-e923-5826-9c8d-ebb91406bc3e",
@@ -834,7 +963,9 @@
     "address": "200 Presidential Boulevard, Paterson, NJ 07522",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9234924,
+    "longitude": -74.172554
   },
   {
     "id": "163a659b-11e1-5fe1-8e81-e22a076b0034",
@@ -843,7 +974,9 @@
     "address": "430 Totowa Avenue, Paterson, NJ 07502-2135",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.91915,
+    "longitude": -74.183053
   },
   {
     "id": "5d4fbaaf-0783-5827-97e3-91e1bbb84f0c",
@@ -852,7 +985,9 @@
     "address": "106 Ramsey Street, Paterson, NJ 07501",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9086722,
+    "longitude": -74.1875432
   },
   {
     "id": "9fa43997-605b-5680-89a2-7598b0c4b6a5",
@@ -861,7 +996,9 @@
     "address": "35 Chadwick Street, Paterson, NJ 07503-3107",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9034521,
+    "longitude": -74.1686491
   },
   {
     "id": "485e1857-bcce-5044-965d-1f00c9a4117a",
@@ -870,7 +1007,9 @@
     "address": "137 Carroll Street, Paterson, NJ 07501",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9196839,
+    "longitude": -74.1612382
   },
   {
     "id": "e163459d-9dd2-5f44-be25-496691a4e571",
@@ -879,7 +1018,9 @@
     "address": "764 11th Ave, Paterson, NJ 07504",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9200327,
+    "longitude": -74.1339438
   },
   {
     "id": "da820f3c-f57c-5c40-94b2-230b8eabc67d",
@@ -888,7 +1029,9 @@
     "address": "45 Smith Street, Paterson, NJ 07505",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9156037,
+    "longitude": -74.170906
   },
   {
     "id": "668e8388-db56-5b47-8a7a-ffb6d0384dcc",
@@ -897,7 +1040,9 @@
     "address": "316 Lakeside Avenue, Pompton Lakes, NJ 07442-1299",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0045217,
+    "longitude": -74.2836758
   },
   {
     "id": "1ccf0ba5-3d33-5245-9761-8b125e1f654e",
@@ -906,7 +1051,9 @@
     "address": "35 Lenox Avenue, Pompton Lakes, NJ 07442-1729",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0035512,
+    "longitude": -74.2894469
   },
   {
     "id": "564957ac-c08f-550f-b057-9a46cd14dfc7",
@@ -915,7 +1062,9 @@
     "address": "40 Mill Street, Pompton Lakes, NJ 07442-1490",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9923987,
+    "longitude": -74.2830754
   },
   {
     "id": "989c2576-3d37-54e9-94cc-ecda09e217db",
@@ -924,7 +1073,9 @@
     "address": "44 Lakeside Avenue, Pompton Lakes, NJ 07442-1793",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.004363,
+    "longitude": -74.2891544
   },
   {
     "id": "c1e4ccbe-3f0b-5881-be84-d2cf686c220a",
@@ -933,7 +1084,9 @@
     "address": "13 Wagaraw Bvd, Prospect Park, NJ 07508",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9346096,
+    "longitude": -74.1775027
   },
   {
     "id": "70be9b65-d552-5d48-8b30-be59ddc56991",
@@ -942,7 +1095,9 @@
     "address": "94 Brown Avenue, Prospect Park, NJ 07508-2018",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.93416,
+    "longitude": -74.172863
   },
   {
     "id": "563ac62f-fa47-56b6-995e-0f5bc208635d",
@@ -951,7 +1106,9 @@
     "address": "266 Sloatsburg Road, Ringwood, NJ 07456",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.1199045,
+    "longitude": -74.2650906
   },
   {
     "id": "901e8fa6-05e3-5769-8f92-b4b67b5c2663",
@@ -960,7 +1117,9 @@
     "address": "130 Valley Road, Ringwood, NJ 07456",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.1080523,
+    "longitude": -74.2459277
   },
   {
     "id": "d52ec35b-fa3e-5194-ab9f-b1c43e105655",
@@ -969,7 +1128,9 @@
     "address": "54 Roger Court, Ringwood, NJ 07456",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0646235,
+    "longitude": -74.2663273
   },
   {
     "id": "166d8cf8-d397-5088-aa6e-d4415ad0a36e",
@@ -978,7 +1139,9 @@
     "address": "88 Erskine Road, Ringwood, NJ 07456-2150",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0938942,
+    "longitude": -74.2628594
   },
   {
     "id": "5f15a985-c7b0-5757-b7cb-6b874fa2ce7d",
@@ -987,7 +1150,9 @@
     "address": "294 Totowa Road, Totowa, NJ 07512-2661",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.904773,
+    "longitude": -74.206619
   },
   {
     "id": "bd483563-e056-57de-bacf-fb3022fe2240",
@@ -996,7 +1161,9 @@
     "address": "10 Crews Street, Totowa, NJ 07512-2022",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9032793,
+    "longitude": -74.2160345
   },
   {
     "id": "7564ba4d-10c0-59bb-9dc6-f969d8fc93f6",
@@ -1005,7 +1172,9 @@
     "address": "973 Ringwood Avenue, Haskell, NJ 07420-1322",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.034383,
+    "longitude": -74.295136
   },
   {
     "id": "7b819d89-1965-5288-b5c2-7c9e4cbb41dc",
@@ -1014,7 +1183,9 @@
     "address": "First Street, Wanaque, NJ 07465",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0551801,
+    "longitude": -74.2855563
   },
   {
     "id": "4bd40292-99cc-50fa-bd1f-5dc8068ba78d",
@@ -1023,7 +1194,9 @@
     "address": "40 Geoffrey Way, Wayne, NJ 07470-4029",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9700489,
+    "longitude": -74.2567644
   },
   {
     "id": "bcb43f15-b5cd-51ea-8fff-95ab81de7acf",
@@ -1032,7 +1205,9 @@
     "address": "201 Garside Avenue, Wayne, NJ 07470",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9411456,
+    "longitude": -74.210453
   },
   {
     "id": "0602f515-5c22-5cdb-9ded-548290708ee2",
@@ -1041,7 +1216,9 @@
     "address": "68 Lenox Road, Wayne, NJ 07470-5551",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9407023,
+    "longitude": -74.2669245
   },
   {
     "id": "2b73eff7-bf22-50b3-9868-fa11efba73a1",
@@ -1050,7 +1227,9 @@
     "address": "51 Clifford Drive, Wayne, NJ 07470",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9312003,
+    "longitude": -74.2358342
   },
   {
     "id": "a6bfe8e9-fcff-5ca1-8720-cee14a3c072f",
@@ -1059,7 +1238,9 @@
     "address": "1310 Ratzer Road, Wayne, NJ 07470-5652",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9471748,
+    "longitude": -74.2221073
   },
   {
     "id": "baf1d95c-2231-5348-b436-e79afdd73f77",
@@ -1068,7 +1249,9 @@
     "address": "100 Laauwe Avenue, Wayne, NJ 07470-2950",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.935266,
+    "longitude": -74.2205038
   },
   {
     "id": "d2b0dba6-6830-5014-ac28-494de27a5012",
@@ -1077,7 +1260,9 @@
     "address": "190 Oakwood Drive, Wayne, NJ 07470-5652",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9480821,
+    "longitude": -74.2550607
   },
   {
     "id": "8c799c9a-987b-5224-b6ff-3192dd5ba100",
@@ -1086,7 +1271,9 @@
     "address": "511 Pines Lake Drive, Wayne, NJ 07470",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9832384,
+    "longitude": -74.2603697
   },
   {
     "id": "4f2e8265-8062-55c5-a3ed-d8f0e699fceb",
@@ -1095,7 +1282,9 @@
     "address": "1006 Hamburg Turnpike, Wayne, NJ 07470",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9600969,
+    "longitude": -74.2342331
   },
   {
     "id": "33a663ed-f90d-56b4-b19b-7c9921e89f80",
@@ -1104,7 +1293,9 @@
     "address": "531 Alps Road, Wayne, NJ 07470-4672",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9259275,
+    "longitude": -74.2475362
   },
   {
     "id": "392fc9ba-fa20-5f14-8b1d-b1157f6343d6",
@@ -1113,7 +1304,9 @@
     "address": "30 Mc Clelland Avenue, Wayne, NJ 07470-7411",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9292112,
+    "longitude": -74.2708225
   },
   {
     "id": "e65d433b-d8fd-541d-b995-b0b89f204b62",
@@ -1122,7 +1315,9 @@
     "address": "1500 Hamburg Turnpike, Wayne, NJ 07470-4024",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9677839,
+    "longitude": -74.2541837
   },
   {
     "id": "97e0e7be-7081-5ae6-b09e-0958630f4203",
@@ -1131,7 +1326,9 @@
     "address": "55 Webster Drive, Wayne, NJ 07470-5353",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9620132,
+    "longitude": -74.2623787
   },
   {
     "id": "50413900-b6e0-5f64-ab4b-3638627375e6",
@@ -1140,7 +1337,9 @@
     "address": "272 Berdan Avenue, Wayne, NJ 07470",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9685405,
+    "longitude": -74.2372873
   },
   {
     "id": "44684943-7c12-5e18-81bd-64a727666e0c",
@@ -1149,7 +1348,9 @@
     "address": "551 Valley Road, Wayne, NJ 07470",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9308146,
+    "longitude": -74.2307498
   },
   {
     "id": "76a7bf0c-4a60-5880-a22d-d8faa2d77962",
@@ -1158,7 +1359,9 @@
     "address": "140 High Crest Drive, West Milford, NJ 07480-3708",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0193001,
+    "longitude": -74.3717774
   },
   {
     "id": "2ae2031e-5c7a-5227-82a3-822840977612",
@@ -1167,7 +1370,9 @@
     "address": "70 Highlander Drive, West Milford, NJ 07480-1511",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.077231,
+    "longitude": -74.3831897
   },
   {
     "id": "e45e783c-e5dd-5956-8a82-44d6015c9571",
@@ -1176,7 +1381,9 @@
     "address": "36 Maple Road, West Milford, NJ 07480-2706",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0639993,
+    "longitude": -74.3901535
   },
   {
     "id": "aa9c13ae-1fe6-5864-8ced-2c12c5761731",
@@ -1185,7 +1392,9 @@
     "address": "210 Marshall Hill Road, West Milford, NJ 07480-3512",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.135113,
+    "longitude": -74.352208
   },
   {
     "id": "14d31651-e61d-5bce-891d-ba82eee77510",
@@ -1194,16 +1403,9 @@
     "address": "103 Paradise Road, Oak Ridge, NJ 07438-8931",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "b4272bd5-7c91-5d33-bacd-196e2d995af0",
-    "name": "Upper Greenwood Lake Elementary School",
-    "type": "School",
-    "address": "41 Henry Road, Hewitt, NJ 07421",
-    "county": "Passaic",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0587324,
+    "longitude": -74.4646107
   },
   {
     "id": "bfec0d90-0ffd-5e98-b5da-5b1b5ffebf00",
@@ -1212,7 +1414,9 @@
     "address": "67 Highlander Drive, West Milford, NJ 07480-3708",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0811533,
+    "longitude": -74.3864465
   },
   {
     "id": "bee33578-608d-532a-a7a3-3ffdc90c76ea",
@@ -1221,7 +1425,9 @@
     "address": "1075 Mcbride Avenue, Woodland Park, NJ 07424-2538",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.892917,
+    "longitude": -74.208854
   },
   {
     "id": "bbf81105-6725-56f1-92c3-c7a4b03ef90c",
@@ -1230,7 +1436,9 @@
     "address": "50 Lincoln Lane, Woodland Park, NJ 07424",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8902577,
+    "longitude": -74.1978859
   },
   {
     "id": "41b4d0ac-a8ca-574c-8ffa-aa022332db7a",
@@ -1239,7 +1447,9 @@
     "address": "15 Memorial Drive, Woodland Park, NJ 07424",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8916237,
+    "longitude": -74.2089639
   },
   {
     "id": "8c1c91aa-3b18-5fc0-91d6-0027b788b17c",
@@ -1248,7 +1458,9 @@
     "address": "665 Mcbride Avenue, Woodland Park, NJ 07424",
     "county": "Passaic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8894669,
+    "longitude": -74.2180875
   },
   {
     "id": "4eedf300-d371-5329-9515-44089a41cbf7",
@@ -1257,7 +1469,9 @@
     "address": "1 College Boulevard, Paterson, NJ 07505",
     "county": "Passaic",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9175222,
+    "longitude": -74.1691347
   },
   {
     "id": "5a7b3228-9a67-5c40-bae6-c07840147cd3",
@@ -1266,7 +1480,9 @@
     "address": "1 Normal Avenue, Montclair, NJ 07043",
     "county": "Passaic",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8663005,
+    "longitude": -74.1973637
   },
   {
     "id": "a4bf7a8e-383e-57a6-8030-5dcbcaa997f3",
@@ -1275,7 +1491,9 @@
     "address": "300 Pompton Road, Wayne, NJ 07470",
     "county": "Passaic",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9477244,
+    "longitude": -74.1962763
   },
   {
     "id": "5569645c-454b-5015-bb52-ae820816d780",
@@ -1284,7 +1502,9 @@
     "address": "77 Hamilton Street, Paterson, NJ 07505",
     "county": "Passaic",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9133791,
+    "longitude": -74.1711657
   },
   {
     "id": "09e50ceb-b638-56eb-a3a2-b5ab6975121e",
@@ -1293,7 +1513,9 @@
     "address": "101 Hamburg Tpke, Bloomingdale, NJ 07403",
     "county": "Passaic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.008162,
+    "longitude": -74.338556
   },
   {
     "id": "5e7cb8d7-0301-520d-8aac-c30a5ca3170f",
@@ -1302,7 +1524,9 @@
     "address": "900 Clifton Ave, Clifton, NJ 07013",
     "county": "Passaic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8664528,
+    "longitude": -74.1604017
   },
   {
     "id": "5c5e3200-efe2-598f-9205-f1b160a419a4",
@@ -1311,7 +1535,9 @@
     "address": "510 Belmont Ave, Haledon, NJ 07508",
     "county": "Passaic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9413054,
+    "longitude": -74.1850987
   },
   {
     "id": "02c077d3-58a2-57bc-aa6a-92cbf79e57b0",
@@ -1320,7 +1546,9 @@
     "address": "445 Lafayette Ave, Hawthorne, NJ 07506",
     "county": "Passaic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.953148,
+    "longitude": -74.155322
   },
   {
     "id": "e42009bf-3ba3-59cf-b931-45a897682ce7",
@@ -1329,7 +1557,9 @@
     "address": "225 Main Street, Little Falls, NJ 07424",
     "county": "Passaic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.882747,
+    "longitude": -74.233738
   },
   {
     "id": "5b5eb2b6-3384-5cae-b78e-821de1b00949",
@@ -1338,7 +1568,9 @@
     "address": "103 Overlook Ave, North Haledon, NJ 07508",
     "county": "Passaic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9533362,
+    "longitude": -74.1833061
   },
   {
     "id": "279d39e0-df6e-53b9-a5b3-009dd649dd99",
@@ -1347,7 +1579,9 @@
     "address": "330 Passaic St, Passaic, NJ 07055",
     "county": "Passaic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.861021,
+    "longitude": -74.1232906
   },
   {
     "id": "4271e13f-5489-5d21-a449-8f5c030ba4d9",
@@ -1356,7 +1590,9 @@
     "address": "111 Broadway, Paterson, NJ 07505",
     "county": "Passaic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9190561,
+    "longitude": -74.1714845
   },
   {
     "id": "c36e6647-95b7-510b-bb27-7ec3f0bdc46b",
@@ -1365,7 +1601,9 @@
     "address": "25 Lenox Ave, Pompton Lakes, NJ 07442",
     "county": "Passaic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0032633,
+    "longitude": -74.2902949
   },
   {
     "id": "52737c4d-2d6e-5ff0-aaaa-e9fc51935fd5",
@@ -1374,7 +1612,9 @@
     "address": "106 Brown Ave, Prospect Park, NJ 07508",
     "county": "Passaic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9348175,
+    "longitude": -74.17352
   },
   {
     "id": "5df5aa92-e936-545e-be72-3519ab14301c",
@@ -1383,7 +1623,9 @@
     "address": "60 Margaret King Ave, Ringwood, NJ 07456",
     "county": "Passaic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.1294224,
+    "longitude": -74.2651052
   },
   {
     "id": "f83a9445-4333-5caf-a054-ee2e447894af",
@@ -1392,7 +1634,9 @@
     "address": "537 Totowa Road, Totowa, NJ 07512",
     "county": "Passaic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9042017,
+    "longitude": -74.2187208
   },
   {
     "id": "de939ea5-9a78-5909-a83a-4aa0ada41475",
@@ -1401,7 +1645,9 @@
     "address": "579 Ringwood Ave, Wanaque, NJ 07465",
     "county": "Passaic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0516752,
+    "longitude": -74.289088
   },
   {
     "id": "85666c8e-b191-5b01-8e62-e1474d88ac39",
@@ -1410,16 +1656,9 @@
     "address": "475 Valley Road, Wayne, NJ 07470",
     "county": "Passaic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "9967be60-3f34-52a8-9123-1e2c0b5fc6f9",
-    "name": "Lincoln Park Airport",
-    "type": "Airport",
-    "address": "425 Beaverbrook Road, Lincoln Park, NJ 07035",
-    "county": "Passaic",
-    "source": "nj_airports_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9290839,
+    "longitude": -74.2314483
   },
   {
     "id": "c67dbf44-327c-5516-a107-1f013a38d991",
@@ -1428,6 +1667,8 @@
     "address": "401 Grand Street, Paterson, NJ 07505",
     "county": "Passaic",
     "source": "nj_government_buildings_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9133811,
+    "longitude": -74.1704405
   }
 ]

@@ -6,7 +6,9 @@
     "address": "669 Avenue A, Bayonne, NJ 07002",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6716293,
+    "longitude": -74.121083
   },
   {
     "id": "f070dfa9-22c9-5390-8f69-0f8537bcd659",
@@ -15,7 +17,9 @@
     "address": "669 Avenue A, Bayonne, NJ 07002",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6716293,
+    "longitude": -74.121083
   },
   {
     "id": "4af15cec-e25a-5336-86bd-67fecf371b99",
@@ -24,7 +28,9 @@
     "address": "135 Avenue C, Bayonne, NJ 07002",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6507132,
+    "longitude": -74.1303683
   },
   {
     "id": "c899d4d5-2929-5c97-8093-35c99fda972a",
@@ -33,7 +39,9 @@
     "address": "25 West 38TH Street, Bayonne, NJ 07002",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6761518,
+    "longitude": -74.1094154
   },
   {
     "id": "f1920b8b-ded6-5e33-abce-8af1e6f35ac2",
@@ -42,7 +50,9 @@
     "address": "75 West 10TH Street, Bayonne, NJ 07002",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6569288,
+    "longitude": -74.1289453
   },
   {
     "id": "9e5f359a-05cb-5a16-8a38-86ed372e4430",
@@ -51,7 +61,9 @@
     "address": "208 Prospect Avenue, Bayonne, NJ 07002",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6671787,
+    "longitude": -74.110524
   },
   {
     "id": "00a97b2b-6914-57af-b4f3-69adbb147140",
@@ -60,7 +72,9 @@
     "address": "25 East 5th Street, Bayonne, NJ 07002",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.651516,
+    "longitude": -74.127039
   },
   {
     "id": "5158def0-4056-5b16-b7e9-8d5e3a07351d",
@@ -69,7 +83,9 @@
     "address": "33 East 24th Street, Bayonne, NJ 07002",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6641145,
+    "longitude": -74.1156333
   },
   {
     "id": "9f96ef6b-12d1-5b87-90ef-705edbec18a0",
@@ -78,7 +94,9 @@
     "address": "18 West 26TH St, Bayonne, NJ 07002-3803",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6665412,
+    "longitude": -74.1169691
   },
   {
     "id": "b42e3106-4c3a-5d4e-9fb6-57cb34755cc1",
@@ -87,7 +105,9 @@
     "address": "95 West 31ST Street, Bayonne, NJ 07002",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6723418,
+    "longitude": -74.1168022
   },
   {
     "id": "fc554980-aa28-5dd3-8ff9-232dd3b86387",
@@ -96,7 +116,9 @@
     "address": "191 Avenue B, Bayonne, NJ 07002",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.683418,
+    "longitude": -74.108533
   },
   {
     "id": "ca1d97b8-9a47-5368-98b6-d822b1b3b014",
@@ -105,7 +127,9 @@
     "address": "550 Avenue A, Bayonne, NJ 07002",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6676907,
+    "longitude": -74.1243405
   },
   {
     "id": "8fabfd6c-e473-5745-aab1-a5e1a696dc89",
@@ -114,7 +138,9 @@
     "address": "101 West 56TH Street, Bayonne, NJ 07002",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.688669,
+    "longitude": -74.103742
   },
   {
     "id": "f5a43761-19c4-5967-a190-7b8bf65a1e12",
@@ -123,7 +149,9 @@
     "address": "501 11 North Third Street, E Newark, NJ 07029",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7501505,
+    "longitude": -74.1583434
   },
   {
     "id": "7c53c194-2eb7-5ed5-a083-82dcce395277",
@@ -132,7 +160,9 @@
     "address": "301 69TH St, Guttenberg, NJ 07093-2411",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.793842,
+    "longitude": -74.007904
   },
   {
     "id": "f944eec3-cd68-5341-add8-80142af45bdd",
@@ -141,7 +171,9 @@
     "address": "223 Hamilton Street, Harrison, NJ 07029",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7473289,
+    "longitude": -74.1600048
   },
   {
     "id": "c204355f-9081-54d3-8097-e711aa7c9477",
@@ -150,7 +182,9 @@
     "address": "401 Kingsland Avenue, Harrison, NJ 07029-1405",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.750014,
+    "longitude": -74.148434
   },
   {
     "id": "28a66c78-d6a9-560e-9d11-cf31a77b287d",
@@ -159,7 +193,9 @@
     "address": "1 Washington Street, Harrison, NJ 07029-2613",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.746813,
+    "longitude": -74.153294
   },
   {
     "id": "392aac4a-6fa0-5ef0-8d80-dfd60db0663f",
@@ -168,7 +204,9 @@
     "address": "221 Cross Street, Harrison, NJ 07029-2613",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7493005,
+    "longitude": -74.1563857
   },
   {
     "id": "623fa410-d179-5888-928d-b3a1eb6ab50d",
@@ -177,7 +215,9 @@
     "address": "One North Fifth Street, Harrison, NJ 07029-2515",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7478617,
+    "longitude": -74.1538073
   },
   {
     "id": "4da6cef3-64e8-5158-bb76-033aa4d27b36",
@@ -186,25 +226,9 @@
     "address": "Ninth & Clinton St, Hoboken, NJ 07030",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "a5c349fa-d597-5811-8186-e3ad24afa3da",
-    "name": "Hoboken Middle School",
-    "type": "School",
-    "address": "158 Fourth Street, Hoboken, NJ 07030",
-    "county": "Hudson",
-    "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "0a79d8b5-c355-5323-8222-6f9b45654b80",
-    "name": "Joseph F Brandt Elementary School",
-    "type": "School",
-    "address": "215 Ninth Street, Hoboken, NJ 07030",
-    "county": "Hudson",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.747635,
+    "longitude": -74.0330646
   },
   {
     "id": "06360b36-b8f9-544c-ae75-bd16fe257079",
@@ -213,7 +237,9 @@
     "address": "201 Monroe Street, Hoboken, NJ 07030",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7405907,
+    "longitude": -74.0391436
   },
   {
     "id": "69849c0e-2e3e-5968-9ed3-41fe23f4ec65",
@@ -222,7 +248,9 @@
     "address": "1100 Willow Avenue, Hoboken, NJ 07030",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7510387,
+    "longitude": -74.0310504
   },
   {
     "id": "85c921d6-0950-5f45-876f-7937a87a4772",
@@ -231,7 +259,9 @@
     "address": "One High Tech Way, Secaucus, NJ 07094-1682",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7619185,
+    "longitude": -74.0819979
   },
   {
     "id": "3af3978d-6bfa-59c4-9dce-82ade47a3f9b",
@@ -240,7 +270,9 @@
     "address": "525 Montgomery Street, Jersey City, NJ 07302-3237",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7212945,
+    "longitude": -74.0589323
   },
   {
     "id": "885e882d-e299-5e09-88a2-659c95678a77",
@@ -249,7 +281,9 @@
     "address": "1 North 5th Street, Harrison, NJ 07029",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.747683,
+    "longitude": -74.154234
   },
   {
     "id": "40f2c5e8-3d38-5e79-a271-b929a2b390c1",
@@ -258,7 +292,9 @@
     "address": "669 Avenue A, Bayonne, NJ 07094-1851",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6716293,
+    "longitude": -74.121083
   },
   {
     "id": "601972ef-0891-5142-afc3-627d45c2f808",
@@ -267,7 +303,9 @@
     "address": "525 Montgomery Street, Jersey City, NJ 07306-3237",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7212945,
+    "longitude": -74.0589323
   },
   {
     "id": "f54f90ba-22ef-5fe5-958e-8666a4f10dd0",
@@ -276,7 +314,9 @@
     "address": "180 9th Street, Jersey City, NJ 07302",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7281209,
+    "longitude": -74.0412498
   },
   {
     "id": "267f2064-8052-5696-9ab0-47a13287fc09",
@@ -285,7 +325,9 @@
     "address": "One High Tech Way, Secaucus, NJ 07094-1682",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7619185,
+    "longitude": -74.0819979
   },
   {
     "id": "132ea85a-a94a-57d9-b7b6-db1d08244896",
@@ -294,7 +336,9 @@
     "address": "209 Bergen Avenue, Jersey City, NJ 07305",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7095934,
+    "longitude": -74.0845792
   },
   {
     "id": "bd4556d0-563c-53db-8c9b-33d100bb8f13",
@@ -303,7 +347,9 @@
     "address": "2 Palisade Avenue, Jersey City, NJ 07306",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7299091,
+    "longitude": -74.0541552
   },
   {
     "id": "c46234e8-4ccb-5104-8e79-9ddc5629f43a",
@@ -312,7 +358,9 @@
     "address": "171 Seaview Ave, Jersey City, NJ 07305-2412",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6938027,
+    "longitude": -74.0975943
   },
   {
     "id": "cc8616ba-26fc-5d50-b9c6-f9a7582e590e",
@@ -321,7 +369,9 @@
     "address": "201 North St, Jersey City, NJ 07307-3336",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7540416,
+    "longitude": -74.0499764
   },
   {
     "id": "d4de816f-2e5f-51bd-bc7a-8bbf6d5b42b1",
@@ -330,7 +380,9 @@
     "address": "220 Virginia Ave, Jersey City, NJ 07304-1424",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7159528,
+    "longitude": -74.0842666
   },
   {
     "id": "fb13846b-24b9-5f84-98e4-165866d8c4ae",
@@ -339,7 +391,9 @@
     "address": "96 Franklin St, Jersey City, NJ 07307",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7427852,
+    "longitude": -74.0486531
   },
   {
     "id": "36108dc8-9007-505c-a0c9-b446017e7d7a",
@@ -348,7 +402,9 @@
     "address": "167 Hancock Ave, Jersey City, NJ 07307-2017",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.748285,
+    "longitude": -74.046141
   },
   {
     "id": "38e38db4-77cc-5839-bc53-ee3fcd8c2263",
@@ -357,7 +413,9 @@
     "address": "96 Sussex St, Jersey City, NJ 07302-4402",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7147234,
+    "longitude": -74.0380579
   },
   {
     "id": "00dfb65a-5fa2-51d4-abbc-20d6914868b4",
@@ -366,7 +424,9 @@
     "address": "123 Coles Street, Jersey City, NJ 07302",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7267734,
+    "longitude": -74.0474179
   },
   {
     "id": "d65231fa-41ac-5024-93c2-2f11fbcb29d1",
@@ -375,7 +435,9 @@
     "address": "214 Plainfield Ave, Jersey City, NJ 07306-7006",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7296794,
+    "longitude": -74.0809596
   },
   {
     "id": "c5f9db80-d52d-5f3f-a379-1ee2429a1f4d",
@@ -384,7 +446,9 @@
     "address": "239 Ocean Avenue, Jersey City, NJ 07305-2626",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.696191,
+    "longitude": -74.089778
   },
   {
     "id": "5e0ffa47-8b9c-571a-a0d8-898df8a1e658",
@@ -393,7 +457,9 @@
     "address": "182 Merseles St, Jersey City, NJ 07302-2235",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7245305,
+    "longitude": -74.0528772
   },
   {
     "id": "521a9525-b829-569b-bc68-4993f13edf81",
@@ -402,7 +468,9 @@
     "address": "362 Union St, Jersey City, NJ 07304-1212",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7188151,
+    "longitude": -74.0842661
   },
   {
     "id": "ddb1c0c5-74bc-59dd-971a-5465a5e84269",
@@ -411,7 +479,9 @@
     "address": "88 Gates Ave, Jersey City, NJ 07305-2448",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.69009,
+    "longitude": -74.095579
   },
   {
     "id": "5f7c1665-2162-5e21-aa66-a3ed7d67ce01",
@@ -420,7 +490,9 @@
     "address": "111 Bright Street, Jersey City, NJ 07302-4342",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7176199,
+    "longitude": -74.050921
   },
   {
     "id": "310a58b8-437c-5754-9dfc-a5a851060998",
@@ -429,7 +501,9 @@
     "address": "222 Laidlaw Avenue, Jersey City, NJ 07306",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7405166,
+    "longitude": -74.0590965
   },
   {
     "id": "5fff12bf-043a-5a71-851d-28715ab14458",
@@ -438,7 +512,9 @@
     "address": "123 Claremont Ave, Jersey City, NJ 07305-3603",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7088989,
+    "longitude": -74.079063
   },
   {
     "id": "e68f4afc-df09-5157-bb1e-50dd6478926e",
@@ -447,7 +523,9 @@
     "address": "239 Bergen Ave, Jersey City, NJ 07305-1524",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7105038,
+    "longitude": -74.0847252
   },
   {
     "id": "341855b8-b497-56da-9ee9-fa2176454c8e",
@@ -456,7 +534,9 @@
     "address": "222 Mercer Street, Jersey City, NJ 07302",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7212428,
+    "longitude": -74.05266
   },
   {
     "id": "1222405e-975f-5236-a6e7-b3e4671b4c5f",
@@ -465,7 +545,9 @@
     "address": "239 Bergen Avenue, Jersey City, NJ 07305",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7105038,
+    "longitude": -74.0847252
   },
   {
     "id": "01861176-191a-5930-a441-a4dcfc653e33",
@@ -474,7 +556,9 @@
     "address": "339 Stegman Parkway, Jersey City, NJ 07305-1408",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7090321,
+    "longitude": -74.0903626
   },
   {
     "id": "17d7ad20-bf60-5c78-ad50-d568d9459752",
@@ -483,7 +567,9 @@
     "address": "35 Colgate St, Jersey City, NJ 07302-3307",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7214103,
+    "longitude": -74.0531996
   },
   {
     "id": "79cc3d58-cdef-54f7-8b68-34e21dc1cee3",
@@ -492,7 +578,9 @@
     "address": "600 Bergen Ave, Jersey City, NJ 07304",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.721678,
+    "longitude": -74.071924
   },
   {
     "id": "90139d64-9b31-50f9-b4ed-62c661e188ac",
@@ -501,7 +589,9 @@
     "address": "100 St Pauls Ave, Jersey City, NJ 07306-2208",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7360698,
+    "longitude": -74.0550031
   },
   {
     "id": "c8f34e24-ddd3-58fb-b372-d02d78f3924b",
@@ -510,7 +600,9 @@
     "address": "91 Astor Place, Jersey City, NJ 07304-2920",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.718731,
+    "longitude": -74.069956
   },
   {
     "id": "e835f0e0-5419-5753-a9ee-2998d8c16f64",
@@ -519,7 +611,9 @@
     "address": "299 Sip Avenue, Jersey City, NJ 07306",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.732574,
+    "longitude": -74.073654
   },
   {
     "id": "baa8db9b-9e6b-5170-9516-a54d94b8c166",
@@ -528,7 +622,9 @@
     "address": "60 Crescent Ave, Jersey City, NJ 07304-2925",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.716731,
+    "longitude": -74.070804
   },
   {
     "id": "f755cf5d-4690-595a-bbe6-21a0120c9031",
@@ -537,7 +633,9 @@
     "address": "143 Romaine Ave, Jersey City, NJ 07306-5218",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.733905,
+    "longitude": -74.068564
   },
   {
     "id": "0a5c4c8f-5b89-5bcd-b99c-565ad494d4a0",
@@ -546,7 +644,9 @@
     "address": "59 Wilkinson Ave, Jersey City, NJ 07305-4227",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.705217,
+    "longitude": -74.0780295
   },
   {
     "id": "506313d3-41df-5a33-aaa1-74187c142b91",
@@ -555,7 +655,9 @@
     "address": "886 Bergen Ave, Jersey City, NJ 07306-4302",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7291875,
+    "longitude": -74.0649984
   },
   {
     "id": "6ad914f3-5f98-5f83-a070-0401c0dfaf7d",
@@ -564,7 +666,9 @@
     "address": "107 Bright Street, Jersey City, NJ 07302",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7171189,
+    "longitude": -74.0507649
   },
   {
     "id": "d9ae2057-e9d1-5983-a458-7b78350b8000",
@@ -573,7 +677,9 @@
     "address": "3385 Kennedy Blvd, Jersey City, NJ 07307-4210",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.748598,
+    "longitude": -74.055761
   },
   {
     "id": "d988bfac-e30f-5670-a62c-ad33e464666a",
@@ -582,7 +688,9 @@
     "address": "153 Union St, Jersey City, NJ 07304-2317",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7143777,
+    "longitude": -74.0765837
   },
   {
     "id": "e1d70b21-3fc1-583f-8b3d-7da09f642420",
@@ -591,7 +699,9 @@
     "address": "164 Laidlaw Ave, Jersey City, NJ 07306",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7386014,
+    "longitude": -74.0559905
   },
   {
     "id": "1ea14d78-c85d-52e4-8419-02d01d067dc4",
@@ -600,7 +710,9 @@
     "address": "1830 Kennedy Blvd, Jersey City, NJ 07305-2123",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7021916,
+    "longitude": -74.0908757
   },
   {
     "id": "487940f6-78c0-5acc-831f-25fdc6802754",
@@ -609,7 +721,9 @@
     "address": "158 Erie St, Jersey City, NJ 07302-1718",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7271972,
+    "longitude": -74.0433616
   },
   {
     "id": "18d96a1e-0d02-5406-a6df-aa002afdd68a",
@@ -618,7 +732,9 @@
     "address": "425 Johnston Avenue, Jersey City, NJ 07304",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7164355,
+    "longitude": -74.062145
   },
   {
     "id": "3fced854-d8bd-5a7e-8fb3-7f8db9375547",
@@ -627,7 +743,9 @@
     "address": "264 Van Horne Street, Jersey City, NJ 07304",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.713823,
+    "longitude": -74.0619173
   },
   {
     "id": "2859299e-1157-5c47-a3f6-20f59b1a3f8f",
@@ -636,7 +754,9 @@
     "address": "135 Stegman St, Jersey City, NJ 07305-3208",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7042913,
+    "longitude": -74.0835693
   },
   {
     "id": "1511fc9d-765c-554a-9a47-36b5b060512c",
@@ -645,7 +765,9 @@
     "address": "2 Palisade Ave, Jersey City, NJ 07306-1202",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7299091,
+    "longitude": -74.0541552
   },
   {
     "id": "9cf75343-94f5-5afe-bc46-4e7bcb824677",
@@ -654,7 +776,9 @@
     "address": "100 Davis Ave, Kearny, NJ 07032-3328",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7527645,
+    "longitude": -74.1511011
   },
   {
     "id": "2d1971e8-b1b3-57f5-9b53-834dcc3bb0c6",
@@ -663,7 +787,9 @@
     "address": "360 Belgrove Dr, Kearny, NJ 07032-1628",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.764463,
+    "longitude": -74.1538903
   },
   {
     "id": "7bcc3d44-b4e2-5da1-aa2a-7107f6d7a5ff",
@@ -672,7 +798,9 @@
     "address": "336 Devon St, Kearny, NJ 07032-2612",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7615072,
+    "longitude": -74.148123
   },
   {
     "id": "1a321c5e-4074-5bfc-811c-ef42b2dafe16",
@@ -681,7 +809,9 @@
     "address": "121 Beech St, Kearny, NJ 07032-2707",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7781029,
+    "longitude": -74.1364567
   },
   {
     "id": "eccf90c9-d07f-5cee-87f5-3b5c522bbe51",
@@ -690,7 +820,9 @@
     "address": "733 Kearny Ave, Kearny, NJ 07032-3005",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.776809,
+    "longitude": -74.142116
   },
   {
     "id": "793597cc-4c41-5775-917d-a52f3efd6d1c",
@@ -699,7 +831,9 @@
     "address": "644 Forest St, Kearny, NJ 07032-3798",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7744691,
+    "longitude": -74.1348418
   },
   {
     "id": "481b3c24-b91a-5016-95f1-326db4b548fd",
@@ -708,7 +842,9 @@
     "address": "80 Belgrove Dr, Kearny, NJ 07032-1504",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.75529,
+    "longitude": -74.159512
   },
   {
     "id": "3deb69c7-d0f4-52ca-be2d-8460555c38c8",
@@ -717,7 +853,9 @@
     "address": "5211 Columbia Avenue, N Bergen, NJ 07047-5916",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.787994,
+    "longitude": -74.0290043
   },
   {
     "id": "2a6e337c-5838-5f14-b5e7-02beb18c47e7",
@@ -726,7 +864,9 @@
     "address": "1215 83RD Street, North Bergen, NJ 07047-4215",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8066064,
+    "longitude": -74.0107383
   },
   {
     "id": "5cf3a263-b730-5995-8522-60aaf5134b8e",
@@ -735,7 +875,9 @@
     "address": "1210 11th St, N Bergen, NJ 07047-1810",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.761929,
+    "longitude": -74.0442688
   },
   {
     "id": "fc394d9f-1e4b-5807-a75d-fd4267250265",
@@ -744,7 +886,9 @@
     "address": "1206 63RD St, North Bergen, NJ 07047-3408",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7940735,
+    "longitude": -74.0197571
   },
   {
     "id": "42cc0e7c-3562-56f7-8200-eb22a263ba63",
@@ -753,7 +897,9 @@
     "address": "3110 Liberty Ave, North Bergen, NJ 07047-2319",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7628575,
+    "longitude": -74.0481914
   },
   {
     "id": "5248fe17-a69d-596a-ae1c-cbc13e2a58c1",
@@ -762,7 +908,9 @@
     "address": "7417 Kennedy Blvd, N Bergen, NJ 07047-5916",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8014453,
+    "longitude": -74.0140339
   },
   {
     "id": "cc97a984-5ce2-5e9c-a332-ed06108236a7",
@@ -771,7 +919,9 @@
     "address": "2000 85th Street, North Bergen, NJ 07047",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.809705,
+    "longitude": -74.014184
   },
   {
     "id": "a2d17126-3d26-5594-aa81-53ae97ae5d4c",
@@ -780,7 +930,9 @@
     "address": "7407 Hudson Ave, North Bergen, NJ 07047-5607",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7969418,
+    "longitude": -74.005341
   },
   {
     "id": "79670947-6aed-5e69-b53a-269eab7cee4b",
@@ -789,7 +941,9 @@
     "address": "685 Fifth St, Secaucus, NJ 07094-3004",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7908131,
+    "longitude": -74.0672667
   },
   {
     "id": "bec223c9-68cf-59a8-9d0d-3fbec209b020",
@@ -798,7 +952,9 @@
     "address": "1520 Paterson Plank Rd, Secaucus, NJ 07094",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.798531,
+    "longitude": -74.058358
   },
   {
     "id": "598e7539-af40-50aa-9835-906baa0ca7f0",
@@ -807,16 +963,9 @@
     "address": "11 Mill Ridge Road, Secaucus, NJ 07094",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "208759fa-8dae-5066-bbd4-445398198177",
-    "name": "Secaucus Middle School",
-    "type": "School",
-    "address": "11 Mill Ridge Road, Secaucus, NJ 07094",
-    "county": "Hudson",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8038157,
+    "longitude": -74.0522459
   },
   {
     "id": "5fbf355b-4fdf-545c-81c5-493164258be1",
@@ -825,7 +974,9 @@
     "address": "1500 New York Avenue, Union City, NJ 07087",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7612566,
+    "longitude": -74.0345139
   },
   {
     "id": "d7a8ce91-3301-5b7f-a977-30b00784e34a",
@@ -834,7 +985,9 @@
     "address": "318 - 18th Street, Union City, NJ 07087",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7627394,
+    "longitude": -74.03275
   },
   {
     "id": "8c874a4a-4948-5523-8d15-eb6ea2465982",
@@ -843,7 +996,9 @@
     "address": "516 36th Street, Union City, NJ 07087",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7745864,
+    "longitude": -74.0280438
   },
   {
     "id": "acc180d0-def9-5247-954d-b141d8f76b29",
@@ -852,7 +1007,9 @@
     "address": "2200 Kennedy Blvd, Union City, NJ 07087",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.769207,
+    "longitude": -74.039572
   },
   {
     "id": "a2fcf785-2740-5206-ac56-d10f71d289f0",
@@ -861,7 +1018,9 @@
     "address": "3905 New York Ave, Union City, NJ 07087-4821",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7753941,
+    "longitude": -74.0252453
   },
   {
     "id": "071a3f53-6279-5cfc-96c0-91d7c87e18fc",
@@ -870,7 +1029,9 @@
     "address": "167 19TH St, Union City, NJ 07087",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.762134,
+    "longitude": -74.030468
   },
   {
     "id": "b9f3c9c3-c306-5938-b7a6-54e2c9eb6f17",
@@ -879,7 +1040,9 @@
     "address": "3400 Palisade Avenue, Union City, NJ 07087",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.771885,
+    "longitude": -74.026078
   },
   {
     "id": "9269dc67-3d28-5e25-94de-05365b71b786",
@@ -888,7 +1051,9 @@
     "address": "1800 Summit Ave, Union City, NJ 07087",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7660354,
+    "longitude": -74.0377989
   },
   {
     "id": "3dfdb710-3054-546b-9aff-d908185ecef4",
@@ -897,7 +1062,9 @@
     "address": "2800 Summit Ave, Union City, NJ 07087-2323",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.771671,
+    "longitude": -74.034001
   },
   {
     "id": "73dbd34f-8292-52ff-99b7-036a4b600edf",
@@ -906,7 +1073,9 @@
     "address": "1700 Kerrigan Avenue, Union City, NJ 07087",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.765126,
+    "longitude": -74.040645
   },
   {
     "id": "459a672d-0baf-55b0-ba66-f1bf72bf8ef5",
@@ -915,7 +1084,9 @@
     "address": "4507 Hudson Ave, Union City, NJ 07087-6317",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7780171,
+    "longitude": -74.0199874
   },
   {
     "id": "323ceccb-00c5-51e7-adef-168be9926623",
@@ -924,7 +1095,9 @@
     "address": "507 West St, Union City, NJ 07087-2811",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7563126,
+    "longitude": -74.0418732
   },
   {
     "id": "139c8cd1-d75c-5247-919e-6fe64f35856d",
@@ -933,7 +1106,9 @@
     "address": "2215 Kerrigan Avenue, Union City, NJ 07087",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7687623,
+    "longitude": -74.0383514
   },
   {
     "id": "5ea98afa-6023-5a27-b680-d7874bfce891",
@@ -942,7 +1117,9 @@
     "address": "2500 Kennedy Blvd, Union City, NJ 07087",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7703386,
+    "longitude": -74.0364117
   },
   {
     "id": "e2427f21-f269-5627-8a8d-ba15425bfe33",
@@ -951,7 +1128,9 @@
     "address": "3800 Hudson Ave, Union City, NJ 07087-6020",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.773784,
+    "longitude": -74.023351
   },
   {
     "id": "b5e97348-fc2a-58a0-9ed1-1c6e7d662134",
@@ -960,7 +1139,9 @@
     "address": "1401 Central Avenue, Union City, NJ 07087",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7624241,
+    "longitude": -74.0395714
   },
   {
     "id": "ecc66fed-c712-5fad-a68e-b15a739d1aa8",
@@ -969,7 +1150,9 @@
     "address": "2700 Palisade Ave, Daniel Webster School, Weehawken, NJ 07086",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7685746,
+    "longitude": -74.0281019
   },
   {
     "id": "5f5da8c1-23b9-564a-ab4f-82eabf554f2c",
@@ -978,7 +1161,9 @@
     "address": "1 Louisa Place, T. Roosevelt School, Weehawken, NJ 07086",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7767355,
+    "longitude": -74.0153887
   },
   {
     "id": "9a0c19c6-6c50-560c-a215-dd65ef3b3e0c",
@@ -987,7 +1172,9 @@
     "address": "53 Liberty Place, Weehawken, NJ 07086",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7738633,
+    "longitude": -74.0182396
   },
   {
     "id": "f19f7ca7-7d12-5f80-ad55-1155f6d0ee4d",
@@ -996,7 +1183,9 @@
     "address": "6300 Palisade Ave, West New York, NJ 07093-2318",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.790835,
+    "longitude": -74.011608
   },
   {
     "id": "ac87a71f-c524-530a-8a1b-cdb9275e5302",
@@ -1005,7 +1194,9 @@
     "address": "5204 Hudson Ave, West New York, NJ 07093-2614",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7824386,
+    "longitude": -74.0162004
   },
   {
     "id": "dea22561-4689-5a4a-8f78-2a964fafda10",
@@ -1014,7 +1205,9 @@
     "address": "6200 Broadway, West New York, NJ 07093-2639",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.788773,
+    "longitude": -74.009008
   },
   {
     "id": "15f012fd-95a7-513c-9fde-3248625619f3",
@@ -1023,7 +1216,9 @@
     "address": "5501 Park Ave, West New York, NJ 07093-3523",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.782847,
+    "longitude": -74.011924
   },
   {
     "id": "68a9365c-6213-56ae-bb48-e7910d159b22",
@@ -1032,7 +1227,9 @@
     "address": "5401 Hudson Ave, West New York, NJ 07093-2617",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.783682,
+    "longitude": -74.01545
   },
   {
     "id": "8e542ef1-1ab0-5c7a-9eb6-934d48c839c2",
@@ -1041,7 +1238,9 @@
     "address": "6129 Madison St, West New York, NJ 07093-1512",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7908923,
+    "longitude": -74.0165444
   },
   {
     "id": "a512a8bd-7cbb-5f79-bdc7-2a8d055c332f",
@@ -1050,7 +1249,9 @@
     "address": "600 55TH St, West New York, NJ 07093-4626",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7844924,
+    "longitude": -74.0157739
   },
   {
     "id": "f6727987-5259-59e5-bcbb-1ef8f3cfaaf7",
@@ -1059,7 +1260,9 @@
     "address": "5200 Broadway, West New York, NJ 07093-2638",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.781729,
+    "longitude": -74.014714
   },
   {
     "id": "b4e12f1c-e87e-594d-aa8e-a3b9e9cf230f",
@@ -1068,7 +1271,9 @@
     "address": "201 57TH St, West New York, NJ 07093-2705",
     "county": "Hudson",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.78457,
+    "longitude": -74.012715
   },
   {
     "id": "639c2561-f29a-5e0a-9ab0-c8cdd8ccf5c3",
@@ -1077,7 +1282,9 @@
     "address": "70 Sip Avenue, Jersey City, NJ 07306",
     "county": "Hudson",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7307982,
+    "longitude": -74.062378
   },
   {
     "id": "7c669768-049c-52c5-92ee-2173c264a1e8",
@@ -1086,7 +1293,9 @@
     "address": "2039 John F. Kennedy Boulevard, Jersey City, NJ 07305",
     "county": "Hudson",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7085377,
+    "longitude": -74.0867163
   },
   {
     "id": "4e952a27-c801-557a-8a34-b18935267824",
@@ -1095,7 +1304,9 @@
     "address": "2641 John F. Kennedy Boulevard, Jersey City, NJ 07306",
     "county": "Hudson",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7270468,
+    "longitude": -74.0716471
   },
   {
     "id": "d0314f71-7cfd-5f30-8331-b5cfd3f9a7c6",
@@ -1104,7 +1315,9 @@
     "address": "1 Castle Point Terrace, Hoboken, NJ 07030",
     "county": "Hudson",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7467856,
+    "longitude": -74.025741
   },
   {
     "id": "b898362e-dd8d-5f88-b4cd-bd44430092b3",
@@ -1113,7 +1326,9 @@
     "address": "595 Newark Avenue, Jersey City, NJ 07306",
     "county": "Hudson",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7325654,
+    "longitude": -74.0578759
   },
   {
     "id": "4942bb0b-2d3b-57a2-ab77-0c72cf8ea163",
@@ -1122,7 +1337,9 @@
     "address": "583 Newark Avenue, Jersey City, NJ 07306",
     "county": "Hudson",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7316205,
+    "longitude": -74.0574948
   },
   {
     "id": "fdde1f39-ece2-5748-9985-24eabbd796bf",
@@ -1131,7 +1348,9 @@
     "address": "630 Avenue \"c\", Bayonne, NJ 07002",
     "county": "Hudson",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.668925,
+    "longitude": -74.117198
   },
   {
     "id": "00635e3b-33d8-5ec2-a49e-6dc4858dc000",
@@ -1140,7 +1359,9 @@
     "address": "34 Sherman Ave, East Newark, NJ 07029",
     "county": "Hudson",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7519627,
+    "longitude": -74.1591095
   },
   {
     "id": "bbbdcff5-804a-529a-a2bb-e89c0e3bb0e2",
@@ -1149,7 +1370,9 @@
     "address": "6808 Park Avenue, Guttenberg, NJ 07093",
     "county": "Hudson",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7914903,
+    "longitude": -74.0036893
   },
   {
     "id": "4fc5c493-4b5e-5faf-b101-c4ed5cd459fc",
@@ -1158,7 +1381,9 @@
     "address": "318 Harrison Ave, Harrison, NJ 07029",
     "county": "Hudson",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7464105,
+    "longitude": -74.1575245
   },
   {
     "id": "d5624a52-9777-5651-a861-120468f04e85",
@@ -1167,7 +1392,9 @@
     "address": "100 Newark Street, Hoboken, NJ 07030",
     "county": "Hudson",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.73697,
+    "longitude": -74.031204
   },
   {
     "id": "2896e02e-7870-57ac-b4f1-71c7b26c206c",
@@ -1176,7 +1403,9 @@
     "address": "365 Summit Avenue, Jersey City, NJ 07306",
     "county": "Hudson",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7284856,
+    "longitude": -74.0632977
   },
   {
     "id": "27b62efb-a86c-580f-88c3-9b6a32978721",
@@ -1185,7 +1414,9 @@
     "address": "404 Kearny Avenue, Kearny, NJ 07032",
     "county": "Hudson",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7649142,
+    "longitude": -74.1480076
   },
   {
     "id": "5ca7a5b9-5660-5ba6-a8f6-c91e13114a77",
@@ -1194,7 +1425,9 @@
     "address": "4225 Bergen Turnpike, North Bergen, NJ 07047",
     "county": "Hudson",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7815709,
+    "longitude": -74.0326309
   },
   {
     "id": "9360b9d0-11d4-5a10-9982-7503e5516d92",
@@ -1203,7 +1436,9 @@
     "address": "1203 Paterson Plank, Secaucus, NJ 07094",
     "county": "Hudson",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7878575,
+    "longitude": -74.0550777
   },
   {
     "id": "010e62b3-30e6-5680-8e00-dfda75b128ef",
@@ -1212,7 +1447,9 @@
     "address": "3715 Palisade Ave, Union City, NJ 07087",
     "county": "Hudson",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.773738,
+    "longitude": -74.0248683
   },
   {
     "id": "694e7b56-ae03-5c69-9510-eada26d89cbb",
@@ -1221,16 +1458,9 @@
     "address": "400 Park Ave, Weehawken, NJ 07086",
     "county": "Hudson",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "da4efffc-58f0-5640-aedc-98f0c9608464",
-    "name": "West 30th Street Heliport",
-    "type": "Airport",
-    "address": "West 30th Street, New York, NY 10001",
-    "county": "Hudson",
-    "source": "nj_airports_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7676399,
+    "longitude": -74.0230679
   },
   {
     "id": "673cbded-b926-5376-9a57-40a11302d430",
@@ -1239,7 +1469,9 @@
     "address": "1 Hudson Place, Hoboken, NJ 07030",
     "county": "Hudson",
     "source": "nj_transit_hubs_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.735423,
+    "longitude": -74.027608
   },
   {
     "id": "697c9846-a3b1-5f05-b4fb-1159236cb0e4",
@@ -1248,7 +1480,9 @@
     "address": "1 Journal Square Plaza, Jersey City, NJ 07306",
     "county": "Hudson",
     "source": "nj_transit_hubs_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7343641,
+    "longitude": -74.0636449
   },
   {
     "id": "5300153e-e610-5a1b-9c3c-e33c5cfba6a3",
@@ -1257,7 +1491,9 @@
     "address": "2 Exchange Place, Jersey City, NJ 07302",
     "county": "Hudson",
     "source": "nj_transit_hubs_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.716422,
+    "longitude": -74.034125
   },
   {
     "id": "ee6dff7b-a08f-5cb5-9686-82cc1263983d",
@@ -1266,7 +1502,9 @@
     "address": "595 Newark Avenue, Jersey City, NJ 07306",
     "county": "Hudson",
     "source": "nj_government_buildings_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7325654,
+    "longitude": -74.0578759
   },
   {
     "id": "f48d59d0-d374-5ae5-8349-fa699fac7095",
@@ -1275,6 +1513,8 @@
     "address": "280 Grove Street, Jersey City, NJ 07302",
     "county": "Hudson",
     "source": "nj_government_buildings_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7177511,
+    "longitude": -74.0430879
   }
 ]

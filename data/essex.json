@@ -6,7 +6,9 @@
     "address": "100 Passaic Ave, Belleville, NJ 07109-1807",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8034429,
+    "longitude": -74.161566
   },
   {
     "id": "6b4b9088-881f-545a-a124-b17bc76a4c87",
@@ -15,7 +17,9 @@
     "address": "279 Washington Ave, Belleville, NJ 07109-3150",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7906475,
+    "longitude": -74.1521837
   },
   {
     "id": "50d931fc-9cb9-5e99-b570-cb015de1a275",
@@ -24,7 +28,9 @@
     "address": "527 Belleville Ave, Belleville, NJ 07109-1307",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7934755,
+    "longitude": -74.1718807
   },
   {
     "id": "63789821-4489-5b36-aeb6-0fcfde33d5ad",
@@ -33,7 +39,9 @@
     "address": "230 Joralemon St, Belleville, NJ 07109-3210",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7952109,
+    "longitude": -74.1557722
   },
   {
     "id": "2c92ee31-429d-5b72-a26c-6f0483cc9732",
@@ -42,7 +50,9 @@
     "address": "30 Magnolia Street, Belleville, NJ 07109-3210",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7820276,
+    "longitude": -74.1803615
   },
   {
     "id": "9d6a4e66-5748-5c98-bc69-766a0df0a379",
@@ -51,7 +61,9 @@
     "address": "149 Adelaide St, Belleville, NJ 07109-2207",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8026164,
+    "longitude": -74.15593
   },
   {
     "id": "d904c9ba-c448-5e15-b04b-006dedfc3088",
@@ -60,7 +72,9 @@
     "address": "20 Passaic Ave, Belleville, NJ 07109-1864",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8008705,
+    "longitude": -74.1650389
   },
   {
     "id": "b78c4ac1-2717-5a40-9d5a-f40c8db4e05f",
@@ -69,7 +83,9 @@
     "address": "183 Union Ave, Belleville, NJ 07109-1628",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7916611,
+    "longitude": -74.1580494
   },
   {
     "id": "3ee53f1c-ff07-5a4e-b7cd-2f619c02feab",
@@ -78,7 +94,9 @@
     "address": "301 Ralph St, Belleville, NJ 07109-3309",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7978845,
+    "longitude": -74.1434711
   },
   {
     "id": "1547c55d-9f43-5805-8b4f-c2955db7939c",
@@ -87,7 +105,9 @@
     "address": "229 Main Street, Belleville, NJ 07109",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.789456,
+    "longitude": -74.1476912
   },
   {
     "id": "385278a3-6f96-584f-ba53-a43710fb35fc",
@@ -96,7 +116,9 @@
     "address": "351 Bloomfield Ave, Bloomfield, NJ 07003-4804",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7860347,
+    "longitude": -74.1931279
   },
   {
     "id": "9b19be87-f406-587d-a84c-f64d09c2dbec",
@@ -105,7 +127,9 @@
     "address": "160 Broad Street, Bloomfield, NJ 07003-2628",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7992647,
+    "longitude": -74.1977116
   },
   {
     "id": "13c6f53f-9fbe-5f7f-a727-1ddfa0294e15",
@@ -114,7 +138,9 @@
     "address": "60 Huck Road, Bloomfield, NJ 07003-4144",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8245324,
+    "longitude": -74.1836387
   },
   {
     "id": "27c6a720-f083-5411-8774-ec269cfb2e64",
@@ -123,7 +149,9 @@
     "address": "1230 Broad Street, Bloomfield, NJ 07003-3031",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8328494,
+    "longitude": -74.1822994
   },
   {
     "id": "96592323-15a6-5d39-a84f-c0a1fee2a05b",
@@ -132,7 +160,9 @@
     "address": "158 Grove Street, Bloomfield, NJ 07003-5650",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7782264,
+    "longitude": -74.1904094
   },
   {
     "id": "1ee8ba5e-0862-5216-937c-105ee410a535",
@@ -141,7 +171,9 @@
     "address": "465 Broughton Ave, Bloomfield, NJ 07003-4232",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.824467,
+    "longitude": -74.1781437
   },
   {
     "id": "8d5f8a07-2e91-5aa1-a239-b3bdcec7ad9a",
@@ -150,7 +182,9 @@
     "address": "376 Berkeley Avenue, Bloomfield, NJ 07003-5036",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7933262,
+    "longitude": -74.1862311
   },
   {
     "id": "4125afd0-9d8d-58c4-a931-a786bd08643f",
@@ -159,7 +193,9 @@
     "address": "85 Curtis Street, Bloomfield, NJ 07003-3875",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8072864,
+    "longitude": -74.1869576
   },
   {
     "id": "0d384716-3cd4-5299-92f5-622158661019",
@@ -168,7 +204,9 @@
     "address": "150 Garrabrant Avenue, Bloomfield, NJ 07003",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8395773,
+    "longitude": -74.1721876
   },
   {
     "id": "8a68ebcd-2311-522f-92c4-3f9a1444302c",
@@ -177,7 +215,9 @@
     "address": "280 Davey Street, Bloomfield, NJ 07003",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8054343,
+    "longitude": -74.1822404
   },
   {
     "id": "b836c19f-4a33-5eb3-95c1-234b927433c5",
@@ -186,7 +226,9 @@
     "address": "71 Prospect Street, Bloomfield, NJ 07003-3223",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7834393,
+    "longitude": -74.2045563
   },
   {
     "id": "be2f45d6-d727-5915-b2be-57a52107345a",
@@ -195,7 +237,9 @@
     "address": "36 Academy Rd, Caldwell, NJ 07006",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8428775,
+    "longitude": -74.2841719
   },
   {
     "id": "870b71da-426d-5719-8402-e80c1611061a",
@@ -204,7 +248,9 @@
     "address": "104 Gray Street, West Caldwell, NJ 07006",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8499081,
+    "longitude": -74.285472
   },
   {
     "id": "dcad91d2-a393-5de2-8eba-ad8e91ec3fd7",
@@ -213,7 +259,9 @@
     "address": "265 Westville Ave, West Caldwell, NJ 07006",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.842354,
+    "longitude": -74.2967831
   },
   {
     "id": "7b211c93-ea80-5873-bfbe-ec1d76d97f24",
@@ -222,7 +270,9 @@
     "address": "85 Prospect St, West Caldwell, NJ 07006",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8404058,
+    "longitude": -74.2883523
   },
   {
     "id": "5617b082-dd5a-543e-9db2-ae8f9181745c",
@@ -231,7 +281,9 @@
     "address": "18 Crane St, Caldwell, NJ 07006",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.837595,
+    "longitude": -74.270219
   },
   {
     "id": "9a354361-3d25-5644-a65c-7230490d64bf",
@@ -240,7 +292,9 @@
     "address": "201 Central Ave, West Caldwell, NJ 07006",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8529715,
+    "longitude": -74.2769053
   },
   {
     "id": "2dabd88b-7a4b-510e-82ef-637a20da64cb",
@@ -249,7 +303,9 @@
     "address": "71 Orton Rd, West Caldwell, NJ 07006",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8366138,
+    "longitude": -74.3029065
   },
   {
     "id": "0178708e-51d5-56f6-b1af-e062516ea0a0",
@@ -258,7 +314,9 @@
     "address": "90 Rugby Road, Cedar Grove, NJ 07009",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8514083,
+    "longitude": -74.2229906
   },
   {
     "id": "3a30e17e-2049-50dd-a843-67e665318139",
@@ -267,7 +325,9 @@
     "address": "500 Ridge Road, Cedar Grove, NJ 07009",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.853492,
+    "longitude": -74.218682
   },
   {
     "id": "437c8a73-8212-5c10-84f7-67b96b4ca74b",
@@ -276,7 +336,9 @@
     "address": "122 Stevens Avenue, Cedar Grove, NJ 07009-1147",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8722604,
+    "longitude": -74.2334827
   },
   {
     "id": "45a212b8-a892-5ad7-a8f7-b4e5d2b73b56",
@@ -285,7 +347,9 @@
     "address": "116 Harper Terrace, Cedar Grove, NJ 07009",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8404085,
+    "longitude": -74.2327605
   },
   {
     "id": "121f46f6-6390-568c-96b8-ec58313573a7",
@@ -294,7 +358,9 @@
     "address": "490 William Street, William Street, East Orange, NJ 07017",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.766915,
+    "longitude": -74.214673
   },
   {
     "id": "78f7f6f2-2db4-571a-858e-edd32620ddff",
@@ -303,16 +369,9 @@
     "address": "500 South Clinton Street, East Orange, NJ 07018",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "f08d4cce-170e-51b8-bebc-1f55ed70f83a",
-    "name": "Cicely L. Tyson Community Elementary School",
-    "type": "School",
-    "address": "45 North Arlington Street, East Orange, NJ 07017",
-    "county": "Essex",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7492784,
+    "longitude": -74.2249503
   },
   {
     "id": "e3f80edb-6017-5a62-8db1-5a89085f200e",
@@ -321,7 +380,9 @@
     "address": "35 Winans Street, East Orange, NJ 07017",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7637043,
+    "longitude": -74.211356
   },
   {
     "id": "293bf8a8-f3f4-567d-8e7b-54d1937a3fc1",
@@ -330,7 +391,9 @@
     "address": "120 Central Ave, East Orange, NJ 07018-3939",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7526194,
+    "longitude": -74.2071806
   },
   {
     "id": "2d493126-a668-5f57-afc6-98e61e4849f3",
@@ -339,7 +402,9 @@
     "address": "344 Prospect Street, East Orange, NJ 07017",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7754821,
+    "longitude": -74.207342
   },
   {
     "id": "80dc932d-aa08-5a41-8862-08005bd99dde",
@@ -348,7 +413,9 @@
     "address": "129 Renshaw Avenue, East Orange, NJ 07017-3308",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7767826,
+    "longitude": -74.203553
   },
   {
     "id": "2d29b3c2-cc68-5073-bbef-9ed6a923e09c",
@@ -357,7 +424,9 @@
     "address": "330 Central Ave, East Orange, NJ 07018-2802",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7558779,
+    "longitude": -74.2153844
   },
   {
     "id": "e5904686-5dff-5d4c-a5f9-059676c71df7",
@@ -366,7 +435,9 @@
     "address": "180 Lincoln Street, East Orange, NJ 07017-2503",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7709481,
+    "longitude": -74.2104466
   },
   {
     "id": "4ca4619a-e860-5960-a906-586ea824f065",
@@ -375,7 +446,9 @@
     "address": "98 Greenwood Ave, East Orange, NJ 07017-5106",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7602851,
+    "longitude": -74.2003187
   },
   {
     "id": "85c45aed-e947-52a6-bebe-6604eb4ddaa3",
@@ -384,7 +457,9 @@
     "address": "106 Prospect Street, East Orange, NJ 07017-2203",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7694124,
+    "longitude": -74.2143756
   },
   {
     "id": "112f6da2-6e8f-5a58-adb0-959e2edf9670",
@@ -393,7 +468,9 @@
     "address": "116 Hamilton St, East Orange, NJ 07017-2912",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.772359,
+    "longitude": -74.2084741
   },
   {
     "id": "ff79cc4b-7658-5544-b563-dde7cfa95a67",
@@ -402,7 +479,9 @@
     "address": "160 Rhode Island Avenue, East Orange, NJ 07018-2438",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7526955,
+    "longitude": -74.2216005
   },
   {
     "id": "c7583adc-07d3-55ba-91ce-8c3c2cf43ba1",
@@ -411,7 +490,9 @@
     "address": "1 Grove Place, East Orange, NJ 07017-4706",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7595748,
+    "longitude": -74.2010275
   },
   {
     "id": "7a33ad15-ac89-5ca6-9091-324d1cbc34db",
@@ -420,7 +501,9 @@
     "address": "116 Hamilton St, East Orange, NJ 07017-2912",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.772359,
+    "longitude": -74.2084741
   },
   {
     "id": "da6e95e5-372e-5041-9f7b-1ca75ddd16b6",
@@ -429,7 +512,9 @@
     "address": "404 North Grove Street, East Orange, NJ 07017-4518",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.76876,
+    "longitude": -74.199809
   },
   {
     "id": "c75821c7-8351-5d86-b5a5-4d1bf60354a0",
@@ -438,7 +523,9 @@
     "address": "116 Hamilton St, East Orange, NJ 07017-2912",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7720225,
+    "longitude": -74.2081267
   },
   {
     "id": "f2cd762b-d164-5896-a405-af770e5e4bbe",
@@ -447,7 +534,9 @@
     "address": "340 Prospect Street, East Orange, NJ 07017",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7764178,
+    "longitude": -74.2075268
   },
   {
     "id": "d7fa5cee-0058-5658-9152-49b212517c27",
@@ -456,7 +545,9 @@
     "address": "215 Dodd St, East Orange, NJ 07017-2106",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7809009,
+    "longitude": -74.2112353
   },
   {
     "id": "e23b4cdb-4c14-5dee-8930-2fbace394aab",
@@ -465,7 +556,9 @@
     "address": "498-544 West Market St, Newark, NJ 07107-1218",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7515284,
+    "longitude": -74.1951046
   },
   {
     "id": "e776aede-37df-543d-bdff-a9606fdf4e6f",
@@ -474,7 +567,9 @@
     "address": "91 West Market St, Newark, NJ 07103",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7398828,
+    "longitude": -74.1822852
   },
   {
     "id": "7b24ece5-d725-55af-9826-f14aad486cc0",
@@ -483,7 +578,9 @@
     "address": "620 Passaic Ave, West Caldwell, NJ 07006",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.852894,
+    "longitude": -74.293524
   },
   {
     "id": "ff4cfbe6-dd3e-50bd-bf37-59f84174acf3",
@@ -492,7 +589,9 @@
     "address": "102 Hawthorne Rd, Essex Fells, NJ 07021-1120",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8298043,
+    "longitude": -74.2795905
   },
   {
     "id": "264903ec-790f-5cdb-978b-bbb86c0a798f",
@@ -501,7 +600,9 @@
     "address": "369 Passaic Avenue, Fairfield, NJ 07004",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8871531,
+    "longitude": -74.2729487
   },
   {
     "id": "e34c78d3-ba66-534b-ad25-11f38eb7e9cc",
@@ -510,7 +611,9 @@
     "address": "369 Passaic Avenue, Fairfield, NJ 07004",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8871531,
+    "longitude": -74.2729487
   },
   {
     "id": "5336de5e-6ab8-55a6-a0f2-6f29037f4096",
@@ -519,7 +622,9 @@
     "address": "369 Passaic Avenue, Fairfield, NJ 07004",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8871531,
+    "longitude": -74.2729487
   },
   {
     "id": "be44fcb2-173b-519e-b290-6940415cb46a",
@@ -528,7 +633,9 @@
     "address": "15 Knoll Road, Fairfield, NJ 07004",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8821656,
+    "longitude": -74.31626
   },
   {
     "id": "6449dd10-281e-51e8-8029-cc3feea46393",
@@ -537,7 +644,9 @@
     "address": "233 Fairfield Road, Fairfield, NJ 07004",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8794624,
+    "longitude": -74.2907283
   },
   {
     "id": "0cd744ca-0f88-5dfd-950b-6f837f4f8783",
@@ -546,7 +655,9 @@
     "address": "180 Hillside Ave, Glen Ridge, NJ 07028",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8003305,
+    "longitude": -74.2019032
   },
   {
     "id": "393943e5-509b-592e-af67-f5e163503cf0",
@@ -555,7 +666,9 @@
     "address": "287 Forest Ave, Glen Ridge, NJ 07028-1818",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8190836,
+    "longitude": -74.1962829
   },
   {
     "id": "3340eb0b-bd55-5271-a9eb-67f7449a50e1",
@@ -564,7 +677,9 @@
     "address": "200 Ridgewood Ave, Glen Ridge, NJ 07028-1228",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.798628,
+    "longitude": -74.206438
   },
   {
     "id": "d44d1582-351a-58ef-8906-047d35366fcc",
@@ -573,7 +688,9 @@
     "address": "205 Linden Ave, Glen Ridge, NJ 07028",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.792879,
+    "longitude": -74.210193
   },
   {
     "id": "d49f4ffc-03a6-5bb1-8f33-0fc2c6f1a640",
@@ -582,7 +699,9 @@
     "address": "235 Ridgewood Ave, Glen Ridge, NJ 07028-1019",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.800768,
+    "longitude": -74.20376
   },
   {
     "id": "8845fa62-5dfd-5aae-90d8-7c74cd8fa40c",
@@ -591,7 +710,9 @@
     "address": "97 Augusta Street, Irvington, NJ 07111",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7224742,
+    "longitude": -74.2289215
   },
   {
     "id": "95d10683-c12d-5657-97fb-aa459a63377e",
@@ -600,7 +721,9 @@
     "address": "787 Grove Street, Irvington, NJ 07111-3605",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7315657,
+    "longitude": -74.2184448
   },
   {
     "id": "bbb8f8d2-7882-54ab-98c2-b31a8000a63a",
@@ -609,7 +732,9 @@
     "address": "844 Chancellor Avenue, Irvington, NJ 07111",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7179172,
+    "longitude": -74.2437801
   },
   {
     "id": "8b9b5dd7-044d-5044-8f33-af3b3ee60537",
@@ -618,7 +743,9 @@
     "address": "1324 Springfield Avenue, Irvington, NJ 07111-1916",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7244133,
+    "longitude": -74.2437376
   },
   {
     "id": "2fa522d4-0915-51a4-b136-b3530401eaf1",
@@ -627,7 +754,9 @@
     "address": "602 Grove Street, Irvington, NJ 07111-4531",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7370878,
+    "longitude": -74.214648
   },
   {
     "id": "b9513128-a513-55e6-87d9-e49b31d23292",
@@ -636,7 +765,9 @@
     "address": "1253 Clinton Avenue, Irvington, NJ 07111-2437",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7284379,
+    "longitude": -74.2330278
   },
   {
     "id": "bd890923-9ae9-5be1-adab-d1a4096e5696",
@@ -645,7 +776,9 @@
     "address": "173 Madison Avenue, Irvington, NJ 07111",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7321453,
+    "longitude": -74.2283846
   },
   {
     "id": "9b0efc50-2f91-5c35-b877-a7ebf8bbdc6c",
@@ -654,7 +787,9 @@
     "address": "54 Mt Vernon Avenue, Irvington, NJ 07111",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7170483,
+    "longitude": -74.2334201
   },
   {
     "id": "15be69b6-df53-59e5-8ced-5e9d34ce926d",
@@ -663,7 +798,9 @@
     "address": "141-181 Montgomery Avenue, Irvington, NJ 07111",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7262626,
+    "longitude": -74.2167637
   },
   {
     "id": "e885a62f-2754-5961-b070-9d71dd48bee7",
@@ -672,7 +809,9 @@
     "address": "427 Union Avenue, Irvington, NJ 07111-2811",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7128369,
+    "longitude": -74.2410034
   },
   {
     "id": "7296ae6b-9f36-5f91-924a-691a68e6d01e",
@@ -681,7 +820,9 @@
     "address": "1 University Place, Irvington, NJ 07111",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7366975,
+    "longitude": -74.224131
   },
   {
     "id": "6d6a9e44-1981-5541-8d80-ae60e1a61f7b",
@@ -690,7 +831,9 @@
     "address": "255 Myrtle Avenue, Irvington, NJ 07111-2621",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.73435,
+    "longitude": -74.222112
   },
   {
     "id": "a64f7d15-980b-50fd-8fe7-bec138749da0",
@@ -699,7 +842,9 @@
     "address": "25 Byron Place, Livingston, NJ 07039",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7786381,
+    "longitude": -74.3316041
   },
   {
     "id": "3cb811f2-d52e-5e06-bdcf-3df934c0d527",
@@ -708,7 +853,9 @@
     "address": "67 Martin Rd, Livingston, NJ 07039-4631",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.778401,
+    "longitude": -74.312293
   },
   {
     "id": "eda1c9a6-3a78-5211-ab5f-faa1a282c94c",
@@ -717,7 +864,9 @@
     "address": "148 North Livingston Ave, Livingston, NJ 07039-4631",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.804561,
+    "longitude": -74.314499
   },
   {
     "id": "b12b5ae2-9c30-5f3d-9ea2-19b6064f16e3",
@@ -726,7 +875,9 @@
     "address": "20 Foxcroft Dr, Livingston, NJ 07039-2614",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.787894,
+    "longitude": -74.3406885
   },
   {
     "id": "aaa62b8f-ee7d-5de7-b407-08f04547d00d",
@@ -735,7 +886,9 @@
     "address": "98 Belmont Drive, Livingston, NJ 07039",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.789333,
+    "longitude": -74.325793
   },
   {
     "id": "f08cdbf1-4383-57a5-91c8-aa96eba25475",
@@ -744,7 +897,9 @@
     "address": "30 Robert Harp Drive, Livingston, NJ 07039",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7822783,
+    "longitude": -74.3177139
   },
   {
     "id": "2d57d5ae-6ab4-5257-ae12-6df13e471c19",
@@ -753,7 +908,9 @@
     "address": "11 Broadlawn Dr, Livingston, NJ 07039-3117",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7962657,
+    "longitude": -74.3039482
   },
   {
     "id": "c532754f-88e9-5f51-955a-050bbe984333",
@@ -762,7 +919,9 @@
     "address": "11 Broadlawn Dr, Livingston, NJ 07039-3117",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7963049,
+    "longitude": -74.3039666
   },
   {
     "id": "3fb3fa9b-d74f-5800-b9b8-0c6d24c2072e",
@@ -771,7 +930,9 @@
     "address": "31 Blackstone Dr, Livingston, NJ 07039-1801",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7987801,
+    "longitude": -74.3332724
   },
   {
     "id": "7411cb06-1c82-5833-88a1-5ef071f9b89e",
@@ -780,7 +941,9 @@
     "address": "26 Troy Lane, Short Hills, NJ 07078",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.751864,
+    "longitude": -74.314008
   },
   {
     "id": "e4dda1dc-6f8b-577e-8af6-db42a85e7750",
@@ -789,7 +952,9 @@
     "address": "325 Taylor Road South, Short Hills, NJ 07078",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7242585,
+    "longitude": -74.3325905
   },
   {
     "id": "401005f1-e23c-5bff-aa03-14b5ef4b4ba6",
@@ -798,7 +963,9 @@
     "address": "400 Hartshorn Drive, Short Hills, NJ 07078",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.732602,
+    "longitude": -74.341264
   },
   {
     "id": "906b298a-3499-5950-9531-c035a397c128",
@@ -807,7 +974,9 @@
     "address": "462 Millburn Ave, Millburn, NJ 07041-1210",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7203348,
+    "longitude": -74.3161357
   },
   {
     "id": "35f6ae96-fa43-5a6c-8cc8-a0f9106b9d23",
@@ -816,7 +985,9 @@
     "address": "25 Old Short Hills Rd, Millburn, NJ 07041",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7270747,
+    "longitude": -74.3102031
   },
   {
     "id": "f5c60007-3443-5770-8d0b-7ae445afe05a",
@@ -825,7 +996,9 @@
     "address": "2 Southern Slope Drive, Millburn, NJ 07041",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7205093,
+    "longitude": -74.299046
   },
   {
     "id": "05ac0ba9-6c2a-5c61-b679-dc2c168e2e6b",
@@ -834,7 +1007,9 @@
     "address": "71 Spring Street, Millburn, NJ 07041",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.720545,
+    "longitude": -74.309873
   },
   {
     "id": "01942f94-876c-5c1a-b332-234ddb13d2d3",
@@ -843,7 +1018,9 @@
     "address": "55 Myrtle Ave, Millburn, NJ 07041",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.727764,
+    "longitude": -74.290104
   },
   {
     "id": "df2c5218-9906-5318-9737-bc51802c8336",
@@ -852,7 +1029,9 @@
     "address": "87 Mt Hebron Rd, Upper Montclair, NJ 07042",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.85179,
+    "longitude": -74.1942994
   },
   {
     "id": "9b98a2b1-53f5-53ae-9af3-d0dbf34f2af7",
@@ -861,7 +1040,9 @@
     "address": "173 Bellevue Ave, Upper Montclair, NJ 07042",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.840846,
+    "longitude": -74.2035871
   },
   {
     "id": "48b65410-ed1e-5376-8564-49e3bb0a85cd",
@@ -870,7 +1051,9 @@
     "address": "55 Washington Street, Montclair, NJ 07042",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8082934,
+    "longitude": -74.2137628
   },
   {
     "id": "8d744db8-97de-572c-87fd-9d7f8c09b742",
@@ -879,7 +1062,9 @@
     "address": "20 Edgemont Rd, Montclair, NJ 07042-2305",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8303796,
+    "longitude": -74.2147835
   },
   {
     "id": "56455cf4-862d-52fc-813f-ec825ac4c573",
@@ -888,7 +1073,9 @@
     "address": "25 Maple Ave, Montclair, NJ 07042-4513",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8058982,
+    "longitude": -74.2104959
   },
   {
     "id": "2012ab8a-eb48-5082-9746-d024ddfd17c3",
@@ -897,7 +1084,9 @@
     "address": "54 Orange Rd, Montclair, NJ 07042-2110",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8160402,
+    "longitude": -74.223641
   },
   {
     "id": "ac7329a0-0b1a-56c6-9e2b-357da770e8a4",
@@ -906,7 +1095,9 @@
     "address": "100 Chestnut St, Montclair, NJ 07042-2908",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8232435,
+    "longitude": -74.2128353
   },
   {
     "id": "1da477a7-e398-5d2a-8059-29a1ade650e7",
@@ -915,7 +1106,9 @@
     "address": "32 Cedar Ave, Montclair, NJ 07042-3110",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7994227,
+    "longitude": -74.221793
   },
   {
     "id": "a97d629f-4b90-5d0d-8dbc-a4705f0caa51",
@@ -924,7 +1117,9 @@
     "address": "603 Grove St, Upper Montclair, NJ 07042",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8446831,
+    "longitude": -74.1942991
   },
   {
     "id": "1d123759-5f27-5b5e-b91c-c77cf6d548d2",
@@ -933,7 +1128,9 @@
     "address": "176 North Fullerton Avenue, Montclair, NJ 07042",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8208849,
+    "longitude": -74.2122294
   },
   {
     "id": "aaa12971-c7dd-5f60-9891-98ff16eb4eb9",
@@ -942,7 +1139,9 @@
     "address": "14 Garden St, Montclair, NJ 07042-4116",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8277749,
+    "longitude": -74.2050141
   },
   {
     "id": "89a16a2e-8372-5d91-b644-0b05b5a474c6",
@@ -951,7 +1150,9 @@
     "address": "209 Abington Avenue, Newark, NJ 07107",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7698154,
+    "longitude": -74.1805164
   },
   {
     "id": "3dcf6ad6-830c-5a0b-91ec-98cd8eae40fb",
@@ -960,7 +1161,9 @@
     "address": "74 Montgomery St, Newark, NJ 07103",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.730301,
+    "longitude": -74.186299
   },
   {
     "id": "8c69c46a-a27f-59f8-9a18-e6ed84de6cbd",
@@ -969,7 +1172,9 @@
     "address": "30 Ann St, Newark, NJ 07105-3108",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.723425,
+    "longitude": -74.155125
   },
   {
     "id": "41f40936-98e6-51c6-92ee-4670938a60bc",
@@ -978,7 +1183,9 @@
     "address": "550 M L King Blvd, Newark, NJ 07102-1214",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7341573,
+    "longitude": -74.1800836
   },
   {
     "id": "0ea599ab-2422-5d38-9b88-c744c4ba6b1a",
@@ -987,7 +1194,9 @@
     "address": "219 Avon Ave, Newark, NJ 07108-2801",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.72569,
+    "longitude": -74.20076
   },
   {
     "id": "b0080602-384e-5a0e-8c20-ef21460e365b",
@@ -996,7 +1205,9 @@
     "address": "321 Bergen Street, Newark, NJ 07103",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7350627,
+    "longitude": -74.1949413
   },
   {
     "id": "9be13f33-e3ac-5168-a49c-823818fbfa30",
@@ -1005,7 +1216,9 @@
     "address": "90 Parker St, Newark, NJ 07104-1028",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7555917,
+    "longitude": -74.1796267
   },
   {
     "id": "bdcb9d71-e1df-5485-b24d-63c1ca075859",
@@ -1014,7 +1227,9 @@
     "address": "1 Belmont Runyon Way, Newark, NJ 07108-2406",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7177602,
+    "longitude": -74.1989366
   },
   {
     "id": "b77048a3-6ec3-5d9e-b979-d70ef20842d6",
@@ -1023,7 +1238,9 @@
     "address": "228 Ridge St, Newark, NJ 07104-1204",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7607341,
+    "longitude": -74.1759431
   },
   {
     "id": "c4d8d28b-ffa2-5a9c-b73f-7eb32878ed84",
@@ -1032,7 +1249,9 @@
     "address": "333 Clinton Pl, Newark, NJ 07112-1563",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.711794,
+    "longitude": -74.2159
   },
   {
     "id": "c81f28a9-c201-5ee3-9e20-4a276d6eb653",
@@ -1041,7 +1260,9 @@
     "address": "281 Camden St, Newark, NJ 07103-2635",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7356738,
+    "longitude": -74.19597
   },
   {
     "id": "aca1ba7e-0166-50e3-a624-23bc1ac12391",
@@ -1050,7 +1271,9 @@
     "address": "246 18TH Avenue, Newark, NJ 07108",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7293418,
+    "longitude": -74.19199
   },
   {
     "id": "e79c3fd1-26b6-568c-8a4a-1cf31b9de65c",
@@ -1059,16 +1282,9 @@
     "address": "321 Chancellor Ave, Newark, NJ 07112-1201",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "e43f9604-bd40-5b98-9611-d04003f223a1",
-    "name": "Dr. E. Alma Flagg School",
-    "type": "School",
-    "address": "150 Third St, Newark, NJ 07107",
-    "county": "Essex",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7092036,
+    "longitude": -74.2213855
   },
   {
     "id": "dac09a07-f95a-5280-aa29-224b9168fb5e",
@@ -1077,7 +1293,9 @@
     "address": "291 N 7TH St, Newark, NJ 07107-1799",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7597415,
+    "longitude": -74.187414
   },
   {
     "id": "084e27fc-1dc4-5518-aab0-4ca53ba832d8",
@@ -1086,7 +1304,9 @@
     "address": "279 Chancellor Avenue, Newark, NJ 07112",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.708741,
+    "longitude": -74.219863
   },
   {
     "id": "81bd4ac8-3c3c-5e40-882d-4e084c3e10fd",
@@ -1095,7 +1315,9 @@
     "address": "238 Van Buren St, Newark, NJ 07105-2512",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.723951,
+    "longitude": -74.15968
   },
   {
     "id": "088172f5-98c2-55d7-97ff-be5b6bec00db",
@@ -1104,7 +1326,9 @@
     "address": "104 Oliver Street, Newark, NJ 07105",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7253368,
+    "longitude": -74.1682983
   },
   {
     "id": "e35962fa-87cb-5d14-9a76-68f79ae08f4d",
@@ -1113,7 +1337,9 @@
     "address": "721 Summer Avenue, Newark, NJ 07104",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.776634,
+    "longitude": -74.162519
   },
   {
     "id": "db3410be-84b2-5eab-9e04-cea1b3fb0097",
@@ -1122,7 +1348,9 @@
     "address": "214 First Ave, Newark, NJ 07107-1802",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7669468,
+    "longitude": -74.1830495
   },
   {
     "id": "6524231c-4801-5109-819a-61d76f25954b",
@@ -1131,7 +1359,9 @@
     "address": "26 Speedway Ave, Newark, NJ 07106",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7437101,
+    "longitude": -74.2132525
   },
   {
     "id": "0a0b55f8-8430-5ad0-bbe0-2dd579d484e0",
@@ -1140,7 +1370,9 @@
     "address": "42 Park Ave, Newark, NJ 07104-1044",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7551864,
+    "longitude": -74.1749127
   },
   {
     "id": "e9b1e1e5-e767-5759-9db4-84cbc53a7d0b",
@@ -1149,7 +1381,9 @@
     "address": "333 Clinton Pl, Newark, NJ 07112-1563",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.711794,
+    "longitude": -74.2159
   },
   {
     "id": "cfab058c-dcb0-5b81-bf23-1865b26a69c3",
@@ -1158,7 +1392,9 @@
     "address": "388 Bergen St, Newark, NJ 07108",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.731652,
+    "longitude": -74.195902
   },
   {
     "id": "88e7a4bb-6f63-5070-b1ee-0f702c630dfc",
@@ -1167,7 +1403,9 @@
     "address": "504 S Tenth St, Newark, NJ 07103-1802",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7351235,
+    "longitude": -74.2022901
   },
   {
     "id": "093a22c2-f5e2-558a-a077-1b41787ee605",
@@ -1176,7 +1414,9 @@
     "address": "8 Hawkins St, Newark, NJ 07105-3918",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7311935,
+    "longitude": -74.1406083
   },
   {
     "id": "f22ae91b-7b8e-541f-9730-badf57963571",
@@ -1185,7 +1425,9 @@
     "address": "428 Hawthorne Ave, Newark, NJ 07108",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.718474,
+    "longitude": -74.211687
   },
   {
     "id": "e08c1684-6c58-557f-9c82-dcb541ea5c1f",
@@ -1194,7 +1436,9 @@
     "address": "366 East Kinney Street, Newark, NJ 07105",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7230675,
+    "longitude": -74.1593435
   },
   {
     "id": "709f395f-a36e-557d-8bad-238d5f8db3ff",
@@ -1203,7 +1447,9 @@
     "address": "107 Ivy Street, Newark, NJ 07106",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.737348,
+    "longitude": -74.238485
   },
   {
     "id": "aa7f84cb-92a6-52bf-88de-05dc2a88fa14",
@@ -1212,7 +1458,9 @@
     "address": "311 S Tenth St, Newark, NJ 07103-2114",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7422139,
+    "longitude": -74.2002814
   },
   {
     "id": "cc83ec54-0524-557d-80f2-90a0a523a891",
@@ -1221,7 +1469,9 @@
     "address": "205 Lafayette St, Newark, NJ 07105-1843",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7298484,
+    "longitude": -74.1642583
   },
   {
     "id": "1edd6ead-8c90-583a-afdd-00fba3518777",
@@ -1230,7 +1480,9 @@
     "address": "87 Richelieu Ter, Newark, NJ 07106-2419",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.743049,
+    "longitude": -74.2346307
   },
   {
     "id": "b5342048-f714-59ec-a118-f716cd6f9a80",
@@ -1239,7 +1491,9 @@
     "address": "66 Muhammad Ali Avenue, Newark, NJ 07108-2914",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7262081,
+    "longitude": -74.1879664
   },
   {
     "id": "9b6217e9-3f1e-5b18-8778-a550a2fe1630",
@@ -1248,7 +1502,9 @@
     "address": "663 Broadway, Newark, NJ 07104",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7725751,
+    "longitude": -74.1604364
   },
   {
     "id": "0d83f610-5d2d-5a6e-acc7-e1c7b157eb24",
@@ -1257,7 +1513,9 @@
     "address": "80 Johnson Ave, Newark, NJ 07108",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7194581,
+    "longitude": -74.191749
   },
   {
     "id": "2a72bf5a-7767-5a5d-9222-5b4f05c3680f",
@@ -1266,7 +1524,9 @@
     "address": "1 Colonnade Pl, Newark, NJ 07104-1810",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.749981,
+    "longitude": -74.177831
   },
   {
     "id": "db9a9824-51cd-5cd3-9e74-2c4c22c846d7",
@@ -1275,7 +1535,9 @@
     "address": "186 14th Avenue, Newark, NJ 07103",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.738655,
+    "longitude": -74.199513
   },
   {
     "id": "0e55ea92-a1a2-5524-a1f9-ba2fdc146923",
@@ -1284,7 +1546,9 @@
     "address": "142 Mount Vernon Pl, Newark, NJ 07106-3303",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7371597,
+    "longitude": -74.2434468
   },
   {
     "id": "2e51c8b5-3727-56ee-a481-9f84c2558b0b",
@@ -1293,7 +1557,9 @@
     "address": "334 Lyons Ave, Newark, NJ 07112-1441",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7125692,
+    "longitude": -74.2185826
   },
   {
     "id": "3e563107-b77a-57f2-8976-1108f5dc34ed",
@@ -1302,7 +1568,9 @@
     "address": "74 Hartford St, Newark, NJ 07103",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.744287,
+    "longitude": -74.186126
   },
   {
     "id": "65696640-fa5e-501d-8946-90bcce718327",
@@ -1311,7 +1579,9 @@
     "address": "150 Newton St, Newark, NJ 07103",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7375651,
+    "longitude": -74.1897028
   },
   {
     "id": "31562e39-8ca4-50f3-bb30-05abdbdd3ec5",
@@ -1320,7 +1590,9 @@
     "address": "746 Sanford Avenue, Newark, NJ 07106",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.736493,
+    "longitude": -74.236436
   },
   {
     "id": "637e4433-dbb5-5a33-9093-8b3faeca3810",
@@ -1329,7 +1601,9 @@
     "address": "155 Jefferson Street, Newark, NJ 07105",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.727859,
+    "longitude": -74.1631206
   },
   {
     "id": "259ce851-5bfe-5cca-b0f5-f8fd585a29b5",
@@ -1338,7 +1612,9 @@
     "address": "239 Woodside Avenue, Newark, NJ 07104",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7744887,
+    "longitude": -74.1648606
   },
   {
     "id": "8cc9ee05-a4cf-5f33-9425-2cd48d958e8e",
@@ -1347,7 +1623,9 @@
     "address": "24 Crane Street, Newark, NJ 07104",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7520378,
+    "longitude": -74.1730864
   },
   {
     "id": "b771d54f-6a47-523d-b496-09c15a2550f9",
@@ -1356,7 +1634,9 @@
     "address": "301 West Kinney St, Newark, NJ 07103-2927",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7329643,
+    "longitude": -74.1932792
   },
   {
     "id": "1e0f7588-a15d-5e95-aaf4-eff90ef114db",
@@ -1365,7 +1645,9 @@
     "address": "86 Oliver St, Newark, NJ 07105",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7255564,
+    "longitude": -74.1688485
   },
   {
     "id": "85bcb335-5f89-5ab4-ae17-49f085a4532a",
@@ -1374,7 +1656,9 @@
     "address": "120 Manchester Place, Newark, NJ 07104",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.783502,
+    "longitude": -74.170137
   },
   {
     "id": "39a43b43-1bf3-581c-ba99-3ff76785f1e7",
@@ -1383,7 +1667,9 @@
     "address": "433 Peshine Avenue, Newark, NJ 07112",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7123357,
+    "longitude": -74.2023661
   },
   {
     "id": "9b5952a0-50c7-5400-8014-a9ea8e5eab14",
@@ -1392,7 +1678,9 @@
     "address": "21 Quitman St, Newark, NJ 07103-4105",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.729659,
+    "longitude": -74.183656
   },
   {
     "id": "9b73d0c5-82f8-50d9-9eaa-d30a342f96f8",
@@ -1401,7 +1689,9 @@
     "address": "345 Broadway, Newark, NJ 07104",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7620799,
+    "longitude": -74.167614
   },
   {
     "id": "72661d35-8919-5888-a527-256aec105a37",
@@ -1410,7 +1700,9 @@
     "address": "735 Ridge St, Newark, NJ 07104-2323",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.778135,
+    "longitude": -74.166654
   },
   {
     "id": "0adc4df1-886a-5d21-a673-70a20f907bfb",
@@ -1419,16 +1711,9 @@
     "address": "257 Summer Ave, Newark, NJ 07104-2717",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "9e1ec33b-6786-51ba-b253-04c161506dd7",
-    "name": "Salome Ureña Elementary School",
-    "type": "School",
-    "address": "284 First Avenue, Newark, NJ 07107",
-    "county": "Essex",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.760554,
+    "longitude": -74.170806
   },
   {
     "id": "29c81776-135d-5ffe-a382-0f1dd25c631c",
@@ -1437,7 +1722,9 @@
     "address": "260 Norfolk Street, Newark, NJ 07103",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7398235,
+    "longitude": -74.1854226
   },
   {
     "id": "23f40f27-88ee-5502-998b-84f6e2d6dec7",
@@ -1446,16 +1733,9 @@
     "address": "150 Newton Street, Newark, NJ 07103-2639",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "8dcf1f92-3c33-5668-b613-a3051a46a06f",
-    "name": "South 17th Street School",
-    "type": "School",
-    "address": "619 S Seventeenth St, Newark, NJ 07103-1159",
-    "county": "Essex",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7375651,
+    "longitude": -74.1897028
   },
   {
     "id": "511ae5b6-6042-5b85-90e8-2034c79524ad",
@@ -1464,7 +1744,9 @@
     "address": "44-48 Hermon Street, Newark, NJ 07105",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7228988,
+    "longitude": -74.1718274
   },
   {
     "id": "884c7c4a-d590-5a5a-b95c-b4a6ae66bafc",
@@ -1473,7 +1755,9 @@
     "address": "701 South Orange Avenue, Newark, NJ 07106-2209",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.745154,
+    "longitude": -74.21789
   },
   {
     "id": "9ea875da-1041-5683-ad84-b244c272441e",
@@ -1482,7 +1766,9 @@
     "address": "307 Sussex Ave, Newark, NJ 07107-3133",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.750331,
+    "longitude": -74.189536
   },
   {
     "id": "095ebf5e-422e-514f-bf98-1729454c45c1",
@@ -1491,7 +1777,9 @@
     "address": "223 Broadway, Newark, NJ 07104",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.758653,
+    "longitude": -74.1693387
   },
   {
     "id": "79985570-8995-534a-82bb-0ee98eadd74e",
@@ -1500,7 +1788,9 @@
     "address": "359 Thirteenth Ave, Newark, NJ 07103-2125",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7432215,
+    "longitude": -74.1977818
   },
   {
     "id": "3b28f190-8168-5f1f-b019-39ab9f61aebb",
@@ -1509,7 +1799,9 @@
     "address": "55 Clinton Pl, Newark, NJ 07108-1221",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7154855,
+    "longitude": -74.2129673
   },
   {
     "id": "138acb8f-86fb-5133-a0c0-97fb365ec2e2",
@@ -1518,7 +1810,9 @@
     "address": "279 Chancellor Ave, Newark, NJ 07112-1201",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.708741,
+    "longitude": -74.219863
   },
   {
     "id": "1ef3a691-d075-5d9f-b48e-6a4e69abd13e",
@@ -1527,7 +1821,9 @@
     "address": "403 South Orange Avenue, Newark, NJ 07103",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7411092,
+    "longitude": -74.2028582
   },
   {
     "id": "ff6bcd51-6a51-5303-a097-dec7958be90f",
@@ -1536,7 +1832,9 @@
     "address": "19 Wilson Ave, Newark, NJ 07105",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7265811,
+    "longitude": -74.1533785
   },
   {
     "id": "bf100b60-2c61-5e00-88c9-7e0d0fb3f477",
@@ -1545,7 +1843,9 @@
     "address": "132 Gould Ave, N Caldwell, NJ 07006",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8608838,
+    "longitude": -74.2617548
   },
   {
     "id": "121f2e6f-9f86-5f44-8d49-bfac0a696398",
@@ -1554,7 +1854,9 @@
     "address": "35 Hamilton Dr East, N Caldwell, NJ 07006",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8742925,
+    "longitude": -74.2534545
   },
   {
     "id": "5b3d3cc6-dee5-54dc-841b-043e0b3cdbb1",
@@ -1563,7 +1865,9 @@
     "address": "325 Franklin Ave, Nutley, NJ 07110-2735",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8266954,
+    "longitude": -74.1512701
   },
   {
     "id": "5237f80f-edcb-5870-a5aa-b93e5584fe83",
@@ -1572,7 +1876,9 @@
     "address": "301 Harrison St, Nutley, NJ 07110-2614",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.813792,
+    "longitude": -74.170073
   },
   {
     "id": "f8f42d6e-8b9d-5cc9-b23e-4a6961e2e8e2",
@@ -1581,7 +1887,9 @@
     "address": "777 Bloomfield Avenue, Nutley, NJ 07110-1023",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8320312,
+    "longitude": -74.157929
   },
   {
     "id": "a8f55ed5-8cbd-51e2-a9d5-edbb2779184c",
@@ -1590,7 +1898,9 @@
     "address": "300 Franklin Ave, Nutley, NJ 07110-2734",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8174061,
+    "longitude": -74.1603537
   },
   {
     "id": "244d53cb-4af0-565d-8034-250e081ef37e",
@@ -1599,7 +1909,9 @@
     "address": "379 Bloomfield Ave, Nutley, NJ 07110-2252",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8208099,
+    "longitude": -74.1672814
   },
   {
     "id": "db25114a-41fc-5f6d-8b9c-fe06adc13bab",
@@ -1608,7 +1920,9 @@
     "address": "59 S Spring Garden Ave, Nutley, NJ 07110-1527",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.828423,
+    "longitude": -74.16288
   },
   {
     "id": "f0f62afe-554e-52b5-bfe3-378d3f4ac0ac",
@@ -1617,7 +1931,9 @@
     "address": "155 Washington Ave, Nutley, NJ 07110-3501",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.80978,
+    "longitude": -74.1462012
   },
   {
     "id": "9eb3c3dd-20de-5491-8290-7fae9bd07b2f",
@@ -1626,7 +1942,9 @@
     "address": "20 Yantacaw Place, Nutley, NJ 07110",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8245014,
+    "longitude": -74.1507691
   },
   {
     "id": "286e7e67-e2d8-5b01-9a69-8c408f60013c",
@@ -1635,7 +1953,9 @@
     "address": "33 Cleveland Street, Orange, NJ 07050",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.773609,
+    "longitude": -74.2316234
   },
   {
     "id": "a3d5ab81-31bd-5060-8a88-67a722d53bec",
@@ -1644,7 +1964,9 @@
     "address": "355 Cleveland St, Orange, NJ 07050-1916",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7820674,
+    "longitude": -74.2252295
   },
   {
     "id": "52e4b6e2-fdf1-594b-aa60-5e75103b79af",
@@ -1653,7 +1975,9 @@
     "address": "651 Forest St, Orange, NJ 07050",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7664448,
+    "longitude": -74.2487454
   },
   {
     "id": "54b75ca2-1d95-5fa7-9b23-372e2cd82898",
@@ -1662,7 +1986,9 @@
     "address": "421 Heywood Ave, Orange, NJ 07050-2006",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7577504,
+    "longitude": -74.246638
   },
   {
     "id": "6f281181-f3fa-53f1-b263-e71f7b171838",
@@ -1671,7 +1997,9 @@
     "address": "216 Lincoln Ave, Orange, NJ 07050-2605",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7680813,
+    "longitude": -74.2363903
   },
   {
     "id": "09b31eb7-e5fd-52b0-b320-ed8ac17647ad",
@@ -1680,7 +2008,9 @@
     "address": "135 Oakwood Ave, Orange, NJ 07050-3909",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7652831,
+    "longitude": -74.2256206
   },
   {
     "id": "5ba49f50-f1e5-57a6-bf6e-9727e591763d",
@@ -1689,7 +2019,9 @@
     "address": "397 Park Avenue, Orange, NJ 07050",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7795252,
+    "longitude": -74.2332091
   },
   {
     "id": "d61c3abc-d711-5870-b962-c1a0cd848adc",
@@ -1698,7 +2030,9 @@
     "address": "400 Lincoln Ave, Orange, NJ 07050-2208",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7656464,
+    "longitude": -74.2393045
   },
   {
     "id": "bf723b39-8672-56ed-98fe-0d5453a6c307",
@@ -1707,7 +2041,9 @@
     "address": "400 Central Ave, Orange, NJ 07050-2420",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7663932,
+    "longitude": -74.2385467
   },
   {
     "id": "bad9020d-f8fa-5730-8744-c9bc200ec0d6",
@@ -1716,7 +2052,9 @@
     "address": "231 Park Ave, Orange, NJ 07050-4102",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7755895,
+    "longitude": -74.224475
   },
   {
     "id": "8a4e7646-08c2-5582-894d-27ed83ebd9fb",
@@ -1725,7 +2063,9 @@
     "address": "369 Main Street, Orange, NJ 07050",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.773556,
+    "longitude": -74.2320933
   },
   {
     "id": "4cc75061-52e2-509c-a429-561342e17edd",
@@ -1734,7 +2074,9 @@
     "address": "445 Scotland Road, South Orange, NJ 07079",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7647897,
+    "longitude": -74.2450821
   },
   {
     "id": "be2a0f64-2850-5b30-bd29-e08fd107a4a5",
@@ -1743,7 +2085,9 @@
     "address": "100 Passaic Ave, Roseland, NJ 07068",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.825285,
+    "longitude": -74.315061
   },
   {
     "id": "4b4f8c46-cd68-5fb1-be9b-ed668979c10a",
@@ -1752,7 +2096,9 @@
     "address": "27 Berkshire Rd, Maplewood, NJ 07040-1429",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7345349,
+    "longitude": -74.2553934
   },
   {
     "id": "d67aad19-48de-590d-8351-4afe989b11f1",
@@ -1761,7 +2107,9 @@
     "address": "17 Parker Ave, Maplewood, NJ 07040-1327",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7348213,
+    "longitude": -74.2663698
   },
   {
     "id": "78567fc7-5ac7-529e-8d68-37a4f8e4963f",
@@ -1770,7 +2118,9 @@
     "address": "518 Ridgewood Rd, Maplewood, NJ 07040-2158",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7353803,
+    "longitude": -74.2776492
   },
   {
     "id": "292e3c68-fc49-5b05-a6eb-c2a339026737",
@@ -1779,7 +2129,9 @@
     "address": "7 Burnett St, Maplewood, NJ 07040-2620",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7293368,
+    "longitude": -74.2769933
   },
   {
     "id": "904334de-0ece-5f60-9a67-2a36240416ca",
@@ -1788,7 +2140,9 @@
     "address": "262 Grove Rd, S Orange, NJ 07079-2367",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7472393,
+    "longitude": -74.2473855
   },
   {
     "id": "0a5e1c17-4200-5413-91cf-7afb2365b90c",
@@ -1797,7 +2151,9 @@
     "address": "358 Clark Street, South Orange, NJ 07079",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7539105,
+    "longitude": -74.2564705
   },
   {
     "id": "aad638c9-b4e6-5233-9924-bf7fc7ba5aaf",
@@ -1806,7 +2162,9 @@
     "address": "274 Boyden Ave, Maplewood, NJ 07040-3010",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7215386,
+    "longitude": -74.254386
   },
   {
     "id": "7adf504c-1f95-52ae-8d5e-00dc8feeff49",
@@ -1815,7 +2173,9 @@
     "address": "444 West South Orange Ave, S Orange, NJ 07079-1234",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7472455,
+    "longitude": -74.2723621
   },
   {
     "id": "9d2a5d1b-5638-55ca-95e1-4db22438c59a",
@@ -1824,7 +2184,9 @@
     "address": "70 North Ridgewood Road, S Orange, NJ 07079-1518",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.748159,
+    "longitude": -74.2629
   },
   {
     "id": "1524aefd-b66c-54a8-a535-3a0cd5aeb347",
@@ -1833,7 +2195,9 @@
     "address": "25 Harvard Ave, Maplewood, NJ 07040-3109",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7252135,
+    "longitude": -74.2718925
   },
   {
     "id": "12ab8b5d-2466-56bd-a055-6b0b0ca758a3",
@@ -1842,7 +2206,9 @@
     "address": "14 Brookdale Court, Verona, NJ 07044-2431",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8264429,
+    "longitude": -74.2371976
   },
   {
     "id": "1cda6699-ef55-51fd-bfa8-f93e613b3bc2",
@@ -1851,7 +2217,9 @@
     "address": "118 Forest Ave, Verona, NJ 07044-1224",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8285999,
+    "longitude": -74.25678
   },
   {
     "id": "88ced562-5da4-5e68-8be0-895ab013d16a",
@@ -1860,7 +2228,9 @@
     "address": "125 Grove Ave, Verona, NJ 07044-1621",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8391151,
+    "longitude": -74.2437839
   },
   {
     "id": "2818664b-5cf3-5991-b636-42af87a4d3a5",
@@ -1869,7 +2239,9 @@
     "address": "600 Bloomfield Ave, Verona, NJ 07044-1817",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8267137,
+    "longitude": -74.2359683
   },
   {
     "id": "0e4ec686-b6d1-571d-91bc-dd305d1f3d08",
@@ -1878,7 +2250,9 @@
     "address": "18 Lanning Rd, Verona, NJ 07044-2510",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8307392,
+    "longitude": -74.2339938
   },
   {
     "id": "267c61a2-928d-5f7b-b8b8-e3fdea6363bb",
@@ -1887,7 +2261,9 @@
     "address": "151 Fairview Ave, Verona, NJ 07044-1320",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.840947,
+    "longitude": -74.2475368
   },
   {
     "id": "df555e42-695e-57c0-baba-0401dffdf39c",
@@ -1896,7 +2272,9 @@
     "address": "65 West Greenbrook Rd, North Caldwell, NJ 07006",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8716773,
+    "longitude": -74.2741743
   },
   {
     "id": "26cc9ca7-926a-5ae2-b743-ea624b88c471",
@@ -1905,16 +2283,9 @@
     "address": "65 West Greenbrook Rd, North Caldwell, NJ 07006",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "0eb608fc-362c-5004-b282-50bbbed93317",
-    "name": "Betty Maddalena Early Learning Center",
-    "type": "School",
-    "address": "747 Nothfield Avenue, West Orange, NJ 07052",
-    "county": "Essex",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8716773,
+    "longitude": -74.2741743
   },
   {
     "id": "ddf98b34-ab70-59e2-b668-ebb8551c2eb0",
@@ -1923,7 +2294,9 @@
     "address": "75 William St, W Orange, NJ 07052-5725",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7899875,
+    "longitude": -74.2312046
   },
   {
     "id": "51ebd505-df42-5274-9ead-9d3e26f18aa0",
@@ -1932,7 +2305,9 @@
     "address": "301 Gregory Ave, W Orange, NJ 07052-4439",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7658913,
+    "longitude": -74.258812
   },
   {
     "id": "c91a1e1c-549b-5188-ad9d-8733a8292559",
@@ -1941,7 +2316,9 @@
     "address": "45 Hazel Ave, W Orange, NJ 07052-4524",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.770022,
+    "longitude": -74.249656
   },
   {
     "id": "866f85b8-7dc6-5d29-b6c4-c915e04095d2",
@@ -1950,7 +2327,9 @@
     "address": "555 Pleasant Valley Way, W Orange, NJ 07052-2803",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7699972,
+    "longitude": -74.2857083
   },
   {
     "id": "40f5ec8b-748d-5640-8bae-f09917b11be8",
@@ -1959,7 +2338,9 @@
     "address": "1 Kelly Drive, West Orange, NJ 07052",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7911684,
+    "longitude": -74.2853191
   },
   {
     "id": "de423eef-9723-5882-8afa-ec425cdc3f22",
@@ -1968,7 +2349,9 @@
     "address": "9 Manger Road, West Orange, NJ 07052",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7922557,
+    "longitude": -74.2796048
   },
   {
     "id": "ea053256-db6d-5dba-9b4d-a46b21e902f2",
@@ -1977,7 +2360,9 @@
     "address": "75 Redwood Ave, W Orange, NJ 07052-3623",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.812382,
+    "longitude": -74.2514158
   },
   {
     "id": "92ec8966-7434-52a6-bdc2-6d5230f1a747",
@@ -1986,7 +2371,9 @@
     "address": "36 Gilbert Pl, W Orange, NJ 07052-3948",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7718809,
+    "longitude": -74.2564786
   },
   {
     "id": "17fff0c5-334a-5821-8773-ab4cd2bfe35a",
@@ -1995,7 +2382,9 @@
     "address": "71 Sheridan Ave, W Orange, NJ 07052-2635",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7711925,
+    "longitude": -74.2776784
   },
   {
     "id": "eebea12f-127b-58c5-9418-1be9abd602d0",
@@ -2004,7 +2393,9 @@
     "address": "289 Main St, W Orange, NJ 07052-5615",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7871852,
+    "longitude": -74.2314627
   },
   {
     "id": "3e3f3f59-0205-5c2a-a63d-9764d88b0507",
@@ -2013,7 +2404,9 @@
     "address": "242 Main Street, West Orange, NJ 07052",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.78617,
+    "longitude": -74.232509
   },
   {
     "id": "af050096-f9ea-5096-a8df-4d82aff2e2a4",
@@ -2022,7 +2415,9 @@
     "address": "51 Conforti Ave, West Orange, NJ 07052-2829",
     "county": "Essex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8067067,
+    "longitude": -74.2610683
   },
   {
     "id": "0dc4fe30-b811-501b-a700-106909f9dcc9",
@@ -2031,16 +2426,9 @@
     "address": "390 Washington Avenue, Nutley, NJ 07110",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
-  },
-  {
-    "id": "aaa327fc-0a3e-5265-97a8-affb62c7ae8d",
-    "name": "Alif Muhammad's Nia School",
-    "type": "School",
-    "address": "17 Academy St Suite 706, Suite 706, Newark, NJ 07102",
-    "county": "Essex",
-    "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.80978,
+    "longitude": -74.1462012
   },
   {
     "id": "741426c3-46fa-591a-8be6-b27d7898019e",
@@ -2049,7 +2437,9 @@
     "address": "1025 South Orange Avenue, Short Hills, NJ 07078",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7556853,
+    "longitude": -74.311224
   },
   {
     "id": "4aadc3ee-ce1a-56be-9c15-ad40226e8b37",
@@ -2058,7 +2448,9 @@
     "address": "122 Brighton Ave., East Orange, NJ 07017",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.78096,
+    "longitude": -74.215792
   },
   {
     "id": "39b6884f-d7cd-5617-9018-a04c4b66a394",
@@ -2067,7 +2459,9 @@
     "address": "671 Park Ave, East Orange, NJ 07017",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.773424,
+    "longitude": -74.219657
   },
   {
     "id": "f23b0181-3a46-5706-9b5e-4de262d9e163",
@@ -2076,7 +2470,9 @@
     "address": "30 Demarest St., Newark, NJ 07112",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7171437,
+    "longitude": -74.2135649
   },
   {
     "id": "582732ed-22ce-5ad7-80f8-54d5590488c8",
@@ -2085,7 +2481,9 @@
     "address": "16 Stratford Place, Newark, NJ 07108",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7226974,
+    "longitude": -74.1905974
   },
   {
     "id": "e62613e3-81b7-552c-a6c8-260bc5949cea",
@@ -2094,7 +2492,9 @@
     "address": "52 Great Hills Road, Short Hills, NJ 07078",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7483155,
+    "longitude": -74.3162695
   },
   {
     "id": "cd7724c4-7c43-5ec1-a184-48b2089a6b1b",
@@ -2103,7 +2503,9 @@
     "address": "427 Bloomfield Ave., Montclair, NJ 07042",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8134424,
+    "longitude": -74.2167283
   },
   {
     "id": "4a050100-0b87-503c-9095-ccc9e13c9638",
@@ -2112,7 +2514,9 @@
     "address": "122 Gregory Avenue, West Orange, NJ 07052",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7772107,
+    "longitude": -74.2512737
   },
   {
     "id": "105d0ad5-49df-53ed-ac9f-748cce31fe15",
@@ -2121,7 +2525,9 @@
     "address": "1418 Pleasant Valley Way, West Orange, NJ 07052",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7714732,
+    "longitude": -74.2846902
   },
   {
     "id": "f43f34bb-88b7-5d7a-8b21-02ef2e8e5976",
@@ -2130,7 +2536,9 @@
     "address": "24 Brookline Avenue, Nutley, NJ 07110",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8098755,
+    "longitude": -74.160983
   },
   {
     "id": "95c6a492-aab5-5a32-8bf6-1cf64b7123d7",
@@ -2139,7 +2547,9 @@
     "address": "913-917 Stuyvesant Avenue, Irvington, NJ 07111",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7171047,
+    "longitude": -74.2476255
   },
   {
     "id": "140564ae-1231-5339-a49c-70af70aa7c84",
@@ -2148,7 +2558,9 @@
     "address": "369 Passaic Avenue, Fairfield, NJ 07004",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8871531,
+    "longitude": -74.2729487
   },
   {
     "id": "2e903934-f9b7-525c-a77c-82787058eae6",
@@ -2157,7 +2569,9 @@
     "address": "141 Hoffman Blvd., East Orange, NJ 07017",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7715641,
+    "longitude": -74.1953178
   },
   {
     "id": "92abe44a-23f9-5f1c-8453-1f5cd809c6f8",
@@ -2166,7 +2580,9 @@
     "address": "760 Northfield Avenue, West Orange, NJ 07052",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7674504,
+    "longitude": -74.296592
   },
   {
     "id": "e07f2dd9-e594-521c-b008-ea5a81fb35b8",
@@ -2175,16 +2591,9 @@
     "address": "110 South Orange Avenue, Livingston, NJ 07039",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
-  },
-  {
-    "id": "0f5c11b7-1ad9-570a-8939-e96a4074068b",
-    "name": "Jump Immersion School - East Hanover",
-    "type": "School",
-    "address": "316 Ridgedale Avenue, East Hanover, NJ 07936",
-    "county": "Essex",
-    "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.774685,
+    "longitude": -74.3570267
   },
   {
     "id": "beeeccad-d961-5c93-b587-f1740b74e487",
@@ -2193,7 +2602,9 @@
     "address": "16 Bellevue Avenue, Bloomfield, NJ 07003",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.837329,
+    "longitude": -74.186692
   },
   {
     "id": "6151de30-1ab4-506b-8d9a-c83ba4627a3c",
@@ -2202,7 +2613,9 @@
     "address": "155 Lorraine Avenue, Upper Montclair, NJ 07043",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.842084,
+    "longitude": -74.2011883
   },
   {
     "id": "6aabbd6e-3fb7-5867-a6c5-af41f30ebf1f",
@@ -2211,16 +2624,9 @@
     "address": "84-86 Clinton Place, Newark, NJ 07108",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
-  },
-  {
-    "id": "6098bcb2-b217-5c2e-92fe-2255908b089b",
-    "name": "Love Grows Inc. Tutor Time Children",
-    "type": "School",
-    "address": "481 Northfield Ave, West Orance, NJ 07052",
-    "county": "Essex",
-    "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7197409,
+    "longitude": -74.2109079
   },
   {
     "id": "c42d59ba-9d3f-5226-ad95-bd5d4d5b018d",
@@ -2229,16 +2635,9 @@
     "address": "236 Hoover Ave., Bloomfield, NJ 07003",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
-  },
-  {
-    "id": "08741c63-a3c7-5f81-ae52-9166064b1a68",
-    "name": "Madrasatu Ahlis Sunnah",
-    "type": "School",
-    "address": "215 North Oraton Avenue, East Orange, NJ 07017",
-    "county": "Essex",
-    "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.810567,
+    "longitude": -74.186242
   },
   {
     "id": "9df52026-9304-52a5-b9a9-75863a50cdc5",
@@ -2247,7 +2646,9 @@
     "address": "513 Valley St., Maplewood, NJ 07040",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7340936,
+    "longitude": -74.2694496
   },
   {
     "id": "db78659a-6c71-5fc7-848a-a10cbb4e621d",
@@ -2256,7 +2657,9 @@
     "address": "396 15th Ave., Newark, NJ 07103",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7364019,
+    "longitude": -74.196473
   },
   {
     "id": "0fa7b8f6-1657-5481-9195-400c3ddb002e",
@@ -2265,7 +2668,9 @@
     "address": "65 Chestnut St, Montclair, NJ 07042",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8207671,
+    "longitude": -74.2105283
   },
   {
     "id": "2c575b18-39d2-507e-88c4-eeda675190ae",
@@ -2274,7 +2679,9 @@
     "address": "201 Valley Road, Montclair, NJ 07042",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8269709,
+    "longitude": -74.2169151
   },
   {
     "id": "f2be4e58-134d-5a87-949a-7eb23d0412c2",
@@ -2283,7 +2690,9 @@
     "address": "200 Hartshorn Drive, Short Hills, NJ 07078",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.740403,
+    "longitude": -74.327157
   },
   {
     "id": "de38ce34-c5ae-530d-9080-40eb2733d3e6",
@@ -2292,7 +2701,9 @@
     "address": "3 Ryerson Ave, Caldwell, NJ 07006",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8345238,
+    "longitude": -74.2677843
   },
   {
     "id": "c097ddf7-99f4-5313-a777-a78cea6a7e22",
@@ -2301,7 +2712,9 @@
     "address": "91 South Orange Avenue, Livingston, NJ 07039",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7760892,
+    "longitude": -74.3602651
   },
   {
     "id": "cf9343ef-4b74-5b4b-9339-663e48ce30a7",
@@ -2310,7 +2723,9 @@
     "address": "172 Academy St, South Orange, NJ 07079",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7422913,
+    "longitude": -74.2595945
   },
   {
     "id": "41cb1b06-8340-583a-8e1e-538c6da5ea49",
@@ -2319,7 +2734,9 @@
     "address": "26 Lakeside Ave., Verona, NJ 07044",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8310954,
+    "longitude": -74.24639
   },
   {
     "id": "611ab5a2-8144-5d7a-b731-1756af9ce669",
@@ -2328,7 +2745,9 @@
     "address": "170 Broad Street, Newark, NJ 07104",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.756481,
+    "longitude": -74.168785
   },
   {
     "id": "b35ef9dc-d7a3-5c3a-8a19-683a880787a0",
@@ -2337,7 +2756,9 @@
     "address": "88 Franklin Avenue, West Orange, NJ 07052",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.791676,
+    "longitude": -74.227881
   },
   {
     "id": "bbf3726a-166e-577f-aeec-e28262ca0962",
@@ -2346,7 +2767,9 @@
     "address": "138 Hickory Street, Orange, NJ 07050",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7667791,
+    "longitude": -74.2278127
   },
   {
     "id": "6c58421c-a101-5d84-8e01-2bf96e41a7db",
@@ -2355,7 +2778,9 @@
     "address": "1293 Broad Street, Bloomfield, NJ 07003",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8355092,
+    "longitude": -74.1821223
   },
   {
     "id": "4ad99322-8f0f-50d3-8a36-4cec6a402d4c",
@@ -2364,7 +2789,9 @@
     "address": "15 Cleveland Ave., Newark, NJ 07106",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7367617,
+    "longitude": -74.2340913
   },
   {
     "id": "0ab62882-6558-540a-bd35-45ba23652d74",
@@ -2373,7 +2800,9 @@
     "address": "520 Dr Martin Luther King Blvd., Newark, NJ 07102",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7356542,
+    "longitude": -74.1795894
   },
   {
     "id": "7cb3c11e-4ac3-546b-b27e-35eafd8b88e1",
@@ -2382,7 +2811,9 @@
     "address": "190 Lorraine Avenue, Upper Montclair, NJ 07043",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8416859,
+    "longitude": -74.2049095
   },
   {
     "id": "99dee160-8f40-5fce-b17b-281bcb8087d8",
@@ -2391,7 +2822,9 @@
     "address": "39 E Bradford Ave, Cedar Grove, NJ 07009",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8448925,
+    "longitude": -74.2269157
   },
   {
     "id": "cc319892-88bd-5994-89d4-5c80614fab26",
@@ -2400,7 +2833,9 @@
     "address": "581 Valley Rd., Montclair, NJ 07442",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8404648,
+    "longitude": -74.207512
   },
   {
     "id": "494c6293-a5a2-55d4-8f3e-57b4f9ef1c12",
@@ -2409,7 +2844,9 @@
     "address": "115 Telford Street, East Orange, NJ 07018",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7510336,
+    "longitude": -74.227556
   },
   {
     "id": "4e209114-e0d8-5650-bb96-890d55caa182",
@@ -2418,7 +2855,9 @@
     "address": "27 Crittenden St, Newark, NJ 07104",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7558649,
+    "longitude": -74.1703857
   },
   {
     "id": "831248a2-fe02-5251-bc4c-d6c278293444",
@@ -2427,7 +2866,9 @@
     "address": "152 William Street, Belleville, NJ 07109",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.785437,
+    "longitude": -74.1561374
   },
   {
     "id": "5debcce7-8e36-5870-9a95-91c175f013f8",
@@ -2436,7 +2877,9 @@
     "address": "52 Short Hills Avenue, Short Hills, NJ 07078",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7220342,
+    "longitude": -74.3190781
   },
   {
     "id": "08c12443-ab2b-5aef-8710-4011e883f93d",
@@ -2445,7 +2888,9 @@
     "address": "119 Main St, Millburn, NJ 07041",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7218667,
+    "longitude": -74.3069612
   },
   {
     "id": "9349e50c-7ce6-594a-8003-bf59dee54833",
@@ -2454,7 +2899,9 @@
     "address": "50 Byrd Ave, Bloomfield, NJ 07003",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8320632,
+    "longitude": -74.1774889
   },
   {
     "id": "cfb16133-1ab6-56db-99ad-08f440ca6c41",
@@ -2463,7 +2910,9 @@
     "address": "228 West Market St, Newark, NJ 07103",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.743253,
+    "longitude": -74.186669
   },
   {
     "id": "2a88205d-2519-539d-8474-a6c2a5dbd894",
@@ -2472,7 +2921,9 @@
     "address": "634 Mill Street, Belleville, NJ 07109",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7909657,
+    "longitude": -74.1742481
   },
   {
     "id": "94fa870b-54b1-5b93-8d15-d411982a8b5f",
@@ -2481,7 +2932,9 @@
     "address": "120 Northfield Avenue, West Orange, NJ 07052",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7753088,
+    "longitude": -74.2463756
   },
   {
     "id": "a9d8e7aa-5c71-5fd7-99ae-cdd7bb41911c",
@@ -2490,7 +2943,9 @@
     "address": "461 Vose Avenue, South Orange, NJ 07079",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.755381,
+    "longitude": -74.251992
   },
   {
     "id": "42776b5e-0793-58fb-9963-8ce32a52b01c",
@@ -2499,7 +2954,9 @@
     "address": "161 Millburn Ave., Millburn, NJ 07041",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7218578,
+    "longitude": -74.2928261
   },
   {
     "id": "631d627e-43cd-525e-a6bd-d15e36a94c90",
@@ -2508,7 +2965,9 @@
     "address": "50 Country Day Drive, Short Hills, NJ 07078",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7427209,
+    "longitude": -74.3344649
   },
   {
     "id": "5b779024-7263-556d-9aff-c2422b89db6a",
@@ -2517,7 +2976,9 @@
     "address": "111 Irvington Ave., South Orange, NJ 07040",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.745089,
+    "longitude": -74.256495
   },
   {
     "id": "92c077da-a4c0-58f0-bca1-ef615d33e988",
@@ -2526,7 +2987,9 @@
     "address": "30 East Lane, Short Hills, NJ 07078",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.731438,
+    "longitude": -74.32395
   },
   {
     "id": "56c109eb-046c-50b2-9452-efd3d45fb81e",
@@ -2535,7 +2998,9 @@
     "address": "280 S. Harrison St, East Orange, NJ 07018",
     "county": "Essex",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7597082,
+    "longitude": -74.2276513
   },
   {
     "id": "49c857b9-ce08-504e-8c1f-c5505b6a9f7f",
@@ -2544,7 +3009,9 @@
     "address": "303 University Avenue, Newark, NJ 07102",
     "county": "Essex",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7391994,
+    "longitude": -74.1796984
   },
   {
     "id": "049cac14-f67a-5725-98f6-68aca55f2f34",
@@ -2553,7 +3020,9 @@
     "address": "323 Martin Luther King Jr Boulevard, Newark, NJ 07102",
     "county": "Essex",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7433257,
+    "longitude": -74.1760465
   },
   {
     "id": "f78762d6-c413-5078-a891-940b4ab79985",
@@ -2562,7 +3031,9 @@
     "address": "190 University Avenue, Newark, NJ 07102",
     "county": "Essex",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7416693,
+    "longitude": -74.1739848
   },
   {
     "id": "9e8a10a7-e108-5bab-95fc-0246054208d3",
@@ -2571,7 +3042,9 @@
     "address": "400 South Orange Avenue, South Orange, NJ 07079",
     "county": "Essex",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7426869,
+    "longitude": -74.245683
   },
   {
     "id": "a3c5c512-9743-5523-8dfd-6c80d1d4ac75",
@@ -2580,16 +3053,9 @@
     "address": "467 Franklin Street, Bloomfield, NJ 07003",
     "county": "Essex",
     "source": "nj_colleges_curated",
-    "confidence": "high"
-  },
-  {
-    "id": "11ec5b60-06f1-5663-9b27-a7285983e90a",
-    "name": "Essex County Historic Courthouse",
-    "type": "Courthouse",
-    "address": "470 Dr. Martin Luther King, Jr. Boulevard, Newark, NJ 07102",
-    "county": "Essex",
-    "source": "nj_courthouses_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7949142,
+    "longitude": -74.1971946
   },
   {
     "id": "3d9fb367-30d2-57a3-a96e-89e97e6a5c1a",
@@ -2598,7 +3064,9 @@
     "address": "50 West Market Street, Newark, NJ 07102",
     "county": "Essex",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7379859,
+    "longitude": -74.1814758
   },
   {
     "id": "9b8cfba2-c252-54f3-a6f3-62f761767540",
@@ -2607,16 +3075,9 @@
     "address": "350 University Avenue, Newark, NJ 07102",
     "county": "Essex",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
-  },
-  {
-    "id": "ceb0705d-0ca0-50a3-8b01-3a8bab33774f",
-    "name": "Essex County Dr. Martin Luther King, Jr. Justice Building",
-    "type": "Courthouse",
-    "address": "495 Dr. Martin Luther King, Jr. Boulevard, Newark, NJ 07102",
-    "county": "Essex",
-    "source": "nj_courthouses_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7363748,
+    "longitude": -74.1768003
   },
   {
     "id": "6721d4e7-501d-540e-a40c-b325a80120d9",
@@ -2625,7 +3086,9 @@
     "address": "152 Washington Ave, Belleville, NJ 07109",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7862921,
+    "longitude": -74.1525669
   },
   {
     "id": "b82b7e84-afcd-5a3b-9a0f-27c452831b8d",
@@ -2634,7 +3097,9 @@
     "address": "1 Municipal Plaza, Bloomfield, NJ 07003",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7916211,
+    "longitude": -74.1956105
   },
   {
     "id": "70cce85f-189c-5054-8355-d94e3a6d25e0",
@@ -2643,7 +3108,9 @@
     "address": "525 Pompton Ave, Cedar Grove, NJ 07009",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8515544,
+    "longitude": -74.2287293
   },
   {
     "id": "49432387-653d-5350-85d2-91c849a4ef1d",
@@ -2652,7 +3119,9 @@
     "address": "230 Fairfield Rd, Fairfield, NJ 07004",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8792959,
+    "longitude": -74.2902772
   },
   {
     "id": "346189ba-24af-548e-a458-206747348b18",
@@ -2661,7 +3130,9 @@
     "address": "357 South Livingston, Livingston, NJ 07039",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7822472,
+    "longitude": -74.3151657
   },
   {
     "id": "23b39a7b-a5b1-5e58-a40b-c32053a37527",
@@ -2670,7 +3141,9 @@
     "address": "1618 Springfield Ave, Maplewood, NJ 07040",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.722435,
+    "longitude": -74.257795
   },
   {
     "id": "3956bb7c-5b1d-5830-aabf-89c373ca6217",
@@ -2679,7 +3152,9 @@
     "address": "435 Essex St, Millburn, NJ 07041",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7240939,
+    "longitude": -74.311626
   },
   {
     "id": "5786f4df-a9f2-5f63-ad2f-1345d3ba7c4c",
@@ -2688,7 +3163,9 @@
     "address": "647 Bloomfield Ave., Montclair, NJ 07042",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8162046,
+    "longitude": -74.220533
   },
   {
     "id": "2a2f3629-3ab0-590d-8c8a-65a2dbd921cc",
@@ -2697,16 +3174,9 @@
     "address": "31 Green Street, Newark, NJ 07102",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "7a44d0c2-2854-5320-8afa-bc60e2856aa1",
-    "name": "North Caldwell Municipal Court",
-    "type": "Courthouse",
-    "address": "141 Gould Avenue, No Caldwell, NJ 07006",
-    "county": "Essex",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.731419,
+    "longitude": -74.171246
   },
   {
     "id": "83a2ce53-dd61-50ac-b609-8a1bbe9d71fa",
@@ -2715,7 +3185,9 @@
     "address": "228 Chestnut St, Nutley, NJ 07110",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8190012,
+    "longitude": -74.1580326
   },
   {
     "id": "0939dcee-594a-5823-972b-da7e50110ca0",
@@ -2724,7 +3196,9 @@
     "address": "29 Park Street, Orange, NJ 07050",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.771415,
+    "longitude": -74.2256674
   },
   {
     "id": "671cc440-1f29-51cf-a274-858c450ce696",
@@ -2733,7 +3207,9 @@
     "address": "19 Harrison Ave, Roseland, NJ 07068",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.82255,
+    "longitude": -74.292367
   },
   {
     "id": "434ffa55-b22d-516f-9230-10df21f092e1",
@@ -2742,7 +3218,9 @@
     "address": "1618 Springfield Ave, Maplewood, NJ 07040",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.722435,
+    "longitude": -74.257795
   },
   {
     "id": "5a76bd7a-7b80-5e08-8d1d-f224021c3a15",
@@ -2751,7 +3229,9 @@
     "address": "141 Gould Avenue, North Caldwell, NJ 07006",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8605217,
+    "longitude": -74.2613494
   },
   {
     "id": "3f1bc92b-85b1-56de-9c8f-75fa6c6de2af",
@@ -2760,7 +3240,9 @@
     "address": "21 Clinton Rd, West Caldwell, NJ 07006",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8562704,
+    "longitude": -74.307986
   },
   {
     "id": "be628ba0-bc0b-5d18-a31f-12c7eb76ebb5",
@@ -2769,7 +3251,9 @@
     "address": "60 Main Street, West Orange, NJ 07052",
     "county": "Essex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.777796,
+    "longitude": -74.239291
   },
   {
     "id": "193b6a33-8082-5da1-9c4d-b6b46ee8e0f1",
@@ -2778,7 +3262,9 @@
     "address": "3 Brewster Road, Newark, NJ 07114",
     "county": "Essex",
     "source": "nj_airports_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6948861,
+    "longitude": -74.176483
   },
   {
     "id": "240fbecc-80fd-50fe-9322-0b2a6756bc0e",
@@ -2787,7 +3273,9 @@
     "address": "1 Raymond Plaza West, Newark, NJ 07102",
     "county": "Essex",
     "source": "nj_transit_hubs_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7344618,
+    "longitude": -74.1656512
   },
   {
     "id": "3418b57d-f08c-5c14-bec3-694119a91cb6",
@@ -2796,7 +3284,9 @@
     "address": "25 University Avenue, Newark, NJ 07102",
     "county": "Essex",
     "source": "nj_transit_hubs_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.746352,
+    "longitude": -74.171667
   },
   {
     "id": "0109511d-5568-5fd5-9e18-420ac980899c",
@@ -2805,7 +3295,9 @@
     "address": "465 Martin Luther King Jr Blvd, Newark, NJ 07102",
     "county": "Essex",
     "source": "nj_government_buildings_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7458923,
+    "longitude": -74.174752
   },
   {
     "id": "5b10114b-1fa3-5ca9-8c11-6481b6e555cf",
@@ -2814,6 +3306,8 @@
     "address": "920 Broad Street, Newark, NJ 07102",
     "county": "Essex",
     "source": "nj_government_buildings_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7318066,
+    "longitude": -74.1741716
   }
 ]

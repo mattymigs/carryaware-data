@@ -6,7 +6,9 @@
     "address": "350 Edgewood Avenue, Audubon, NJ 08106",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8851915,
+    "longitude": -75.0760866
   },
   {
     "id": "6c51cb04-16eb-592b-ad4b-746849e48f49",
@@ -15,7 +17,9 @@
     "address": "2 Road C, Audubon Park, NJ 08106",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8952186,
+    "longitude": -75.0867298
   },
   {
     "id": "79957cbe-1cf2-5282-b1f2-ce89d8378f48",
@@ -24,7 +28,9 @@
     "address": "240 South Haviland Avenue, Audubon, NJ 08106",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8945069,
+    "longitude": -75.0642755
   },
   {
     "id": "23dd5bae-c1d3-543d-a04c-c052c86eeddd",
@@ -33,7 +39,9 @@
     "address": "300 Mansion Avenue, Audubon, NJ 08106",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8882192,
+    "longitude": -75.0736232
   },
   {
     "id": "bb47ba84-f5f1-527f-8a3a-f6fa01550728",
@@ -42,7 +50,9 @@
     "address": "862 Mercer Dr, Haddonfield, NJ 08033",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.880525,
+    "longitude": -75.0444599
   },
   {
     "id": "a3cb51db-beaf-5da0-a919-581454850c3d",
@@ -51,7 +61,9 @@
     "address": "1 School Lane, Barrington, NJ 08007",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8695765,
+    "longitude": -75.0493124
   },
   {
     "id": "8f2984cf-2d6a-5a1a-8f88-5d5b7eaab03b",
@@ -60,7 +72,9 @@
     "address": "256 Anderson Avenue, Bellmawr, NJ 08031",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8707201,
+    "longitude": -75.0905747
   },
   {
     "id": "f74ce9ab-c147-5f1c-acfc-039918e8f519",
@@ -69,7 +83,9 @@
     "address": "29 Peach Road, Bellmawr, NJ 08031",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8699395,
+    "longitude": -75.1056133
   },
   {
     "id": "d5aa43a6-1c0e-5d12-a5d1-7cc47dddff72",
@@ -78,7 +94,9 @@
     "address": "112 South Black Horse Pike, Bellmawr, NJ 08031",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8647182,
+    "longitude": -75.0797817
   },
   {
     "id": "da5fe725-09bf-5109-83cf-27cd34ffd193",
@@ -87,7 +105,9 @@
     "address": "215 S Franklin Ave, Berlin, NJ 08009-9220",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7977202,
+    "longitude": -74.9493151
   },
   {
     "id": "24350860-a0cc-538b-96e8-6006d785b384",
@@ -96,7 +116,9 @@
     "address": "235 Grove Avenue, West Berlin, NJ 08091",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8152301,
+    "longitude": -74.9319109
   },
   {
     "id": "fd0356fd-eb17-5d76-bcf3-4e5ad86d3ea2",
@@ -105,7 +127,9 @@
     "address": "228 Mt Vernon Avenue, West Berlin, NJ 08091",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8142877,
+    "longitude": -74.9349079
   },
   {
     "id": "b57c489d-8a07-504e-a3e1-d033a4e5c005",
@@ -114,7 +138,9 @@
     "address": "450 Erial Road, Blackwood, NJ 08012",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8037381,
+    "longitude": -75.0553404
   },
   {
     "id": "31239f25-b353-57c8-ba52-6a1bfa1da99f",
@@ -123,7 +149,9 @@
     "address": "501 Jarvis Road, Erial, NJ 08081",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.760282,
+    "longitude": -75.013701
   },
   {
     "id": "1232c990-85c9-5a70-8f2a-58f6538fa62b",
@@ -132,7 +160,9 @@
     "address": "250 Schubert Ave, Runnemede, NJ 08078",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8472044,
+    "longitude": -75.0640626
   },
   {
     "id": "95e98488-bed7-50d3-aa19-79e5136620ec",
@@ -141,7 +171,9 @@
     "address": "301 Haakon Rd., Brooklawn, NJ 08030",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8781059,
+    "longitude": -75.1185962
   },
   {
     "id": "aa484f0e-c690-5afb-9261-b70926e14cc8",
@@ -150,7 +182,9 @@
     "address": "1875 Park Boulevard, Camden, NJ 08103",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.931663,
+    "longitude": -75.095761
   },
   {
     "id": "e3f111e9-7c94-5797-970b-17e9f32a1566",
@@ -159,7 +193,9 @@
     "address": "1700 Park Boulevard, Camden, NJ 08103",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.916078,
+    "longitude": -75.03044
   },
   {
     "id": "cd3fb07e-d440-542d-99f1-d7b7a6b477d9",
@@ -168,7 +204,9 @@
     "address": "201 State Street, Camden, NJ 08102",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9539913,
+    "longitude": -75.1218976
   },
   {
     "id": "637b2d13-7d79-55ac-a825-ef8ea8ad9dbc",
@@ -177,7 +215,9 @@
     "address": "1875 Park Blvd, Camden, NJ 08103",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.931663,
+    "longitude": -75.095761
   },
   {
     "id": "a3f0c4b4-7609-5619-9a3d-31da8427abb9",
@@ -186,7 +226,9 @@
     "address": "1875 Park Blvd, Camden, NJ 08103",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.931663,
+    "longitude": -75.095761
   },
   {
     "id": "173f1f5f-6a98-5049-9a01-220cc1cd4f66",
@@ -195,7 +237,9 @@
     "address": "3425 Cramer Street, Camden, NJ 08105",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9524872,
+    "longitude": -75.0767137
   },
   {
     "id": "13f39e73-fc1e-50bd-a766-c98b20fb22d3",
@@ -204,7 +248,9 @@
     "address": "3100 Federal Street, Camden, NJ 08105",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9465514,
+    "longitude": -75.0776854
   },
   {
     "id": "426ef046-a37e-5f26-a310-eb46b4ae9deb",
@@ -213,7 +259,9 @@
     "address": "1625 Wildwood Avenue, Camden, NJ 08103",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9358323,
+    "longitude": -75.1003797
   },
   {
     "id": "647ee7d7-5a60-5880-b37e-cf2e449795fb",
@@ -222,7 +270,9 @@
     "address": "2250 South 8th Street, Camden, NJ 08104",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9164212,
+    "longitude": -75.112189
   },
   {
     "id": "21bf9c66-5049-588a-b91b-b31764d1465b",
@@ -231,7 +281,9 @@
     "address": "1602 Pine Street, Camden, NJ 08103",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9377445,
+    "longitude": -75.1012343
   },
   {
     "id": "9c60e144-a93f-5af8-876c-14a28626ec21",
@@ -240,7 +292,9 @@
     "address": "990 Morgan Boulevard, Camden, NJ 08104",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9109985,
+    "longitude": -75.1098336
   },
   {
     "id": "920ccb48-963f-53e3-b0d0-b07ac0f6be18",
@@ -249,7 +303,9 @@
     "address": "3100 Westfield Ave, Camden, NJ 08105",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9486248,
+    "longitude": -75.0801319
   },
   {
     "id": "e3037da0-4683-5616-b16a-0c4a4a2c9a5a",
@@ -258,7 +314,9 @@
     "address": "1875 Mulford Street, Camden, NJ 08104",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9211794,
+    "longitude": -75.1079068
   },
   {
     "id": "42042a4e-8e39-5b09-85b9-263efbf95d7a",
@@ -267,7 +325,9 @@
     "address": "2250 Berwick Street, Camden, NJ 08105-1160",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9447166,
+    "longitude": -75.0931463
   },
   {
     "id": "9f8d596f-50be-5202-8b31-b59f5424a1b0",
@@ -276,7 +336,9 @@
     "address": "800 N 26th Street, Camden, NJ 08105",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.953892,
+    "longitude": -75.092498
   },
   {
     "id": "e1671d42-67fc-5535-b756-3d75ed47499a",
@@ -285,16 +347,9 @@
     "address": "1251 Collings Road, Camden, NJ 08104",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "5674948b-7d08-5696-8970-18dbecf64c25",
-    "name": "Camden County Technical School - Gtc",
-    "type": "School",
-    "address": "343 Berlin Cross Keys Road, Sicklerville, NJ 08081",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9038579,
+    "longitude": -75.1059586
   },
   {
     "id": "0b5c21f4-4485-5aaf-be12-31e1234a4d89",
@@ -303,7 +358,9 @@
     "address": "6008 Browning Road, Pennsauken, NJ 08109",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9399378,
+    "longitude": -75.0662931
   },
   {
     "id": "3026bafb-5693-5954-aee1-a0dd66dfff61",
@@ -312,7 +369,9 @@
     "address": "1575 Mt. Ephraim Ave, Camden, NJ 08104",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9257276,
+    "longitude": -75.1058853
   },
   {
     "id": "8f48c2ff-579f-5ad0-862a-59d492f3fc9d",
@@ -321,7 +380,9 @@
     "address": "140 Old Carriage Rd., Cherry Hill, NJ 08034-3332",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.900075,
+    "longitude": -75.012483
   },
   {
     "id": "8d845de1-c53a-51e1-862b-6a2d70544bbf",
@@ -330,7 +391,9 @@
     "address": "1909 Queen Anne Dr., Cherry Hill, NJ 08003-2843",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8721527,
+    "longitude": -74.9776106
   },
   {
     "id": "c34f8f49-b071-5b30-9f20-7be26a97f952",
@@ -339,7 +402,9 @@
     "address": "1750 Kresson Rd., Cherry Hill, NJ 08003-2598",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8764594,
+    "longitude": -74.9640092
   },
   {
     "id": "e308a196-0a21-5ae5-bcd1-a489ca971234",
@@ -348,7 +413,9 @@
     "address": "2101 Chapel Ave., Cherry Hill, NJ 08034-2099",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9255116,
+    "longitude": -75.0229167
   },
   {
     "id": "aed3c16e-1aa4-5a3f-9c07-a956745d189d",
@@ -357,7 +424,9 @@
     "address": "223 Rhode Island Ave., Cherry Hill, NJ 08034-3121",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9197779,
+    "longitude": -75.015028
   },
   {
     "id": "736d3be3-6d53-5162-afc8-a5f2f7fe2ea0",
@@ -366,7 +435,9 @@
     "address": "1220 Winston Way, Cherry Hill, NJ 08034-2919",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9035573,
+    "longitude": -74.9911965
   },
   {
     "id": "72915e25-cb3c-5b97-94d5-6fcc16ea9c65",
@@ -375,7 +446,9 @@
     "address": "950 Cropwell Rd., Cherry Hill, NJ 08003-1499",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.882301,
+    "longitude": -74.950601
   },
   {
     "id": "f50423f3-03db-540b-9de5-2fc76a363e9a",
@@ -384,7 +457,9 @@
     "address": "150 Walt Whitman Blvd., Cherry Hill, NJ 08003-3747",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.86356,
+    "longitude": -75.0002514
   },
   {
     "id": "487b23b0-0c9d-56de-9a7d-8cf0a9e1734c",
@@ -393,7 +468,9 @@
     "address": "1960 Greentree Rd., Cherry Hill, NJ 08003-1121",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9057784,
+    "longitude": -74.9588486
   },
   {
     "id": "97a49e6a-9f7d-56f9-9b88-82f62ff67b51",
@@ -402,7 +479,9 @@
     "address": "500 Kresson Rd., Cherry Hill, NJ 08034-3121",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8895215,
+    "longitude": -75.0035509
   },
   {
     "id": "dd2c6a51-d4ac-56b5-99d7-c9c4ff61f889",
@@ -411,7 +490,9 @@
     "address": "315 Roosevelt Dr., Cherry Hill, NJ 08034-1599",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.934884,
+    "longitude": -75.000207
   },
   {
     "id": "04f27308-1c6f-5019-882c-f33cfe6f7bea",
@@ -420,7 +501,9 @@
     "address": "300 Old Orchard Rd., Cherry Hill, NJ 08003-1299",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8888054,
+    "longitude": -74.9518266
   },
   {
     "id": "2a83f5cf-4733-501b-819a-8a3c4def7a5a",
@@ -429,7 +512,9 @@
     "address": "2900 Chapel Ave., Cherry Hill, NJ 08002-1661",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.927007,
+    "longitude": -75.006477
   },
   {
     "id": "7d07a395-9ef3-5cf8-987e-b8431c97058b",
@@ -438,7 +523,9 @@
     "address": "320 Kingston Rd., Cherry Hill, NJ 08034-1600",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9221989,
+    "longitude": -74.988039
   },
   {
     "id": "cb97bbce-2f12-51c9-a5ed-adaa6ec38d0a",
@@ -447,7 +534,9 @@
     "address": "200 Wexford Dr., Cherry Hill, NJ 08003-1827",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.896899,
+    "longitude": -74.959923
   },
   {
     "id": "cfcb1b87-82b1-50cb-870d-bdc72ede1105",
@@ -456,7 +545,9 @@
     "address": "485 Browning Lane, Cherry Hill, NJ 08003-3160",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8874594,
+    "longitude": -74.996806
   },
   {
     "id": "3cf5eca4-3092-5c5b-8efa-b4169047b051",
@@ -465,7 +556,9 @@
     "address": "4001 Church Rd., Cherry Hill, NJ 08034-1199",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.932669,
+    "longitude": -74.985792
   },
   {
     "id": "45f7d20e-f14c-5c5c-bb7c-844465a2561f",
@@ -474,7 +567,9 @@
     "address": "400 Cranford Dr., Cherry Hill, NJ 08003-3499",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8742638,
+    "longitude": -74.9940049
   },
   {
     "id": "582fec26-7136-5881-be57-6ac569ea8cce",
@@ -483,7 +578,9 @@
     "address": "4 Audubon Ave, Clementon, NJ 08021",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8010766,
+    "longitude": -74.9897206
   },
   {
     "id": "a777069f-d0b6-5afc-9199-84590b7c43a6",
@@ -492,7 +589,9 @@
     "address": "424 Collings Ave, Collingswood, NJ 08108",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.912964,
+    "longitude": -75.078351
   },
   {
     "id": "3ed026e7-485e-524a-ae1d-1b8b19150d2c",
@@ -501,7 +600,9 @@
     "address": "414 Collings Ave, Collingswood, NJ 08108",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9135869,
+    "longitude": -75.0765754
   },
   {
     "id": "c79f66ba-8907-5d4f-9c87-2b9609a66ea9",
@@ -510,7 +611,9 @@
     "address": "201 Dayton Avenue, Collingswood, NJ 08108",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.913675,
+    "longitude": -75.069402
   },
   {
     "id": "043d8a61-0637-5799-95dc-81eb4840a6e8",
@@ -519,16 +622,9 @@
     "address": "136 Kendall Blvd, Oaklyn, NJ 08107",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "6f8ca41d-bedf-510f-8e54-ebbf58cc583a",
-    "name": "Collingswood Preschool At Parkview",
-    "type": "School",
-    "address": "540 Collings Ave, Suite 12, Collingswood, NJ 08108",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9005748,
+    "longitude": -75.0843062
   },
   {
     "id": "f6ef00e9-081a-5e98-8ede-0b72e5161e54",
@@ -537,7 +633,9 @@
     "address": "480 Haddon Ave, Collingswood, NJ 08108",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9180899,
+    "longitude": -75.0756992
   },
   {
     "id": "2ebacbd9-4bb5-523f-9612-61a14ea56895",
@@ -546,7 +644,9 @@
     "address": "2 East Browning Rd, Collingswood, NJ 08108",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9206968,
+    "longitude": -75.0801711
   },
   {
     "id": "0e75aefc-7fcc-5118-bf6b-a0ef1133ebde",
@@ -555,7 +655,9 @@
     "address": "400 Comly Ave, West Collingswood, NJ 08107",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9117767,
+    "longitude": -75.0893741
   },
   {
     "id": "5aafb5c8-d530-58f5-9a16-721fd12cfeae",
@@ -564,7 +666,9 @@
     "address": "265 Lincoln Avenue, Collingswood, NJ 08108",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9191282,
+    "longitude": -75.067508
   },
   {
     "id": "eaab6b02-fd71-5a70-8b0e-ca81df98091b",
@@ -573,7 +677,9 @@
     "address": "801 Stokes Avenue, Collingswood, NJ 08108",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9113973,
+    "longitude": -75.0655739
   },
   {
     "id": "5a4135c3-c99f-52b1-921b-70d233b8a1ff",
@@ -582,7 +688,9 @@
     "address": "1401 Laurel Oak Road, Voorhees, NJ 08043-0995",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8508507,
+    "longitude": -74.9643922
   },
   {
     "id": "438601f0-d484-55a6-92e8-4edb40db8c50",
@@ -591,7 +699,9 @@
     "address": "37 Kirkwood Rd, Gibbsboro, NJ 08026-1432",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.837532,
+    "longitude": -74.968201
   },
   {
     "id": "243ccb2e-be6d-5b63-8a3d-10470c035590",
@@ -600,7 +710,9 @@
     "address": "1194 Market Street, Gloucester City, NJ 08030",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8882779,
+    "longitude": -75.1126297
   },
   {
     "id": "d5db9dc7-91bf-539f-9cf1-4bd24caaad64",
@@ -609,7 +721,9 @@
     "address": "1300 Market Street, Gloucester City, NJ 08030",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8840508,
+    "longitude": -75.1123183
   },
   {
     "id": "9eaca54a-609a-500e-a94d-0f0a75d73f82",
@@ -618,7 +732,9 @@
     "address": "500 Market Street, Gloucester City, NJ 08030",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.894277,
+    "longitude": -75.123056
   },
   {
     "id": "69ec7698-9e61-53c4-a95e-a6dd3ab15687",
@@ -627,7 +743,9 @@
     "address": "1400 Sicklerville Road, Sicklerville, NJ 08081",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7494415,
+    "longitude": -75.0166756
   },
   {
     "id": "22e2248f-f9f4-5bd7-9d67-09f5a8e1f434",
@@ -636,7 +754,9 @@
     "address": "260 Blenheim Erial Rd, Blackwood, NJ 08012",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8037381,
+    "longitude": -75.0553404
   },
   {
     "id": "69122632-8381-5dfd-bfeb-07cec3c1d4bc",
@@ -645,7 +765,9 @@
     "address": "875 Erial Road, Blackwood, NJ 08012",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8037381,
+    "longitude": -75.0553404
   },
   {
     "id": "b0a3fb19-0ccb-55b4-985b-678ba88d2b83",
@@ -654,7 +776,9 @@
     "address": "600 Chewslanding Somerdale Rd, Blackwood, NJ 08012",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.840592,
+    "longitude": -75.0495876
   },
   {
     "id": "33cd75f3-63bd-5f6f-882f-1164ad415861",
@@ -663,7 +787,9 @@
     "address": "20 Essex Avenue, Sicklerville, NJ 08081",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7705575,
+    "longitude": -75.0086657
   },
   {
     "id": "d734ee0b-978d-52f9-b2db-a3bd0d296b92",
@@ -672,7 +798,9 @@
     "address": "85 Little Gloucester Road, Blackwood, NJ 08012",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8253621,
+    "longitude": -75.0558101
   },
   {
     "id": "27720a7e-1e06-5594-8fc6-c217c295e371",
@@ -681,7 +809,9 @@
     "address": "201 Station Ave, Glendora, NJ 08029",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.837988,
+    "longitude": -75.071856
   },
   {
     "id": "e464e186-495c-573b-ac7d-b4ddd35bb654",
@@ -690,7 +820,9 @@
     "address": "270 South Black Horse Pike, Blackwood, NJ 08012-2996",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7974037,
+    "longitude": -75.065164
   },
   {
     "id": "98e71f7b-0584-58ee-b6bb-6b16f58fa1ad",
@@ -699,16 +831,9 @@
     "address": "1275 Williamstown Road, Erial, NJ 08081",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "0bdbb291-e8ea-5c3a-a514-cdc0fda34532",
-    "name": "Loring Flemming Elementary School",
-    "type": "School",
-    "address": "135 Little Gloucester Rd, Blackwood, NJ 08012-3311",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7523907,
+    "longitude": -74.9984163
   },
   {
     "id": "6cf6c330-e09e-5c32-9376-d105599c52dd",
@@ -717,7 +842,9 @@
     "address": "1300 Jarvis Road, Sicklerville, NJ 08081",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.771694,
+    "longitude": -74.9923669
   },
   {
     "id": "2dd4ea43-8af2-55d0-9a2a-b93b91be5349",
@@ -726,7 +853,9 @@
     "address": "21 East Atlantic Avenue, Haddon Heights, NJ 08035",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8820406,
+    "longitude": -75.0579427
   },
   {
     "id": "df3da7d0-bd2a-54f7-9428-a8544c781ea2",
@@ -735,16 +864,9 @@
     "address": "1700 Sycamore Street, Haddon Heights, NJ 08035",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "31a7560b-bb7f-5d2a-82a9-aa8059e525aa",
-    "name": "Haddon Heights Jr./sr. High School",
-    "type": "School",
-    "address": "301 Second Avenue, Haddon Heights, NJ 08035",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.877104,
+    "longitude": -75.074698
   },
   {
     "id": "001753a0-89a4-514f-b7db-299c6c9199a0",
@@ -753,7 +875,9 @@
     "address": "316 Seventh Avenue, Haddon Heights, NJ 08035",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8780749,
+    "longitude": -75.0566869
   },
   {
     "id": "587595a2-3e8f-55da-b53e-1855560fcead",
@@ -762,7 +886,9 @@
     "address": "100 Cedar Avenue, Oaklyn, NJ 08107",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.897788,
+    "longitude": -75.075791
   },
   {
     "id": "84b0f8e6-a964-5481-980d-92309c4358d4",
@@ -771,7 +897,9 @@
     "address": "406 Memorial Avenue, Westmont, NJ 08108-3398",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.906594,
+    "longitude": -75.055
   },
   {
     "id": "e88cbdac-0ebb-5a1e-ba74-49389353981b",
@@ -780,7 +908,9 @@
     "address": "206 Briarwood Avenue, Haddonfield, NJ 08033",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9065405,
+    "longitude": -75.0536626
   },
   {
     "id": "22796566-803b-58f9-be23-5e0419a23a01",
@@ -789,7 +919,9 @@
     "address": "307 Strawbridge Avenue, Westmont, NJ 08108",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9174749,
+    "longitude": -75.0537305
   },
   {
     "id": "c2f71596-f2c1-5f83-8d6a-48dddf5994cb",
@@ -798,7 +930,9 @@
     "address": "205 Melrose Avenue, Westmont, NJ 08108",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9131279,
+    "longitude": -75.045899
   },
   {
     "id": "949f9ec1-770c-59fd-aba8-7767df92767f",
@@ -807,7 +941,9 @@
     "address": "625 Rhoads Avenue, Haddonfield, NJ 08033",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9060294,
+    "longitude": -75.0367038
   },
   {
     "id": "c81d4ea8-f4c8-576e-9bd0-45595863f04f",
@@ -816,7 +952,9 @@
     "address": "101 Macarthur Boulevard, Westmont, NJ 08108",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9038583,
+    "longitude": -75.0564903
   },
   {
     "id": "119f1256-99fc-5b32-9480-67f30d305fe2",
@@ -825,7 +963,9 @@
     "address": "Three Lincoln Avenue, Haddonfield, NJ 08033",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8944934,
+    "longitude": -75.0339925
   },
   {
     "id": "1f9ef9de-aff8-55ed-8d46-1d5293812e63",
@@ -834,7 +974,9 @@
     "address": "501 West Redman Avenue, Haddonfield, NJ 08033",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.896369,
+    "longitude": -75.044388
   },
   {
     "id": "54fdeddb-da94-5104-af8a-2ce4a2c1a951",
@@ -843,7 +985,9 @@
     "address": "401 Kings Highway East, Haddonfield, NJ 08033-1206",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.901047,
+    "longitude": -75.026341
   },
   {
     "id": "af7cc6f0-c910-59a5-80f0-289f481ac073",
@@ -852,7 +996,9 @@
     "address": "Five Lincoln Avenue, Haddonfield, NJ 08033",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8948114,
+    "longitude": -75.0338072
   },
   {
     "id": "f7a73f02-6bc3-51a4-a955-085f70ed3e7e",
@@ -861,7 +1007,9 @@
     "address": "One Glover Avenue, Haddonfield, NJ 08033",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9021213,
+    "longitude": -75.0298988
   },
   {
     "id": "ec174882-8738-5fe5-a270-45e235017b7d",
@@ -870,7 +1018,9 @@
     "address": "525 Clinton Street, Camden, NJ 08103",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.938433,
+    "longitude": -75.119738
   },
   {
     "id": "c2835524-5cc7-572f-9036-d0b7b0e63a4e",
@@ -879,7 +1029,9 @@
     "address": "623 Grand Avenue, Laurel Springs, NJ 08021",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8227655,
+    "longitude": -75.0033163
   },
   {
     "id": "be76c6d5-c68c-594a-a26b-7e1c5fdc352a",
@@ -888,7 +1040,9 @@
     "address": "426 East Charleston Ave, Lawnside, NJ 08045-1404",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8645958,
+    "longitude": -75.0236968
   },
   {
     "id": "7e51ae4b-8b20-5be3-8280-2c59c537beb2",
@@ -897,7 +1051,9 @@
     "address": "809 Egg Harbor Road, Lindenwold, NJ 08021",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8197963,
+    "longitude": -74.9759648
   },
   {
     "id": "cdeeb60c-e92b-57ff-a9b8-36bd291c25ce",
@@ -906,7 +1062,9 @@
     "address": "801 Egg Harbor Road, Lindenwold, NJ 08021",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.819837,
+    "longitude": -74.976029
   },
   {
     "id": "ef141c08-1df0-5c28-952e-b838927993a6",
@@ -915,7 +1073,9 @@
     "address": "40 White Horse Avenue, Lindenwold, NJ 08021",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8154164,
+    "longitude": -74.9913205
   },
   {
     "id": "095a0af7-3fca-5fa3-b56d-ea4328a3f884",
@@ -924,7 +1084,9 @@
     "address": "550 Chews Landing Rd., Lindenwold, NJ 08021",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8103502,
+    "longitude": -75.0128462
   },
   {
     "id": "8cc5a5da-10b6-590d-a25b-ce9c1c3cd1bd",
@@ -933,7 +1095,9 @@
     "address": "900 Gibbsboro Rd., Lindenwold, NJ 08021",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.823368,
+    "longitude": -74.976613
   },
   {
     "id": "be49cb9a-a61f-5506-9e2f-80a41ca44bc1",
@@ -942,7 +1106,9 @@
     "address": "420 North Warwick Rd, Magnolia, NJ 08049-1320",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8489438,
+    "longitude": -75.0316534
   },
   {
     "id": "a3960c5e-3389-5519-87e7-ee03b0c47c5d",
@@ -951,7 +1117,9 @@
     "address": "1001 North 17th Street, Camden, NJ 08105",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.95007,
+    "longitude": -75.099979
   },
   {
     "id": "3b5c1b89-c572-5a59-9861-2fe10049bb5a",
@@ -960,7 +1128,9 @@
     "address": "130 S Centre St, Merchantville, NJ 08109-2207",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9514608,
+    "longitude": -75.0488787
   },
   {
     "id": "e473b7b5-0117-54ec-9e2c-22cba6cb1976",
@@ -969,16 +1139,9 @@
     "address": "225 West Kings Highway, Mount Ephraim, NJ 08059-1803",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "0999bc4f-3c6d-5626-9ba8-3a7d1fda0432",
-    "name": "Raymond W. Kershaw School",
-    "type": "School",
-    "address": "125 South Black Horse Pike, Mount Ephraim, NJ 08059-1803",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8810074,
+    "longitude": -75.0897427
   },
   {
     "id": "20046e83-72b8-5d36-bcec-8c5f6a9161be",
@@ -987,7 +1150,9 @@
     "address": "136 Kendall Blvd, Oaklyn, NJ 08107",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9005748,
+    "longitude": -75.0843062
   },
   {
     "id": "26cafb9c-4391-5db4-ab73-5133add41f80",
@@ -996,7 +1161,9 @@
     "address": "3600 Harris Avenue, Pennsauken, NJ 08110",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.937416,
+    "longitude": -75.081378
   },
   {
     "id": "944716e8-3680-546b-b595-25b690c5493f",
@@ -1005,7 +1172,9 @@
     "address": "41ST & Sharon Terrace, Pennsauken, NJ 08110",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9605757,
+    "longitude": -75.0775876
   },
   {
     "id": "a0956a83-0178-5ec9-ab06-937b8d3dd699",
@@ -1014,7 +1183,9 @@
     "address": "7201 Irving Avenue, Pennsauken, NJ 08109-3173",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.961492,
+    "longitude": -75.04141
   },
   {
     "id": "e3a88aac-b1b3-57b7-a70d-e481271ef586",
@@ -1023,7 +1194,9 @@
     "address": "850 Derousse Avenue, Delair, NJ 08110-3411",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9754929,
+    "longitude": -75.0556634
   },
   {
     "id": "01f4c5d4-6a3f-5ef6-b21c-67c673433612",
@@ -1032,7 +1205,9 @@
     "address": "4150 Garfield Avenue, Pennsauken, NJ 08109",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9431494,
+    "longitude": -75.0687249
   },
   {
     "id": "7b68ba52-04e1-55d3-8194-1331f4b6ed33",
@@ -1041,7 +1216,9 @@
     "address": "3800 Gladwyn Ave, Pennsauken, NJ 08109-3415",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.956166,
+    "longitude": -75.028742
   },
   {
     "id": "bdcf9618-6a9c-5c66-98e9-5f8fd1b9c22b",
@@ -1050,7 +1227,9 @@
     "address": "8201 Park Ave, Pennsauken, NJ 08109-3544",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.962751,
+    "longitude": -75.027951
   },
   {
     "id": "235f7985-eee1-5cd3-a998-acd61b71bb63",
@@ -1059,7 +1238,9 @@
     "address": "800 Hylton Road, Pennsauken, NJ 08110",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.988588,
+    "longitude": -75.02904
   },
   {
     "id": "c8fdead7-9486-5ccb-a6e3-bd773b2ea0a8",
@@ -1068,7 +1249,9 @@
     "address": "8125 Park Avenue, Pennsauken, NJ 08109",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.962032,
+    "longitude": -75.0292489
   },
   {
     "id": "16071f2e-a1ea-5c80-8956-821217e2c7bd",
@@ -1077,34 +1260,9 @@
     "address": "5526 Wisteria Ave, Pennsauken, NJ 08109-1242",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "360814a8-aaa9-55d2-9a24-ee5a5dea8909",
-    "name": "Dr. Albert M. Bean School",
-    "type": "School",
-    "address": "70 E Third Ave, Pine Hill, NJ 08021-6204",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "7ac7a699-041f-506c-ac36-7656c6235e75",
-    "name": "John H. Glenn School",
-    "type": "School",
-    "address": "1005 Turnerville Rd, Pine Hill, NJ 08021-6526",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "c4c69ea9-2b9a-5f1a-bf85-9ea7fec93d73",
-    "name": "Overbrook Senior High School",
-    "type": "School",
-    "address": "1200 Turnerville Road, Pine Hill, NJ 08021",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9419713,
+    "longitude": -75.056054
   },
   {
     "id": "b32b8cf2-c9cd-5e83-897d-3307cbf2f598",
@@ -1113,25 +1271,9 @@
     "address": "1100 Turnerville Road, Pine Hill, NJ 08021",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "8facc963-def7-5f5c-913b-70da078b4627",
-    "name": "Aline Bingham Elementary School",
-    "type": "School",
-    "address": "100 First & Orchard Ave, Runnemede, NJ 08078",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "62033b99-b9d9-5b14-9429-b93a0436888a",
-    "name": "Grade Downing Elementary School",
-    "type": "School",
-    "address": "3RD & Central Aves, Runnemede, NJ 08078",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7776533,
+    "longitude": -74.9684018
   },
   {
     "id": "0730212e-402c-570c-a03e-93d4b7d01b92",
@@ -1140,7 +1282,9 @@
     "address": "509 West Third Avenue, Runnemede, NJ 08078",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8515045,
+    "longitude": -75.082387
   },
   {
     "id": "545dcdc5-3eb2-5ba6-8e4d-44443cd23ede",
@@ -1149,7 +1293,9 @@
     "address": "301 Grace Street, Somerdale, NJ 08083",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.84897,
+    "longitude": -75.020486
   },
   {
     "id": "9dc0e01e-2ce0-568a-a98c-d7a8543681af",
@@ -1158,7 +1304,9 @@
     "address": "501 South Warwick Road, Somerdale, NJ 08083-2175",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.836442,
+    "longitude": -75.024716
   },
   {
     "id": "fbfc43ec-6096-565c-be01-acc1213a13c0",
@@ -1167,7 +1315,9 @@
     "address": "123 Parkview Rd, Stratford, NJ 08084",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8296694,
+    "longitude": -75.0297604
   },
   {
     "id": "d4fff8ea-3bc9-57a1-a00d-e6def8669345",
@@ -1176,7 +1326,9 @@
     "address": "111 Warwick Road, Stratford, NJ 08084",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8309266,
+    "longitude": -75.0190325
   },
   {
     "id": "c5a5f594-7255-5aed-9c19-7d1cd13bcbbd",
@@ -1185,7 +1337,9 @@
     "address": "1 Boundary Lane, Voorhees, NJ 08043-9545",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.825981,
+    "longitude": -74.943487
   },
   {
     "id": "df8fac05-484f-50cd-a33c-79d7a7d154c9",
@@ -1194,7 +1348,9 @@
     "address": "7 School Lane, Voorhees, NJ 08043-9545",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8613277,
+    "longitude": -74.9243411
   },
   {
     "id": "ab281aa5-15ae-58e0-b6fd-9174c5f32ae6",
@@ -1203,7 +1359,9 @@
     "address": "112 Somerdale Road, Voorhees, NJ 08043-9545",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8527339,
+    "longitude": -75.0038649
   },
   {
     "id": "7ae1b0e6-78fd-5bf6-a718-e06a3e6c77bc",
@@ -1212,7 +1370,9 @@
     "address": "33 Signal Hill Drive, Voorhees, NJ 08043-9545",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8307987,
+    "longitude": -74.9239002
   },
   {
     "id": "5a0dbc98-ac8d-59dc-a0cb-864d4e45fe82",
@@ -1221,7 +1381,9 @@
     "address": "250 Haddonfield-berlin Road, Gibbsboro, NJ 08026",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8448404,
+    "longitude": -74.9714417
   },
   {
     "id": "4e999410-7577-5995-90ba-c06b98dd1112",
@@ -1230,7 +1392,9 @@
     "address": "1000 Holly Oak Dr, Voorhees, NJ 08043",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8613507,
+    "longitude": -74.9633367
   },
   {
     "id": "2328bb2a-03f1-5856-b206-c1116ca1be04",
@@ -1239,16 +1403,9 @@
     "address": "2162 Cooper Road, Atco, NJ 08004-1033",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "eb61995f-6a9a-5755-8f0b-3bd7e9459a23",
-    "name": "Thomas Richards Early Childhood Center",
-    "type": "School",
-    "address": "934 Lincoln Avenue, Atco, NJ 08004-1325",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7727842,
+    "longitude": -74.8943346
   },
   {
     "id": "d6cd9ebd-b3b4-5279-a353-799ecd6201d1",
@@ -1257,7 +1414,9 @@
     "address": "1106 Old White Horse Pike, Waterford, NJ 08089-1816",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7274511,
+    "longitude": -74.8527567
   },
   {
     "id": "737c9939-0d97-5cb3-a3af-1f3b25f73498",
@@ -1266,34 +1425,9 @@
     "address": "511 Edwards Ave, Chesilhurst, NJ 08089",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "9f9cbfa2-c14b-58aa-8ee2-a7821b50abd0",
-    "name": "Winslow Township Elementary School Five",
-    "type": "School",
-    "address": "130 Oak Leaf Road, Berlin, NJ 08009",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "72b72b5e-ba08-5ed1-84ee-6bb66094d255",
-    "name": "Winslow Township Elementary School Four",
-    "type": "School",
-    "address": "541 Kali Road, Sicklerville, NJ 08081",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "542904b1-63e4-52a2-a66f-a9a63aefd521",
-    "name": "Winslow Township Elementary School One",
-    "type": "School",
-    "address": "413 Inskip Road, Blue Anchor, NJ 08037-9511",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7279505,
+    "longitude": -74.8869902
   },
   {
     "id": "e363de9e-a9ec-56fe-af7d-3da394b0ff3b",
@@ -1302,7 +1436,9 @@
     "address": "617 Sickler Avenue, Sicklerville, NJ 08081",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7290864,
+    "longitude": -74.9799761
   },
   {
     "id": "c9a08b2b-aa45-5e2f-9611-956cc71b2f07",
@@ -1311,16 +1447,9 @@
     "address": "131 Sicklerville Road, Sicklerville, NJ 08081",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "9f41df2c-3dcb-599f-80aa-1efcfc952c25",
-    "name": "Winslow Township Elementary School Two",
-    "type": "School",
-    "address": "125 First Ave, Sicklerville, NJ 08081",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7086137,
+    "longitude": -74.955717
   },
   {
     "id": "072ecab2-cc1c-50cc-9ff4-e602d9dad2f7",
@@ -1329,16 +1458,9 @@
     "address": "10 Cooper Folly Road, Atco, NJ 08004",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "a67cca47-d94d-5f59-a2d8-be26c3297ccd",
-    "name": "Winslow Township Middle School",
-    "type": "School",
-    "address": "30 Cooper Folly Road, Atco, NJ 08004",
-    "county": "Camden",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7458017,
+    "longitude": -74.9065668
   },
   {
     "id": "5c7e6f48-4122-5ca6-8a8b-30e12da2b77a",
@@ -1347,7 +1469,9 @@
     "address": "131 Elm Avenue, Woodlynne, NJ 08107",
     "county": "Camden",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9191225,
+    "longitude": -75.0942836
   },
   {
     "id": "c29803c5-310c-5a80-9db0-e220463352bd",
@@ -1356,7 +1480,9 @@
     "address": "200 College Drive, Blackwood, NJ 08012",
     "county": "Camden",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7848575,
+    "longitude": -75.0390822
   },
   {
     "id": "cc736fe0-9b4c-5b06-9ce1-37aed0108615",
@@ -1365,7 +1491,9 @@
     "address": "303 Cooper Street, Camden, NJ 08102",
     "county": "Camden",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9472636,
+    "longitude": -75.1232524
   },
   {
     "id": "ec354c43-5435-53cb-a7f3-9b1d3dea9bef",
@@ -1374,7 +1502,9 @@
     "address": "101 South 5th Street, Camden, NJ 08103",
     "county": "Camden",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9431112,
+    "longitude": -75.1225112
   },
   {
     "id": "c03f7ab9-d775-5e39-9554-bb7d48e9dc3d",
@@ -1383,7 +1513,9 @@
     "address": "606 W. Nicholson Rd, Audubon, NJ 08106",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.89299,
+    "longitude": -75.0874244
   },
   {
     "id": "315cfa5f-4702-5828-ad2e-1f6391910ec9",
@@ -1392,7 +1524,9 @@
     "address": "500 White Horse Pike, Oaklyn, NJ 08107",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9030836,
+    "longitude": -75.0777226
   },
   {
     "id": "e1582674-8bda-5e06-86ae-0502906eaf06",
@@ -1401,7 +1535,9 @@
     "address": "21 E. Browning Rd., Bellmawr, NJ 08099",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8665772,
+    "longitude": -75.078213
   },
   {
     "id": "9f61a554-8dbd-598e-b122-942c3b1fd536",
@@ -1410,16 +1546,9 @@
     "address": "59 S White Horse Pk, Berlin, NJ 08009",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "01626703-a787-5673-9438-b4292e805572",
-    "name": "Berlin Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "135 Route 73 South, West Berlin, NJ 08091",
-    "county": "Camden",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.795429,
+    "longitude": -74.931952
   },
   {
     "id": "edbfbf21-b496-5239-aee9-90ff5c172d37",
@@ -1428,7 +1557,9 @@
     "address": "500 White Horse Pike, Oaklyn, NJ 08107",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9030836,
+    "longitude": -75.0777226
   },
   {
     "id": "890a5f6b-bbd1-534f-af47-21802bdf94fc",
@@ -1437,7 +1568,9 @@
     "address": "520 Market St, Camden, NJ 08101",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.94484,
+    "longitude": -75.1199618
   },
   {
     "id": "ce4f3eeb-3b77-5a09-b9de-cfb224cbf321",
@@ -1446,7 +1579,9 @@
     "address": "820 Mercer Street, Cherry Hill, NJ 08002",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9278514,
+    "longitude": -75.0303741
   },
   {
     "id": "7fb28d6e-6afc-5df9-b6cf-e10cfd495bfd",
@@ -1455,7 +1590,9 @@
     "address": "201 Grant Ave, Chesilhurst, NJ 08089",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.73165,
+    "longitude": -74.874667
   },
   {
     "id": "6801fd3f-6316-57c4-b780-92149f21d501",
@@ -1464,7 +1601,9 @@
     "address": "101 Gibbsboro Road, Clementon, NJ 08021",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8086116,
+    "longitude": -74.9879374
   },
   {
     "id": "65a62238-fe30-59e5-ab19-7cdd65ddd6eb",
@@ -1473,16 +1612,9 @@
     "address": "30 W. Collings Ave, Collingswood, NJ 08108",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "8a7320f7-6f95-502d-9725-7e9e0e1ebc4e",
-    "name": "Gloucester Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "Po Box 8, Blackwood, NJ 08012",
-    "county": "Camden",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9159485,
+    "longitude": -75.0698558
   },
   {
     "id": "9a06080f-ce29-55c9-bfeb-ff074bb321d5",
@@ -1491,7 +1623,9 @@
     "address": "606 W. Nicholson Rd., Audubon, NJ 08106",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.89299,
+    "longitude": -75.0874244
   },
   {
     "id": "26a7bf28-7182-5fa4-8413-cbb5a9bae376",
@@ -1500,7 +1634,9 @@
     "address": "135 Haddon Ave, Haddon Twp, NJ 08108",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.910291,
+    "longitude": -75.0494445
   },
   {
     "id": "cd9600cd-bba3-5e84-9fdd-2538a9de3c5c",
@@ -1509,7 +1645,9 @@
     "address": "24 N Black Horse Pk, Runnemede, NJ 08078",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.851246,
+    "longitude": -75.0736188
   },
   {
     "id": "cc9eca1e-68b0-50b5-855c-79c05513e12f",
@@ -1518,7 +1656,9 @@
     "address": "100 Wykagyl Rd, Hi-nella, NJ 08083",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.840422,
+    "longitude": -75.018785
   },
   {
     "id": "a6546e67-a647-5603-b948-49f7812c6634",
@@ -1527,7 +1667,9 @@
     "address": "24 N Black Horse Pk, Runnemede, NJ 08078",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.851246,
+    "longitude": -75.0736188
   },
   {
     "id": "46295f85-c8bc-5400-bba5-60ea79f66dcc",
@@ -1536,7 +1678,9 @@
     "address": "4 Douglas Ave, Lawnside, NJ 08045",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8673148,
+    "longitude": -75.0308099
   },
   {
     "id": "6296ebf6-2d4d-5dfd-9729-34c3f7671bd3",
@@ -1545,16 +1689,9 @@
     "address": "2001 Egg Harbor Rd, Lindenwold, NJ 08021",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "21b319df-7965-5d2b-a5c1-a83d192a4870",
-    "name": "Magnolia Boro Municipal Court",
-    "type": "Courthouse",
-    "address": "24 N. Black Horse Pi, Runnemede, NJ 08078",
-    "county": "Camden",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8171262,
+    "longitude": -74.9699597
   },
   {
     "id": "5162262a-ede2-56cc-88c3-75e5486888e8",
@@ -1563,7 +1700,9 @@
     "address": "500 White Horse Pike, Oaklyn, NJ 08107",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9030836,
+    "longitude": -75.0777226
   },
   {
     "id": "6e7b0942-90de-5d4e-8209-35e30e688faa",
@@ -1572,7 +1711,9 @@
     "address": "2400 Bethel Ave, Pennsauken, NJ 08109",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.963267,
+    "longitude": -75.048666
   },
   {
     "id": "ff202604-92c2-5e11-bfc6-c04041f6e051",
@@ -1581,7 +1722,9 @@
     "address": "24 N Black Horse Pk, Runnemede, NJ 08078",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.851246,
+    "longitude": -75.0736188
   },
   {
     "id": "494ba5d7-1e85-5bf5-9a11-37109d7c7b77",
@@ -1590,7 +1733,9 @@
     "address": "1 Club Road, Clementon, NJ 08021",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8043671,
+    "longitude": -74.9975215
   },
   {
     "id": "884fda78-cb7e-562d-ad4b-5c5fe01f8731",
@@ -1599,7 +1744,9 @@
     "address": "24 N Black Horse Pk, Runnemede, NJ 08078",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.851246,
+    "longitude": -75.0736188
   },
   {
     "id": "21f5faf0-a176-5076-ab43-b8ec9d29f0ac",
@@ -1608,16 +1755,9 @@
     "address": "500 White Horse Pike, Oaklyn, NJ 08107",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "f445a53c-dfbe-5681-b425-cb74d3810b25",
-    "name": "Voorhees Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "2400 Voorhees Town C, Voorhees, NJ 08043",
-    "county": "Camden",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9030836,
+    "longitude": -75.0777226
   },
   {
     "id": "047b4e2c-f3ed-5bb9-8f40-2b22db9925a1",
@@ -1626,16 +1766,9 @@
     "address": "2131 Auburn Ave, Atco, NJ 08004",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "f7f3914b-fd3b-55a7-b366-3ca3b5cd8ef7",
-    "name": "Winslow Township Municipal Ct",
-    "type": "Courthouse",
-    "address": "125 So Rt 73, Braddock, NJ 08037",
-    "county": "Camden",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.767604,
+    "longitude": -74.889593
   },
   {
     "id": "3821b6cf-c88a-5d7b-be7a-12ff49ba4c21",
@@ -1644,7 +1777,9 @@
     "address": "200 Cooper Avenue, Woodlynne, NJ 08107",
     "county": "Camden",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.917356,
+    "longitude": -75.095479
   },
   {
     "id": "585234ab-19aa-5a65-8595-e2a427a63516",
@@ -1653,7 +1788,9 @@
     "address": "2311 Egg Harbor Road, Lindenwold, NJ 08021",
     "county": "Camden",
     "source": "nj_airports_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.814337,
+    "longitude": -74.9625616
   },
   {
     "id": "f9837ff0-bdf1-5ac3-a48a-a2ea00893ec6",
@@ -1662,7 +1799,9 @@
     "address": "100 South Broadway, Camden, NJ 08103",
     "county": "Camden",
     "source": "nj_transit_hubs_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8946475,
+    "longitude": -75.1203215
   },
   {
     "id": "312202ce-b2c5-525f-9af0-f0fa0805699b",
@@ -1671,6 +1810,8 @@
     "address": "520 Market Street, Camden, NJ 08102",
     "county": "Camden",
     "source": "nj_government_buildings_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.94484,
+    "longitude": -75.1199618
   }
 ]

@@ -6,7 +6,9 @@
     "address": "306 Lathrop Avenue, Boonton, NJ 07005-2220",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9020005,
+    "longitude": -74.4046902
   },
   {
     "id": "e137b470-68cc-5b4c-85d1-5576d8e944c9",
@@ -15,7 +17,9 @@
     "address": "435 Lathrop Avenue, Boonton, NJ 07005-2221",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9011542,
+    "longitude": -74.4022455
   },
   {
     "id": "c48577b4-b96b-5a43-ae29-185c1e48b281",
@@ -24,7 +28,9 @@
     "address": "720 Birch Street, Boonton, NJ 07005",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9068737,
+    "longitude": -74.4115201
   },
   {
     "id": "a02b92ac-ee20-59b2-a41a-03c718930b9d",
@@ -33,7 +39,9 @@
     "address": "11 Valley Road, Boonton Township, NJ 07005",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.925741,
+    "longitude": -74.431126
   },
   {
     "id": "c93af1fb-970b-5534-b89b-b53f2019c46d",
@@ -42,7 +50,9 @@
     "address": "98 Decker Road, Butler, NJ 07405",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0067309,
+    "longitude": -74.357073
   },
   {
     "id": "8573e2f7-801c-56cb-91c3-b39e26223cd5",
@@ -51,7 +61,9 @@
     "address": "38 Bartholdi Avenue, Butler, NJ 07405",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9981406,
+    "longitude": -74.3395162
   },
   {
     "id": "dddc886b-9b6d-5a77-9a93-7c0d4598a96f",
@@ -60,7 +72,9 @@
     "address": "30 Pearl Place, Butler, NJ 07405",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9959703,
+    "longitude": -74.3377404
   },
   {
     "id": "f4b93e02-fb83-5d01-bbd4-8c3d07d2e374",
@@ -69,7 +83,9 @@
     "address": "133 Rt. 513 - North Road, Chester, NJ 07930",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7964354,
+    "longitude": -74.6724008
   },
   {
     "id": "61ccd5d5-a8df-50ce-a741-7de2992383fe",
@@ -78,7 +94,9 @@
     "address": "250 Route 24, Chester, NJ 07930",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.786894,
+    "longitude": -74.690111
   },
   {
     "id": "2b727115-05cc-5160-8546-9ce39a543f3f",
@@ -87,7 +105,9 @@
     "address": "250 Rt. 24, Chester, NJ 07930",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.786894,
+    "longitude": -74.690111
   },
   {
     "id": "9d0223db-5f6d-5a51-8345-386635c845a1",
@@ -96,7 +116,9 @@
     "address": "44 Cooper Road, Denville, NJ 07834",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8686789,
+    "longitude": -74.5045174
   },
   {
     "id": "380e1070-97c9-5d67-aabd-687d99eaaaa5",
@@ -105,7 +127,9 @@
     "address": "33 St Marys Place, Denville, NJ 07834",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8971365,
+    "longitude": -74.4825721
   },
   {
     "id": "c36d0997-0d94-5de2-b0ab-4e49536e8a19",
@@ -114,7 +138,9 @@
     "address": "320 Diamond Spring Road, Denville, NJ 07834",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9059521,
+    "longitude": -74.4627627
   },
   {
     "id": "2e599452-2243-5077-8992-04e7c0f4bd04",
@@ -123,7 +149,9 @@
     "address": "14 Academy Street, Dover, NJ 07801-4906",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8782148,
+    "longitude": -74.5624912
   },
   {
     "id": "68c25354-8711-539a-839e-5a1408139842",
@@ -132,7 +160,9 @@
     "address": "100 Grace Street, Dover, NJ 07801-2697",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8976285,
+    "longitude": -74.5597173
   },
   {
     "id": "5a9bf1a1-d2b2-50e2-951f-a704835140fd",
@@ -141,7 +171,9 @@
     "address": "302 East Mcfarlan Street, Dover, NJ 07801",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8897446,
+    "longitude": -74.5472621
   },
   {
     "id": "788cc351-0468-5b34-be08-d2b48d15581b",
@@ -150,7 +182,9 @@
     "address": "300 East Mcfarlan Street, Dover, NJ 07801",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8890203,
+    "longitude": -74.5487268
   },
   {
     "id": "c549696e-f6c4-5759-bbe5-5e3dd7602b67",
@@ -159,7 +193,9 @@
     "address": "51 Highland Avenue, Dover, NJ 07801",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8962009,
+    "longitude": -74.5617863
   },
   {
     "id": "a4d5eb72-93e9-53ad-9064-f232e57f4aa1",
@@ -168,7 +204,9 @@
     "address": "400 Ridgedale Avenue, East Hanover, NJ 07936-1492",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.825242,
+    "longitude": -74.361834
   },
   {
     "id": "bb08adcd-a631-539d-b4a0-4ad735cc93a7",
@@ -177,7 +215,9 @@
     "address": "477 Ridgedale Avenue, East Hanover, NJ 07936-3094",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8271615,
+    "longitude": -74.3580218
   },
   {
     "id": "effe752d-3ed4-51a4-8dc7-bce39600a553",
@@ -186,16 +226,9 @@
     "address": "27 Green Drive, East Hanover, NJ 07936-3798",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "535bdfd8-f6b6-5e21-aa03-481205a21c08",
-    "name": "Central Park School",
-    "type": "School",
-    "address": "5 Jean Street, Morristown, NJ 07960",
-    "county": "Morris",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.813107,
+    "longitude": -74.351373
   },
   {
     "id": "19c577b1-487d-5740-bd05-4ab54568f7d2",
@@ -204,7 +237,9 @@
     "address": "151 Briarwood Road, Florham Park, NJ 07932",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7793747,
+    "longitude": -74.3901364
   },
   {
     "id": "2fe68ce7-4104-5b7b-8223-0256c8acae3f",
@@ -213,7 +248,9 @@
     "address": "235 Brooklake Road, Florham Park, NJ 07932",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7790414,
+    "longitude": -74.3806624
   },
   {
     "id": "944022d0-1f95-55e1-ad90-205b5ddc9a71",
@@ -222,7 +259,9 @@
     "address": "71 Ridgedale Avenue, Florham Park, NJ 07932",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7782354,
+    "longitude": -74.4031014
   },
   {
     "id": "ed66ffbe-737b-5cc9-8ef0-d6c2d17a17b6",
@@ -231,7 +270,9 @@
     "address": "63 Mt Pleasant Avenue, East Hanover, NJ 07936-2601",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8056387,
+    "longitude": -74.3727495
   },
   {
     "id": "650aa2e2-8c81-54da-a027-11a8d88dcab4",
@@ -240,7 +281,9 @@
     "address": "165 Whippany Road, Whippany, NJ 07981-1741",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8141567,
+    "longitude": -74.4237522
   },
   {
     "id": "9ebaeb45-4086-5b68-8342-e89bf851e0ec",
@@ -249,7 +292,9 @@
     "address": "120 Reynolds Avenue, Whippany, NJ 07981-1252",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8314886,
+    "longitude": -74.4065413
   },
   {
     "id": "5e2af150-e646-5fb7-95e6-71c14b1cf10c",
@@ -258,7 +303,9 @@
     "address": "61 Highland Avenue, Whippany, NJ 07981",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.825502,
+    "longitude": -74.411544
   },
   {
     "id": "bf8f8964-12bf-55f2-98bd-c5a21768b5ec",
@@ -267,7 +314,9 @@
     "address": "30 Mountview Road, Morris Plains, NJ 07950",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8298219,
+    "longitude": -74.4576543
   },
   {
     "id": "1bc436d8-b10b-5889-9d62-ed57f05c824c",
@@ -276,7 +325,9 @@
     "address": "29 Salem Drive, Whippany, NJ 07981",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8125934,
+    "longitude": -74.4356902
   },
   {
     "id": "0e5689ae-c3e5-5e22-b913-fc0ecec39826",
@@ -285,7 +336,9 @@
     "address": "34 Lees Hill Road, Po Box 248, New Vernon, NJ 07976-0248",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7419491,
+    "longitude": -74.5019817
   },
   {
     "id": "edf911ee-23fb-55ec-933d-e41649adbb26",
@@ -294,7 +347,9 @@
     "address": "121 B Shawnee Trail, Lk Shawnee Jefferson Twsp, NJ 07885",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9719813,
+    "longitude": -74.5902567
   },
   {
     "id": "9fc575a0-b43e-557d-9820-b113427c3f22",
@@ -303,7 +358,9 @@
     "address": "1 Jefferson Drive, Lake Hopatcong, NJ 07849",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.952855,
+    "longitude": -74.615148
   },
   {
     "id": "ca3cbb3c-cd97-5ee7-9b51-b58e228b0f47",
@@ -312,16 +369,9 @@
     "address": "1010 Weldon Rd RD2, Oak Ridge, NJ 07438-9511",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "4b8f790e-d560-5135-80f8-b6c60e38ab47",
-    "name": "Jefferson Township Intermediate School",
-    "type": "School",
-    "address": "1000 Weldon Road, Oak Ridge, NJ 07438-9511",
-    "county": "Morris",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0163671,
+    "longitude": -74.5519243
   },
   {
     "id": "4cd5c979-e628-5ac6-905f-2334ddbb9a74",
@@ -330,7 +380,9 @@
     "address": "2 Francine Place, Oak Ridge, NJ 07438-9515",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0337086,
+    "longitude": -74.5132129
   },
   {
     "id": "55aab478-9a8a-55c3-969d-683dbf6af306",
@@ -339,7 +391,9 @@
     "address": "115 Kiel Avenue, Kinnelon, NJ 07405",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0022401,
+    "longitude": -74.366012
   },
   {
     "id": "45486016-d77a-58fc-8b27-339f5edc1c8b",
@@ -348,7 +402,9 @@
     "address": "121 Kinnelon Road, Kinnelon, NJ 07405",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9959637,
+    "longitude": -74.3785109
   },
   {
     "id": "5f8c7915-5414-5fdc-8973-4919864e0232",
@@ -357,7 +413,9 @@
     "address": "117 Kiel Avenue, Kinnelon, NJ 07405",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 41.0022401,
+    "longitude": -74.366012
   },
   {
     "id": "2f268fb5-c250-5f34-9e32-6afc62a156fd",
@@ -366,7 +424,9 @@
     "address": "118 Boonton Avenue, Kinnelon, NJ 07405",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9838168,
+    "longitude": -74.3474718
   },
   {
     "id": "718e3965-fe77-5a54-a5a7-af2043fdcf45",
@@ -375,7 +435,9 @@
     "address": "274 Pinebrook Road, Lincoln Park, NJ 07035",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.910932,
+    "longitude": -74.2865371
   },
   {
     "id": "1c5e0b57-dadb-5626-9007-f1167e27642e",
@@ -384,7 +446,9 @@
     "address": "90 Ryerson Road, Lincoln Park, NJ 07035-1226",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.934625,
+    "longitude": -74.2954296
   },
   {
     "id": "f540253e-c012-505a-b99c-084017443f99",
@@ -393,7 +457,9 @@
     "address": "90 Central Avenue, Stirling, NJ 07980",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.676535,
+    "longitude": -74.4967148
   },
   {
     "id": "39790332-0768-5584-8579-26524008fbc9",
@@ -402,7 +468,9 @@
     "address": "759 Valley Road, Gillette, NJ 07933",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6722283,
+    "longitude": -74.4709643
   },
   {
     "id": "d199877f-7b2d-5de9-9c67-efc7f9bcf31c",
@@ -411,7 +479,9 @@
     "address": "91 Northfield Road, Millington, NJ 07946-1352",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.672265,
+    "longitude": -74.517608
   },
   {
     "id": "fe1bb55d-6320-5457-8a27-193cb7cd0148",
@@ -420,7 +490,9 @@
     "address": "50 Central Avenue, Madison, NJ 07940",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7606001,
+    "longitude": -74.4125966
   },
   {
     "id": "b5795767-f7bb-518e-b77e-2e464c83648b",
@@ -429,7 +501,9 @@
     "address": "215 Kings Road, Madison, NJ 07940",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.748978,
+    "longitude": -74.4037445
   },
   {
     "id": "9c971dc1-de94-552b-bf2a-f6b911bbca38",
@@ -438,7 +512,9 @@
     "address": "170 Ridgedale Avenue, Madison, NJ 07940",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7711072,
+    "longitude": -74.4091314
   },
   {
     "id": "bd9a9e44-b955-549b-83b0-750c17fd12b8",
@@ -447,7 +523,9 @@
     "address": "160 Main Street, Madison, NJ 07940",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7600519,
+    "longitude": -74.4169311
   },
   {
     "id": "a7c1ba77-1c1c-5dba-8d8d-353a82723be2",
@@ -456,7 +534,9 @@
     "address": "Glenwild Circle, Madison, NJ 07940-2422",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7557575,
+    "longitude": -74.4279389
   },
   {
     "id": "05049840-17e8-5fe0-a9b1-a5f4868d74ab",
@@ -465,7 +545,9 @@
     "address": "12 Hilltop Road, Mendham, NJ 07945-1215",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.77364,
+    "longitude": -74.599394
   },
   {
     "id": "8cea9015-53e7-5d9c-9c60-0cbe79e85eda",
@@ -474,7 +556,9 @@
     "address": "100 Dean Road, Mendham, NJ 07945-1626",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.78201,
+    "longitude": -74.602068
   },
   {
     "id": "4c417da3-fd35-5b48-8999-a4f880dd5db1",
@@ -483,7 +567,9 @@
     "address": "18 West Main Street, Brookside, NJ 07926",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.793892,
+    "longitude": -74.571862
   },
   {
     "id": "78c96987-01a5-5447-8ca5-a80fdf0f7852",
@@ -492,7 +578,9 @@
     "address": "16 Washington Valley Road, Brookside, NJ 07926",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8001283,
+    "longitude": -74.5521695
   },
   {
     "id": "f4b96767-43db-5fc4-8220-045588d7e43c",
@@ -501,7 +589,9 @@
     "address": "42 Canfield Avenue, Mine Hill, NJ 07803",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.877539,
+    "longitude": -74.602529
   },
   {
     "id": "876a8110-cb37-5fe2-9dee-e66e92da4032",
@@ -510,7 +600,9 @@
     "address": "46 Pine Brook Road, Towaco, NJ 07082-1426",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9162489,
+    "longitude": -74.3411432
   },
   {
     "id": "b6843a45-b6ce-57ae-a1a4-8a2b96ae2ae4",
@@ -519,7 +611,9 @@
     "address": "123 Konner Avenue, Pine Brook, NJ 07058-9433",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.879951,
+    "longitude": -74.353322
   },
   {
     "id": "1323dfd0-3e2b-5562-8738-51287a611366",
@@ -528,7 +622,9 @@
     "address": "100 Horseneck Road, Montville, NJ 07045-9626",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8937113,
+    "longitude": -74.3596404
   },
   {
     "id": "49df198e-4896-54b9-b39d-f88f366d9df3",
@@ -537,7 +633,9 @@
     "address": "123 Changebridge Road, Montville, NJ 07045-9560",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8982808,
+    "longitude": -74.3646292
   },
   {
     "id": "9cbc612d-25a5-5819-81a0-e44e51081c05",
@@ -546,7 +644,9 @@
     "address": "30 Montgomery Avenue, Montville Township, NJ 07045",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8934022,
+    "longitude": -74.3490466
   },
   {
     "id": "a468a6df-334a-5adf-97f0-86984b25bdf5",
@@ -555,7 +655,9 @@
     "address": "5 Shawnee Trail, Montville, NJ 07045-9739",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.924581,
+    "longitude": -74.384689
   },
   {
     "id": "b3ffc75a-d507-5f31-b672-a5bbc5dc0a12",
@@ -564,7 +666,9 @@
     "address": "39 Woodmont Road, Pine Brook, NJ 07058",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8720938,
+    "longitude": -74.3483342
   },
   {
     "id": "f0b3e440-e102-55b5-bea9-f1bce4814649",
@@ -573,16 +677,9 @@
     "address": "520 West Main Street, Rockaway, NJ 07866-3799",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "1deb018e-bce2-5f35-b2d4-5c3e5c2bf3ed",
-    "name": "Academy For Performing Arts",
-    "type": "School",
-    "address": "50 Knoll Drive, Rockaway, NJ 07866-4099",
-    "county": "Morris",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8902612,
+    "longitude": -74.5292402
   },
   {
     "id": "311a6a72-4f26-5c53-a222-66eec7036f05",
@@ -591,7 +688,9 @@
     "address": "400 E. Main St., Denville, NJ 07434",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.87952,
+    "longitude": -74.479724
   },
   {
     "id": "5c6a5a2d-a28b-5d3d-ad8a-9fe1b1577c92",
@@ -600,7 +699,9 @@
     "address": "214 Center Grove Rd., Randolph, NJ 07869",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8589719,
+    "longitude": -74.584227
   },
   {
     "id": "4e9e511d-4c19-5911-aa96-3a6653a45475",
@@ -609,7 +710,9 @@
     "address": "400 East Main Street, Denville, NJ 07834-2516",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.87952,
+    "longitude": -74.479724
   },
   {
     "id": "21606f0f-ccd4-5f71-b735-ceccc85cc81e",
@@ -618,16 +721,9 @@
     "address": "520 West Main Street, Rockaway, NJ 07866-3799",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "fd84c0ab-0eea-514c-8e8d-81d4e0f0a357",
-    "name": "Morris Hills Regional District Adult High School",
-    "type": "School",
-    "address": "50 Knoll Drive, Rockaway, NJ 07866",
-    "county": "Morris",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8902612,
+    "longitude": -74.5292402
   },
   {
     "id": "b63bae38-ac1d-5108-8fda-cbf59e7ef628",
@@ -636,7 +732,9 @@
     "address": "50 Knoll Drive, Rockaway, NJ 07866",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8856123,
+    "longitude": -74.5085962
   },
   {
     "id": "aba241ee-fcd6-550c-8654-9b6df1a598c6",
@@ -645,7 +743,9 @@
     "address": "500 Speedwell Avenue, Morris Plains, NJ 07950-2134",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8256172,
+    "longitude": -74.481778
   },
   {
     "id": "5c5c32b6-004e-5ac9-ad39-383a9283949e",
@@ -654,7 +754,9 @@
     "address": "205 Mountain Way, Morris Plains, NJ 07950",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8349576,
+    "longitude": -74.4849907
   },
   {
     "id": "83f0903b-09f8-5b1a-9f98-3774544e96dd",
@@ -663,7 +765,9 @@
     "address": "24 Mills Street, Morristown, NJ 07960",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8016303,
+    "longitude": -74.4895814
   },
   {
     "id": "5d6fdcf3-9d2a-5691-9f84-bf89b4efe1b0",
@@ -672,7 +776,9 @@
     "address": "125 Speedwell Avenue, Morris Plains, NJ 07950",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8256254,
+    "longitude": -74.4801558
   },
   {
     "id": "e4d2ca16-4b08-5bf5-88f2-aecc73a9d9bd",
@@ -681,7 +787,9 @@
     "address": "West Hanover Avenue, Morristown, NJ 07960",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.82227,
+    "longitude": -74.500398
   },
   {
     "id": "01cef7ee-f62e-5e3f-8e4c-90db05c8d7a5",
@@ -690,7 +798,9 @@
     "address": "160 Hillcrest Avenue, Morristown, NJ 07960",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7912745,
+    "longitude": -74.5001343
   },
   {
     "id": "d48353a9-e161-5ed4-ad2f-b41227118ae3",
@@ -699,7 +809,9 @@
     "address": "31 Hazel Street, Morristown, NJ 07960",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8053335,
+    "longitude": -74.4758703
   },
   {
     "id": "b9d6b4c0-ac46-5c68-90c8-ea6db3d2e456",
@@ -708,7 +820,9 @@
     "address": "50 Early Street, Morristown, NJ 07960",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8019386,
+    "longitude": -74.4855667
   },
   {
     "id": "be98574a-deee-527b-a8a0-d9181814e42f",
@@ -717,7 +831,9 @@
     "address": "19A Normandy Parkway, Morristown, NJ 07960",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7893411,
+    "longitude": -74.4567133
   },
   {
     "id": "eab152ab-64e8-5766-bcc1-00d1de6d58a8",
@@ -726,7 +842,9 @@
     "address": "125 Sussex Avenue, Morristown, NJ 07960",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8051141,
+    "longitude": -74.484202
   },
   {
     "id": "58dba0b6-da72-518b-a920-c5950a235c82",
@@ -735,7 +853,9 @@
     "address": "James Street & Ogden Place, Morristown, NJ 07960",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7866173,
+    "longitude": -74.4806977
   },
   {
     "id": "298477c5-3b98-527f-b06f-261c89503a34",
@@ -744,7 +864,9 @@
     "address": "51 Johnston Drive, Convent Station, NJ 07961",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7842609,
+    "longitude": -74.4637632
   },
   {
     "id": "d8dbf020-2e0f-5149-84e7-235486d8682b",
@@ -753,7 +875,9 @@
     "address": "446 Howard Boulevard, Mt Arlington, NJ 07856",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9343391,
+    "longitude": -74.6287509
   },
   {
     "id": "60241c3b-fe9c-5c67-bf7a-db6704d113e2",
@@ -762,7 +886,9 @@
     "address": "235 Howard Boulevard, Mt Arlington, NJ 07856",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9181796,
+    "longitude": -74.6380692
   },
   {
     "id": "3666cab2-04bb-51b8-956b-4f784844d400",
@@ -771,7 +897,9 @@
     "address": "99 Sunset Drive, Budd Lake, NJ 07828",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8595791,
+    "longitude": -74.7287832
   },
   {
     "id": "8edaed56-f669-5dee-ae9b-1093fdace53f",
@@ -780,7 +908,9 @@
     "address": "18 Corey Road, Flanders, NJ 07836",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8601629,
+    "longitude": -74.7135611
   },
   {
     "id": "c1de5e3d-a929-58aa-88e0-7b845baca2f3",
@@ -789,7 +919,9 @@
     "address": "160 Wolfe Road, Budd Lake, NJ 07828",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8624191,
+    "longitude": -74.7505888
   },
   {
     "id": "3df4fa7a-fc18-583c-94a8-18320620a2e7",
@@ -798,16 +930,9 @@
     "address": "118 Clover Hill Drive, Flanders, NJ 07836",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "5310343e-e63c-5f7f-a1c2-f18db16d947c",
-    "name": "Sandshore Rd. Elementary School",
-    "type": "School",
-    "address": "498 Sandshore Road, Budd Lake, NJ 07828",
-    "county": "Morris",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8254267,
+    "longitude": -74.7033351
   },
   {
     "id": "121913b0-e7d1-57fe-8436-9032e52413b7",
@@ -816,7 +941,9 @@
     "address": "24 Tinc Road, Flanders, NJ 07836",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8482068,
+    "longitude": -74.7228177
   },
   {
     "id": "69bfe46d-eecc-5295-a046-e427ff684985",
@@ -825,7 +952,9 @@
     "address": "93 Briarcliff Rd., Mountain Lakes, NJ 07046",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8911641,
+    "longitude": -74.4315152
   },
   {
     "id": "513a5265-f64e-5d01-bf8e-8fc8e3da0da1",
@@ -834,7 +963,9 @@
     "address": "10 Lake Drive, Mountain Lakes, NJ 07046-1342",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8916517,
+    "longitude": -74.4377054
   },
   {
     "id": "435586d8-1799-51d5-8c10-a3fcbd7d61f9",
@@ -843,7 +974,9 @@
     "address": "96 Powerville Rd., Mountain Lakes, NJ 07046",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.895178,
+    "longitude": -74.427255
   },
   {
     "id": "423eb959-9933-5af0-af86-e6d527456d01",
@@ -852,7 +985,9 @@
     "address": "51 Glen Rd., Mountain Lakes, NJ 07046",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8942667,
+    "longitude": -74.4324713
   },
   {
     "id": "959f090b-f00a-5353-9bf5-3993acb7db87",
@@ -861,7 +996,9 @@
     "address": "26 College Road, Netcong, NJ 07857-1621",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8992192,
+    "longitude": -74.6992652
   },
   {
     "id": "43a8f7e9-53a5-52e2-a628-1f3ba1d5eba4",
@@ -870,7 +1007,9 @@
     "address": "250 Beachwood Road, Parsippany, NJ 07054-2459",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8558886,
+    "longitude": -74.4498529
   },
   {
     "id": "d5877a1b-a59a-5baa-b954-cad7d6c31d4e",
@@ -879,7 +1018,9 @@
     "address": "1620 Route 46, Parsippany, NJ 07054",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8678076,
+    "longitude": -74.4055343
   },
   {
     "id": "8353fbac-afa3-57d7-a994-b66ebbff2f07",
@@ -888,7 +1029,9 @@
     "address": "40 Eba Road, Parsippany, NJ 07054-2619",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8628233,
+    "longitude": -74.4284493
   },
   {
     "id": "1920edac-ca80-5727-b940-4bdfd9aae197",
@@ -897,7 +1040,9 @@
     "address": "60 Pitt Rd, Boonton, NJ 07005",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8820435,
+    "longitude": -74.4229309
   },
   {
     "id": "3a445c36-cfb6-522a-93a2-d7ee63d4ea90",
@@ -906,7 +1051,9 @@
     "address": "445 Knoll Road, Lake Hiawatha, NJ 07034",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8825267,
+    "longitude": -74.3951318
   },
   {
     "id": "45604c00-39e6-5b9b-a9ef-88ad182fea2f",
@@ -915,7 +1062,9 @@
     "address": "1 Lincoln Avenue, Lake Hiawatha, NJ 07034",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8751264,
+    "longitude": -74.3855727
   },
   {
     "id": "99db6833-35d7-575e-a58a-ef051a07a23d",
@@ -924,7 +1073,9 @@
     "address": "225 Kingston Road, Parsippany, NJ 07054",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8589338,
+    "longitude": -74.4401525
   },
   {
     "id": "2a59a995-491d-5144-b617-3171a65893f3",
@@ -933,7 +1084,9 @@
     "address": "250 Brooklawn Drive, Morris Plains, NJ 07950",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9619767,
+    "longitude": -74.3109939
   },
   {
     "id": "2b152658-66ba-5e09-a4b0-29930ba100e3",
@@ -942,7 +1095,9 @@
     "address": "900 Park Rd & Route 53, Po Box 509, Mount Tabor, NJ 07878",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8684326,
+    "longitude": -74.4732105
   },
   {
     "id": "148834a7-ea95-59f2-a57e-a087afec45d5",
@@ -951,7 +1106,9 @@
     "address": "10 Eileen Court, Parsippany, NJ 07054-1430",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8718715,
+    "longitude": -74.3993859
   },
   {
     "id": "69d51c9c-88d0-52f8-a07d-7fb2e19277ef",
@@ -960,7 +1117,9 @@
     "address": "309 Baldwin Rd, Parsippany, NJ 07054",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8701216,
+    "longitude": -74.3906671
   },
   {
     "id": "a42bcf8e-acca-5177-8086-6ce6f3e7e50d",
@@ -969,7 +1128,9 @@
     "address": "20 Rita Drive, Morris Plains, NJ 07950",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8630905,
+    "longitude": -74.4579019
   },
   {
     "id": "ddb1f4a0-2ccc-5f3d-8322-0a80ee42240d",
@@ -978,7 +1139,9 @@
     "address": "160 Edwards Road, Parsippany, NJ 07054-2205",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8670628,
+    "longitude": -74.3693968
   },
   {
     "id": "3561f99c-fcfe-59d9-8cda-923cd25e33cb",
@@ -987,7 +1150,9 @@
     "address": "509 S Beverwyck Road, Parsippany, NJ 07054-3327",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8510316,
+    "longitude": -74.3931681
   },
   {
     "id": "a377dd3d-e5b0-5a1d-bac1-9fc178a71ac4",
@@ -996,7 +1161,9 @@
     "address": "206 Boulevard, Pompton Plains, NJ 07444-1903",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9585175,
+    "longitude": -74.300388
   },
   {
     "id": "d9a8dab2-668d-5ac3-a72c-9d74c0ce3c97",
@@ -1005,7 +1172,9 @@
     "address": "363 Boulevard, Pompton Plains, NJ 07444-1701",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.974368,
+    "longitude": -74.303113
   },
   {
     "id": "d740398a-72c4-548b-9e26-99a323bb113d",
@@ -1014,7 +1183,9 @@
     "address": "85 Sunset Road, Pompton Plains, NJ 07444-1652",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9599614,
+    "longitude": -74.3061184
   },
   {
     "id": "4b0d2b6c-29f9-5e43-96b6-be414a34b656",
@@ -1023,7 +1194,9 @@
     "address": "493 Newark Pompton Tpke., Pompton Plains, NJ 07444-1923",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.958408,
+    "longitude": -74.29412
   },
   {
     "id": "215cdf57-5303-50d8-941a-ddd2295716b7",
@@ -1032,7 +1205,9 @@
     "address": "59 Boulevard, Pequannock, NJ 07440-1531",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9469871,
+    "longitude": -74.2980739
   },
   {
     "id": "7957107b-3aee-5591-90f3-7a969bd068ca",
@@ -1041,7 +1216,9 @@
     "address": "25 School House Road, Randolph, NJ 07869",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8445439,
+    "longitude": -74.5704358
   },
   {
     "id": "4fc280cf-e0ed-5679-b7c2-cd89ee1556c6",
@@ -1050,7 +1227,9 @@
     "address": "206 Quaker Church Road, Randolph, NJ 07869",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.864798,
+    "longitude": -74.563916
   },
   {
     "id": "941f070d-6f58-5ba0-8283-655bcf6bc9b6",
@@ -1059,7 +1238,9 @@
     "address": "303 Dover Chester Road, Randolph, NJ 07869",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8352352,
+    "longitude": -74.6123456
   },
   {
     "id": "b3e94826-3166-5ee0-b70c-d1d193c71919",
@@ -1068,7 +1249,9 @@
     "address": "511 Millbrook Avenue, Randolph, NJ 07869",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8464975,
+    "longitude": -74.5641132
   },
   {
     "id": "34b6dbaa-1861-5790-824a-ddc6f16dbdb4",
@@ -1077,7 +1260,9 @@
     "address": "507 Millbrook Avenue, Randolph, NJ 07869",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8467189,
+    "longitude": -74.5638655
   },
   {
     "id": "d7a969bf-c16d-55ce-a0a3-1d6d5e42ef25",
@@ -1086,7 +1271,9 @@
     "address": "9 Arrow Place, Randolph, NJ 07869",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8292278,
+    "longitude": -74.5483352
   },
   {
     "id": "1d96ee6c-dddc-5598-8515-891d766c05ab",
@@ -1095,7 +1282,9 @@
     "address": "52 Newark Pompton Turnpike, Riverdale, NJ 07457",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9929619,
+    "longitude": -74.3038458
   },
   {
     "id": "596bbbe9-a876-591b-9103-c14219114526",
@@ -1104,7 +1293,9 @@
     "address": "37 Keller Avenue, Rockaway, NJ 07866-3921",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8970657,
+    "longitude": -74.5109257
   },
   {
     "id": "bc53e7df-5e58-521f-a2bb-40abec01bfd4",
@@ -1113,7 +1304,9 @@
     "address": "95 East Main Street, Rockaway, NJ 07866-3517",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8979779,
+    "longitude": -74.5084566
   },
   {
     "id": "b533c143-be53-5627-b119-acc724e3342a",
@@ -1122,7 +1315,9 @@
     "address": "1 Art Street, Dover, NJ 07801",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8994387,
+    "longitude": -74.5393727
   },
   {
     "id": "33eca834-801f-5168-bb60-e112ee9b4bb7",
@@ -1131,7 +1326,9 @@
     "address": "665 Mt Hope Avenue, Wharton, NJ 07885",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9224299,
+    "longitude": -74.5433842
   },
   {
     "id": "2601cedf-6805-5f30-a4e0-10bbab24c503",
@@ -1140,7 +1337,9 @@
     "address": "100 Lake Shore Drive, Rockaway, NJ 07866",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9178132,
+    "longitude": -74.5221579
   },
   {
     "id": "5bb6a921-74f5-5b15-af51-798dc086c511",
@@ -1149,7 +1348,9 @@
     "address": "16 Mineral Spring Drive, Dover, NJ 07801",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9095367,
+    "longitude": -74.5451996
   },
   {
     "id": "430ff800-c70c-5fc4-952f-98f2646038de",
@@ -1158,7 +1359,9 @@
     "address": "524 Green Pond Road, Rockaway, NJ 07866",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9635588,
+    "longitude": -74.4935497
   },
   {
     "id": "0b966fec-f92d-560c-9cd9-9d44c5afaafd",
@@ -1167,7 +1370,9 @@
     "address": "44 Stony Brook Road, Rockaway, NJ 07866",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9152171,
+    "longitude": -74.5216558
   },
   {
     "id": "1d306b89-3ee0-5846-ada2-41f29697500c",
@@ -1176,7 +1381,9 @@
     "address": "47 Eyland Avenue, Succasunna, NJ 07876-1624",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8606401,
+    "longitude": -74.6365272
   },
   {
     "id": "d4af4356-b8bf-5aea-9ecd-c748f18a03dd",
@@ -1185,7 +1392,9 @@
     "address": "8 Meeker Street, Succasunna, NJ 07876-1419",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8692032,
+    "longitude": -74.6328178
   },
   {
     "id": "6cc0d57b-3364-58c0-a8fa-7272e3dd48d6",
@@ -1194,7 +1403,9 @@
     "address": "35 Corn Hollow Road, Succasunna, NJ 07876",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8575069,
+    "longitude": -74.6633711
   },
   {
     "id": "3657553a-4859-5405-892a-6345fa137edf",
@@ -1203,7 +1414,9 @@
     "address": "20 Pleasant Hill Road, Succasunna, NJ 07876",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8459327,
+    "longitude": -74.6571053
   },
   {
     "id": "6e6ae105-d800-5031-a917-629a19d01223",
@@ -1212,7 +1425,9 @@
     "address": "34 North Hillside Avenue, Succasunna, NJ 07876-1446",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8724934,
+    "longitude": -74.6371622
   },
   {
     "id": "3eb26caf-0136-5b8d-a950-0e37477b6181",
@@ -1221,7 +1436,9 @@
     "address": "275 Mt Arlington Boulevard, Landing, NJ 07850",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.916727,
+    "longitude": -74.6528123
   },
   {
     "id": "2968183b-5cc3-5f27-a588-236e0a2b1c92",
@@ -1230,7 +1447,9 @@
     "address": "One Bryant Drive, Succasunna, NJ 07876-1640",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8629525,
+    "longitude": -74.6433446
   },
   {
     "id": "2ddd9dfc-bc95-589d-acef-243f8fa7d189",
@@ -1239,7 +1458,9 @@
     "address": "255 Lafayette Avenue, Chatham, NJ 07928",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7386199,
+    "longitude": -74.3922386
   },
   {
     "id": "fd428125-6c8d-52f8-914e-1ce0475406e3",
@@ -1248,7 +1469,9 @@
     "address": "480 Main Street, Chatham, NJ 07928-2120",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7459332,
+    "longitude": -74.3897996
   },
   {
     "id": "7aa3e642-558c-5b2e-8f58-d804083dbd2b",
@@ -1257,7 +1480,9 @@
     "address": "221 Lafayette Avenue, Chatham, NJ 07928-1830",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7432846,
+    "longitude": -74.3899436
   },
   {
     "id": "231ba04e-5a71-5c96-8e0b-1b0537c3de84",
@@ -1266,7 +1491,9 @@
     "address": "16 Milton Avenue, Chatham, NJ 07928",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7468894,
+    "longitude": -74.37888
   },
   {
     "id": "2549335b-02a7-533f-88df-282ee65de9a5",
@@ -1275,7 +1502,9 @@
     "address": "192 Southern Boulevard, Chatham, NJ 07928-1324",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7295777,
+    "longitude": -74.4134755
   },
   {
     "id": "266e5762-913a-5113-8348-5b0a195864b5",
@@ -1284,7 +1513,9 @@
     "address": "102 Washington Avenue, Chatham, NJ 07928",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.736437,
+    "longitude": -74.3907795
   },
   {
     "id": "6a40ae65-ab8a-59df-8427-6ea36eedff53",
@@ -1293,7 +1524,9 @@
     "address": "470 Naughright Road, Long Valley, NJ 07853",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8378096,
+    "longitude": -74.777967
   },
   {
     "id": "9f5fc0e3-22c5-5b81-9dbd-6a3f1ebc0b08",
@@ -1302,7 +1535,9 @@
     "address": "90 Flocktown Road, Long Valley, NJ 07853-8919",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8111777,
+    "longitude": -74.8039114
   },
   {
     "id": "8ad92797-1e4a-54e3-a736-393c6cb6f151",
@@ -1311,7 +1546,9 @@
     "address": "51 West Mill Rd, Long Valley, NJ 07853-9200",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7833446,
+    "longitude": -74.7847433
   },
   {
     "id": "cf94730a-25bf-5eb2-88e1-c65ae1ab000d",
@@ -1320,7 +1557,9 @@
     "address": "51 Old Farmers Road, Long Valley, NJ 07853",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7711,
+    "longitude": -74.763196
   },
   {
     "id": "4bcf71d7-bd18-5dea-b144-a802b0a5565e",
@@ -1329,7 +1568,9 @@
     "address": "259 Bartley Road, Chester, NJ 07930",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8098887,
+    "longitude": -74.7285184
   },
   {
     "id": "f0040bd3-7c40-5d62-a2fb-11c86ed2cd5a",
@@ -1338,7 +1579,9 @@
     "address": "65 East Main Street, Mendham, NJ 07945",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.795056,
+    "longitude": -74.566691
   },
   {
     "id": "227b4212-c17b-5997-a80d-2ecea5b9184d",
@@ -1347,7 +1590,9 @@
     "address": "137 East Central Avenue, Wharton, NJ 07885-2431",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8943584,
+    "longitude": -74.5753599
   },
   {
     "id": "f3446f57-79a6-5b34-bae6-4e1d88303225",
@@ -1356,7 +1601,9 @@
     "address": "137 East Central Avenue, Wharton, NJ 07885-2431",
     "county": "Morris",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8943584,
+    "longitude": -74.5753599
   },
   {
     "id": "77674848-fd7e-5e0c-b43d-e156b426d99a",
@@ -1365,7 +1612,9 @@
     "address": "214 Center Grove Road, Randolph, NJ 07869",
     "county": "Morris",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8589719,
+    "longitude": -74.584227
   },
   {
     "id": "bbd81b02-170b-5056-89bd-b8a5952adb0c",
@@ -1374,7 +1623,9 @@
     "address": "36 Madison Avenue, Madison, NJ 07940",
     "county": "Morris",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7600354,
+    "longitude": -74.4257435
   },
   {
     "id": "15b797b4-9990-5882-904b-238ce0dd3bc3",
@@ -1383,7 +1634,9 @@
     "address": "285 Madison Avenue, Madison, NJ 07940",
     "county": "Morris",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7641657,
+    "longitude": -74.4240238
   },
   {
     "id": "a9a3a17a-eb34-5050-acda-b283c4fff364",
@@ -1392,16 +1645,9 @@
     "address": "Washington And Court Streets, Morristown, NJ 07960",
     "county": "Morris",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
-  },
-  {
-    "id": "96c6d6e8-1c72-5038-af3e-1d3fa8eeb728",
-    "name": "Boonton Municipal Court",
-    "type": "Courthouse",
-    "address": "3333 Rt 46, Parsippany, NJ 07054",
-    "county": "Morris",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7974884,
+    "longitude": -74.4850917
   },
   {
     "id": "f72008a3-f268-5feb-a539-a8b6172ee77f",
@@ -1410,16 +1656,9 @@
     "address": "155 Powerville Rd, Boonton, NJ 07005",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "c6b06014-8dfa-54d7-a1a4-bb117976349f",
-    "name": "Butler Boro Municipal Court",
-    "type": "Courthouse",
-    "address": "91 Newark-pompton Tp, Riverdale, NJ 07457",
-    "county": "Morris",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9125866,
+    "longitude": -74.4272513
   },
   {
     "id": "9e4d12c1-ba54-5f32-9a0f-7f23e4b63d36",
@@ -1428,7 +1667,9 @@
     "address": "50 Kings Road, Madison, NJ 07940",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7581648,
+    "longitude": -74.4163872
   },
   {
     "id": "d0b73186-3a87-5381-81df-6694800d8679",
@@ -1437,7 +1678,9 @@
     "address": "50 Kings Road, Madison, NJ 07940",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7581648,
+    "longitude": -74.4163872
   },
   {
     "id": "491e6c63-7c1a-5ec5-963c-e98654b25181",
@@ -1446,7 +1689,9 @@
     "address": "1 Parker Road, Chester, NJ 07930",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7785122,
+    "longitude": -74.7229099
   },
   {
     "id": "f2af1ec2-3352-52ad-ba34-bb448b32ae24",
@@ -1455,16 +1700,9 @@
     "address": "1 Parker Rd, Chester, NJ 07930",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "4b669dce-01e1-5fa5-97b7-805c2a5765ec",
-    "name": "Denville Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "1 Saint Mary's Place, Denville, NJ 07834",
-    "county": "Morris",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7785122,
+    "longitude": -74.7229099
   },
   {
     "id": "0a396ce4-d9d8-5b82-bfd7-b8a31760419e",
@@ -1473,16 +1711,9 @@
     "address": "37 N. Sussex St., Dover, NJ 07801",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "b8ab81c5-3f2f-5397-ba2a-f73a6518d8c6",
-    "name": "East Hanover Municipal Court",
-    "type": "Courthouse",
-    "address": "1000 Rte #10, Whippany, NJ 07981",
-    "county": "Morris",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8857414,
+    "longitude": -74.5594259
   },
   {
     "id": "cae4195e-547c-530e-a792-374e78817d81",
@@ -1491,16 +1722,9 @@
     "address": "111 Ridgedale Ave, Florham Park, NJ 07932",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "6a4712ab-d6b1-5da5-865a-e948ae0882ac",
-    "name": "Hanover Municipal Court",
-    "type": "Courthouse",
-    "address": "1000 Rt #10, Whippany, NJ 07981",
-    "county": "Morris",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7839299,
+    "longitude": -74.3980326
   },
   {
     "id": "0b96b7e2-6302-5a23-b9b3-aaf18ada22e1",
@@ -1509,16 +1733,9 @@
     "address": "915 Valley Rd, Gillette, NJ 07933",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "55eafcf8-dc66-5b2c-a981-b87f2673b052",
-    "name": "Jefferson Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "1033 Weldon Rd, Lake Hopatcong, NJ 07849",
-    "county": "Morris",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6696976,
+    "longitude": -74.4774255
   },
   {
     "id": "a625f0c8-a771-505f-bf00-29fbc3f9f72c",
@@ -1527,7 +1744,9 @@
     "address": "130 Kinnelon Rd, Kinnelon, NJ 07405",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9959037,
+    "longitude": -74.3788158
   },
   {
     "id": "c581f817-363e-502a-a5a5-ba200c8c4fd8",
@@ -1536,7 +1755,9 @@
     "address": "34 Chapel Hill Rd, Lincoln Park, NJ 07035",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9208586,
+    "longitude": -74.3044205
   },
   {
     "id": "dbc2809e-f94f-5b70-a736-0fe51ef3574e",
@@ -1545,7 +1766,9 @@
     "address": "915 Valley Rd, Gillette, NJ 07933",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6696976,
+    "longitude": -74.4774255
   },
   {
     "id": "1d36e30b-66f5-51c9-9b09-2a6b1d9307a7",
@@ -1554,16 +1777,9 @@
     "address": "50 Kings Road, Madison, NJ 07940",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "35cf99d8-dff7-58c5-8754-02c7305c4836",
-    "name": "Mendham Boro Municipal Court",
-    "type": "Courthouse",
-    "address": "43 Schooleys Mtn Rd, Long Valley, NJ 07853",
-    "county": "Morris",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7581648,
+    "longitude": -74.4163872
   },
   {
     "id": "8a42e542-600b-532d-a785-ce224d6b4d34",
@@ -1572,7 +1788,9 @@
     "address": "1 Parker Road, Chester, NJ 07930",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7785122,
+    "longitude": -74.7229099
   },
   {
     "id": "6a559b78-1055-520a-90fd-729890b46c44",
@@ -1581,7 +1799,9 @@
     "address": "65 Mt. Hope Rd., Rockaway, NJ 07866",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9125947,
+    "longitude": -74.530052
   },
   {
     "id": "34790c60-6222-52c7-a3b6-af04fabdc1ff",
@@ -1590,7 +1810,9 @@
     "address": "531 Speedwell Ave, Morris Plains, NJ 07950",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8261431,
+    "longitude": -74.4798747
   },
   {
     "id": "d25bcbc0-21e2-5353-af56-2a29b1e65ab8",
@@ -1599,16 +1821,9 @@
     "address": "50 Kings Road, Madison, NJ 07940",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "ce9236dc-7a41-5874-afa8-05d2ce7ed9b7",
-    "name": "Mountain Lakes Municipal Court",
-    "type": "Courthouse",
-    "address": "1 Saint Mary's Place, Denville, NJ 07834",
-    "county": "Morris",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7581648,
+    "longitude": -74.4163872
   },
   {
     "id": "93040548-ae69-53d6-b356-cc75159c30f9",
@@ -1617,34 +1832,9 @@
     "address": "419 Howard Boulevard, Mt. Arlington, NJ 00000",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "818b2ff2-0da9-5d79-a49d-7c43cfcc439f",
-    "name": "Mt Olive Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "204 Flanders-drakest, Budd Lake, NJ 07828",
-    "county": "Morris",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "01673fbe-a123-5c1a-8386-96357ba5f51f",
-    "name": "Netcong Boro Municipal Court",
-    "type": "Courthouse",
-    "address": "204 Flanders-drakest, Budd Lake, NJ 07828",
-    "county": "Morris",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "158c2676-c7b1-5a9e-a75f-cc24c18905c4",
-    "name": "Pequannock Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "530 Newark Pmptn Tpk, Pompton Plains, NJ 07444",
-    "county": "Morris",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9317745,
+    "longitude": -74.6302435
   },
   {
     "id": "5f7bee2f-a281-5bf3-ac96-a2beae0f327f",
@@ -1653,16 +1843,9 @@
     "address": "502 Millbrook Ave, Randolph, NJ 07869",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "6ccec8b0-b929-56b8-a1f6-93b918919455",
-    "name": "Riverdale Boro Municipal Court",
-    "type": "Courthouse",
-    "address": "91 Newark-pompton Tp, Riverdale, NJ 07457",
-    "county": "Morris",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.8476055,
+    "longitude": -74.5626105
   },
   {
     "id": "edee99fe-c7b4-5e05-8ab7-d920e5e91db7",
@@ -1671,7 +1854,9 @@
     "address": "65 Mt. Hope Rd, Rockaway, NJ 07866",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9125947,
+    "longitude": -74.530052
   },
   {
     "id": "2c9188b4-e180-58b2-a758-a1dfdb28b9a1",
@@ -1680,25 +1865,9 @@
     "address": "65 Mt Hope Rd, Rockaway, NJ 07866",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "1a896330-5067-5aff-9753-632877fc981c",
-    "name": "Roxbury Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "1715 Route #46w, Ledgewood, NJ 07852",
-    "county": "Morris",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "a3632fc1-7640-5c29-b1ef-e03a7cd49d0e",
-    "name": "Washington Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "43 Schooleys Mtn Rd, Long Valley, NJ 07853",
-    "county": "Morris",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9125947,
+    "longitude": -74.530052
   },
   {
     "id": "d484692e-23f2-588f-bfb3-c89775f4106b",
@@ -1707,7 +1876,9 @@
     "address": "419 Howard Boulevard, Mt. Arlington, NJ 07856",
     "county": "Morris",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.9317745,
+    "longitude": -74.6302435
   },
   {
     "id": "7088e13e-ab38-5d26-b5d5-4b49f5a77964",
@@ -1716,7 +1887,9 @@
     "address": "27 Airport Road, Morristown, NJ 07960",
     "county": "Morris",
     "source": "nj_airports_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7998085,
+    "longitude": -74.4225094
   },
   {
     "id": "020ba75f-560a-5907-b7a7-b59f4e2afbd4",
@@ -1725,6 +1898,8 @@
     "address": "10 Court Street, Morristown, NJ 07960",
     "county": "Morris",
     "source": "nj_government_buildings_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.79676,
+    "longitude": -74.484724
   }
 ]

@@ -6,7 +6,9 @@
     "address": "1003 Sunset Avenue, Asbury Park, NJ 07712-5099",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2278351,
+    "longitude": -74.0132263
   },
   {
     "id": "ffbec795-f70f-5f3e-b278-21c4e52150db",
@@ -15,7 +17,9 @@
     "address": "1100 Third Avenue, Asbury Park, NJ 07712-5798",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.224438,
+    "longitude": -74.0164478
   },
   {
     "id": "3c47f6a4-2c40-5d1f-978d-1cf62b102d38",
@@ -24,7 +28,9 @@
     "address": "1200 Bangs Avenue, Asbury Park, NJ 07712-6314",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2185225,
+    "longitude": -74.0220873
   },
   {
     "id": "9566dd4b-e4bd-586e-95bc-4983fda263ba",
@@ -33,7 +39,9 @@
     "address": "600 Monroe Avenue, Asbury Park, NJ 07712",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.218245,
+    "longitude": -74.00974
   },
   {
     "id": "35538b15-4d83-5c71-9b99-332992abf202",
@@ -42,7 +50,9 @@
     "address": "505 Lincoln Avenue, Avon, NJ 07717-1150",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1904807,
+    "longitude": -74.020953
   },
   {
     "id": "8d4db98f-98f1-5d2f-9be9-3e97024971cc",
@@ -51,7 +61,9 @@
     "address": "100 Tornillo Way, Tinton Falls, NJ 07712",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2664843,
+    "longitude": -74.0808939
   },
   {
     "id": "3eef9c6f-bb52-54ef-91f2-c245298ff821",
@@ -60,7 +72,9 @@
     "address": "1101 Main Street, Belmar, NJ 07719-2727",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1780407,
+    "longitude": -74.026891
   },
   {
     "id": "57c604fe-7138-5681-9fc3-d3524d3a6096",
@@ -69,7 +83,9 @@
     "address": "515 Brinley Avenue, Bradley Beach, NJ 07720-1311",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2024917,
+    "longitude": -74.0148156
   },
   {
     "id": "c6aeaa7a-61c9-5cd6-bfe7-a1290e6bfd91",
@@ -78,7 +94,9 @@
     "address": "605 Union Lane, Brielle, NJ 08730-1439",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1118114,
+    "longitude": -74.0604553
   },
   {
     "id": "f19860ee-4516-5653-a71a-52916f804031",
@@ -87,7 +105,9 @@
     "address": "73 Cedar Drive, Colts Neck, NJ 07722-1698",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2974906,
+    "longitude": -74.207998
   },
   {
     "id": "c8e4eea5-56ef-590c-980d-6959a419a5e4",
@@ -96,7 +116,9 @@
     "address": "76 Conover Road, Colts Neck, NJ 07722-1250",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3170543,
+    "longitude": -74.1927048
   },
   {
     "id": "b9c672e3-3663-5249-9496-4866728c7ab0",
@@ -105,7 +127,9 @@
     "address": "56 Conover Road, Colts Neck, NJ 07722-1250",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3163753,
+    "longitude": -74.192339
   },
   {
     "id": "54153411-5de6-5ab6-8c86-484bb91d57fc",
@@ -114,7 +138,9 @@
     "address": "201 Roseld Avenue, Deal, NJ 07723-1098",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2478515,
+    "longitude": -74.0057403
   },
   {
     "id": "447f6db6-49cc-5477-9516-1cd34aace4f3",
@@ -123,7 +149,9 @@
     "address": "3 Grant Avenue, Eatontown, NJ 07724-1399",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2961456,
+    "longitude": -74.0635471
   },
   {
     "id": "639c1c08-fadc-5443-85cb-7cabfc7b5a33",
@@ -132,7 +160,9 @@
     "address": "65 Wyckoff Road, Eatontown, NJ 07724-1736",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2946363,
+    "longitude": -74.0520907
   },
   {
     "id": "e6da4d36-9d1e-52de-b499-8d9d00a9446c",
@@ -141,7 +171,9 @@
     "address": "7 Grant Avenue, Eatontown, NJ 07724-1398",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.295743,
+    "longitude": -74.06372
   },
   {
     "id": "5ce63030-9263-51be-8f13-88c9daad93cf",
@@ -150,7 +182,9 @@
     "address": "65 Raleigh Court, Eatontown, NJ 07724-2192",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.28112,
+    "longitude": -74.0596559
   },
   {
     "id": "2a0aa472-3784-5cec-9877-ba8c4c2b4231",
@@ -159,7 +193,9 @@
     "address": "224 Hance Road, Fair Haven, NJ 07704-3198",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.356055,
+    "longitude": -74.0419661
   },
   {
     "id": "a8ae0a19-f7d1-5b23-a80b-7416d3743ee6",
@@ -168,7 +204,9 @@
     "address": "25 Willow Street, Fair Haven, NJ 07704-3599",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3641484,
+    "longitude": -74.033821
   },
   {
     "id": "04732c09-52c5-5ef1-9cb9-4856bacc6e20",
@@ -177,7 +215,9 @@
     "address": "49 Academy Street, Farmingdale, NJ 07727",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.195807,
+    "longitude": -74.1694214
   },
   {
     "id": "5cc28886-a0f6-5053-bf7a-b82d1172877f",
@@ -186,7 +226,9 @@
     "address": "280 Park Avenue, Freehold, NJ 07728-2096",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2524922,
+    "longitude": -74.28131
   },
   {
     "id": "7f7dfc02-9167-5357-b9ed-bdce8c40961d",
@@ -195,7 +237,9 @@
     "address": "30 Dutch Lane Rd., Freehold, NJ 07728-2212",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2676157,
+    "longitude": -74.2659836
   },
   {
     "id": "9d44665d-a82a-55f5-ae6f-9bd85fac737f",
@@ -204,7 +248,9 @@
     "address": "280 Park Ave., Freehold, NJ 07728-2006",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2524922,
+    "longitude": -74.28131
   },
   {
     "id": "1a31b547-1665-5a1a-adf0-25a922bc0d88",
@@ -213,7 +259,9 @@
     "address": "59 Five Points Road, Colts Neck, NJ 07722-1710",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2773686,
+    "longitude": -74.2100023
   },
   {
     "id": "c6e7f5fa-bf66-5bfb-bdec-bf6ac8ce4f0b",
@@ -222,7 +270,9 @@
     "address": "2 Robertsville Road, Freehold, NJ 07728-1899",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.266534,
+    "longitude": -74.2681862
   },
   {
     "id": "2a1fdf24-f7a6-503e-b526-aa90eeedca33",
@@ -231,7 +281,9 @@
     "address": "281 Elton Adelphia Road, Freehold Twp., NJ 07728-1899",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.22121,
+    "longitude": -74.2804481
   },
   {
     "id": "52f681af-ebeb-5cca-b44a-751d90f6900f",
@@ -240,7 +292,9 @@
     "address": "405 Squankum Yellowbrook Road, Farmingdale, NJ 07727-3756",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1868507,
+    "longitude": -74.1788301
   },
   {
     "id": "e808fc4f-ac19-5866-a3f0-d9b7825841aa",
@@ -249,7 +303,9 @@
     "address": "20 Church Lane, Englishtown, NJ 07726-3498",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2891857,
+    "longitude": -74.3363374
   },
   {
     "id": "8373b30c-0a41-5ccf-9658-8b8569cba0e7",
@@ -258,7 +314,9 @@
     "address": "95 North Main Street, Marlboro, NJ 07746-1055",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3200604,
+    "longitude": -74.2452213
   },
   {
     "id": "ab3436f6-5027-51a0-bb2c-1162c63cbd26",
@@ -267,7 +325,9 @@
     "address": "47 Jeanne Brennan Drive, Freehold, NJ 07728-1328",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2793676,
+    "longitude": -74.282353
   },
   {
     "id": "4e0b0a12-d7ca-50e4-aa19-42e781f25c4a",
@@ -276,7 +336,9 @@
     "address": "498 Stillwells Corner Road, Freehold, NJ 07728-2982",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.238473,
+    "longitude": -74.299061
   },
   {
     "id": "986ffa36-c6ca-53f7-b767-120216e3b29c",
@@ -285,7 +347,9 @@
     "address": "279 Burlington Road, Freehold, NJ 07728-1599",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2628704,
+    "longitude": -74.2418226
   },
   {
     "id": "118a455b-9070-5e53-812a-9fda9a36c681",
@@ -294,7 +358,9 @@
     "address": "610 Stillwells Corner Road, Freehold, NJ 07728",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2305888,
+    "longitude": -74.2950461
   },
   {
     "id": "4e54b77a-d1f6-5331-90d1-dff93ae8bb03",
@@ -303,7 +369,9 @@
     "address": "275 Burlington Road, Freehold, NJ 07728-1598",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2628836,
+    "longitude": -74.2419539
   },
   {
     "id": "d2bfa720-e7ba-5b08-9213-3c2b94794565",
@@ -312,7 +380,9 @@
     "address": "237 Stonehurst Blvd, Freehold, NJ 07728-3198",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.22721,
+    "longitude": -74.287142
   },
   {
     "id": "7c2063e5-1065-5f97-bd40-6d1477c30e83",
@@ -321,7 +391,9 @@
     "address": "271 Elton Adelphia Road, Freehold, NJ 07728-3127",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2201224,
+    "longitude": -74.2786408
   },
   {
     "id": "432fee7e-3365-5223-b51a-554e246dfd76",
@@ -330,7 +402,9 @@
     "address": "100 Castronova Way, Freehold, NJ 07728-2551",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.245025,
+    "longitude": -74.299534
   },
   {
     "id": "df85519d-9edc-596f-bf57-3fbb903baafb",
@@ -339,7 +413,9 @@
     "address": "610 Beers Street, Hazlet, NJ 07730-1405",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4153523,
+    "longitude": -74.1993461
   },
   {
     "id": "75fa8f39-26a7-5f3a-bea4-9789434d8535",
@@ -348,7 +424,9 @@
     "address": "8 Cove Road, Hazlet, NJ 07730-2137",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4317569,
+    "longitude": -74.1733354
   },
   {
     "id": "b68e19b8-0b56-5615-b0cb-2d4c2cdbcd75",
@@ -357,7 +435,9 @@
     "address": "1639 Union Avenue, Hazlet, NJ 07730-2454",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4355807,
+    "longitude": -74.1641163
   },
   {
     "id": "83efb27d-4de3-5d89-92fc-ab62ebcba5df",
@@ -366,7 +446,9 @@
     "address": "28 Lillian Drive, Hazlet, NJ 07730-2631",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4301424,
+    "longitude": -74.1497393
   },
   {
     "id": "ea44502c-d7dc-524d-b026-9b482c327a83",
@@ -375,7 +457,9 @@
     "address": "305 Middle Road, Hazlet, NJ 07730-2343",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4264132,
+    "longitude": -74.1691364
   },
   {
     "id": "5823549e-f57d-51ab-9e7f-cc952533d5d7",
@@ -384,7 +468,9 @@
     "address": "419 Middle Road, Hazlet, NJ 07730-2428",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4271563,
+    "longitude": -74.1504317
   },
   {
     "id": "10b3f236-952d-5d2e-b637-e380537ee832",
@@ -393,7 +479,9 @@
     "address": "37 Cresci Blvd, Hazlet, NJ 07730-1168",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4134478,
+    "longitude": -74.2058495
   },
   {
     "id": "27758062-96be-5a54-af11-50b994b0b7b0",
@@ -402,7 +490,9 @@
     "address": "37 Sycamore Drive, Hazlet, NJ 07730-1859",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4231649,
+    "longitude": -74.1860129
   },
   {
     "id": "a7535d45-a6b7-524d-812c-7cc3223abb04",
@@ -411,7 +501,9 @@
     "address": "140 First Avenue, Atlantic Highlands, NJ 07716-1238",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4112272,
+    "longitude": -74.0381497
   },
   {
     "id": "cdffe043-bb83-50c3-966a-e795dbf702d6",
@@ -420,7 +512,9 @@
     "address": "1 Grand Tour, Highlands, NJ 07732-2039",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.391628,
+    "longitude": -73.987954
   },
   {
     "id": "03617c93-5b13-5b1f-a156-dc6ef579ee2e",
@@ -429,7 +523,9 @@
     "address": "360 Navesink Avenue, Hwy #36, Highlands, NJ 07732-1323",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4034606,
+    "longitude": -73.9968299
   },
   {
     "id": "ed54411a-ed75-5089-b146-a6e7ec5e39fc",
@@ -438,7 +534,9 @@
     "address": "36 Crawfords Corner Road, Holmdel, NJ 07733-1999",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3791823,
+    "longitude": -74.175794
   },
   {
     "id": "0c883645-dbb7-51f1-a9dd-0326386db193",
@@ -447,7 +545,9 @@
     "address": "735 Holmdel Road, Holmdel, NJ 07733-1599",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.40557,
+    "longitude": -74.1879857
   },
   {
     "id": "9b62696d-0d8d-5cef-91a9-45939c78fcf5",
@@ -456,7 +556,9 @@
     "address": "67 Mccampbell Road, Holmdel, NJ 07733-2299",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3454872,
+    "longitude": -74.1697537
   },
   {
     "id": "4fde339c-9883-537a-bd2c-bb5254de18b8",
@@ -465,7 +567,9 @@
     "address": "24 Crawfords Corner Road, Holmdel, NJ 07733-1998",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3818474,
+    "longitude": -74.1814413
   },
   {
     "id": "9c220cf8-60d1-546d-a3ff-06672330da06",
@@ -474,7 +578,9 @@
     "address": "495 Adelphia Road, Freehold, NJ 07728",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2207739,
+    "longitude": -74.291487
   },
   {
     "id": "07eb2a4a-72c9-5d34-baa7-e336394763a9",
@@ -483,7 +589,9 @@
     "address": "615 Aldrich Road, Howell, NJ 07731-1936",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1504121,
+    "longitude": -74.2451429
   },
   {
     "id": "37561859-b1e1-5424-ba5e-cd642b49ad33",
@@ -492,7 +600,9 @@
     "address": "355 Adelphia Road, Farmingdale, NJ 07727-3528",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.203554,
+    "longitude": -74.2076341
   },
   {
     "id": "76309e4d-67cc-59e6-a15a-7dec37bbe978",
@@ -501,7 +611,9 @@
     "address": "130 Havens Bridge Road, Farmingdale, NJ 07727-3542",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2088813,
+    "longitude": -74.2405318
   },
   {
     "id": "2d62948e-74ed-5170-860a-d1095751ae2c",
@@ -510,7 +622,9 @@
     "address": "210 Ramtown Greenville Road, Howell, NJ 07731",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1135549,
+    "longitude": -74.1523898
   },
   {
     "id": "650461e9-f7d7-58a8-a2be-9e54495c15fd",
@@ -519,7 +633,9 @@
     "address": "501 Squankum Yellowbrook Road, Farmingdale, NJ 07727",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1901978,
+    "longitude": -74.1823409
   },
   {
     "id": "f28bdd37-032d-5e34-9e84-d150a8dcd655",
@@ -528,7 +644,9 @@
     "address": "220 Ramtown-greenville Road, Howell, NJ 07731",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1132251,
+    "longitude": -74.1525426
   },
   {
     "id": "6b27118f-9075-54f6-acd7-df2ace66aa0d",
@@ -537,7 +655,9 @@
     "address": "81 Windeler Road, Howell, NJ 07731-8700",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1692821,
+    "longitude": -74.2261761
   },
   {
     "id": "ba56a441-5858-5533-8627-f21aa09ae183",
@@ -546,7 +666,9 @@
     "address": "485 Adelphia Road, Freehold, NJ 07728",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2207763,
+    "longitude": -74.2913846
   },
   {
     "id": "11d5bd93-3269-5105-bea3-b4d853d1a1a6",
@@ -555,7 +677,9 @@
     "address": "179 Newbury Road, Howell, NJ 07731-1813",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.15587,
+    "longitude": -74.211959
   },
   {
     "id": "acf2184e-0ddd-5713-9332-eff8d78a820c",
@@ -564,7 +688,9 @@
     "address": "216 Ramtown -greenville Road, Howell, NJ 07731-0216",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1133572,
+    "longitude": -74.1524819
   },
   {
     "id": "5ccd5a67-2f3f-5835-bb2f-15978b624080",
@@ -573,7 +699,9 @@
     "address": "41 Taunton Drive, Howell, NJ 07731-2147",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1507642,
+    "longitude": -74.2136696
   },
   {
     "id": "603dea89-cb66-5e52-9d64-233c0ae9088d",
@@ -582,7 +710,9 @@
     "address": "81 Frances Place, Keansburg, NJ 07734-1596",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4444089,
+    "longitude": -74.1339994
   },
   {
     "id": "96370900-bc6f-5f20-83a8-fcaf10974de5",
@@ -591,7 +721,9 @@
     "address": "100 Palmer Place, Keansburg, NJ 07734-2056",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4373942,
+    "longitude": -74.1302723
   },
   {
     "id": "06cd55b9-4c63-5073-b22e-e02efc5051a9",
@@ -600,7 +732,9 @@
     "address": "142 Port Monmouth Road, Keansburg, NJ 07734-1998",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4418723,
+    "longitude": -74.1237339
   },
   {
     "id": "8fd81ddf-60c4-5e68-b1f5-11e54d4ef3e3",
@@ -609,7 +743,9 @@
     "address": "140 Port Monmouth Road, Keansburg, NJ 07734-1999",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4418625,
+    "longitude": -74.1238082
   },
   {
     "id": "5b0bb967-b859-5f8c-9f19-44fd6c8a4efe",
@@ -618,7 +754,9 @@
     "address": "335 Broad Street, Keyport, NJ 07735-1694",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4296114,
+    "longitude": -74.1978933
   },
   {
     "id": "712ec5be-fa2d-5bc3-93dd-32fa2be356ec",
@@ -627,16 +765,9 @@
     "address": "351 Broad Street, Keyport, NJ 07735-1695",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "d6c389e0-069d-5e3d-bce5-7b4683976a9d",
-    "name": "A A Anastasia Elementary School",
-    "type": "School",
-    "address": "92 Seventh Avenue, Long Branch, NJ 07740",
-    "county": "Monmouth",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4292092,
+    "longitude": -74.1976902
   },
   {
     "id": "c6ae9d89-2df2-51e9-bde8-3633f280e545",
@@ -645,7 +776,9 @@
     "address": "240 Park Avenue, Long Branch, NJ 07740",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.269156,
+    "longitude": -74.008939
   },
   {
     "id": "89d13eee-7646-585a-8511-72a378b947ae",
@@ -654,7 +787,9 @@
     "address": "201 Monmouth Avenue, Long Branch, NJ 07740-6992",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.306609,
+    "longitude": -73.9877231
   },
   {
     "id": "6418e1bd-01cf-5457-b391-7d5e68f934a4",
@@ -663,7 +798,9 @@
     "address": "80 Avenel Boulevard, Long Branch, NJ 07740",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3175508,
+    "longitude": -73.9817349
   },
   {
     "id": "3742edad-f088-5c5a-af68-aecc8a1b7690",
@@ -672,7 +809,9 @@
     "address": "335 Long Branch Ave, Long Branch, NJ 07740",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.317132,
+    "longitude": -73.984902
   },
   {
     "id": "cf7daa67-eb82-5193-bc52-721dc422f06c",
@@ -681,7 +820,9 @@
     "address": "404 Indiana Avenue, Long Branch, NJ 07740-5557",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2875167,
+    "longitude": -73.990751
   },
   {
     "id": "0bc02068-b126-50d0-8934-51b642272001",
@@ -690,7 +831,9 @@
     "address": "350 Indiana Avenue, Long Branch, NJ 07740-6192",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2916537,
+    "longitude": -73.989469
   },
   {
     "id": "53a57b4e-e882-5847-8b61-9f7df06e9ea8",
@@ -699,7 +842,9 @@
     "address": "318 Morris Avenue, Long Branch, NJ 07740",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.297969,
+    "longitude": -73.99138
   },
   {
     "id": "ff13d7cd-8d86-516c-9cdd-966d3bc15b1a",
@@ -708,7 +853,9 @@
     "address": "95 Markham Place, Little Silver, NJ 07739-1496",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3369245,
+    "longitude": -74.043712
   },
   {
     "id": "b4216798-3015-5551-a127-507846e1dacf",
@@ -717,7 +864,9 @@
     "address": "357 Little Silver Point Road, Little Silver, NJ 07739-1799",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3361654,
+    "longitude": -74.0274858
   },
   {
     "id": "133f888b-1086-5427-9768-e426212bcb1f",
@@ -726,7 +875,9 @@
     "address": "34 Gordons Corner Road, Manalapan, NJ 07726-3798",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3028802,
+    "longitude": -74.3528944
   },
   {
     "id": "f69ef8ad-d02d-570c-a4f8-4395b89775af",
@@ -735,7 +886,9 @@
     "address": "38 Gordons Corner Road, Manalapan, NJ 07726",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3029386,
+    "longitude": -74.3525331
   },
   {
     "id": "4d81e284-599b-54c7-8624-387f1f282e86",
@@ -744,7 +897,9 @@
     "address": "66 Maxwell Lane, Manalapan, NJ 07726-2710",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2982946,
+    "longitude": -74.2938533
   },
   {
     "id": "eceb9156-2541-59fd-b40f-0243f6006c4f",
@@ -753,7 +908,9 @@
     "address": "155 Millhurst Road, Manalapan, NJ 07726-4006",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2856087,
+    "longitude": -74.3561641
   },
   {
     "id": "6e6a973f-7707-51f3-b91e-0e663b6aa781",
@@ -762,7 +919,9 @@
     "address": "20 Globar Terrace, Manalapan, NJ 07726-1599",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3067537,
+    "longitude": -74.3493449
   },
   {
     "id": "dba9c2d6-8c6d-5d66-a787-bdfcfc2aa5cf",
@@ -771,7 +930,9 @@
     "address": "155 Pease Road, Manalapan, NJ 07726-3598",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3191392,
+    "longitude": -74.3267438
   },
   {
     "id": "9425def6-6398-59f8-9889-4dd40d5d8473",
@@ -780,7 +941,9 @@
     "address": "77 Gordons Corner Road, Manalapan, NJ 07726-1599",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3026306,
+    "longitude": -74.3401375
   },
   {
     "id": "a2a10acf-3e3d-55d6-9a51-978de7aa3261",
@@ -789,7 +952,9 @@
     "address": "118 Millhurst Road, Manalapan, NJ 07726",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2826093,
+    "longitude": -74.3495878
   },
   {
     "id": "30da6fe8-5c6d-53d7-b528-3252ae9cc149",
@@ -798,7 +963,9 @@
     "address": "168 Broad Street, Manasquan, NJ 08736-2892",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1286506,
+    "longitude": -74.0476166
   },
   {
     "id": "0019942c-941f-50c7-8c36-711bfeffd1fe",
@@ -807,7 +974,9 @@
     "address": "167 Broad Street, Manasquan, NJ 08736-2893",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1288826,
+    "longitude": -74.0477218
   },
   {
     "id": "702459b0-d0ff-5f89-88e9-ce1e69c13fef",
@@ -816,7 +985,9 @@
     "address": "48 Menzel Lane, Morganville, NJ 07751-1298",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.343797,
+    "longitude": -74.2940631
   },
   {
     "id": "c2a92124-8dc1-59c9-a5b6-19292ffe6c4f",
@@ -825,7 +996,9 @@
     "address": "171 Tennent Road, Morganville, NJ 07751",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3794226,
+    "longitude": -74.2491167
   },
   {
     "id": "c6eea753-19bb-5034-b95d-59c11217c10d",
@@ -834,7 +1007,9 @@
     "address": "175 Route 79 North, Marlboro, NJ 07746-1056",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3406773,
+    "longitude": -74.2505536
   },
   {
     "id": "fedd21d5-7491-51fd-879a-6e03602e56e2",
@@ -843,7 +1018,9 @@
     "address": "48 Topanemus Road, Marlboro, NJ 07746-2320",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3113052,
+    "longitude": -74.2662171
   },
   {
     "id": "60adf6eb-3121-5dad-b19d-9e529c00d0ee",
@@ -852,7 +1029,9 @@
     "address": "100 School Road West, Marlboro, NJ 07746-1596",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.323784,
+    "longitude": -74.266594
   },
   {
     "id": "a8d23040-8422-5406-9840-ab115c444a04",
@@ -861,7 +1040,9 @@
     "address": "71 Nolan Road, Morganville, NJ 07751",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3833091,
+    "longitude": -74.2275718
   },
   {
     "id": "a56dccad-4723-5f04-8753-161249ea955f",
@@ -870,7 +1051,9 @@
     "address": "355 County Road 520, Marlboro, NJ 07746-1057",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3327451,
+    "longitude": -74.2656289
   },
   {
     "id": "cb2f31fd-ad31-5011-8912-b1e2abd022f1",
@@ -879,7 +1062,9 @@
     "address": "36 Menzel Lane, Morganville, NJ 07751-1299",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.345198,
+    "longitude": -74.2930248
   },
   {
     "id": "51625b9f-5b99-52f2-a138-a1b9fb1348f0",
@@ -888,7 +1073,9 @@
     "address": "One Crest Way, Aberdeen, NJ 07747",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4021235,
+    "longitude": -74.2247604
   },
   {
     "id": "f5f83f89-2c55-533f-8327-606648906415",
@@ -897,7 +1084,9 @@
     "address": "422 Cliffwood Avenue, Cliffwood, NJ 07721-1195",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4381675,
+    "longitude": -74.2299193
   },
   {
     "id": "90607dbb-306a-5dae-abac-36392ae6faad",
@@ -906,7 +1095,9 @@
     "address": "401 Lloyd Road, Aberdeen, NJ 07747-1800",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4011735,
+    "longitude": -74.2178846
   },
   {
     "id": "66d01987-ec96-5752-9886-b6a5ed731baf",
@@ -915,7 +1106,9 @@
     "address": "450 Atlantic Avenue, Aberdeen, NJ 07747-2398",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4103434,
+    "longitude": -74.223116
   },
   {
     "id": "0749ea0d-9b2e-5bde-b3ae-bd04263621cb",
@@ -924,7 +1117,9 @@
     "address": "469 Matawan Avenue, Cliffwood, NJ 07721-1295",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4329207,
+    "longitude": -74.2302469
   },
   {
     "id": "d09b51c4-5300-5da6-8363-c7ff1e57f0c9",
@@ -933,7 +1128,9 @@
     "address": "170 Ravine Drive, Matawan, NJ 07747-2800",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4220483,
+    "longitude": -74.2453307
   },
   {
     "id": "972d1d62-bcf5-5ada-aca7-cc31fd743e23",
@@ -942,7 +1139,9 @@
     "address": "282 Church Street, Aberdeen, NJ 07747-1599",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4040887,
+    "longitude": -74.2136156
   },
   {
     "id": "ee34ea5a-e524-5196-a220-99747d7815b8",
@@ -951,7 +1150,9 @@
     "address": "834 Leonardville Road, Leonardo, NJ 07737-1796",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.412924,
+    "longitude": -74.059376
   },
   {
     "id": "8180d742-19c5-576d-99e1-dec19ddc3d2f",
@@ -960,7 +1161,9 @@
     "address": "300 Leonardville Road, Belford, NJ 07718-1299",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4131232,
+    "longitude": -74.0836509
   },
   {
     "id": "d44937e2-73f1-5314-a09a-e5da4031ffb8",
@@ -969,7 +1172,9 @@
     "address": "230 Cooper Road, Red Bank, NJ 07701-6010",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3723675,
+    "longitude": -74.0835069
   },
   {
     "id": "8920c344-2fb8-5f72-8012-6f8b9f2b2b49",
@@ -978,7 +1183,9 @@
     "address": "100 Murphy Road, New Monmouth, NJ 07748-1699",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4172598,
+    "longitude": -74.1212576
   },
   {
     "id": "3e1bff7f-0761-5faf-8866-466cdc0f710a",
@@ -987,7 +1194,9 @@
     "address": "14 Hosford Avenue, Leonardo, NJ 07737-1797",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.411079,
+    "longitude": -74.059368
   },
   {
     "id": "326bfaec-f261-5e2a-97f7-2ca67ba6fb28",
@@ -996,7 +1205,9 @@
     "address": "729 Newman Springs Road, Lincroft, NJ 07738-1596",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3297529,
+    "longitude": -74.1254088
   },
   {
     "id": "6c494d46-5c03-545b-bbce-de5d22691224",
@@ -1005,7 +1216,9 @@
     "address": "63 Tindall Road, Middletown, NJ 07748-2798",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4020592,
+    "longitude": -74.0998076
   },
   {
     "id": "b87f6481-96c2-574a-811f-ffa75bc61a41",
@@ -1014,7 +1227,9 @@
     "address": "900 Nut Swamp Road, Middletown, NJ 07748-3199",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3568245,
+    "longitude": -74.115956
   },
   {
     "id": "3339d5ed-290e-543e-b703-547e65e28ea3",
@@ -1023,7 +1238,9 @@
     "address": "147 Kings Highway, Middletown, NJ 07748-2085",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3970198,
+    "longitude": -74.123581
   },
   {
     "id": "374b76cf-b370-504f-aac1-e15f9a357e22",
@@ -1032,7 +1249,9 @@
     "address": "151 Monmouth Avenue, Atlantic Highlands, NJ 07716",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4002261,
+    "longitude": -74.0315574
   },
   {
     "id": "5b4b893b-fdb4-5fa3-912d-eb37bcd398f7",
@@ -1041,7 +1260,9 @@
     "address": "121 New Monmouth Road, Middletown, NJ 07748-2298",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4089885,
+    "longitude": -74.1053637
   },
   {
     "id": "bc9aa144-1f78-5a25-a13d-8170263e3026",
@@ -1050,7 +1271,9 @@
     "address": "925 Nut Swamp Road, Middletown, NJ 07748-3198",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3665316,
+    "longitude": -74.1173184
   },
   {
     "id": "8c67e41e-c9d5-5efe-83a4-1c7f4aa3bf41",
@@ -1059,7 +1282,9 @@
     "address": "235 Ocean Avenue, North Middletown, NJ 07748-2798",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4359891,
+    "longitude": -74.1171446
   },
   {
     "id": "b6c3a2d9-9be6-5088-a909-e79309dbc819",
@@ -1068,7 +1293,9 @@
     "address": "155 Hubbard Avenue, Red Bank, NJ 07701-5599",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3553127,
+    "longitude": -74.086468
   },
   {
     "id": "0fda7cfa-4b6c-5cff-89e5-b6fa6416c379",
@@ -1077,7 +1304,9 @@
     "address": "1001 Middletown Lincroft Road, Middletown, NJ 07748-3299",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3671178,
+    "longitude": -74.1193709
   },
   {
     "id": "c6103d77-8f31-5d19-a3c3-4610b97c1e7f",
@@ -1086,7 +1315,9 @@
     "address": "70 Murphy Road, Port Monmouth, NJ 07758-1099",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4210238,
+    "longitude": -74.119167
   },
   {
     "id": "1cc70f82-1ae8-59d9-908b-928854dc416d",
@@ -1095,7 +1326,9 @@
     "address": "308 Millstone Road, Millstone Township, NJ 08510",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.207229,
+    "longitude": -74.42823
   },
   {
     "id": "8b4a3403-8306-5151-be2f-c0a28a7fc0e7",
@@ -1104,7 +1337,9 @@
     "address": "5 Dawson Court, Millstone Township, NJ 08535-8115",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2387166,
+    "longitude": -74.3917184
   },
   {
     "id": "11a7db6d-13e0-51f6-aa11-db84d2cf7f9e",
@@ -1113,7 +1348,9 @@
     "address": "Schoolhouse Road, Millstone Township, NJ 08510",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2024548,
+    "longitude": -74.424887
   },
   {
     "id": "7a005bdf-d07c-57b1-9b3a-aa50c60d96c3",
@@ -1122,7 +1359,9 @@
     "address": "7 Hastings Place, Monmouth Beach, NJ 07750-1199",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3294974,
+    "longitude": -73.9850819
   },
   {
     "id": "d46e9d79-ff2c-5546-a9f7-efbd6cb46fd1",
@@ -1131,7 +1370,9 @@
     "address": "255 West End Avenue, Long Branch, NJ 07740",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2873537,
+    "longitude": -73.9925301
   },
   {
     "id": "3640be23-ca8c-5906-9570-dc6edcd8f054",
@@ -1140,7 +1381,9 @@
     "address": "5000 Kozloski Road, P O Box 5033, Freehold, NJ 07728-5033",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2611582,
+    "longitude": -74.2490773
   },
   {
     "id": "1bc946cc-9630-5c22-8e8c-e5e2b86c3096",
@@ -1149,7 +1392,9 @@
     "address": "1740 New Bedford Road, Wall, NJ 07719-1320",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.170056,
+    "longitude": -74.063042
   },
   {
     "id": "5e7ece1a-9822-5536-8462-e3fdab5b248a",
@@ -1158,16 +1403,9 @@
     "address": "765 Newman Springs Road, Po Box 119, Lincroft, NJ 07738-0119",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "c833f8f7-b1a2-5ce4-ab0c-39e1803cd98d",
-    "name": "Marine Academy Of Science And Technology",
-    "type": "School",
-    "address": "305 Mast Way, Highlands, NJ 07732-5196",
-    "county": "Monmouth",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3246724,
+    "longitude": -74.1284495
   },
   {
     "id": "7e804913-2ec4-565b-90dd-114c5d801fe7",
@@ -1176,7 +1414,9 @@
     "address": "2325 Heck Avenue, Neptune, NJ 07753-4432",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2146499,
+    "longitude": -74.0380963
   },
   {
     "id": "747f6d57-e5b1-5ec7-a4f8-49ee073e1cfa",
@@ -1185,7 +1425,9 @@
     "address": "1000 Kozloski Road, Freehold, NJ 07728-4395",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.253298,
+    "longitude": -74.247322
   },
   {
     "id": "7bc8ea95-ddd6-5598-94be-9e348c2d071b",
@@ -1194,7 +1436,9 @@
     "address": "417 Middle Rd, Hazlet, NJ 07730",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4238936,
+    "longitude": -74.1521074
   },
   {
     "id": "762c9b1e-5680-5559-a8f8-435d5010ad34",
@@ -1203,7 +1447,9 @@
     "address": "One Norman J Field Way, Tinton Falls, NJ 07724-3299",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3035292,
+    "longitude": -74.0909935
   },
   {
     "id": "66cb4f39-2e82-57a1-ac1b-c362dba2b93e",
@@ -1212,7 +1458,9 @@
     "address": "100 Tornillo Way, Tinton Falls, NJ 07712",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2664843,
+    "longitude": -74.0808939
   },
   {
     "id": "1226b0b6-57c1-590a-b9b8-655aa5b6e974",
@@ -1221,7 +1469,9 @@
     "address": "210 West Sylvania Ave, Neptune City, NJ 07753-6299",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2026999,
+    "longitude": -74.0396787
   },
   {
     "id": "d5591d2a-c31c-565b-a271-ae2903c14043",
@@ -1230,7 +1480,9 @@
     "address": "1 Gables Court, Neptune, NJ 07753-4299",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2127477,
+    "longitude": -74.0420726
   },
   {
     "id": "eb8d4275-c578-53cc-bd84-1165b9f24e4e",
@@ -1239,7 +1491,9 @@
     "address": "909 Green Grove Road, Neptune, NJ 07753-2999",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2235894,
+    "longitude": -74.0714687
   },
   {
     "id": "c16ce8b4-3611-5c98-b83c-44f51e8688da",
@@ -1248,7 +1502,9 @@
     "address": "1155 Corlies Ave, Neptune, NJ 07753-5034",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2105593,
+    "longitude": -74.0188182
   },
   {
     "id": "6add497f-2929-588b-8c84-e5be235406e4",
@@ -1257,7 +1513,9 @@
     "address": "55 Neptune Boulevard, Neptune, NJ 07753-4894",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2119807,
+    "longitude": -74.036648
   },
   {
     "id": "e0f625fd-597d-5db9-a57a-4537f8223765",
@@ -1266,7 +1524,9 @@
     "address": "2300 Heck Avenue, Neptune, NJ 07753-4493",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2131447,
+    "longitude": -74.0406169
   },
   {
     "id": "835c203c-e4f9-5872-a50d-44b367d48c9c",
@@ -1275,7 +1535,9 @@
     "address": "312 Brighton Avenue, Neptune, NJ 07753-5599",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1966122,
+    "longitude": -74.0551167
   },
   {
     "id": "d322280b-ab87-5352-a7a4-5ae75b60c328",
@@ -1284,16 +1546,9 @@
     "address": "1 Summerfield La, Neptune, NJ 07753-3598",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "896a994c-22b4-598f-a441-7789c1d288d7",
-    "name": "Maple Place Middle School",
-    "type": "School",
-    "address": "Maple Place, 2 Maple Place, Oceanport, NJ 07757-1600",
-    "county": "Monmouth",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.211931,
+    "longitude": -74.06576
   },
   {
     "id": "e14e7634-32eb-51c4-a0e8-159282c81625",
@@ -1302,7 +1557,9 @@
     "address": "29 Wolf Hill Avenue, Oceanport, NJ 07757-1000",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3070773,
+    "longitude": -74.0327802
   },
   {
     "id": "afa261bc-f42c-5369-bdfb-8fe336a127f5",
@@ -1311,7 +1568,9 @@
     "address": "101 Harding Road, Red Bank, NJ 07701-2008",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.347465,
+    "longitude": -74.060815
   },
   {
     "id": "ca1c7601-3fe3-5832-bbf0-69385a9bc51f",
@@ -1320,7 +1579,9 @@
     "address": "222 River Street, Red Bank, NJ 07701-1397",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3425974,
+    "longitude": -74.0812188
   },
   {
     "id": "f568f9bc-f0b8-5d14-b2ec-f4ecae7844e9",
@@ -1329,7 +1590,9 @@
     "address": "101 Ridge Road, Little Silver, NJ 07739-1698",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3500103,
+    "longitude": -74.0400525
   },
   {
     "id": "439d3db5-c132-5939-8800-b98b601edd59",
@@ -1338,7 +1601,9 @@
     "address": "School Lane, 2a School Lane, Roosevelt, NJ 08555-0160",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2188484,
+    "longitude": -74.4752371
   },
   {
     "id": "447f7492-582e-52b2-b4c4-5e10b3a1c37a",
@@ -1347,7 +1612,9 @@
     "address": "50 Blackpoint Road, Rumson, NJ 07760-1592",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3707259,
+    "longitude": -74.0046949
   },
   {
     "id": "ed0d53d9-be0a-5c05-8d25-7621f54b39e8",
@@ -1356,7 +1623,9 @@
     "address": "60 Forrest Avenue, Rumson, NJ 07760-1681",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3733725,
+    "longitude": -74.0031877
   },
   {
     "id": "954ce3f4-ed66-57d3-9bbe-71968d2f40f5",
@@ -1365,7 +1634,9 @@
     "address": "74 Ridge Road, Rumson, NJ 07760-1896",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3696933,
+    "longitude": -74.0026229
   },
   {
     "id": "ec3da2f6-6dfe-5d89-8c45-1b6904898306",
@@ -1374,7 +1645,9 @@
     "address": "451 Bell Place, Sea Girt, NJ 08750-2599",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1349026,
+    "longitude": -74.0416581
   },
   {
     "id": "e07af077-158a-5d04-9d13-4ca3aecce84a",
@@ -1383,7 +1656,9 @@
     "address": "132 Monmouth Park Highway 36, West Long Branch, NJ 07764-1396",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2953675,
+    "longitude": -74.023153
   },
   {
     "id": "53fe1385-8f8f-55b2-94c9-793efab4a2a5",
@@ -1392,7 +1667,9 @@
     "address": "20 Obre Place, Shrewsbury, NJ 07702-4124",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3286689,
+    "longitude": -74.0633407
   },
   {
     "id": "a6832253-9a82-50c0-a534-116fbc50a2a7",
@@ -1401,7 +1678,9 @@
     "address": "411 Tuttle Ave, Spring Lake, NJ 07762",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1569816,
+    "longitude": -74.0314112
   },
   {
     "id": "f12c11c0-eb97-559e-a04c-dcdd456d382d",
@@ -1410,7 +1689,9 @@
     "address": "1110 Highway 71, Spring Lake Heights, NJ 07762-2009",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1543126,
+    "longitude": -74.0367933
   },
   {
     "id": "588267df-65a0-59a6-912f-ccb32fcab6b1",
@@ -1419,7 +1700,9 @@
     "address": "961 Sycamore Avenue, Tinton Falls, NJ 07724-3199",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3153685,
+    "longitude": -74.0912295
   },
   {
     "id": "06c4c544-ab05-59c6-90a8-1ec9cc28e58e",
@@ -1428,7 +1711,9 @@
     "address": "220 Hance Avenue, Tinton Falls, NJ 07724-2729",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3283464,
+    "longitude": -74.0836428
   },
   {
     "id": "8dbe3bf5-be03-56e6-a1f2-f57e9b19031b",
@@ -1437,7 +1722,9 @@
     "address": "674 Tinton Avenue, Tinton Falls, NJ 07724-3296",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3031135,
+    "longitude": -74.0986854
   },
   {
     "id": "0283819f-71d0-556b-82e3-8ecca6d8abf1",
@@ -1446,7 +1733,9 @@
     "address": "555 Dow Avenue, Oakhurst, NJ 07755-1199",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2628671,
+    "longitude": -74.0293087
   },
   {
     "id": "b8a3e751-2609-5816-ac83-c1ef1fd1bccb",
@@ -1455,7 +1744,9 @@
     "address": "550 West Park Avenue, Oakhurst, NJ 07755-1098",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2687965,
+    "longitude": -74.0288138
   },
   {
     "id": "310a39f0-d209-5109-863f-31c771a5982f",
@@ -1464,7 +1755,9 @@
     "address": "1200 West Park Avenue, Ocean, NJ 07712-7296",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2593852,
+    "longitude": -74.0684381
   },
   {
     "id": "e620ea22-05f6-559c-a1dd-e5a4b1c047cd",
@@ -1473,7 +1766,9 @@
     "address": "901 Bendermere Avenue, Wanamassa, NJ 07712-4103",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2381673,
+    "longitude": -74.0265344
   },
   {
     "id": "ab28ffb5-5cc5-5330-96c8-687af92a87df",
@@ -1482,7 +1777,9 @@
     "address": "733 Bowne Road, Ocean, NJ 07712-2599",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2517309,
+    "longitude": -74.0712691
   },
   {
     "id": "b116bdd3-e712-5d75-b35c-f25cf92d0a40",
@@ -1491,7 +1788,9 @@
     "address": "221 Morningside Avenue, Union Beach, NJ 07735-3098",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4407974,
+    "longitude": -74.1738728
   },
   {
     "id": "b837b117-83d7-5509-a5f7-c35d53dfaebe",
@@ -1500,7 +1799,9 @@
     "address": "27 High Street, Allentown, NJ 08501-0278",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1748068,
+    "longitude": -74.5882309
   },
   {
     "id": "cee17bf3-79ae-5c0d-bb20-f9583ceb6516",
@@ -1509,7 +1810,9 @@
     "address": "27 High Street, Allentown, NJ 08501-0278",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1748068,
+    "longitude": -74.5882309
   },
   {
     "id": "9215db0e-6838-5e8a-a465-b446f36e96a2",
@@ -1518,7 +1821,9 @@
     "address": "1252 Yardville-allentown Road, Allentown, NJ 08501",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1742915,
+    "longitude": -74.5997613
   },
   {
     "id": "2c7c6230-9ee6-5041-8112-886d0089a540",
@@ -1527,7 +1832,9 @@
     "address": "3301 Allenwood Lakewood Rd, Wall, NJ 07719-1199",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1301815,
+    "longitude": -74.1246637
   },
   {
     "id": "3d96003f-5f0b-5775-a46c-fa2f69602c10",
@@ -1536,7 +1843,9 @@
     "address": "2007 Allenwood Road, P O Box 1199, Wall, NJ 07719-1199",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1831381,
+    "longitude": -74.087306
   },
   {
     "id": "5037ba92-fd24-5a72-a2c8-c01f8f4576e1",
@@ -1545,7 +1854,9 @@
     "address": "2119 Old Mill Road, Old Mill Road, Sea Girt, NJ 08750-1199",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1421207,
+    "longitude": -74.0552791
   },
   {
     "id": "cca06e8f-705f-5bf8-9cff-154621fcec9e",
@@ -1554,7 +1865,9 @@
     "address": "1630 18TH Ave, P O Box 1199, Wall, NJ 07719-1199",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1685526,
+    "longitude": -74.061316
   },
   {
     "id": "b5901717-1733-5394-8003-8475a7cca151",
@@ -1563,7 +1876,9 @@
     "address": "2801 Allaire Road, P O Box 1199, Wall, NJ 07719-1199",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1507199,
+    "longitude": -74.0739118
   },
   {
     "id": "deb81ea5-3020-51a6-b723-8ff0f8a5d788",
@@ -1572,7 +1887,9 @@
     "address": "2500 Bedford Corner Lane, Wall, NJ 07719-1199",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1756755,
+    "longitude": -74.0631248
   },
   {
     "id": "069011c9-9a78-54f3-9140-22b5613428f2",
@@ -1581,7 +1898,9 @@
     "address": "925 17TH Avenue, Wall, NJ 07719-1199",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1726223,
+    "longitude": -74.0333556
   },
   {
     "id": "14be4fe1-39c9-50d8-bac0-6d76048dee85",
@@ -1590,7 +1909,9 @@
     "address": "20 Parker Road, West Long Branch, NJ 07764-1133",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2907513,
+    "longitude": -74.0192873
   },
   {
     "id": "83db9737-2a1d-5bc5-aaf8-5d062a29a5d6",
@@ -1599,7 +1920,9 @@
     "address": "135 Locust Avenue, West Long Branch, NJ 07764-1698",
     "county": "Monmouth",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.288366,
+    "longitude": -74.01762
   },
   {
     "id": "d508a5b4-c91b-5f45-9ff0-43207c0d3d43",
@@ -1608,7 +1931,9 @@
     "address": "765 Newman Springs Road, Lincroft, NJ 07738",
     "county": "Monmouth",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3258392,
+    "longitude": -74.1314935
   },
   {
     "id": "38742696-d3e6-5c54-a8b3-7c54414a47f9",
@@ -1617,7 +1942,9 @@
     "address": "400 Cedar Avenue, West Long Branch, NJ 07764",
     "county": "Monmouth",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2794106,
+    "longitude": -74.0068022
   },
   {
     "id": "13e765bb-29d4-5b8e-88c2-b1972343b4a9",
@@ -1626,7 +1953,9 @@
     "address": "71 Monument Street, Freehold, NJ 07728",
     "county": "Monmouth",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2674398,
+    "longitude": -74.2784533
   },
   {
     "id": "b781b6d9-0de2-5f8d-9a6f-4ed4e80dd1f3",
@@ -1635,7 +1964,9 @@
     "address": "1 Aberdeen Square, Aberdeen, NJ 07747",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4064244,
+    "longitude": -74.2254695
   },
   {
     "id": "2c9db4e0-1335-5426-aa04-bfd2515dbdb6",
@@ -1644,25 +1975,9 @@
     "address": "701 Main Street, Bradley Beach, NJ 07720",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "94452a13-2e03-5a69-8ccf-8b6317d61d8d",
-    "name": "Allentown Municipal Court",
-    "type": "Courthouse",
-    "address": "314 Rt. 539, Cream Ridge, NJ 08514",
-    "county": "Monmouth",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "8d0f2d16-2ca4-5b16-b7ae-0f1a5425b8d7",
-    "name": "Atl Highlands Municipal Court",
-    "type": "Courthouse",
-    "address": "100 First Ave, Atl Highlands, NJ 07716",
-    "county": "Monmouth",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2041987,
+    "longitude": -74.0174502
   },
   {
     "id": "4addf3f2-8491-559f-88f6-0f27c6daa234",
@@ -1671,7 +1986,9 @@
     "address": "701 Main St., Bradley Beach, NJ 07720",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2041987,
+    "longitude": -74.0174502
   },
   {
     "id": "8b077a9b-9d83-53d5-8f3a-10bbc10ee07d",
@@ -1680,7 +1997,9 @@
     "address": "601 Main Street, Belmar, NJ 07719",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1831035,
+    "longitude": -74.0247038
   },
   {
     "id": "1cceaca8-d369-54b4-a4ea-bd17108e18bb",
@@ -1689,16 +2008,9 @@
     "address": "201 E. Main St., Manasquan, NJ 08736",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "552305b1-e53f-532d-bc7f-28b3c8eeb6ca",
-    "name": "Colts Neck Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "1 Veterans Way, Colts Neck, NJ 07722",
-    "county": "Monmouth",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.112859,
+    "longitude": -74.035315
   },
   {
     "id": "dc8f9f28-9d47-506d-a0fc-437a3f75bb86",
@@ -1707,7 +2019,9 @@
     "address": "190 Norwood Ave, Deal, NJ 07723",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2474294,
+    "longitude": -74.0010307
   },
   {
     "id": "e0014e9a-4d50-5c8d-a909-2ad1e141ddce",
@@ -1716,7 +2030,9 @@
     "address": "556 Tinton Avenue, Tinton Falls, NJ 07724",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2982823,
+    "longitude": -74.0908161
   },
   {
     "id": "c109a5c8-024c-5356-b2f9-5c3189fd5f78",
@@ -1725,7 +2041,9 @@
     "address": "15 Main Street, Englishtown, NJ 07726",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2928811,
+    "longitude": -74.3601655
   },
   {
     "id": "fbde0969-cc2c-5061-bbb8-184d2187c680",
@@ -1734,7 +2052,9 @@
     "address": "300 Old Tavern Rd, Howell, NJ 07731",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1722306,
+    "longitude": -74.1780508
   },
   {
     "id": "d54ac435-163d-5060-9d80-d99f7ca0faea",
@@ -1743,7 +2063,9 @@
     "address": "255 Middle Road, Hazlet, NJ 07730",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4275088,
+    "longitude": -74.175614
   },
   {
     "id": "45294389-7614-562f-ba59-357979614bc2",
@@ -1752,16 +2074,9 @@
     "address": "151 Navesink Ave., Highlands, NJ 07732",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "8a1bdc4f-2667-5565-900d-d6604ee4d886",
-    "name": "Holmdel Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "1 Veterans Way, Colts Neck, NJ 07722",
-    "county": "Monmouth",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3999028,
+    "longitude": -73.9883063
   },
   {
     "id": "8ce1f5c7-5384-5191-aee4-0abe93e169e3",
@@ -1770,7 +2085,9 @@
     "address": "300 Old Tavern Rd., Howell, NJ 07731",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1722306,
+    "longitude": -74.1780508
   },
   {
     "id": "1d3b8b29-dbaf-5b80-8b3e-3da28bb22d97",
@@ -1779,7 +2096,9 @@
     "address": "190 Norwood Ave, Deal, NJ 07723",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2474294,
+    "longitude": -74.0010307
   },
   {
     "id": "47300dba-daa4-506d-bc80-e82ed85be467",
@@ -1788,7 +2107,9 @@
     "address": "29 Church Street, Keansburg, NJ 07734",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4419365,
+    "longitude": -74.1313011
   },
   {
     "id": "86bc6f00-b790-546f-b0cc-523adfecbb04",
@@ -1797,7 +2118,9 @@
     "address": "601 Main Street, Belmar, NJ 07719",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1831035,
+    "longitude": -74.0247038
   },
   {
     "id": "4b0d3a72-21e9-5916-abad-07c958c82a00",
@@ -1806,25 +2129,9 @@
     "address": "279 Broadway, Long Branch, NJ 07740",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "2fd9176f-1e1f-5548-80f2-a77433b690f6",
-    "name": "Manalapan Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "120 Rt 522, Manalapan, NJ 07726",
-    "county": "Monmouth",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "9c5dbdb7-d2c9-5a99-a193-0584c9eda6da",
-    "name": "Manasquan Boro Municipal Court",
-    "type": "Courthouse",
-    "address": "201 East Main St, Manasquan, NJ 08736",
-    "county": "Monmouth",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.304173,
+    "longitude": -73.991076
   },
   {
     "id": "f0315c7e-af36-537e-88be-e2d16e4350d8",
@@ -1833,7 +2140,9 @@
     "address": "1979 Township Drive, Marlboro, NJ 07746",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.327788,
+    "longitude": -74.2660446
   },
   {
     "id": "d827a155-9653-547f-ac01-85a2531cec49",
@@ -1842,16 +2151,9 @@
     "address": "1 Aberdeen Square, Aberdeen, NJ 07747",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "9e30c136-fdaa-59e0-96e6-15f82e09e77f",
-    "name": "Middletown Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "1 Kings Hwy Twp Hall, Middletown, NJ 07748",
-    "county": "Monmouth",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4064082,
+    "longitude": -74.2257352
   },
   {
     "id": "b2b52c0f-0ba4-5c57-b8ea-c1404158a947",
@@ -1860,7 +2162,9 @@
     "address": "215 Millstone Rd, Millstone Twp, NJ 08535",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.225498,
+    "longitude": -74.430036
   },
   {
     "id": "5327fcf4-d886-5b75-868b-c0750c64cf84",
@@ -1869,7 +2173,9 @@
     "address": "910 Oceanport Way, Oceanport, NJ 07757",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3121682,
+    "longitude": -74.0358257
   },
   {
     "id": "fcab81fb-2a93-5757-b501-3ef46411e620",
@@ -1878,7 +2184,9 @@
     "address": "701 Main Street, Bradley Beach, NJ 07720",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2041987,
+    "longitude": -74.0174502
   },
   {
     "id": "d75013c4-6443-57c7-ab48-972fd0f606f8",
@@ -1887,7 +2195,9 @@
     "address": "25 Neptune Blvd, Neptune, NJ 07753",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2092809,
+    "longitude": -74.0367804
   },
   {
     "id": "237300b2-f1dd-5946-8bab-bb2af16ec3a9",
@@ -1896,7 +2206,9 @@
     "address": "399 Monmouth Rd, Oakhurst, NJ 07755",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2537099,
+    "longitude": -74.0129473
   },
   {
     "id": "61d35f66-e18a-567c-9265-c22ab1180a4d",
@@ -1905,7 +2217,9 @@
     "address": "910 Oceanport Way, Oceanport, NJ 07757",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3121682,
+    "longitude": -74.0358257
   },
   {
     "id": "058eb067-0792-5575-8b0d-0da5ebdf630c",
@@ -1914,7 +2228,9 @@
     "address": "90 Monmouth Street, Red Bank, NJ 07701",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3496068,
+    "longitude": -74.0696672
   },
   {
     "id": "e5b41c0d-0b3b-5530-b23b-5365bf7eb362",
@@ -1923,7 +2239,9 @@
     "address": "215 Millstone Rd, Millstone Twp, NJ 08535",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.225498,
+    "longitude": -74.430036
   },
   {
     "id": "8540c9c0-2608-5a0a-a281-1767e1ffc616",
@@ -1932,7 +2250,9 @@
     "address": "2700 Allaire Rd, Wall, NJ 07719",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1534863,
+    "longitude": -74.0713334
   },
   {
     "id": "f4cd76a6-956b-5ff8-909b-612ad6933881",
@@ -1941,7 +2261,9 @@
     "address": "90 Monmouth St, Red Bank, NJ 07701",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3496068,
+    "longitude": -74.0696672
   },
   {
     "id": "633539d9-42ea-5d74-9cbd-7b16e410701e",
@@ -1950,7 +2272,9 @@
     "address": "601 Main Street, Belmar, NJ 07719",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1831035,
+    "longitude": -74.0247038
   },
   {
     "id": "8f6099b5-bb03-570c-9fef-431fbedbdef9",
@@ -1959,7 +2283,9 @@
     "address": "556 Tinton Avenue, Tinton Falls, NJ 07724",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2982823,
+    "longitude": -74.0908161
   },
   {
     "id": "8759048f-4cae-5a8d-8048-13b4de43c521",
@@ -1968,16 +2294,9 @@
     "address": "650 Poole Ave, Union Beach, NJ 07735",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "326bb85e-3852-500e-a490-f82c141c328d",
-    "name": "Upper Freehold Municipal Court",
-    "type": "Courthouse",
-    "address": "314 Rte 539, Cream Ridge, NJ 08514",
-    "county": "Monmouth",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4393218,
+    "longitude": -74.1791731
   },
   {
     "id": "aecffad2-e40d-57e6-9da0-f154bb3421f3",
@@ -1986,7 +2305,9 @@
     "address": "2700 Allaire Rd, Wall, NJ 07719",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1534863,
+    "longitude": -74.0713334
   },
   {
     "id": "bfc547e9-3f88-5b61-9f1d-77ae8d8f8a74",
@@ -1995,7 +2316,9 @@
     "address": "910 Oceanport Way, Oceanport, NJ 07757",
     "county": "Monmouth",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3121682,
+    "longitude": -74.0358257
   },
   {
     "id": "255e088b-6d44-518b-962a-ad64af486054",
@@ -2004,7 +2327,9 @@
     "address": "1717 State Route 34, Farmingdale, NJ 07727",
     "county": "Monmouth",
     "source": "nj_airports_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1855136,
+    "longitude": -74.1222892
   },
   {
     "id": "5f940587-ecbe-57b7-9f37-c1f815a91fd5",
@@ -2013,7 +2338,9 @@
     "address": "4 Morris Avenue, Long Branch, NJ 07740",
     "county": "Monmouth",
     "source": "nj_transit_hubs_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2986728,
+    "longitude": -73.9812202
   },
   {
     "id": "ca7cdb0c-16ee-580f-835d-dd8df1b383e3",
@@ -2022,6 +2349,8 @@
     "address": "1 East Main Street, Freehold, NJ 07728",
     "county": "Monmouth",
     "source": "nj_government_buildings_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.262727,
+    "longitude": -74.270564
   }
 ]

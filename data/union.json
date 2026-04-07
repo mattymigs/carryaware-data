@@ -6,7 +6,9 @@
     "address": "345 Plainfield Ave, Berkeley Hts, NJ 07922-1436",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6764029,
+    "longitude": -74.4408812
   },
   {
     "id": "5876fe17-5384-52af-b18e-aba69b6050b8",
@@ -15,7 +17,9 @@
     "address": "175 Watchung Boulevard, Berkeley Heights, NJ 07922",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6858748,
+    "longitude": -74.3891454
   },
   {
     "id": "d962383b-ee06-5971-84cb-9660af032c88",
@@ -24,7 +28,9 @@
     "address": "651 Mountain Avenue, Berkeley Heights, NJ 07922",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.668484,
+    "longitude": -74.4358343
   },
   {
     "id": "0cafa29f-18c4-54be-87b4-f0c1a4b4d019",
@@ -33,7 +39,9 @@
     "address": "55 Fairfax Dr, Berkeley Hts, NJ 07922-1832",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6682549,
+    "longitude": -74.4508817
   },
   {
     "id": "6cc08ae0-0d1d-5fdb-aece-8e4f2a29608b",
@@ -42,7 +50,9 @@
     "address": "446 Snyder Ave, Berkeley Hts, NJ 07922-2017",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6769866,
+    "longitude": -74.4301305
   },
   {
     "id": "9a4e12aa-4901-54f8-89bc-f2414cdb0356",
@@ -51,7 +61,9 @@
     "address": "Briarwood Dr West, Berkeley Hts, NJ 07922",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6878491,
+    "longitude": -74.43272
   },
   {
     "id": "23f29ff3-7b64-5163-8a5f-3418732407e4",
@@ -60,7 +72,9 @@
     "address": "365 Westfield Avenue, Clark, NJ 07066",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6233058,
+    "longitude": -74.3118235
   },
   {
     "id": "d10e9b24-8b41-5939-84f9-099ee16ba52e",
@@ -69,7 +83,9 @@
     "address": "59 Mildred Terrace, Clark, NJ 07066",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6137559,
+    "longitude": -74.3134234
   },
   {
     "id": "1dcfa280-aa16-5466-a7f9-43781e529187",
@@ -78,7 +94,9 @@
     "address": "NJ",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6458232,
+    "longitude": -74.2141317
   },
   {
     "id": "fdb14d69-e75f-5f0c-b793-913c580f536d",
@@ -87,7 +105,9 @@
     "address": "430 Westfield Ave, Clark, NJ 07066",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6246421,
+    "longitude": -74.3143977
   },
   {
     "id": "057f0954-78d8-5353-8d02-0a2f603657d9",
@@ -96,7 +116,9 @@
     "address": "590 Raritan Road, Clark, NJ 07066",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.615135,
+    "longitude": -74.3276754
   },
   {
     "id": "04f6baf6-c3f3-5334-98d0-839659a375a6",
@@ -105,7 +127,9 @@
     "address": "150 Valley Road, Clark, NJ 07066",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6259566,
+    "longitude": -74.2986268
   },
   {
     "id": "7c3a64d8-78be-594e-a5cd-291629eda7b8",
@@ -114,7 +138,9 @@
     "address": "200 Bloomingdale Avenue, Cranford, NJ 07016",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6658045,
+    "longitude": -74.2893912
   },
   {
     "id": "94bd1ed2-4f83-5931-949a-82953ad606a3",
@@ -123,7 +149,9 @@
     "address": "700 Brookside Place, Cranford, NJ 07016",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.662255,
+    "longitude": -74.319422
   },
   {
     "id": "0d540ff8-9074-52a7-8ab8-beca8afa0e4c",
@@ -132,7 +160,9 @@
     "address": "201 West End Place, Cranford, NJ 07016",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.660811,
+    "longitude": -74.31289
   },
   {
     "id": "36b7eb39-8eaf-5d5c-b82a-90a5d622e915",
@@ -141,7 +171,9 @@
     "address": "125 Hillside Avenue, Cranford, NJ 07016",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6475891,
+    "longitude": -74.2949911
   },
   {
     "id": "2c552d60-05fb-5f68-b812-17b080a64bc5",
@@ -150,7 +182,9 @@
     "address": "75 Livingston Avenue, Cranford, NJ 07016",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.645184,
+    "longitude": -74.3100538
   },
   {
     "id": "9f7bd5f6-b610-5fce-bbc9-7465903bbce0",
@@ -159,7 +193,9 @@
     "address": "901 Orange Avenue, Cranford, NJ 07016-2099",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6699833,
+    "longitude": -74.298065
   },
   {
     "id": "5de0c0d6-56ea-571e-9dff-02d5d2023178",
@@ -168,7 +204,9 @@
     "address": "370 Walnut Avenue, Cranford, NJ 07016",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6454434,
+    "longitude": -74.305174
   },
   {
     "id": "1be2721b-c35c-518c-8a5d-f9cf8b761c2d",
@@ -177,7 +215,9 @@
     "address": "50 Grove Street, Elizabeth, NJ 07202-2327",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.660455,
+    "longitude": -74.227629
   },
   {
     "id": "e11da846-6205-576e-a08d-24440c535a2e",
@@ -186,7 +226,9 @@
     "address": "641 South Street, Elizabeth, NJ 07202",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6579719,
+    "longitude": -74.2128917
   },
   {
     "id": "7b7b86c8-7457-56d4-b840-7d0af80ae806",
@@ -195,7 +237,9 @@
     "address": "310 Cherry St, Elizabeth, NJ 07208",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6679077,
+    "longitude": -74.221491
   },
   {
     "id": "7a133afc-bc31-5742-a930-2b0cf83ea56c",
@@ -204,7 +248,9 @@
     "address": "248 Ripley Pl, Elizabeth, NJ 07206-2122",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.655593,
+    "longitude": -74.1819328
   },
   {
     "id": "1162d4bc-7148-5cc6-a850-c1121d110750",
@@ -213,16 +259,9 @@
     "address": "730 Pennsylvania Ave, Elizabeth, NJ 07208",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "d4337ca1-1f70-5ee4-a8a1-3f915d2490b3",
-    "name": "Christopher Columbus School No. 15",
-    "type": "School",
-    "address": "511 Third Ave, Elizabeth, NJ 07202-3907",
-    "county": "Union",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6800671,
+    "longitude": -74.2074921
   },
   {
     "id": "db0684b6-815a-5b2a-b12f-3ce556b78a43",
@@ -231,7 +270,9 @@
     "address": "544 Pennsylvania Avenue, Elizabeth, NJ 07207",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6745335,
+    "longitude": -74.2115088
   },
   {
     "id": "05272ea0-b137-5793-9156-c2567711535f",
@@ -240,7 +281,9 @@
     "address": "919 North Broad Street, Elizabeth, NJ 07208",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6859518,
+    "longitude": -74.2139802
   },
   {
     "id": "31308221-f6ab-5c10-836c-d7d97fb564ac",
@@ -249,7 +292,9 @@
     "address": "505 -517 Morris Avenue, Elizabeth, NJ 07208",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6679955,
+    "longitude": -74.2164591
   },
   {
     "id": "86b984bd-84a5-5ab2-a1b6-c9e850010711",
@@ -258,7 +303,9 @@
     "address": "130 Trumbull Street, Elizabeth, NJ 07206",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6549745,
+    "longitude": -74.1780637
   },
   {
     "id": "df8513b4-491a-5145-bb14-efee26a8c875",
@@ -267,7 +314,9 @@
     "address": "1014 South Elmora Avenue, Elizabeth, NJ 07202",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.653864,
+    "longitude": -74.225991
   },
   {
     "id": "25b83583-d07d-5aac-af21-62378ffbee47",
@@ -276,7 +325,9 @@
     "address": "40 Morrell Street, Elizabeth, NJ 07202",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6633998,
+    "longitude": -74.2103385
   },
   {
     "id": "2bcce913-d3a9-5bfc-99b0-495bb65cc316",
@@ -285,7 +336,9 @@
     "address": "638 Magie Ave, Elizabeth, NJ 07208-1505",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6691614,
+    "longitude": -74.2333062
   },
   {
     "id": "f024da3e-9a1f-5471-a92e-eab33df0c559",
@@ -294,7 +347,9 @@
     "address": "1000 South Elmora Ave, Elizabeth, NJ 07202",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6521661,
+    "longitude": -74.2249187
   },
   {
     "id": "90ad26af-80d7-5636-8ad3-dc9613dbd016",
@@ -303,7 +358,9 @@
     "address": "250 Broadway, Elizabeth, NJ 07206-1857",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6516145,
+    "longitude": -74.1896206
   },
   {
     "id": "a5b3b99d-9f4b-5278-a57d-2cc86c738afc",
@@ -312,16 +369,9 @@
     "address": "447 Richmond Street, Elizabeth, NJ 07202",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "db10740a-df78-59a6-b0a2-38edfcd42ec2",
-    "name": "Jerome Dunn Academy No 9",
-    "type": "School",
-    "address": "125 Third Street, Elizabeth, NJ 07206",
-    "county": "Union",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6448933,
+    "longitude": -74.2095138
   },
   {
     "id": "7c7d8c32-2181-5cb2-9380-82ebb9724737",
@@ -330,7 +380,9 @@
     "address": "123 Pearl St, Elizabeth, NJ 07202",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6602249,
+    "longitude": -74.211901
   },
   {
     "id": "4ccb488b-f924-513e-befb-14fbdc94fd0e",
@@ -339,7 +391,9 @@
     "address": "521 Magnolia Ave, Elizabeth, NJ 07206-1406",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6587385,
+    "longitude": -74.1914406
   },
   {
     "id": "8e1d757b-dfb2-5c13-8f32-987c99e49f9e",
@@ -348,16 +402,9 @@
     "address": "501 Union Avenue, Elizabeth, NJ 07208",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "2f01c99b-9546-540e-9575-1d18f63305e0",
-    "name": "Juan Pablo Duarte - Jose Julian Marti School No 28",
-    "type": "School",
-    "address": "25 First Street, Elizabeth, NJ 07206",
-    "county": "Union",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.675318,
+    "longitude": -74.217504
   },
   {
     "id": "ff47fcc4-e6dd-582d-b146-fb887b607102",
@@ -366,7 +413,9 @@
     "address": "237 South Broad Street, Elizabeth, NJ 07202",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6581618,
+    "longitude": -74.2157706
   },
   {
     "id": "7afc31eb-1376-5a7f-a14f-1299e6627b84",
@@ -375,7 +424,9 @@
     "address": "650 Bayway Avenue, Elizabeth, NJ 07202",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6463562,
+    "longitude": -74.2163456
   },
   {
     "id": "dbaf1344-35bb-5cd6-882b-15847b30facc",
@@ -384,25 +435,9 @@
     "address": "1091 North Ave, Elizabeth, NJ 07201-1612",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "516f9f97-0d1f-54de-adb1-74c3a739f347",
-    "name": "Nicholas Murray Butler Academy School No. 23",
-    "type": "School",
-    "address": "631-657 Westminster Avenue, Elizabeth, NJ 07208-2126",
-    "county": "Union",
-    "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "e8991d93-81f1-54ac-8def-011d77ef0c8f",
-    "name": "Nicholas S. Lacorte - Peterstown School No. 3",
-    "type": "School",
-    "address": "700 Second Ave, Elizabeth, NJ 07202-3823",
-    "county": "Union",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.679551,
+    "longitude": -74.202065
   },
   {
     "id": "2fffe6c1-9d37-581b-bbd6-878305342426",
@@ -411,7 +446,9 @@
     "address": "860 Cross Ave, Elizabeth, NJ 07208-3547",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6836181,
+    "longitude": -74.2105452
   },
   {
     "id": "d0abe6d1-1b21-52cc-8238-38002d6a7297",
@@ -420,7 +457,9 @@
     "address": "525 First Avenue, Elizabeth, NJ 07206",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.654845,
+    "longitude": -74.1995365
   },
   {
     "id": "5fac0efa-3a74-5bd7-a4d2-77f239990e48",
@@ -429,7 +468,9 @@
     "address": "436 First Avenue, Elizabeth, NJ 07206",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.652283,
+    "longitude": -74.1995052
   },
   {
     "id": "ab4a9253-ccad-52a9-82a7-c299edc8ebba",
@@ -438,7 +479,9 @@
     "address": "625 Summer St, Elizabeth, NJ 07202",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.650289,
+    "longitude": -74.21295
   },
   {
     "id": "f894e31b-d3b9-5de8-9b24-2a7e08328945",
@@ -447,7 +490,9 @@
     "address": "27 Martin Luther King Jr Plaza, Elizabeth, NJ 07201",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6626534,
+    "longitude": -74.2107135
   },
   {
     "id": "687090fb-a30e-597d-a161-548cd8a54871",
@@ -456,7 +501,9 @@
     "address": "1071 Julia St, Elizabeth, NJ 07201-1554",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.673293,
+    "longitude": -74.2057649
   },
   {
     "id": "751154db-19de-507d-a935-a47386596b84",
@@ -465,7 +512,9 @@
     "address": "132 Shelley Avenue, Elizabeth, NJ 07208",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.670202,
+    "longitude": -74.246832
   },
   {
     "id": "7e651640-5b49-5a3b-80fb-8a250dc7e88f",
@@ -474,7 +523,9 @@
     "address": "612 Pulaski Street, Elizabeth, NJ 07202",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.645697,
+    "longitude": -74.2084246
   },
   {
     "id": "e64cd7d8-3e71-5758-b22e-1324b211f512",
@@ -483,7 +534,9 @@
     "address": "125 Madison Ave, Elizabeth, NJ 07201-2420",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.665075,
+    "longitude": -74.2105968
   },
   {
     "id": "00a0c19e-76e0-59e7-9c9b-3209bfc019c5",
@@ -492,7 +545,9 @@
     "address": "529 Edgar Rd, Elizabeth, NJ 07202-3301",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6521385,
+    "longitude": -74.221399
   },
   {
     "id": "753f39e1-6df9-5abe-ae0c-9754b506a56c",
@@ -501,7 +556,9 @@
     "address": "221-227 Court Street, Elizabeth, NJ 07206",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6518596,
+    "longitude": -74.1865357
   },
   {
     "id": "69461665-4f4b-5f7d-8869-6819c8ffc1c8",
@@ -510,7 +567,9 @@
     "address": "400 Second Avenue, Garwood, NJ 07027",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6516452,
+    "longitude": -74.3096506
   },
   {
     "id": "97bd93f4-7cdb-5d5e-a6c7-6238df87218e",
@@ -519,7 +578,9 @@
     "address": "143 Coe Ave, Hillside, NJ 07205-2830",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6910878,
+    "longitude": -74.2200072
   },
   {
     "id": "ecfe8d5e-8adb-50b4-8a33-3dbf68eb5e4a",
@@ -528,7 +589,9 @@
     "address": "614 Tillman St, Hillside, NJ 07205-1721",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7002482,
+    "longitude": -74.2437453
   },
   {
     "id": "e6cc4525-8633-5e3d-b598-0f448d8d8bba",
@@ -537,16 +600,9 @@
     "address": "1085 Liberty Ave, Hillside, NJ 07205-2526",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "f1d67e64-fe22-5038-a6b6-83512ddc6f0a",
-    "name": "Hillside Innovation Academy",
-    "type": "School",
-    "address": "195 Virginia St-1100 Woodruff Ave, Hillside, NJ 07205",
-    "county": "Union",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6911978,
+    "longitude": -74.2350106
   },
   {
     "id": "38899cae-209b-56ec-bcf7-1bf283d80d9e",
@@ -555,7 +611,9 @@
     "address": "1261 Liberty Ave, Hillside, NJ 07205-2032",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6968518,
+    "longitude": -74.233478
   },
   {
     "id": "d2e54839-0544-5c48-8bbe-6da9c2c6ff9b",
@@ -564,7 +622,9 @@
     "address": "1530 Leslie St, Hillside, NJ 07205-1206",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.705314,
+    "longitude": -74.22887
   },
   {
     "id": "e740de4f-3960-53ab-bd77-d79208ab15a0",
@@ -573,7 +633,9 @@
     "address": "145 Hillside Ave, Hillside, NJ 07205-1858",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6985386,
+    "longitude": -74.2229279
   },
   {
     "id": "a18d6d0c-f8f9-5ef6-970e-b96c6d187b70",
@@ -582,16 +644,9 @@
     "address": "401 Monroe Avenue, Kenilworth, NJ 07033",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "e02adea6-2a78-53a0-9e29-7adf6d99bdc4",
-    "name": "David Brearley Middle School",
-    "type": "School",
-    "address": "401 Monroe Avenue, Db Middle School, Kenilworth, NJ 07033",
-    "county": "Union",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.679813,
+    "longitude": -74.293737
   },
   {
     "id": "28983242-609b-58ea-98dc-0c824dda5247",
@@ -600,7 +655,9 @@
     "address": "426 Boulevard, Kenilworth, NJ 07033-1529",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6762292,
+    "longitude": -74.2955593
   },
   {
     "id": "2976f42c-a9b5-5c4f-9ce7-7527fbcb7039",
@@ -609,7 +666,9 @@
     "address": "300 East Henry St., Linden, NJ 07036-5320",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.636316,
+    "longitude": -74.2557837
   },
   {
     "id": "a40519fb-c2ce-5728-be4f-595032a74254",
@@ -618,7 +677,9 @@
     "address": "121 West St. Georges Ave., Linden, NJ 07036-3960",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6346958,
+    "longitude": -74.2651707
   },
   {
     "id": "b86b3a4d-1873-5b40-8976-0858886c3855",
@@ -627,7 +688,9 @@
     "address": "300 Edgewood Road, Linden, NJ 07036-5320",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6379617,
+    "longitude": -74.275018
   },
   {
     "id": "dd57c20d-00f8-59ee-8a69-87e731ab05bc",
@@ -636,7 +699,9 @@
     "address": "728 North Wood Ave., Linden, NJ 07036-4064",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6348419,
+    "longitude": -74.2602514
   },
   {
     "id": "385d9f8c-0a27-5ed2-82be-8acfcd966d0d",
@@ -645,7 +710,9 @@
     "address": "2801 Highland Avenue, Linden, NJ 07036",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6407158,
+    "longitude": -74.2836142
   },
   {
     "id": "ca2856da-d9c3-56fa-b533-808008bebc9e",
@@ -654,7 +721,9 @@
     "address": "1700 South Wood Avenue, Linden, NJ 07036",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.62225,
+    "longitude": -74.237691
   },
   {
     "id": "d3ba205b-573b-5392-800e-88aa3ed97761",
@@ -663,7 +732,9 @@
     "address": "1602 Dill Avenue, Linden, NJ 07036",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.648068,
+    "longitude": -74.2402082
   },
   {
     "id": "b9f7b1af-4f21-5e42-ad4b-a3312faf131b",
@@ -672,7 +743,9 @@
     "address": "1014 Bower Street, Linden, NJ 07036",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6409029,
+    "longitude": -74.252565
   },
   {
     "id": "12f42e5a-3898-5abc-a28e-c4a1bd069f11",
@@ -681,7 +754,9 @@
     "address": "19 East Morris Ave., Linden, NJ 07036",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6293929,
+    "longitude": -74.248606
   },
   {
     "id": "564f1de9-09dd-57f0-9321-2ac3026d9c84",
@@ -690,7 +765,9 @@
     "address": "500 West Blancke St., Linden, NJ 07036-5058",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6298026,
+    "longitude": -74.2564634
   },
   {
     "id": "5e5b52f1-69f5-5c11-ba85-9ed8d534e217",
@@ -699,7 +776,9 @@
     "address": "1401 Deerfield Terrace, Linden, NJ 07036",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.633005,
+    "longitude": -74.2734658
   },
   {
     "id": "c86bf3a6-0919-5044-9861-68912b708572",
@@ -708,16 +787,9 @@
     "address": "330 Central Avenue, New Providence, NJ 07974",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "e6f383cc-580e-53a5-bc37-84f740a3affc",
-    "name": "Developmental Learning Center Warren",
-    "type": "School",
-    "address": "217 Mountain View Road, Warren, NJ 07059",
-    "county": "Union",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6994143,
+    "longitude": -74.3930929
   },
   {
     "id": "5fe10f7e-651b-52de-92f7-ba4585e039da",
@@ -726,7 +798,9 @@
     "address": "1497 Woodacres Dr, Mountainside, NJ 07092",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6720217,
+    "longitude": -74.369288
   },
   {
     "id": "a8c9767b-aac6-507d-beea-bc943cc7826b",
@@ -735,7 +809,9 @@
     "address": "302 Central Avenue, Mountainside, NJ 07092",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6803181,
+    "longitude": -74.3528698
   },
   {
     "id": "08f6c14a-6011-5acb-b4d8-021466f3aec4",
@@ -744,7 +820,9 @@
     "address": "80 Jones Dr, New Providence, NJ 07974-1121",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6939445,
+    "longitude": -74.4162192
   },
   {
     "id": "5e09c04a-19bb-5282-9cc3-d80fdfec20db",
@@ -753,7 +831,9 @@
     "address": "35 Pioneer Dr, New Providence, NJ 07974-1515",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6998133,
+    "longitude": -74.4083946
   },
   {
     "id": "b49d364a-dcf4-5529-9d4d-ec5f9a0f309b",
@@ -762,7 +842,9 @@
     "address": "35 Pioneer Drive, New Providence, NJ 07974",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6998133,
+    "longitude": -74.4083946
   },
   {
     "id": "5af57ef4-bd8e-5877-a81c-16f1d81b55a7",
@@ -771,7 +853,9 @@
     "address": "40 Maple St, New Providence, NJ 07974-2403",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7081783,
+    "longitude": -74.3906383
   },
   {
     "id": "609acc6a-4d62-5a9b-b33a-02ea56c37528",
@@ -780,7 +864,9 @@
     "address": "1049 Central Ave, Plainfield, NJ 07060-2801",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.602712,
+    "longitude": -74.416163
   },
   {
     "id": "15edbf56-a275-5b66-bf95-fbd70a1482d5",
@@ -789,7 +875,9 @@
     "address": "201 W Fourth St, Plainfield, NJ 07062-4235",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6155225,
+    "longitude": -74.421649
   },
   {
     "id": "f30f4b35-4ef7-50cb-9ad0-83a774d9baad",
@@ -798,7 +886,9 @@
     "address": "730 Central Street, Plainfield, NJ 07062",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6239748,
+    "longitude": -74.4036866
   },
   {
     "id": "6810980c-40a8-50bc-8d6b-d6f1f56636bf",
@@ -807,7 +897,9 @@
     "address": "West 4TH St And Clinton Ave, Plainfield, NJ 07063",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5989748,
+    "longitude": -74.4417277
   },
   {
     "id": "233faeb4-d054-5cb3-b9a6-586898292eec",
@@ -816,7 +908,9 @@
     "address": "E Front St & Farragut Rd, Plainfield, NJ 07060",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6307347,
+    "longitude": -74.4152211
   },
   {
     "id": "6886ee36-ddc5-5f07-9ffa-c7573235be58",
@@ -825,7 +919,9 @@
     "address": "305 Emerson Ave, Plainfield, NJ 07062-1701",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6343845,
+    "longitude": -74.4066156
   },
   {
     "id": "4d0ea170-5102-5769-9a9e-67d06b2152f8",
@@ -834,7 +930,9 @@
     "address": "1033 Evergreen Ave, Plainfield, NJ 07060-2613",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6123675,
+    "longitude": -74.4114289
   },
   {
     "id": "87abc3fc-7d95-55ca-81de-3d6281e50347",
@@ -843,7 +941,9 @@
     "address": "739 Leland Ave, Plainfield, NJ 07062-2140",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6279978,
+    "longitude": -74.396829
   },
   {
     "id": "6bed3218-08dc-56f4-9a79-eafbb3f94353",
@@ -852,7 +952,9 @@
     "address": "661 W Eighth St, Plainfield, NJ 07060-2233",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.60586,
+    "longitude": -74.42383
   },
   {
     "id": "1567a7dd-807c-589b-b1a3-724df6c5e855",
@@ -861,7 +963,9 @@
     "address": "1700 W. Front St, Plainfield, NJ 07063",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.597762,
+    "longitude": -74.453988
   },
   {
     "id": "30c39e77-c226-5b08-8711-fc68ecf95df2",
@@ -870,7 +974,9 @@
     "address": "920 E Seventh St, Plainfield, NJ 07062-1854",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6257466,
+    "longitude": -74.4034339
   },
   {
     "id": "35f49988-a205-5182-ae87-174f5b91d2a5",
@@ -879,7 +985,9 @@
     "address": "209 Berckman St, Plainfield, NJ 07062",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6269898,
+    "longitude": -74.4136703
   },
   {
     "id": "8f2bc737-84ad-5ad3-9f06-91b58da055f8",
@@ -888,7 +996,9 @@
     "address": "1700 West Front St, Plainfield, NJ 07063",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.597762,
+    "longitude": -74.453988
   },
   {
     "id": "4aa7a091-c35b-5de4-8a7c-e4644cdff7c6",
@@ -897,7 +1007,9 @@
     "address": "510 Grant Ave, Plainfield, NJ 07063",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6055237,
+    "longitude": -74.4315974
   },
   {
     "id": "f9a0fb5f-2c8e-5d22-8775-b0b1386b8572",
@@ -906,7 +1018,9 @@
     "address": "950 Park Avenue, Plainfield, NJ 07060-3002",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6115248,
+    "longitude": -74.4127387
   },
   {
     "id": "9917d071-ac82-5bca-af70-da16122a4284",
@@ -915,7 +1029,9 @@
     "address": "427 Darrow Ave, Plainfield, NJ 07060-2012",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6071223,
+    "longitude": -74.4312678
   },
   {
     "id": "b261db63-dc70-5434-9cc3-a36307c3b2a3",
@@ -924,7 +1040,9 @@
     "address": "1809 St Georges Ave, Rahway, NJ 07065-2003",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6179953,
+    "longitude": -74.2832969
   },
   {
     "id": "38f8d03d-40fb-5d54-8da2-d40cd78b568a",
@@ -933,7 +1051,9 @@
     "address": "486 E Milton Ave, Rahway, NJ 07065-5202",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.604686,
+    "longitude": -74.267509
   },
   {
     "id": "ce4d8974-3d1a-5a4b-9291-d85fe1840c42",
@@ -942,7 +1062,9 @@
     "address": "944 Madison Avenue, Rahway, NJ 07065",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6095389,
+    "longitude": -74.2940327
   },
   {
     "id": "5db3bdfb-ba73-53cd-aa20-d8850f69a77e",
@@ -951,7 +1073,9 @@
     "address": "1157 Kline Place, Rahway, NJ 07065",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6151456,
+    "longitude": -74.295581
   },
   {
     "id": "6e779fa3-f730-53a6-81df-8a66ccab4903",
@@ -960,7 +1084,9 @@
     "address": "1012 Madison Ave, Rahway, NJ 07065-2003",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6107079,
+    "longitude": -74.2940529
   },
   {
     "id": "52b6d543-3b26-5222-b4dc-e31db97bcf9a",
@@ -969,7 +1095,9 @@
     "address": "811 St George Ave, Rahway, NJ 07065-2626",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6042586,
+    "longitude": -74.2887911
   },
   {
     "id": "f4f9b599-c037-5891-aa30-fc163e3a595d",
@@ -978,7 +1106,9 @@
     "address": "339 West Webster Avenue, Roselle Park, NJ 07204-1617",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6663768,
+    "longitude": -74.2666452
   },
   {
     "id": "3d306746-7b2b-5ca8-92f5-8af931412ed5",
@@ -987,7 +1117,9 @@
     "address": "59 West Grant Avenue, Roselle Park, NJ 07204",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6640989,
+    "longitude": -74.2671857
   },
   {
     "id": "71fbd2ee-87a9-5ed0-ba09-e80a1985bff4",
@@ -996,7 +1128,9 @@
     "address": "185 W Webster Ave, Roselle Park, NJ 07204-1617",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6663768,
+    "longitude": -74.2666452
   },
   {
     "id": "d4f6eb76-46b7-528a-b1f8-e90020a60d6a",
@@ -1005,7 +1139,9 @@
     "address": "57 W Grant Ave, Roselle Park, NJ 07204-2217",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6642937,
+    "longitude": -74.266328
   },
   {
     "id": "9acd3571-d323-5b13-a138-2f4dce7ee202",
@@ -1014,7 +1150,9 @@
     "address": "258 West Webster Avenue, Roselle Park, NJ 07204",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6663768,
+    "longitude": -74.2666452
   },
   {
     "id": "1d7160c4-c68b-5c01-833f-b88b0c3fab0d",
@@ -1023,7 +1161,9 @@
     "address": "375 E Grant Ave, Roselle Park, NJ 07204",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6664697,
+    "longitude": -74.2546406
   },
   {
     "id": "91e1f748-bd48-5b18-9194-1110e158c15a",
@@ -1032,7 +1172,9 @@
     "address": "122 East 6TH Ave, Roselle, NJ 07203-2026",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6533994,
+    "longitude": -74.2616785
   },
   {
     "id": "964b6e52-41d3-5e4f-ae1e-17cb1e1bb8a8",
@@ -1041,7 +1183,9 @@
     "address": "1100 Warren St, Roselle, NJ 07203-2736",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.647972,
+    "longitude": -74.253161
   },
   {
     "id": "2084f0ef-a461-5bca-af44-8cbde8f2ecb1",
@@ -1050,7 +1194,9 @@
     "address": "400 Brooklawn Ave, Roselle, NJ 07203",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.642982,
+    "longitude": -74.265071
   },
   {
     "id": "01f00165-9d1e-57b7-a8a3-87db7d7eb19b",
@@ -1059,7 +1205,9 @@
     "address": "310 Harrison Ave, Roselle, NJ 07203",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.658653,
+    "longitude": -74.2518632
   },
   {
     "id": "641c66c4-fcd7-56bc-84d8-4758868c3e97",
@@ -1068,7 +1216,9 @@
     "address": "150 East 3RD Avenue, Roselle, NJ 07203",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6602118,
+    "longitude": -74.2439419
   },
   {
     "id": "2b480170-3e88-5219-9182-27baf09665b5",
@@ -1077,7 +1227,9 @@
     "address": "720 Locust St, Roselle, NJ 07203-1919",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6507124,
+    "longitude": -74.2649369
   },
   {
     "id": "c30eb703-02f6-57a9-974e-96c59db823c1",
@@ -1086,7 +1238,9 @@
     "address": "111 West 5TH Avenue, Roselle, NJ 07203",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6543147,
+    "longitude": -74.268474
   },
   {
     "id": "b2e29ab4-087a-5f5d-bf9e-22b087bb4adc",
@@ -1095,7 +1249,9 @@
     "address": "501 Washington Avenue, Roselle, NJ 07203-2329",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6506181,
+    "longitude": -74.2755012
   },
   {
     "id": "b45d376c-6afb-51fd-a208-f2685444e68b",
@@ -1104,7 +1260,9 @@
     "address": "2280 Evergreen Avenue, Scotch Plains, NJ 07076",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6557463,
+    "longitude": -74.3850608
   },
   {
     "id": "35a55146-babf-5102-8301-9432ea11daaf",
@@ -1113,7 +1271,9 @@
     "address": "721 Westfield Road, Scotch Plains, NJ 07076",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6510287,
+    "longitude": -74.380384
   },
   {
     "id": "36054f5b-3623-5be5-9687-36056b695baf",
@@ -1122,7 +1282,9 @@
     "address": "16 Kevin Road, Scotch Plains, NJ 07076",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6257047,
+    "longitude": -74.3819911
   },
   {
     "id": "bd5f6bbb-374a-5096-a5e4-d089d2959e35",
@@ -1131,7 +1293,9 @@
     "address": "580 Park Avenue, Scotch Plains, NJ 07076",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6473942,
+    "longitude": -74.393999
   },
   {
     "id": "3732b459-c8fc-5cff-b3c1-e9e0f7b00188",
@@ -1140,7 +1304,9 @@
     "address": "563 Willow Avenue, Scotch Plains, NJ 07076",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6449553,
+    "longitude": -74.3972033
   },
   {
     "id": "f7ad945c-22a5-5749-a7a8-9ad5251efe59",
@@ -1149,7 +1315,9 @@
     "address": "667 Westfield Road, Scotch Plains, NJ 07076",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6536987,
+    "longitude": -74.3841848
   },
   {
     "id": "0e7e09c7-a82f-50c4-9d1d-d4f767317a57",
@@ -1158,7 +1326,9 @@
     "address": "1301 Terrill Road, Scotch Plains, NJ 07076",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.62717,
+    "longitude": -74.37845
   },
   {
     "id": "8e66d94d-5654-51ed-a652-b450dcf2f3d1",
@@ -1167,7 +1337,9 @@
     "address": "1100 Roosevelt Avenue, Scotch Plains, NJ 07076",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6390735,
+    "longitude": -74.374397
   },
   {
     "id": "e6f3d540-f176-57c1-8569-6b4708a6d410",
@@ -1176,7 +1348,9 @@
     "address": "601 Mountain Ave., Springfield, NJ 07081",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6931649,
+    "longitude": -74.3267693
   },
   {
     "id": "e6e6d5fe-b1c9-5969-b115-909b2c9cf9ee",
@@ -1185,7 +1359,9 @@
     "address": "75 South Springfield Ave., Springfield, NJ 07081-1312",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7021175,
+    "longitude": -74.3167319
   },
   {
     "id": "2551e03c-4a8d-5872-9608-3f84f1e106cc",
@@ -1194,7 +1370,9 @@
     "address": "36 Caldwell Place, Springfield, NJ 07081",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7104804,
+    "longitude": -74.3149075
   },
   {
     "id": "e1e13175-465e-5ae9-bc4a-18dac72f6754",
@@ -1203,7 +1381,9 @@
     "address": "139 Mountain Ave., Po Box 210, Springfield, NJ 07081",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7064437,
+    "longitude": -74.3139975
   },
   {
     "id": "4b7ee907-9e4c-5ba6-b4a9-767437fc7226",
@@ -1212,7 +1392,9 @@
     "address": "666 South Springfield Ave., Springfield, NJ 07081-3011",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6916916,
+    "longitude": -74.322593
   },
   {
     "id": "62965de5-5525-590e-b8be-2c6d03085341",
@@ -1221,7 +1403,9 @@
     "address": "89 Tulip Street, Summit, NJ 07901-3410",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7089189,
+    "longitude": -74.3641047
   },
   {
     "id": "d0a42c3f-75a8-5c35-ab0f-9adfbb3eec92",
@@ -1230,7 +1414,9 @@
     "address": "136 Blackburn Road, Summit, NJ 07901-2313",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7089721,
+    "longitude": -74.3754985
   },
   {
     "id": "820588e1-339b-5f3a-b656-40acc40c3b1f",
@@ -1239,7 +1425,9 @@
     "address": "110 Ashwood Avenue, Summit, NJ 07901-3823",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7058015,
+    "longitude": -74.3509868
   },
   {
     "id": "ff3dcf20-0401-5ae6-9c98-3e3b3cfcf957",
@@ -1248,7 +1436,9 @@
     "address": "272 Morris Ave, Summit, NJ 07901-2526",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7132085,
+    "longitude": -74.3597633
   },
   {
     "id": "7e2e2db4-4e5b-508c-847e-36615d48356d",
@@ -1257,7 +1447,9 @@
     "address": "52 Woodland Ave, Summit, NJ 07901-2101",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7212035,
+    "longitude": -74.3621522
   },
   {
     "id": "4046ecc7-669d-5899-8653-ff3e8e55bc5a",
@@ -1266,7 +1458,9 @@
     "address": "110 Ashwood Avenue, Summit, NJ 07901",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7058015,
+    "longitude": -74.3509868
   },
   {
     "id": "c2338181-1e22-53bc-9f93-2a510132c373",
@@ -1275,7 +1469,9 @@
     "address": "14 Beekman Terrace, Summit, NJ 07901-1702",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.713878,
+    "longitude": -74.378321
   },
   {
     "id": "bcdf067d-c0ad-5bf2-98ba-2a56489f25b6",
@@ -1284,7 +1480,9 @@
     "address": "125 Kent Place Blvd, Summit, NJ 07901-4703",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7201804,
+    "longitude": -74.3713317
   },
   {
     "id": "4fc23adb-53bc-5daa-809f-2bab646e3537",
@@ -1293,7 +1491,9 @@
     "address": "507 Morris Ave, Summit, NJ 07901-1544",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7262631,
+    "longitude": -74.3721845
   },
   {
     "id": "31852b40-63da-5d53-ad60-a9070bbacc85",
@@ -1302,7 +1502,9 @@
     "address": "2600 Killian Place, Union, NJ 07083",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.700111,
+    "longitude": -74.297738
   },
   {
     "id": "2a224ae1-b0d2-5d75-8bf4-1facec49c2b0",
@@ -1311,7 +1513,9 @@
     "address": "1000 Caldwell Avenue, Union, NJ 07083",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6993075,
+    "longitude": -74.27582
   },
   {
     "id": "26438e5d-3211-594c-b434-3385a1184566",
@@ -1320,7 +1524,9 @@
     "address": "875 Stuyvesant Avenue, Union, NJ 07083",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.693191,
+    "longitude": -74.2730332
   },
   {
     "id": "5573a3f5-fd8b-5e83-8b59-0e473f03d616",
@@ -1329,7 +1535,9 @@
     "address": "1500 Lindy Terrace, Union, NJ 07083-4752",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.706433,
+    "longitude": -74.2565517
   },
   {
     "id": "dd243a93-d098-5750-b8b5-a7f5a1314d34",
@@ -1338,7 +1546,9 @@
     "address": "1120 Commerce Avenue, Union, NJ 07083",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7029895,
+    "longitude": -74.2777483
   },
   {
     "id": "8ab696c5-0f99-5619-bb7a-9d160b4a4f58",
@@ -1347,7 +1557,9 @@
     "address": "155 Hilton Avenue, Union, NJ 07083",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7157057,
+    "longitude": -74.2811589
   },
   {
     "id": "0c23e7d0-3217-5604-8259-8dbf3aadd31e",
@@ -1356,7 +1568,9 @@
     "address": "490 David Terrace, Union, NJ 07083",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6892181,
+    "longitude": -74.2602241
   },
   {
     "id": "8793433e-3808-5a03-af08-298eaf1239c4",
@@ -1365,7 +1579,9 @@
     "address": "960 Midland Blvd, Union, NJ 07083",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6887031,
+    "longitude": -74.2505322
   },
   {
     "id": "b64f174a-56e4-5f06-8704-751fcc357c19",
@@ -1374,7 +1590,9 @@
     "address": "2350 North Third Street, Union, NJ 07083",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.625216,
+    "longitude": -74.358477
   },
   {
     "id": "3ba39acc-2a6a-5b3a-ab9d-82349eab6dbe",
@@ -1383,7 +1601,9 @@
     "address": "301 Washington Avenue, Union, NJ 07083",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.681734,
+    "longitude": -74.264357
   },
   {
     "id": "29b32248-3ec8-5409-9602-ae96e705ba64",
@@ -1392,7 +1612,9 @@
     "address": "45 Cardinal Drive, Westfield, NJ 07090",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6805175,
+    "longitude": -74.3296186
   },
   {
     "id": "a7c723c9-4f9e-5748-975d-ed02059d33d8",
@@ -1401,7 +1623,9 @@
     "address": "2630 Plainfield Avenue, Scotch Plains, NJ 07076-2462",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6549455,
+    "longitude": -74.3733185
   },
   {
     "id": "d2c4751f-864d-5a4d-9c72-81bdb3fe5f17",
@@ -1410,7 +1634,9 @@
     "address": "1571 Lamberts Mill Road, Westfield, NJ 07090",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6251936,
+    "longitude": -74.3289511
   },
   {
     "id": "ce6709d1-78de-5730-bc67-5cc0b7fa69e2",
@@ -1419,7 +1645,9 @@
     "address": "1571 Lamberts Mill Road, Westfield, NJ 07090",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6251936,
+    "longitude": -74.3289511
   },
   {
     "id": "5fd62af5-aa07-5d57-9989-52b61f60fe32",
@@ -1428,7 +1656,9 @@
     "address": "1571 Lamberts Mill Rd, Westfield, NJ 07090",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6251936,
+    "longitude": -74.3289511
   },
   {
     "id": "9852b6a5-4048-5bd5-9359-5428ab657a06",
@@ -1437,7 +1667,9 @@
     "address": "971 Suburban Road, Union, NJ 07083",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6907146,
+    "longitude": -74.2531023
   },
   {
     "id": "6c656535-32d3-5e31-be82-147ff3bccb3e",
@@ -1446,7 +1678,9 @@
     "address": "1776 Raritan Road, Scotch Plains, NJ 07076-2997",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6172153,
+    "longitude": -74.3571964
   },
   {
     "id": "679e5950-6ced-569a-8d76-98d773ad3d0e",
@@ -1455,7 +1689,9 @@
     "address": "1776 Raritan Road, Scotch Plains, NJ 07076-2997",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6172153,
+    "longitude": -74.3571964
   },
   {
     "id": "815212ed-ad24-5557-bbab-550bc9ddc9e8",
@@ -1464,7 +1700,9 @@
     "address": "1776 Raritan Road, Scotch Plains, NJ 07076-2997",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6172153,
+    "longitude": -74.3571964
   },
   {
     "id": "c50d8e4d-28e1-5dcc-85e3-a67b24705fd6",
@@ -1473,7 +1711,9 @@
     "address": "1776 Raritan Road, Scotch Plains, NJ 07076-2997",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6172153,
+    "longitude": -74.3571964
   },
   {
     "id": "5156e47e-ae25-5af1-bec4-7ad29a45ac69",
@@ -1482,7 +1722,9 @@
     "address": "121-125 Chestnut Street, Roselle, NJ 07203",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6592965,
+    "longitude": -74.2631166
   },
   {
     "id": "3c897b9a-9180-5aec-b797-af1a58edc674",
@@ -1491,7 +1733,9 @@
     "address": "651 Kapkowski Road, Elizabeth, NJ 07201",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.66281,
+    "longitude": -74.17361
   },
   {
     "id": "e313ce45-9e74-597c-af3e-fa218af10169",
@@ -1500,7 +1744,9 @@
     "address": "1776 Raritan Road, Scotch Plains, NJ 07076",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6172153,
+    "longitude": -74.3571964
   },
   {
     "id": "36c79a94-dbee-523d-96d4-63a7a288d197",
@@ -1509,7 +1755,9 @@
     "address": "1776 Raritan Road, Scotch Plains, NJ 07076-2997",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6180832,
+    "longitude": -74.3569605
   },
   {
     "id": "e144b6e4-b3e3-55ca-b2eb-8a5573ece181",
@@ -1518,7 +1766,9 @@
     "address": "1776 Raritan Rd, Scotch Plains, NJ 07076-2997",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6172153,
+    "longitude": -74.3571964
   },
   {
     "id": "fd61e1a7-e55c-59c9-9cad-c1457e1886ed",
@@ -1527,7 +1777,9 @@
     "address": "700 Prospect Street, Westfield, NJ 07090-3907",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.65766,
+    "longitude": -74.3597533
   },
   {
     "id": "3badcfd1-4d8e-5f3b-8f8d-e2390e97f263",
@@ -1536,7 +1788,9 @@
     "address": "1200 Boulevard, Westfield, NJ 07090-2726",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.637762,
+    "longitude": -74.328916
   },
   {
     "id": "ba5785ef-9c20-5f61-aa9d-6678cf2cd241",
@@ -1545,7 +1799,9 @@
     "address": "728 Westfield Avenue, Westfield, NJ 07090",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6410048,
+    "longitude": -74.342622
   },
   {
     "id": "7b72719a-5944-51fe-a44f-51a8a4ab13fe",
@@ -1554,7 +1810,9 @@
     "address": "500 First Street, Westfield, NJ 07090-4123",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6449283,
+    "longitude": -74.3535887
   },
   {
     "id": "b9f71a0b-1c37-57de-b924-78610ba5a3e8",
@@ -1563,7 +1821,9 @@
     "address": "301 Clark Street, Westfield, NJ 07090-4009",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6509256,
+    "longitude": -74.3565649
   },
   {
     "id": "b5cb09fe-ac7d-5c41-a1c4-2d9473b5ac79",
@@ -1572,7 +1832,9 @@
     "address": "641 Willow Grove Road, Westfield, NJ 07090-3519",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6348072,
+    "longitude": -74.3381452
   },
   {
     "id": "2e9bf4df-7d9d-5628-9e17-054d39abdc0a",
@@ -1581,7 +1843,9 @@
     "address": "800 Rahway Avenue, Westfield, NJ 07090",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.638352,
+    "longitude": -74.3428717
   },
   {
     "id": "13a701f2-5655-5a6f-bffa-21e772dfe754",
@@ -1590,7 +1854,9 @@
     "address": "900 St. Marks Avenue, Westfield, NJ 07090-2039",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6607946,
+    "longitude": -74.3325345
   },
   {
     "id": "58b4aac9-4630-5f99-ba15-27fe8a49dd55",
@@ -1599,7 +1865,9 @@
     "address": "550 Dorian Road, Westfield, NJ 07090-3302",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6444333,
+    "longitude": -74.3483412
   },
   {
     "id": "c5aa372e-82a2-552e-a3a3-1b6205e95148",
@@ -1608,7 +1876,9 @@
     "address": "301 Linden Avenue, Westfield, NJ 07090-1923",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.662047,
+    "longitude": -74.342937
   },
   {
     "id": "3d54af50-6f71-56eb-9d9c-5fcec066544b",
@@ -1617,7 +1887,9 @@
     "address": "7 1/2 Gulfstream Avenue, Winfield, NJ 07036",
     "county": "Union",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.635285,
+    "longitude": -74.2873207
   },
   {
     "id": "3a28632f-dcc6-591a-a9db-79a04e9006c6",
@@ -1626,7 +1898,9 @@
     "address": "1000 Morris Avenue, Union, NJ 07083",
     "county": "Union",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6780173,
+    "longitude": -74.2339287
   },
   {
     "id": "873bff48-d24c-50f1-b2be-e0c86bc3b595",
@@ -1635,7 +1909,9 @@
     "address": "1033 Springfield Avenue, Cranford, NJ 07016",
     "county": "Union",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6682865,
+    "longitude": -74.3184877
   },
   {
     "id": "bfc5c2aa-7472-534a-b039-6615f8586538",
@@ -1644,7 +1920,9 @@
     "address": "2 Broad Street, Elizabeth, NJ 07207",
     "county": "Union",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.663201,
+    "longitude": -74.215049
   },
   {
     "id": "d42b408c-ab07-51de-bf56-a0d66f3b2d55",
@@ -1653,7 +1931,9 @@
     "address": "315 Westfield Avenue, Clark, NJ 07066",
     "county": "Union",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6217925,
+    "longitude": -74.3109803
   },
   {
     "id": "7bb0f01f-1311-553a-adb1-66c47acaa1bb",
@@ -1662,16 +1942,9 @@
     "address": "8 Springfield Ave, Cranford, NJ 07016",
     "county": "Union",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "61c0c39d-c22a-51a6-93c9-229f234e4acc",
-    "name": "Elizabeth Municipal Court",
-    "type": "Courthouse",
-    "address": "1 Police Plaza, Elizabeth, NJ 07201",
-    "county": "Union",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6581261,
+    "longitude": -74.3027261
   },
   {
     "id": "7ed58faf-f8f0-5c44-b22f-f16f524585f7",
@@ -1680,7 +1953,9 @@
     "address": "75 N Martine Ave, Fanwood, NJ 07023",
     "county": "Union",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6429805,
+    "longitude": -74.3879282
   },
   {
     "id": "bcd8dab1-9fe0-5c94-9be5-85144c97703f",
@@ -1689,7 +1964,9 @@
     "address": "75 N. Martine Ave., Fanwood, NJ 07023",
     "county": "Union",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6429805,
+    "longitude": -74.3879282
   },
   {
     "id": "496fac8f-d992-57f1-8dd7-2aae2c65faa1",
@@ -1698,7 +1975,9 @@
     "address": "1409 Liberty Avenue, Hillside, NJ 07205",
     "county": "Union",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7011371,
+    "longitude": -74.2286184
   },
   {
     "id": "9f3d01a0-7fd1-54c4-9134-63fcd209af39",
@@ -1707,16 +1986,9 @@
     "address": "567 Boulevard, Kenilworth, NJ 07033",
     "county": "Union",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "db7be5ce-dda5-57cc-ae97-66af3188e004",
-    "name": "Mountainside Municipal Court",
-    "type": "Courthouse",
-    "address": "1385 Route 22 East, Mountainside, NJ 07092",
-    "county": "Union",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.676193,
+    "longitude": -74.28945
   },
   {
     "id": "540c7bce-9156-5bc3-aa66-704916ee7990",
@@ -1725,7 +1997,9 @@
     "address": "360 Elkwood Avenue, New Providence, NJ 07974",
     "county": "Union",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7078532,
+    "longitude": -74.4037255
   },
   {
     "id": "6ae4090b-7e34-5510-96eb-204a53f6ac8a",
@@ -1734,7 +2008,9 @@
     "address": "325 Watchung Ave, Plainfield, NJ 07061",
     "county": "Union",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6187392,
+    "longitude": -74.4021172
   },
   {
     "id": "0649a1f2-7925-5b85-a269-ddae5ee5e740",
@@ -1743,7 +2019,9 @@
     "address": "110 E Westfield Ave, Roselle Park, NJ 07204",
     "county": "Union",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6647418,
+    "longitude": -74.2409816
   },
   {
     "id": "37fb46de-e3a6-5705-9b88-031e29d7de6e",
@@ -1752,7 +2030,9 @@
     "address": "360 Elkwood Avenue, New Providence, NJ 07974",
     "county": "Union",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7078532,
+    "longitude": -74.4037255
   },
   {
     "id": "f8de5eee-f703-59f0-81e7-a40d41daa85c",
@@ -1761,7 +2041,9 @@
     "address": "981 Caldwell Av, Union, NJ 07083",
     "county": "Union",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6969083,
+    "longitude": -74.2768623
   },
   {
     "id": "eaadbda5-92fc-51e7-9caf-64e28326b751",
@@ -1770,7 +2052,9 @@
     "address": "425 E. Broad St, Westfield, NJ 07090",
     "county": "Union",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6550742,
+    "longitude": -74.3454152
   },
   {
     "id": "a429f9d8-c41a-552a-927c-2ba5d68cd387",
@@ -1779,7 +2063,9 @@
     "address": "12 Gulfstream Ave, Winfield, NJ 07036",
     "county": "Union",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.63535,
+    "longitude": -74.288309
   },
   {
     "id": "e29771d2-b7c8-550d-9198-e58ddc9cba5e",
@@ -1788,7 +2074,9 @@
     "address": "Broad Street & West Grand Street, Elizabeth, NJ 07201",
     "county": "Union",
     "source": "nj_transit_hubs_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.667417,
+    "longitude": -74.2155129
   },
   {
     "id": "36dfba4e-f04b-57b5-a361-137d9dd249a0",
@@ -1797,7 +2085,9 @@
     "address": "10 Elizabethtown Plaza, Elizabeth, NJ 07207",
     "county": "Union",
     "source": "nj_government_buildings_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6619698,
+    "longitude": -74.2166563
   },
   {
     "id": "0dea0ddb-0e97-54f4-b532-9b3f3afda5c4",
@@ -1806,6 +2096,8 @@
     "address": "50 Winfield Scott Plaza, Elizabeth, NJ 07201",
     "county": "Union",
     "source": "nj_government_buildings_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.662984,
+    "longitude": -74.211643
   }
 ]

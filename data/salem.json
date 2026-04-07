@@ -6,7 +6,9 @@
     "address": "43 Cedar St, Alloway, NJ 08001",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5589564,
+    "longitude": -75.3638712
   },
   {
     "id": "11ddc06c-11eb-50e5-acf1-7d9c5b88ec5a",
@@ -15,16 +17,9 @@
     "address": "631 Salem Fort Elfsborg Road, Salem, NJ 08079",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "17c21194-67cb-5107-91df-0ded68a4edd5",
-    "name": "Mannington Township Elementary School",
-    "type": "School",
-    "address": "495 Route 45, Salem, NJ 08079-9801",
-    "county": "Salem",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.549714,
+    "longitude": -75.5199901
   },
   {
     "id": "45edb62a-3f1e-58af-a348-cc6264f70fff",
@@ -33,7 +28,9 @@
     "address": "10 Freed Road, Pedricktown, NJ 08067-9610",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7539472,
+    "longitude": -75.4046005
   },
   {
     "id": "ec30beb9-e61d-5840-82b3-5f2277e1e1b9",
@@ -42,7 +39,9 @@
     "address": "144 Field Street, Carneys Point, NJ 08069-1369",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7303275,
+    "longitude": -75.4585667
   },
   {
     "id": "c733b4eb-e8d9-5ff3-8f9d-9fe466a44ec7",
@@ -51,7 +50,9 @@
     "address": "237 Shell Road, Carneys Point, NJ 08069-1369",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7146756,
+    "longitude": -75.4701603
   },
   {
     "id": "1696815e-4873-5d7a-b76c-8ea5a3030967",
@@ -60,7 +61,9 @@
     "address": "251 Maple Avenue, Penns Grove, NJ 08069-1369",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.720964,
+    "longitude": -75.4714222
   },
   {
     "id": "e40d9ef0-fb35-5549-8c3a-2cf7537f43f3",
@@ -69,7 +72,9 @@
     "address": "334 Harding Highway, Carneys Point, NJ 08069-1369",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7178387,
+    "longitude": -75.4558745
   },
   {
     "id": "0ae70983-729d-52d0-aad5-0cd0385541c7",
@@ -78,7 +83,9 @@
     "address": "351 Maple Avenue, Penns Grove, NJ 08069-1369",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7229974,
+    "longitude": -75.4762268
   },
   {
     "id": "4411b4ef-f999-5864-8438-c4344ede00fb",
@@ -87,7 +94,9 @@
     "address": "43 Oliver Ave, Pennsville, NJ 08070-1531",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6620282,
+    "longitude": -75.5078522
   },
   {
     "id": "950a49ac-3251-5297-a664-f094a2d75988",
@@ -96,7 +105,9 @@
     "address": "96 Kansas Rd, Pennsville, NJ 08070",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6404266,
+    "longitude": -75.5288353
   },
   {
     "id": "bbd519ab-021e-5473-a19e-9fb6ceeb3949",
@@ -105,7 +116,9 @@
     "address": "110 S Broadway, Pennsville, NJ 08070-2060",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6503264,
+    "longitude": -75.5174537
   },
   {
     "id": "dddbe716-658b-5ef1-8581-d4228f7348e8",
@@ -114,7 +127,9 @@
     "address": "4 William Penn Avenue, Pennsville, NJ 08070-1800",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6481285,
+    "longitude": -75.5173173
   },
   {
     "id": "e1efca3d-1204-57aa-bef2-e8f83e6863a5",
@@ -123,7 +138,9 @@
     "address": "63 Mahoney Road, Pennsville, NJ 08070",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6337344,
+    "longitude": -75.5048543
   },
   {
     "id": "13e5deca-7e24-5f87-833c-de66cbdf89c9",
@@ -132,7 +149,9 @@
     "address": "718 Centerton Road, Pittsgrove, NJ 08318-8901",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5209066,
+    "longitude": -75.1720997
   },
   {
     "id": "09726be7-a545-569a-9083-17a6b5e9ad8f",
@@ -141,7 +160,9 @@
     "address": "207 Front Street, Elmer, NJ 08318",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5929607,
+    "longitude": -75.1750136
   },
   {
     "id": "e0044ac7-fc88-566a-8280-a265c01a6455",
@@ -150,7 +171,9 @@
     "address": "873 Gershal Avenue, Pittsgrove, NJ 08318",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5002079,
+    "longitude": -75.087261
   },
   {
     "id": "ec354de6-6c74-5793-a2a7-ed66e5c7b20c",
@@ -159,7 +182,9 @@
     "address": "235 Sheep Pen Road, Pittsgrove, NJ 08318-8901",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5504754,
+    "longitude": -75.158062
   },
   {
     "id": "dc45b3cb-1fc0-58bc-8b72-c8e247cf9f42",
@@ -168,7 +193,9 @@
     "address": "1082 Almond Road, Pittsgrove, NJ 08318",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5247058,
+    "longitude": -75.1612808
   },
   {
     "id": "07e113a4-05b1-534a-a786-c14553554a88",
@@ -177,7 +204,9 @@
     "address": "8 Robinson Street, Po Box 365, Quinton, NJ 08072-0365",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5432219,
+    "longitude": -75.4115172
   },
   {
     "id": "9be05d94-153f-5a69-9465-92e55ba47cd8",
@@ -186,7 +215,9 @@
     "address": "183 Smith Street, Salem, NJ 08079-9048",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5670924,
+    "longitude": -75.4683595
   },
   {
     "id": "d37095a2-09be-579f-a511-0ebb46ab2d30",
@@ -195,7 +226,9 @@
     "address": "219 Walnut St, Salem, NJ 08079-9048",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5649301,
+    "longitude": -75.469448
   },
   {
     "id": "27aeb1ca-1a1d-52a8-9c1e-d823769087d3",
@@ -204,16 +237,9 @@
     "address": "51 New Market Street, Salem, NJ 08079-9048",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "c1509d87-a611-55f9-b149-0ca98fe8b1ab",
-    "name": "Cumberland Campus",
-    "type": "School",
-    "address": "13 Ramah Road, Bridgeton, NJ 08302",
-    "county": "Salem",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5699444,
+    "longitude": -75.4681622
   },
   {
     "id": "5cf6af64-ed22-5e3c-8482-29906fb4ea7f",
@@ -222,7 +248,9 @@
     "address": "404 Daretown Road, Elmer, NJ 08318",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6069373,
+    "longitude": -75.2532989
   },
   {
     "id": "9591217e-ae00-5c66-a74b-591ff040c537",
@@ -231,16 +259,9 @@
     "address": "45 Cheney Road, Woodstown, NJ 08098-9451",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "27c48afd-ddc6-53b8-9ec9-deda35d39ac0",
-    "name": "Salem County Career And Technical High School",
-    "type": "School",
-    "address": "880 Route 45, Woodstown, NJ 08098-0350",
-    "county": "Salem",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.625141,
+    "longitude": -75.364284
   },
   {
     "id": "21453a43-1975-50e7-8988-0febc7d92ea5",
@@ -249,7 +270,9 @@
     "address": "967 Main St Canton, Salem, NJ 08079",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4659967,
+    "longitude": -75.4106965
   },
   {
     "id": "17772cc2-687b-531c-ad95-efb9161c48c3",
@@ -258,7 +281,9 @@
     "address": "235 Pine Tavern Road, Monroeville, NJ 08343-9402",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6292527,
+    "longitude": -75.2015859
   },
   {
     "id": "f28bd7f7-0024-596a-954a-e48f8e5e7a9a",
@@ -267,7 +292,9 @@
     "address": "Mary S Shoemaker School, 201 E Millbrooke Ave, Woodstown, NJ 08098",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6463379,
+    "longitude": -75.319938
   },
   {
     "id": "01d96ac1-5309-5b7d-acfb-dd3e4fb19645",
@@ -276,7 +303,9 @@
     "address": "211 East Lake Road, Pilesgrove, NJ 08098",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.648989,
+    "longitude": -75.309731
   },
   {
     "id": "48870de6-6cf6-542b-98be-5d7c12655e60",
@@ -285,7 +314,9 @@
     "address": "Woodstown High School, 140 East Avenue, Woodstown, NJ 08098-1392",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6507871,
+    "longitude": -75.3213289
   },
   {
     "id": "260cddb4-add9-5e8b-baab-99c2c1ae784d",
@@ -294,7 +325,9 @@
     "address": "Woodstown Middle School, 15 Lincoln Avenue, Woodstown, NJ 08098-1391",
     "county": "Salem",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.650156,
+    "longitude": -75.3216553
   },
   {
     "id": "332e62fe-32ae-5e17-97f1-bc6993aebd76",
@@ -303,7 +336,9 @@
     "address": "460 Hollywood Avenue, Carneys Point, NJ 08069",
     "county": "Salem",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7001803,
+    "longitude": -75.4700909
   },
   {
     "id": "0f57b93f-2813-5e2b-9c1d-74e793be950d",
@@ -312,16 +347,9 @@
     "address": "92 Market Street, Salem, NJ 08079",
     "county": "Salem",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
-  },
-  {
-    "id": "46d0d429-dba5-5995-bafe-5f28f0ab756a",
-    "name": "Alloway Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "1180 Route 40, Pilesgrove, NJ 08098",
-    "county": "Salem",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5728847,
+    "longitude": -75.4660791
   },
   {
     "id": "1346d166-b061-5087-91a5-e34e508d8f54",
@@ -330,7 +358,9 @@
     "address": "25 West Ave, Woodstown, NJ 08098",
     "county": "Salem",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6512867,
+    "longitude": -75.3291382
   },
   {
     "id": "d74ccfd2-9e24-5332-a15f-6dc311dcab87",
@@ -339,7 +369,9 @@
     "address": "25 West Ave, Woodstown, NJ 08098",
     "county": "Salem",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6512867,
+    "longitude": -75.3291382
   },
   {
     "id": "2c737482-c569-5184-ba6e-96e8f4bc6b07",
@@ -348,7 +380,9 @@
     "address": "25 West Ave, Woodstown, NJ 08098",
     "county": "Salem",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6512867,
+    "longitude": -75.3291382
   },
   {
     "id": "125fb997-e50b-5558-8d20-c9f6a58860fc",
@@ -357,7 +391,9 @@
     "address": "25 West Ave, Woodstown, NJ 08098",
     "county": "Salem",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6512867,
+    "longitude": -75.3291382
   },
   {
     "id": "06774b99-536e-50e7-b2fe-7d8bb53bcce4",
@@ -366,7 +402,9 @@
     "address": "303 Harding Hwy, Carneys Point, NJ 08069",
     "county": "Salem",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.718221,
+    "longitude": -75.455995
   },
   {
     "id": "417c507d-99b8-562a-8d2b-f654f32333e8",
@@ -375,16 +413,9 @@
     "address": "303 Harding Hwy, Carneys Point, NJ 08069",
     "county": "Salem",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "2fc9a666-26b3-552a-8995-fe0914f9fa24",
-    "name": "Pilesgrove Joint Municipal Ct",
-    "type": "Courthouse",
-    "address": "1180 Rt 40, Pilesgrove, NJ 08098",
-    "county": "Salem",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.718221,
+    "longitude": -75.455995
   },
   {
     "id": "33c2796e-ffad-5911-aded-3e2297a3050e",
@@ -393,7 +424,9 @@
     "address": "25 West Avenue, Woodstown, NJ 08098",
     "county": "Salem",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6512867,
+    "longitude": -75.3291382
   },
   {
     "id": "339ec3e2-a98e-587f-a82f-1d2acdf04318",
@@ -402,16 +435,9 @@
     "address": "125 West Broadway, Salem, NJ 08079",
     "county": "Salem",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "36520a76-25ca-5c66-9be3-0cb19a26d0ef",
-    "name": "Upper Pittsgrove Municipal Ct",
-    "type": "Courthouse",
-    "address": "1180 Route 40, Pilesgrove, NJ 08098",
-    "county": "Salem",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5722109,
+    "longitude": -75.4695085
   },
   {
     "id": "a9791ad3-e96b-5fbd-9d87-463be11063ec",
@@ -420,6 +446,8 @@
     "address": "Salem Airfield, Salem, NJ 08079",
     "county": "Salem",
     "source": "nj_airports_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5626082,
+    "longitude": -75.4499795
   }
 ]

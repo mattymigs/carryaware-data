@@ -6,7 +6,9 @@
     "address": "111 N West Avenue, Bridgeton, NJ 08302",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4383625,
+    "longitude": -75.2450396
   },
   {
     "id": "7093abd4-18b1-5c10-a62a-42830876fe4a",
@@ -15,7 +17,9 @@
     "address": "251 West Broad Street, Bridgeton, NJ 08302",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4308237,
+    "longitude": -75.2450743
   },
   {
     "id": "81662b92-0f47-54d8-acd8-53dca66ca0ad",
@@ -24,7 +28,9 @@
     "address": "550 Buckshutem Road, Bridgeton, NJ 08302-9501",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4243839,
+    "longitude": -75.2145102
   },
   {
     "id": "beb0585e-7ab1-5ee3-a066-4c87d7a409f3",
@@ -33,7 +39,9 @@
     "address": "11 Cherry Street, Bridgeton, NJ 08302",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4192413,
+    "longitude": -75.2235947
   },
   {
     "id": "f36dfbbf-e8ab-58ec-a1cf-1d089468eedf",
@@ -42,7 +50,9 @@
     "address": "550 Buckshutem Road, Bridgeton, NJ 08302",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4243839,
+    "longitude": -75.2145102
   },
   {
     "id": "ac3e57a1-1caa-57da-b776-c09156f1ad68",
@@ -51,7 +61,9 @@
     "address": "399 Indian Avenue, Bridgeton, NJ 08302",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.439572,
+    "longitude": -75.218688
   },
   {
     "id": "1132cc69-edbe-5c0c-b1e1-47f012611b64",
@@ -60,7 +72,9 @@
     "address": "300 Quarter Mile Lane, Bridgeton, NJ 08302",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.420209,
+    "longitude": -75.2502066
   },
   {
     "id": "8f2351fd-e585-50d4-9d57-036e6ea49c4f",
@@ -69,7 +83,9 @@
     "address": "51 North West Avenue, Bridgeton, NJ 08302-1388",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4342637,
+    "longitude": -75.2451029
   },
   {
     "id": "b3702dc2-d37f-5490-aa09-7098c38c8634",
@@ -78,7 +94,9 @@
     "address": "1308 North Avenue, Port Norris, NJ 08349-9801",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.2616551,
+    "longitude": -75.024534
   },
   {
     "id": "6eda2915-4436-5fe8-a02b-ee3bc59e4792",
@@ -87,7 +105,9 @@
     "address": "3400 College Drive, Millville, NJ 08332",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4357643,
+    "longitude": -75.0516248
   },
   {
     "id": "23d0dba7-e9f9-5deb-8889-677ef97a757b",
@@ -96,7 +116,9 @@
     "address": "90 Silver Lake Road, Bridgeton, NJ 08302",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4749387,
+    "longitude": -75.2204933
   },
   {
     "id": "a14b5256-9855-5895-865a-a315c6608f61",
@@ -105,7 +127,9 @@
     "address": "419 Morton Ave, Rosenhayn, NJ 08352-0375",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4616528,
+    "longitude": -75.1245612
   },
   {
     "id": "02e10816-a0c8-5f1a-89e2-c170897d735e",
@@ -114,7 +138,9 @@
     "address": "220 Main St, Newport, NJ 08345-9711",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.2970874,
+    "longitude": -75.1652675
   },
   {
     "id": "122686ce-338a-564d-b4a7-ccb208e02747",
@@ -123,7 +149,9 @@
     "address": "375 Gouldtown Woodruff Road, Bridgeton, NJ 08302",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4231177,
+    "longitude": -75.1813388
   },
   {
     "id": "0b1b2404-20f9-5866-b3d2-354d47ff169e",
@@ -132,16 +160,9 @@
     "address": "839 Ye Greate Street, Greenwich, NJ 08323-0360",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "c6ac9288-e716-55cb-8150-1c5742b9f4c7",
-    "name": "Stow Creek Township School",
-    "type": "School",
-    "address": "11 Gum Tree Corner Road, Bridgeton, NJ 08302-8951",
-    "county": "Cumberland",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3991736,
+    "longitude": -75.3454744
   },
   {
     "id": "0155b262-f7eb-5693-9b7d-55735fe8fa85",
@@ -150,7 +171,9 @@
     "address": "122 Sewall Road, Bridgeton, NJ 08302-8503",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4545058,
+    "longitude": -75.2624514
   },
   {
     "id": "a6c409c6-ffad-59fe-aed7-5feb5685b2db",
@@ -159,7 +182,9 @@
     "address": "225 Main Street, Cedarville, NJ 08311",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3386566,
+    "longitude": -75.2036418
   },
   {
     "id": "40fe8dcb-e82b-58e2-82b1-4fdce299321c",
@@ -168,7 +193,9 @@
     "address": "3593 Rt 47, Port Elizabeth, NJ 08348-0464",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3082971,
+    "longitude": -74.980087
   },
   {
     "id": "1baafdf8-66a0-5bd9-b215-985d8c82a8ed",
@@ -177,7 +204,9 @@
     "address": "1100 Coombs Rd., Millville, NJ 08332",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.413479,
+    "longitude": -75.023446
   },
   {
     "id": "f55e5928-cd09-511e-a9f2-64f112bb06e1",
@@ -186,7 +215,9 @@
     "address": "2509 E. Main St., Millville, NJ 08332-9639",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3874179,
+    "longitude": -74.9930313
   },
   {
     "id": "3df7f74f-479c-5880-89a9-3fb8c585581c",
@@ -195,7 +226,9 @@
     "address": "2 N Sharp St, Millville, NJ 08332",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4166089,
+    "longitude": -75.041097
   },
   {
     "id": "cf19a417-7348-5c53-af33-f0f8537ac8d5",
@@ -204,7 +237,9 @@
     "address": "200 Wade Blvd, Millville, NJ 08332-2206",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.392623,
+    "longitude": -75.018555
   },
   {
     "id": "7f1e66ce-9ff7-5f70-9b06-6f73c5637948",
@@ -213,16 +248,9 @@
     "address": "100 Carmel Rd, Millville, NJ 08332",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "289ee580-cb5b-5a81-8b0a-cd7898a0bd43",
-    "name": "R. M. Bacon Elementary School",
-    "type": "School",
-    "address": "501 South Third Street, Millville, NJ 08332",
-    "county": "Cumberland",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.399781,
+    "longitude": -75.062122
   },
   {
     "id": "efc5c96d-f3a8-5506-8e7b-16acd75a5997",
@@ -231,7 +259,9 @@
     "address": "339 Rieck Avenue, Millville, NJ 08332",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3902724,
+    "longitude": -75.0750004
   },
   {
     "id": "eeafb604-c5e6-530d-93c6-c705c30861ae",
@@ -240,16 +270,9 @@
     "address": "301 Silver Run Road, Millville, NJ 08332",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "27372c0a-ff37-5c7a-8cd2-b76b1f345966",
-    "name": "Charles F. Seabrook School",
-    "type": "School",
-    "address": "1373 Highway 77, Seabrook, NJ 08302-4261",
-    "county": "Cumberland",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3831743,
+    "longitude": -75.041995
   },
   {
     "id": "905ad5b8-07ed-5af3-b731-3094035c324f",
@@ -258,7 +281,9 @@
     "address": "1361 Highway 77, Seabrook, NJ 08302-4261",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5023735,
+    "longitude": -75.2180067
   },
   {
     "id": "55dc3f11-a6d4-5bd8-8348-5de3d5ed3d71",
@@ -267,7 +292,9 @@
     "address": "1385 Highway 77, Seabrook, NJ 08302-4261",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5052197,
+    "longitude": -75.2198355
   },
   {
     "id": "e6763a36-0c78-5f2e-89ce-aca6c117f965",
@@ -276,16 +303,9 @@
     "address": "2572 Palermo Ave, Vineland, NJ 08360-7309",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "1597350b-b85e-55f1-92b7-84e81e761aee",
-    "name": "Casimer M. Dallago Jr. Impact Center",
-    "type": "School",
-    "address": "240 S. Sixth Street, Vineland, NJ 08360-4625",
-    "county": "Cumberland",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.447618,
+    "longitude": -74.9807626
   },
   {
     "id": "67dcae5c-2730-510c-8cb9-03ece1f3f03b",
@@ -294,7 +314,9 @@
     "address": "240 S Orchard Rd, Vineland, NJ 08360-4337",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4837266,
+    "longitude": -75.052955
   },
   {
     "id": "caaf8cf0-5029-5459-8db0-b5aa21a841bc",
@@ -303,7 +325,9 @@
     "address": "361 East Grant Avenue, Vineland, NJ 08360-7107",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4519935,
+    "longitude": -75.0219141
   },
   {
     "id": "db515b53-9a94-5ebb-bdfb-38c71b0b32e1",
@@ -312,7 +336,9 @@
     "address": "165 S Brewster Rd, Vineland, NJ 08361-7871",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4818599,
+    "longitude": -74.976239
   },
   {
     "id": "b3106f21-c130-5830-a95d-6d0501e7c6a0",
@@ -321,7 +347,9 @@
     "address": "301 South East Blvd, Vineland, NJ 08360-3001",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.482994,
+    "longitude": -75.025956
   },
   {
     "id": "b5bc0e97-afb3-55ce-bdc7-b75b6e80fd9f",
@@ -330,7 +358,9 @@
     "address": "1335 Magnolia Rd, Vineland, NJ 08360-6578",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4646717,
+    "longitude": -75.0031154
   },
   {
     "id": "4723d024-6890-57ba-be24-2b4e6df2ec2e",
@@ -339,16 +369,9 @@
     "address": "371 W Forest Grove Rd, Vineland, NJ 08360-2060",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "9873e2f8-149a-582f-a45b-6c2b05b7b2ee",
-    "name": "Pauline J. Petway Elementary School",
-    "type": "School",
-    "address": "1115 So Lincoln Ave, Vineland, NJ 08361-6601",
-    "county": "Cumberland",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.526627,
+    "longitude": -75.030055
   },
   {
     "id": "bd10bde4-ad90-57e3-a0db-ee7a43cfb472",
@@ -357,7 +380,9 @@
     "address": "3133 S Lincoln Ave, Vineland, NJ 08361-7101",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4397285,
+    "longitude": -75.0055559
   },
   {
     "id": "9ab0734d-36f4-55e2-b631-ce3c97a979d2",
@@ -366,7 +391,9 @@
     "address": "1578 North Valley Ave, Vineland, NJ 08360-2431",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5080362,
+    "longitude": -75.0061168
   },
   {
     "id": "c8aa63ad-8f4d-5352-9236-e9e28e07ee1e",
@@ -375,7 +402,9 @@
     "address": "688 North Mill Road, Vineland, NJ 08360-2635",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4979551,
+    "longitude": -75.0608121
   },
   {
     "id": "a370fd9d-ffaf-5c1c-8d1f-193f8e754d3a",
@@ -384,7 +413,9 @@
     "address": "424 S Main Rd, Vineland, NJ 08360-7843",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4789435,
+    "longitude": -75.0024784
   },
   {
     "id": "6879ef50-fc3d-5ab1-93e0-cc0fd6bd587a",
@@ -393,7 +424,9 @@
     "address": "2880 E Chestnut Ave, Vineland, NJ 08360-6144",
     "county": "Cumberland",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4765149,
+    "longitude": -74.9736253
   },
   {
     "id": "6a68344a-6c9d-5724-ab64-403959f990d0",
@@ -402,7 +435,9 @@
     "address": "3322 College Drive, Vineland, NJ 08360",
     "county": "Cumberland",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4456309,
+    "longitude": -75.0552361
   },
   {
     "id": "b4488b3d-b4cf-5b34-9381-a2fbcba4a111",
@@ -411,34 +446,9 @@
     "address": "60 West Broad Street, Bridgeton, NJ 08302",
     "county": "Cumberland",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
-  },
-  {
-    "id": "d9aafceb-dc44-50f8-818a-e69704629852",
-    "name": "Commercial Municipal Court",
-    "type": "Courthouse",
-    "address": "1325 Hwy 77, Seabrook, NJ 08302",
-    "county": "Cumberland",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "509a6eb3-3587-5cfd-a31c-aa34eb4b74c4",
-    "name": "Deerfield Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "1325 Hwy 77, Seabrook, NJ 08302",
-    "county": "Cumberland",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "2344e19f-548f-523f-900e-6e5a2cc776b2",
-    "name": "Downe Township Municipal Court",
-    "type": "Courthouse",
-    "address": "1325 Highway 77, Seabrook, NJ 08302",
-    "county": "Cumberland",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4278234,
+    "longitude": -75.2391763
   },
   {
     "id": "6fa3846e-bd04-505b-9927-992a0b70309c",
@@ -447,34 +457,9 @@
     "address": "330 Fayette St, Bridgeton, NJ 08302",
     "county": "Cumberland",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "55d7c26b-8523-59ca-8b38-616915cda994",
-    "name": "Greenwich Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "1325 Hwy 77, Seabrook, NJ 08302",
-    "county": "Cumberland",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "a7e95ee6-b834-526a-866a-c71b7ac89c0e",
-    "name": "Hopewell Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "1325 Hwy 77, Seabrook, NJ 08302",
-    "county": "Cumberland",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "ba1d1110-1975-52c7-b38c-174440e1c27a",
-    "name": "Lawrence Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "1325 Hwy 77, Seabrook, NJ 08302",
-    "county": "Cumberland",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4188349,
+    "longitude": -75.2432782
   },
   {
     "id": "66cbbe57-e055-5543-9d96-0b4b8c51eddd",
@@ -483,7 +468,9 @@
     "address": "736 East Landis Ave, Vineland, NJ 08360",
     "county": "Cumberland",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4859971,
+    "longitude": -75.0201633
   },
   {
     "id": "442b8ef8-596b-52a0-81f6-c3abcc03413b",
@@ -492,16 +479,9 @@
     "address": "18 S. High Street, Millville, NJ 08332",
     "county": "Cumberland",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "23d736fa-47af-5219-ab4c-1d74b7b57fc9",
-    "name": "Stow Creek Twp Municipal Ct",
-    "type": "Courthouse",
-    "address": "1325 Hwy 77, Seabrook, NJ 08302",
-    "county": "Cumberland",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.395179,
+    "longitude": -75.0385458
   },
   {
     "id": "a95506e2-3547-5672-a4fe-42e71e03fc0b",
@@ -510,7 +490,9 @@
     "address": "736 E. Landis Ave, Vineland, NJ 08362",
     "county": "Cumberland",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4859971,
+    "longitude": -75.0201633
   },
   {
     "id": "46f72929-4983-5f1e-ae33-9490f97cd3e8",
@@ -519,6 +501,8 @@
     "address": "Millville Airport, Millville, NJ 08332",
     "county": "Cumberland",
     "source": "nj_airports_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3688419,
+    "longitude": -75.0718554
   }
 ]

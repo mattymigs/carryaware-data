@@ -6,7 +6,9 @@
     "address": "601 Bentley Ave, Beverly, NJ 08010",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.061032,
+    "longitude": -74.922764
   },
   {
     "id": "6faf866a-44e7-5ef0-9b0f-b9d47b919e31",
@@ -15,7 +17,9 @@
     "address": "318 Ward Ave, Bordentown, NJ 08505-9615",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1519305,
+    "longitude": -74.6897113
   },
   {
     "id": "6ce32587-db32-561a-95b0-84a0a9c90fd7",
@@ -24,7 +28,9 @@
     "address": "50 Dunns Mill Road, Bordentown, NJ 08505",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1292625,
+    "longitude": -74.7094292
   },
   {
     "id": "ce809cb0-eb05-5419-89e0-fdaa45a5e5c8",
@@ -33,7 +39,9 @@
     "address": "100 Crosswicks St, Bordentown, NJ 08505-1739",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.14617,
+    "longitude": -74.707815
   },
   {
     "id": "0eca5960-9e05-5eb2-b49a-b9f129b7ba3c",
@@ -42,7 +50,9 @@
     "address": "87 Crosswicks St, Bordentown, NJ 08505-1767",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1463398,
+    "longitude": -74.707386
   },
   {
     "id": "39f48650-4d84-5517-82ab-7c58c535c06b",
@@ -51,7 +61,9 @@
     "address": "323 Ward Ave, Bordentown, NJ 08505-2326",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.152238,
+    "longitude": -74.686225
   },
   {
     "id": "b990de1e-cded-51cf-8185-0d3adc398105",
@@ -60,7 +72,9 @@
     "address": "100 Blue Devil Way, Burlington, NJ 08016",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0705534,
+    "longitude": -74.8514487
   },
   {
     "id": "137a215e-25e1-5432-8e00-62c8088b6efe",
@@ -69,7 +83,9 @@
     "address": "315 Barclay St, Burlington, NJ 08016",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0793507,
+    "longitude": -74.8531837
   },
   {
     "id": "079b1361-ad88-5b4e-9224-771eaa051db8",
@@ -78,7 +94,9 @@
     "address": "250 Farner Avenue, Burlington, NJ 08016",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0678405,
+    "longitude": -74.8615828
   },
   {
     "id": "25776fba-2c5c-5cd2-a2e4-22555ecf8394",
@@ -87,7 +105,9 @@
     "address": "550 High Street, Burlington, NJ 08016",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0725932,
+    "longitude": -74.857637
   },
   {
     "id": "5a72ee74-709d-5be6-afab-589a4cd81a66",
@@ -96,7 +116,9 @@
     "address": "695 Woodlane Road, Westampton, NJ 08060",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0141505,
+    "longitude": -74.8197303
   },
   {
     "id": "79544f16-5f2e-50ec-a5b4-e5e6c810db6a",
@@ -105,7 +127,9 @@
     "address": "10 Hawkin Road, Medford, NJ 08055-9412",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8941649,
+    "longitude": -74.8041812
   },
   {
     "id": "b30f7de1-e863-54dd-8ff4-9ef3a5c2ab72",
@@ -114,7 +138,9 @@
     "address": "695 Woodlane Road, Westampton, NJ 08060-9614",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0141505,
+    "longitude": -74.8197303
   },
   {
     "id": "79c798df-866f-5287-86e1-8040bc589cb2",
@@ -123,7 +149,9 @@
     "address": "1020 Briggs Road, Mt. Laurel, NJ 08054",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9642999,
+    "longitude": -74.8972461
   },
   {
     "id": "d136d4ea-0826-52f7-a2df-1627e948ee3a",
@@ -132,7 +160,9 @@
     "address": "20 Pioneer Blvd, Westampton, NJ 08060-3824",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0155325,
+    "longitude": -74.8143543
   },
   {
     "id": "61352573-ec22-5ba4-b290-d3abb2e1709a",
@@ -141,7 +171,9 @@
     "address": "1203 Neck Rd, Burlington, NJ 08016",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0776235,
+    "longitude": -74.8160097
   },
   {
     "id": "2bf822f7-4cdb-5de4-87b9-e7e22fabf40a",
@@ -150,7 +182,9 @@
     "address": "610 Fountain Avenue, Burlington, NJ 08016",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0633115,
+    "longitude": -74.841808
   },
   {
     "id": "df58a525-11ca-5cad-84b6-0ad2128a6659",
@@ -159,7 +193,9 @@
     "address": "1600 Burlington By Pass, Burlington, NJ 08016",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.056296,
+    "longitude": -74.841137
   },
   {
     "id": "f504239d-4650-54c8-a732-ebe0eadcda66",
@@ -168,7 +204,9 @@
     "address": "601 Fountain Avenue, Burlington, NJ 08016",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0632919,
+    "longitude": -74.8418603
   },
   {
     "id": "f9e1d8dd-04a0-53c1-9978-ab0b48a9b00a",
@@ -177,7 +215,9 @@
     "address": "30 Saddle Way, Chesterfield, NJ 08515",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1372373,
+    "longitude": -74.6565181
   },
   {
     "id": "af8167cb-3d3d-5b7d-abc2-1722a17bdae6",
@@ -186,7 +226,9 @@
     "address": "1197 Riverton Road, Cinnaminson, NJ 08077",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0035129,
+    "longitude": -74.997858
   },
   {
     "id": "1634b466-2de7-576e-9c19-16b593507922",
@@ -195,7 +237,9 @@
     "address": "2195 Riverton Road, Cinnaminson, NJ 08077-0224",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0054965,
+    "longitude": -75.0011458
   },
   {
     "id": "7a61bc3a-7af3-5c32-b3e3-d59fd4fe26fb",
@@ -204,7 +248,9 @@
     "address": "312 N Forklanding Road, Cinnaminson, NJ 08077",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9788672,
+    "longitude": -75.0098126
   },
   {
     "id": "22f8c0b5-b4f1-52db-98a2-553528325854",
@@ -213,7 +259,9 @@
     "address": "1200 Wynwood Drive, Cinnaminson, NJ 08077-2404",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.005256,
+    "longitude": -74.99191
   },
   {
     "id": "ca9e8d17-e256-5dc8-99f0-ad51ab50f9b3",
@@ -222,7 +270,9 @@
     "address": "2701 New Albany Road, Cinnaminson, NJ 08077",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.994924,
+    "longitude": -74.969583
   },
   {
     "id": "2627e008-16e1-5798-bf60-0182a47b80de",
@@ -231,7 +281,9 @@
     "address": "1301 Burlington Ave, Delanco, NJ 08075",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.052979,
+    "longitude": -74.94808
   },
   {
     "id": "e2f1d893-c7d4-5b34-8b75-cda79f0439a2",
@@ -240,7 +292,9 @@
     "address": "50 Hartford Road, Delran, NJ 08075",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0129274,
+    "longitude": -74.9434707
   },
   {
     "id": "c34eae77-5708-5afa-a229-14f6d023e2b7",
@@ -249,7 +303,9 @@
     "address": "20 Creek Road, Delran, NJ 08075",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0226357,
+    "longitude": -74.9357041
   },
   {
     "id": "021bcf72-c446-51b7-82a5-2e02cddc4ceb",
@@ -258,7 +314,9 @@
     "address": "905 Chester Avenue, Delran, NJ 08075",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.02194,
+    "longitude": -74.959837
   },
   {
     "id": "f4f1325b-3ad9-5bdf-a2d3-1240ccd94c97",
@@ -267,7 +325,9 @@
     "address": "282 Conrow Road, Delran, NJ 08075-9751",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0090562,
+    "longitude": -74.9416974
   },
   {
     "id": "4896523d-939c-5796-a441-61e7fe4f32f7",
@@ -276,7 +336,9 @@
     "address": "1 Student Drive, Eastampton, NJ 08060-9626",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.99884,
+    "longitude": -74.756797
   },
   {
     "id": "3837ae29-cdac-5287-9e5f-f7b6a29222ef",
@@ -285,7 +347,9 @@
     "address": "405 Cherrix Avenue, Edgewater Park, NJ 08010",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0577688,
+    "longitude": -74.9078634
   },
   {
     "id": "5e51a7d2-56e2-516a-a804-1b22a5054fa0",
@@ -294,7 +358,9 @@
     "address": "300 Delanco Rd, Edgewater Park, NJ 08010",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0455803,
+    "longitude": -74.9166996
   },
   {
     "id": "f34aca95-7938-5263-9a5e-63668baf9534",
@@ -303,7 +369,9 @@
     "address": "199 Evesboro Medford Rd, Marlton, NJ 08053",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9045987,
+    "longitude": -74.9077782
   },
   {
     "id": "1e89cfb7-47de-59f3-948e-023face64120",
@@ -312,7 +380,9 @@
     "address": "199 Evesboro Medford Rd, Marlton, NJ 08053",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9050197,
+    "longitude": -74.9083207
   },
   {
     "id": "f4eaab34-54a8-5a60-ac74-dfb29623df87",
@@ -321,7 +391,9 @@
     "address": "60 Caldwell Ave, Marlton, NJ 08053",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8886799,
+    "longitude": -74.9004864
   },
   {
     "id": "d6389c89-2230-5bdb-8c9a-a248e193b39b",
@@ -330,7 +402,9 @@
     "address": "270 Conestoga Drive, Marlton, NJ 08053",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9049696,
+    "longitude": -74.9435955
   },
   {
     "id": "22fbbc33-8fe1-5981-967d-8a631d36bb12",
@@ -339,7 +413,9 @@
     "address": "190 Tomlinson Mill Road, Marlton, NJ 08053",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8687414,
+    "longitude": -74.8951085
   },
   {
     "id": "307a8609-d047-5ed1-9b27-52b0c2ac1b86",
@@ -348,7 +424,9 @@
     "address": "150 Tomlinson Mill Road, Marlton, NJ 08053",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.870819,
+    "longitude": -74.89534
   },
   {
     "id": "bf74b3e7-d868-5836-b918-2ab7d748f0b8",
@@ -357,7 +435,9 @@
     "address": "50 Crown Royal Parkway, Marlton, NJ 08053",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8488377,
+    "longitude": -74.878161
   },
   {
     "id": "2eb960ca-05ab-5381-830e-5263028aba69",
@@ -366,7 +446,9 @@
     "address": "2 Westcott Road, Marlton, NJ 08053",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8778535,
+    "longitude": -74.9053013
   },
   {
     "id": "221a8479-4c59-5346-8ebe-8c24803dfc6d",
@@ -375,7 +457,9 @@
     "address": "500 East Front Street, Florence, NJ 08518",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.119935,
+    "longitude": -74.796812
   },
   {
     "id": "ccc2d508-fd2c-51c2-8e10-deb30d90f3ac",
@@ -384,7 +468,9 @@
     "address": "1050 Cedar Lane, Burlington, NJ 08016",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0940699,
+    "longitude": -74.791072
   },
   {
     "id": "c20d68cf-eaf1-51b1-a0f9-2a68a83b48d2",
@@ -393,16 +479,9 @@
     "address": "1330 Hornberger Ave, Roebling, NJ 08554",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "b088d3e4-3459-5f1b-9bbc-376e7cf28ef6",
-    "name": "Hainesport Township School",
-    "type": "School",
-    "address": "211 Broad Street, Po Box 538, Hainesport, NJ 08036",
-    "county": "Burlington",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1162119,
+    "longitude": -74.7785646
   },
   {
     "id": "83be08d4-03ef-5a93-96bf-8f7421424eb7",
@@ -411,7 +490,9 @@
     "address": "120 Tomlinson Mill Road, Marlton, NJ 08053",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8719618,
+    "longitude": -74.8955215
   },
   {
     "id": "225eac8e-fbb8-54d7-93dd-ecbe30827c01",
@@ -420,7 +501,9 @@
     "address": "235 Hartford Road, Medford, NJ 08055",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8852193,
+    "longitude": -74.8330301
   },
   {
     "id": "8b634764-47ab-586f-b3fd-1693533a701b",
@@ -429,7 +512,9 @@
     "address": "110 Carranza Road, Tabernacle, NJ 08088",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8546223,
+    "longitude": -74.7196713
   },
   {
     "id": "e5fc4097-86ef-5891-8d80-e73559ec5890",
@@ -438,7 +523,9 @@
     "address": "600 Tabernacle Road, Medford, NJ 08055-9701",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.858808,
+    "longitude": -74.782851
   },
   {
     "id": "f3e3744b-4abf-5a3e-a351-3f4899eb0127",
@@ -447,7 +534,9 @@
     "address": "33 Municipal Drive, Lumberton, NJ 08048",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.963481,
+    "longitude": -74.7970129
   },
   {
     "id": "f793a641-b35d-5af2-93d4-6e6c9b49bfb6",
@@ -456,7 +545,9 @@
     "address": "32 Dimsdale Drive, Lumberton, NJ 08048",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9725329,
+    "longitude": -74.7843718
   },
   {
     "id": "ccda976d-df71-56cd-8fb0-9b8e0fc28186",
@@ -465,7 +556,9 @@
     "address": "30 Dimsdale Drive, Lumberton, NJ 08048",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9730458,
+    "longitude": -74.7843772
   },
   {
     "id": "2d27fdb3-d981-5f19-9cbf-f7009921eb80",
@@ -474,7 +567,9 @@
     "address": "19 Locust Ave, Columbus, NJ 08022-9504",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0739807,
+    "longitude": -74.716752
   },
   {
     "id": "1ac297a3-fe4f-5679-a4d0-1bfab1570f52",
@@ -483,7 +578,9 @@
     "address": "200 Mansfield Road East, Columbus, NJ 08022",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0884976,
+    "longitude": -74.6906335
   },
   {
     "id": "5e6dd541-34ca-53c0-8ff6-fed58772f9ff",
@@ -492,7 +589,9 @@
     "address": "748 North Forklanding Road, Maple Shade, NJ 08052",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9681409,
+    "longitude": -75.011453
   },
   {
     "id": "94d79880-71d6-51da-aaa2-cf4b637979b9",
@@ -501,7 +600,9 @@
     "address": "180 Frederick Ave, Maple Shade, NJ 08052",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9484899,
+    "longitude": -75.006825
   },
   {
     "id": "84f058d7-181b-59fa-8895-c5a0d00cc23a",
@@ -510,7 +611,9 @@
     "address": "34 West Mill Road, Maple Shade, NJ 08052",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9458736,
+    "longitude": -74.9986227
   },
   {
     "id": "1bafa5ef-07ea-5e25-a569-d60ad1a3de92",
@@ -519,7 +622,9 @@
     "address": "25 North Fellowship Road, Maple Shade, NJ 08052",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9573998,
+    "longitude": -74.9981539
   },
   {
     "id": "af08dea3-def4-59c1-a9d4-194d71d332ec",
@@ -528,7 +633,9 @@
     "address": "44 Neeta Trail, Medford Lakes, NJ 08055",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.866512,
+    "longitude": -74.8054322
   },
   {
     "id": "b95a4785-303d-55db-be61-16429ef32c51",
@@ -537,7 +644,9 @@
     "address": "135 Mudjekeewis Trail, Medford Lakes, NJ 08055",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8517724,
+    "longitude": -74.8075705
   },
   {
     "id": "cf80972c-b133-5a62-9f12-f6a8a28fbd21",
@@ -546,7 +655,9 @@
     "address": "36 Chairville Road, Medford, NJ 08055",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8993352,
+    "longitude": -74.8099427
   },
   {
     "id": "0e8ab89f-1fbd-53ed-85ed-b2dc2cb5c279",
@@ -555,7 +666,9 @@
     "address": "400 Fairview Road, Medford, NJ 08055-9172",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8553052,
+    "longitude": -74.8395894
   },
   {
     "id": "20109acb-aa5d-583c-9818-aabb922748ce",
@@ -564,7 +677,9 @@
     "address": "162 Stokes Road, Medford, NJ 08055",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8770519,
+    "longitude": -74.8169002
   },
   {
     "id": "58789c9d-9da0-5d75-b62c-27f9251d9457",
@@ -573,7 +688,9 @@
     "address": "151 Hartford Road, Medford, NJ 08055",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9049007,
+    "longitude": -74.8491007
   },
   {
     "id": "b5fc9a26-10c3-5fa9-9867-51d33ec454db",
@@ -582,7 +699,9 @@
     "address": "55 Mill Street, Medford, NJ 08055",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.890071,
+    "longitude": -74.826804
   },
   {
     "id": "5ad4b60d-d337-58d6-a3c7-40d80d214b7f",
@@ -591,7 +710,9 @@
     "address": "24 Allen Avenue, Medford, NJ 08055-2402",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.897845,
+    "longitude": -74.826948
   },
   {
     "id": "ff4353a1-0cf5-5cf0-a81f-cb9c0f1d65d5",
@@ -600,7 +721,9 @@
     "address": "32 Evergreen Trail, Medford, NJ 08055",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8809223,
+    "longitude": -74.8408898
   },
   {
     "id": "cb474469-84b9-5007-ac3a-10d8ed4fc663",
@@ -609,7 +732,9 @@
     "address": "139 W Maple Ave, Moorestown, NJ 08057",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.968174,
+    "longitude": -74.956426
   },
   {
     "id": "c8424dcf-8c7a-55da-950f-0c896aaefa73",
@@ -618,7 +743,9 @@
     "address": "290 Crescent Avenue, Moorestown, NJ 08057",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9586178,
+    "longitude": -74.9542244
   },
   {
     "id": "b899a2db-6357-5ecd-85e2-ffb561fd612a",
@@ -627,7 +754,9 @@
     "address": "350 Bridgeboro Road, Moorestown, NJ 08057-3702",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9864472,
+    "longitude": -74.9423236
   },
   {
     "id": "cb66cc6f-c323-5ce9-b6a9-ffb26330c438",
@@ -636,7 +765,9 @@
     "address": "325 Borton Landing Road, Moorestown, NJ 08057",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9834817,
+    "longitude": -74.9127416
   },
   {
     "id": "efad0b13-7a8e-50ef-9d54-2f8b2aa16bbf",
@@ -645,7 +776,9 @@
     "address": "210 S Stanwick Rd, Moorestown, NJ 08057",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9678884,
+    "longitude": -74.9296601
   },
   {
     "id": "86c7c7d9-e4ed-5cca-890e-06b88bbc83e7",
@@ -654,7 +787,9 @@
     "address": "801 N Stanwick Road, Moorestown, NJ 08057",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9840866,
+    "longitude": -74.9428851
   },
   {
     "id": "f9560866-6297-569b-aba7-a2c10f1903cf",
@@ -663,7 +798,9 @@
     "address": "333 Levis Drive, Mount Holly, NJ 08060",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0009791,
+    "longitude": -74.7956033
   },
   {
     "id": "13de0172-e8c9-585b-8c10-0d6532b69b91",
@@ -672,7 +809,9 @@
     "address": "455 Jacksonville Rd, Mount Holly, NJ 08060-9622",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.00225,
+    "longitude": -74.781165
   },
   {
     "id": "d4aa29a4-5c4d-5d88-b823-a1e2e2a5d7bc",
@@ -681,7 +820,9 @@
     "address": "100 Wollner Dr, Mount Holly, NJ 08060",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9890651,
+    "longitude": -74.7824127
   },
   {
     "id": "1c830b0d-6fb3-5fa9-a12b-c82909186348",
@@ -690,7 +831,9 @@
     "address": "115 Schoolhouse Lane, Mount Laurel, NJ 08054",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9251065,
+    "longitude": -74.9729489
   },
   {
     "id": "3e8fd771-962d-5c27-9a97-d5b72b03eed4",
@@ -699,7 +842,9 @@
     "address": "231 Fleetwood Ave, Mount Laurel, NJ 08054",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9829357,
+    "longitude": -74.8664876
   },
   {
     "id": "117c7c65-a286-5028-820c-6e77ccad7887",
@@ -708,7 +853,9 @@
     "address": "397 Hartford Road, Mount Laurel, NJ 08054",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9502585,
+    "longitude": -74.8742743
   },
   {
     "id": "0e72d682-44cb-5f71-a0ac-aa3de56ad7c7",
@@ -717,7 +864,9 @@
     "address": "1370 Hainesport Mt Laurel Rd, Mount Laurel, NJ 08054",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.936703,
+    "longitude": -74.888332
   },
   {
     "id": "f52509a1-dd3c-52e2-bc50-7224543a32a8",
@@ -726,7 +875,9 @@
     "address": "301 Larchmont Blvd, Mount Laurel, NJ 08054",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.968235,
+    "longitude": -74.88022
   },
   {
     "id": "d82b8d33-e56c-52d7-ac76-e7e96a1dbd6d",
@@ -735,7 +886,9 @@
     "address": "142 Ramblewood Parkway, Mount Laurel, NJ 08054",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.928701,
+    "longitude": -74.943904
   },
   {
     "id": "a7f30b50-575a-5536-8fe0-dc1b50290eac",
@@ -744,7 +897,9 @@
     "address": "520 Hartford Road, Mt Laurel, NJ 08054",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.93684,
+    "longitude": -74.867609
   },
   {
     "id": "6afc3118-adf5-5d8c-b083-68ea1a6111e0",
@@ -753,7 +908,9 @@
     "address": "514 Mount Laurel Road, Mount Laurel, NJ 08054-9523",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.951031,
+    "longitude": -74.9159308
   },
   {
     "id": "97200235-4d9d-5322-82ec-a5f450f6ee28",
@@ -762,7 +919,9 @@
     "address": "122 Fort Dix Street, Wrightstown, NJ 08562",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.035227,
+    "longitude": -74.6180876
   },
   {
     "id": "42583de7-2428-5e43-b5c0-610d8f5c812f",
@@ -771,25 +930,9 @@
     "address": "46 Schoolhouse Road, Wrightstown, NJ 08562",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "c9a923c5-d8a7-5387-9ec6-90258d494fc5",
-    "name": "Endeavour Elementary School",
-    "type": "School",
-    "address": "1 School Road, Jb Mdl, NJ 08641",
-    "county": "Burlington",
-    "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "39e9e647-2330-5000-b090-13352c73d055",
-    "name": "North Hanover Township Upper Elementary School",
-    "type": "School",
-    "address": "351 Monmouth Road, Wrightstown, NJ 08652",
-    "county": "Burlington",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0745312,
+    "longitude": -74.5882493
   },
   {
     "id": "0bc8070f-decd-52f2-8ad9-14bad541c1e4",
@@ -798,7 +941,9 @@
     "address": "160 Mansfield Road East, Columbus, NJ 08022-9738",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0905156,
+    "longitude": -74.6894082
   },
   {
     "id": "004c4ae5-fa20-5672-be5a-aa84114fae68",
@@ -807,7 +952,9 @@
     "address": "180 Mansfield Road East, Columbus, NJ 08022",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0906438,
+    "longitude": -74.690769
   },
   {
     "id": "209fff50-f55a-5a8e-bd5c-255a71cc50ed",
@@ -816,7 +963,9 @@
     "address": "100 W Charles Street, Palmyra, NJ 08065",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9973821,
+    "longitude": -75.0214141
   },
   {
     "id": "6b5ebbd5-0554-52a4-bff1-027d054de11f",
@@ -825,7 +974,9 @@
     "address": "301 Delaware Ave, Palmyra, NJ 08065",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0036148,
+    "longitude": -75.0284851
   },
   {
     "id": "e2fceb9a-6f1d-5578-9802-f4b3c24950a8",
@@ -834,7 +985,9 @@
     "address": "311 W 5TH Street, Palmyra, NJ 08065",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0028303,
+    "longitude": -75.0274785
   },
   {
     "id": "df7e64a8-a6d8-5ebf-b248-23d0214e77f7",
@@ -843,7 +996,9 @@
     "address": "311 W 5TH Street, Palmyra, NJ 08065",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0028303,
+    "longitude": -75.0274785
   },
   {
     "id": "69ea9521-9b3f-5b53-9007-38b775a15453",
@@ -852,7 +1007,9 @@
     "address": "Two Learning Way, Browns Mills, NJ 08015",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9545285,
+    "longitude": -74.5921618
   },
   {
     "id": "c8edeccf-248c-50cd-a4a4-084add545ba1",
@@ -861,7 +1018,9 @@
     "address": "1199 Fort Dix Juliustown Road, Fort Dix, NJ 08640-5780",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9932269,
+    "longitude": -74.6276578
   },
   {
     "id": "694cbd8d-17b1-54fd-8c8d-506566daed4c",
@@ -870,7 +1029,9 @@
     "address": "301 Fort Dix Road, Pemberton, NJ 08068",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9984343,
+    "longitude": -74.6595903
   },
   {
     "id": "e12ba548-7fde-50df-8fd7-758212fb86bb",
@@ -879,7 +1040,9 @@
     "address": "14 Scrapetown Road, Pemberton, NJ 08068",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.962037,
+    "longitude": -74.682362
   },
   {
     "id": "27d1c2de-f727-5160-963a-26d810deee04",
@@ -888,7 +1051,9 @@
     "address": "125A Trenton Road, Browns Mills, NJ 08015",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9772864,
+    "longitude": -74.586219
   },
   {
     "id": "5f6f3b17-c1ed-5910-ae26-01eaa0a76c36",
@@ -897,7 +1062,9 @@
     "address": "300 Fort Dix Rd, Pemberton, NJ 08068",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.995987,
+    "longitude": -74.660755
   },
   {
     "id": "0e98f8d9-2a93-5a2c-8d4b-97070e48683a",
@@ -906,7 +1073,9 @@
     "address": "100 Arney's Mt. Road, Pemberton, NJ 08068",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9877104,
+    "longitude": -74.683212
   },
   {
     "id": "59ff7602-f56f-5e30-bb7b-1f97a6c18f3c",
@@ -915,7 +1084,9 @@
     "address": "148 Arneys Mount Road, Pemberton, NJ 08068-9701",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9922739,
+    "longitude": -74.6851025
   },
   {
     "id": "221e3c65-4828-5abe-9640-355100b9406a",
@@ -924,7 +1095,9 @@
     "address": "16 Scrapetown Road, Pemberton, NJ 08068",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9597629,
+    "longitude": -74.681878
   },
   {
     "id": "e2776c19-3dc5-52b9-99fd-97844d72c1e2",
@@ -933,7 +1106,9 @@
     "address": "520 Jacksonville Road, Mount Holly, NJ 08060-9622",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0031448,
+    "longitude": -74.7824588
   },
   {
     "id": "9786310f-1f59-50e9-be9a-99b65be4acde",
@@ -942,7 +1117,9 @@
     "address": "112 E Washington Street, Riverside, NJ 08075",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0347726,
+    "longitude": -74.9556154
   },
   {
     "id": "eb78d137-db9a-5632-915c-765173240806",
@@ -951,7 +1128,9 @@
     "address": "112 E Washington Street, Riverside, NJ 08075",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0347726,
+    "longitude": -74.9556154
   },
   {
     "id": "48608142-3f5c-5b51-9866-a8760afc22a7",
@@ -960,16 +1139,9 @@
     "address": "112 E Washington Street, Riverside, NJ 08075",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "11786c82-4619-5645-96d0-6fa875f71830",
-    "name": "Riverton School District",
-    "type": "School",
-    "address": "600 Fifth Street, Riverton, NJ 08077",
-    "county": "Burlington",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0347726,
+    "longitude": -74.9556154
   },
   {
     "id": "57277a7e-05de-56be-9355-2f082058218f",
@@ -978,7 +1150,9 @@
     "address": "112 Indian Mills Road, Shamong, NJ 08088-9512",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7986659,
+    "longitude": -74.7454586
   },
   {
     "id": "da205bd4-d180-5341-90a1-fc335313b0d1",
@@ -987,7 +1161,9 @@
     "address": "295 Indian Mills Road, Shamong, NJ 08088",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8188387,
+    "longitude": -74.763961
   },
   {
     "id": "2848fe68-6767-5d5e-847e-0fc1732bccbb",
@@ -996,7 +1172,9 @@
     "address": "26 Pleasant Street, Southampton, NJ 08088-3310",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9361083,
+    "longitude": -74.7481426
   },
   {
     "id": "1926e6ee-c7fd-5f60-a4bd-b11f2d7f73b7",
@@ -1005,16 +1183,9 @@
     "address": "100 Miss Mabel Drive, Southampton, NJ 08088-3351",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "e9a193d3-3a7c-595a-9a56-346fe0daa472",
-    "name": "Southampton Township School #3",
-    "type": "School",
-    "address": "100 Warrior Way, Southampton, NJ 08088-3349",
-    "county": "Burlington",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.936035,
+    "longitude": -74.748101
   },
   {
     "id": "7ff0d878-e5ed-569c-9cbc-6519c369d76e",
@@ -1023,7 +1194,9 @@
     "address": "2146 Jacksonville Road, Jobstown, NJ 08041-9629",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0370851,
+    "longitude": -74.6948506
   },
   {
     "id": "cd533ccf-bde8-5899-8907-0eeba549e551",
@@ -1032,7 +1205,9 @@
     "address": "132 New Road, Tabernacle, NJ 08088",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8488123,
+    "longitude": -74.7079905
   },
   {
     "id": "f0129726-46a4-55a6-ba44-3db9ce017315",
@@ -1041,7 +1216,9 @@
     "address": "141 New Road, Tabernacle, NJ 08088",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8485136,
+    "longitude": -74.7083079
   },
   {
     "id": "30d1d820-5266-576e-8644-c6b1c0fa1c14",
@@ -1050,7 +1227,9 @@
     "address": "500 Ogden Drive, Westampton, NJ 08060",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.001382,
+    "longitude": -74.806069
   },
   {
     "id": "4cb9f4a2-91a1-5017-928f-46f960bfffef",
@@ -1059,7 +1238,9 @@
     "address": "700 Rancocas Road, Westampton, NJ 08060-9601",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0092183,
+    "longitude": -74.851158
   },
   {
     "id": "6c488dd0-c090-5b8e-834a-6f393eb1fc59",
@@ -1068,7 +1249,9 @@
     "address": "150 Evergreen Dr., Willingboro, NJ 08046",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.019361,
+    "longitude": -74.867106
   },
   {
     "id": "86f6b01c-ce50-51cc-ba8c-27988e697083",
@@ -1077,7 +1260,9 @@
     "address": "84 Hampshire Lane, Willingboro, NJ 08046",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.036371,
+    "longitude": -74.87361
   },
   {
     "id": "59adbe12-bb08-5db1-84c1-2568d397f74e",
@@ -1086,16 +1271,9 @@
     "address": "110 Twin Hill Drive, Willingboro, NJ 08046",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "31ba7b15-c420-57fa-acf4-8cf653812f5b",
-    "name": "James A Cotten Intermediate School",
-    "type": "School",
-    "address": "80 Martin Luther King Jr. Pkwy, Willingboro, NJ 08046",
-    "county": "Burlington",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0080786,
+    "longitude": -74.8764562
   },
   {
     "id": "28fc1554-83c3-56a0-b776-9458fc9a7c46",
@@ -1104,7 +1282,9 @@
     "address": "50 Dr. Martin Luther King Jr. Blvd, Willingboro, NJ 08046",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0068514,
+    "longitude": -74.876201
   },
   {
     "id": "5e52ce83-64ee-5349-a90c-4a9d363e17b5",
@@ -1113,7 +1293,9 @@
     "address": "41 Pinetree Lane, Willingboro, NJ 08046",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.031331,
+    "longitude": -74.899515
   },
   {
     "id": "7a8f8874-62a7-5319-abfd-44b8bcb02cac",
@@ -1122,7 +1304,9 @@
     "address": "20 Jfk Way, Willingboro, NJ 08046-2121",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0110964,
+    "longitude": -74.8862112
   },
   {
     "id": "c0779e35-ad8c-5535-b242-85946602ff26",
@@ -1131,7 +1315,9 @@
     "address": "451 Van Sciver Parkway, Willingboro, NJ 08046",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0341716,
+    "longitude": -74.866325
   },
   {
     "id": "04b728f1-73b0-5b0b-bc68-c275fcea7f2a",
@@ -1140,7 +1326,9 @@
     "address": "2 John Bowker Jr. Blvd, Chatsworth, NJ 08019-0477",
     "county": "Burlington",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8151434,
+    "longitude": -74.5365198
   },
   {
     "id": "5acb1794-e687-5732-be10-1c20a06be3e8",
@@ -1149,7 +1337,9 @@
     "address": "1 Hovtech Blvd., Mt. Laurel Township, NJ 08054",
     "county": "Burlington",
     "source": "nj_schools_nonpublic",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.975683,
+    "longitude": -74.870831
   },
   {
     "id": "e749db10-ebb0-58bb-aedf-379386fd36cc",
@@ -1158,7 +1348,9 @@
     "address": "900 College Circle, Mount Laurel, NJ 08054",
     "county": "Burlington",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9721898,
+    "longitude": -74.8943962
   },
   {
     "id": "3f321d70-f50b-5372-922e-6a92bc189423",
@@ -1167,16 +1359,9 @@
     "address": "49 Rancocas Road, Mount Holly, NJ 08060",
     "county": "Burlington",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
-  },
-  {
-    "id": "b126db21-52b9-5987-857d-f1341280f649",
-    "name": "Bass River Municipal Court",
-    "type": "Courthouse",
-    "address": "Po Box 214, New Gretna, NJ 08224",
-    "county": "Burlington",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9957193,
+    "longitude": -74.7902377
   },
   {
     "id": "0fc085ea-cefa-53bd-b8c5-02743375d5a8",
@@ -1185,7 +1370,9 @@
     "address": "446 Broad St, Beverly, NJ 08010",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0630088,
+    "longitude": -74.9207481
   },
   {
     "id": "0ff2b476-b978-5176-89c0-dfd5715db9be",
@@ -1194,7 +1381,9 @@
     "address": "204 Washington St., Fieldsboro, NJ 08505",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.137606,
+    "longitude": -74.730481
   },
   {
     "id": "c61f5691-687e-5a55-9631-64c448e8a542",
@@ -1203,7 +1392,9 @@
     "address": "1 Municipal Drive, Bordentown, NJ 08505",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.14021,
+    "longitude": -74.703526
   },
   {
     "id": "e7fbf058-f5ef-548b-b51f-aaabe35087a7",
@@ -1212,7 +1403,9 @@
     "address": "1621 Riverton Rd, Cinnaminson, NJ 08077",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9979457,
+    "longitude": -74.9945662
   },
   {
     "id": "8fb50efb-0761-50f8-a249-7a4dffaa2971",
@@ -1221,7 +1414,9 @@
     "address": "770 Coopertown Road, Delanco, NJ 08075",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.048426,
+    "longitude": -74.9405734
   },
   {
     "id": "c26ed4a7-80ff-5640-bc13-dccebd0c97bd",
@@ -1230,7 +1425,9 @@
     "address": "900 Chester Avenue, Delran, NJ 08075",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0170365,
+    "longitude": -74.95617
   },
   {
     "id": "c8d61d76-a10c-5612-a1bc-5ad9d0d263e7",
@@ -1239,7 +1436,9 @@
     "address": "710 Rancocas Rd, Westampton, NJ 08060",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0092183,
+    "longitude": -74.851158
   },
   {
     "id": "7cbfeadf-d7e1-502c-88a1-a6c13dd250c0",
@@ -1248,7 +1447,9 @@
     "address": "400 Delanco Rd, Edgewater Park, NJ 08010",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.045748,
+    "longitude": -74.918345
   },
   {
     "id": "8c32dc84-4285-562e-9812-f0c434718f2f",
@@ -1257,7 +1458,9 @@
     "address": "984 Tuckerton Rd, Marlton, NJ 08053",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8827028,
+    "longitude": -74.8775889
   },
   {
     "id": "33fb913c-f093-50ad-905c-37866a4199c0",
@@ -1266,7 +1469,9 @@
     "address": "204 Washington St, Fieldsboro, NJ 08505",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.137606,
+    "longitude": -74.730481
   },
   {
     "id": "1b8527a5-71c1-5579-9d9d-342823b4f8d5",
@@ -1275,7 +1480,9 @@
     "address": "710 Rancocas Rd, Westampton, NJ 08060",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0092183,
+    "longitude": -74.851158
   },
   {
     "id": "29974363-ca17-5118-adec-34290c05d8aa",
@@ -1284,7 +1491,9 @@
     "address": "35 Municipal Dr, Lumberton, NJ 08048",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.96349,
+    "longitude": -74.7966
   },
   {
     "id": "3edd938f-61d4-5c6f-a9a5-410ec1ed3717",
@@ -1293,7 +1502,9 @@
     "address": "1 Cabin Circle, Medford Lakes, NJ 08055",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.86282,
+    "longitude": -74.8061829
   },
   {
     "id": "54b8915a-062a-540f-955c-7ed37918af5d",
@@ -1302,7 +1513,9 @@
     "address": "91 Union Street, Medford, NJ 08055",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8991275,
+    "longitude": -74.827666
   },
   {
     "id": "71b8d53a-4a2a-56ab-8ebe-e179ab0cb7f9",
@@ -1311,7 +1524,9 @@
     "address": "1245 N.church St., Moorestown, NJ 08057",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.975167,
+    "longitude": -74.980407
   },
   {
     "id": "77ee93ea-8404-5bae-9992-f044ae0e14a4",
@@ -1320,7 +1535,9 @@
     "address": "23 Washington Street, Mt Holly, NJ 08060",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9928218,
+    "longitude": -74.7898928
   },
   {
     "id": "58b81be0-5d7e-5c07-a681-95f434bba86c",
@@ -1329,7 +1546,9 @@
     "address": "750 Centerton Rd, Mt Laurel, NJ 08054",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9898963,
+    "longitude": -74.8856442
   },
   {
     "id": "087660ac-3bad-5f1b-949b-e47a849060de",
@@ -1338,7 +1557,9 @@
     "address": "41 Schoolhouse Rd, Jacobstown, NJ 08562",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0752255,
+    "longitude": -74.5888151
   },
   {
     "id": "d082fc13-6dbf-5bdc-933f-6f9418c44434",
@@ -1347,7 +1568,9 @@
     "address": "20 West Broad, Palmyra, NJ 08065",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0032402,
+    "longitude": -75.0221108
   },
   {
     "id": "323f015f-1665-5db9-9110-4ec71515f748",
@@ -1356,7 +1579,9 @@
     "address": "50 Egbert St, Pemberton, NJ 08068",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9734906,
+    "longitude": -74.6796163
   },
   {
     "id": "5d291f32-dbcb-5d92-8f9a-7a01bb1bbd2a",
@@ -1365,7 +1590,9 @@
     "address": "500 Pemberton Browns, Pemberton, NJ 08068",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9671649,
+    "longitude": -74.6332828
   },
   {
     "id": "d3b90845-776f-5dc0-9517-899540b5a2ea",
@@ -1374,7 +1601,9 @@
     "address": "1 W Scott Street, Riverside, NJ 08075",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.037659,
+    "longitude": -74.961187
   },
   {
     "id": "905b5e33-8a88-517a-98f9-c58523a1bb37",
@@ -1383,25 +1612,9 @@
     "address": "1621 Riverton Rd, Cinnaminson, NJ 08077",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "997f1439-de60-5da9-b777-0196e008a457",
-    "name": "Shamong Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "1 Cabin Circle Rd, Medford Lakes, NJ 08055",
-    "county": "Burlington",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "8c68b39d-4e02-5001-a028-ed1ba87912a1",
-    "name": "Southampton Municipal Court",
-    "type": "Courthouse",
-    "address": "3135 Rt 206 S, Suite, Columbus, NJ 00000",
-    "county": "Burlington",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9979457,
+    "longitude": -74.9945662
   },
   {
     "id": "fb990f89-7eb3-5293-ad18-ad026c293424",
@@ -1410,16 +1623,9 @@
     "address": "1 Cabin Circle, Medford Lakes, NJ 08055",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "f3fede73-2dbf-5928-bd2d-c52e2ba3176d",
-    "name": "Washington Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "Po Box 214, New Gretna, NJ 08224",
-    "county": "Burlington",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.86282,
+    "longitude": -74.8061829
   },
   {
     "id": "d1de938c-06b7-510e-ac96-65cb082bd912",
@@ -1428,7 +1634,9 @@
     "address": "710 Rancocas Rd, Westampton, NJ 08060",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0092183,
+    "longitude": -74.851158
   },
   {
     "id": "10ea1861-56a6-5eaf-bf0f-60b18fbdf39b",
@@ -1437,7 +1645,9 @@
     "address": "1 Cabin Circle, Medford Lakes, NJ 08055",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.86282,
+    "longitude": -74.8061829
   },
   {
     "id": "9b1cf5e5-4a90-5a31-9007-d5034e68df50",
@@ -1446,7 +1656,9 @@
     "address": "2 Hockamick Rd, Cookstown, NJ 08511",
     "county": "Burlington",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.044455,
+    "longitude": -74.5551533
   },
   {
     "id": "f8990cff-096d-564f-89e1-b45512246772",
@@ -1455,6 +1667,8 @@
     "address": "10 Lufthaven Drive, Lumberton, NJ 08048",
     "county": "Burlington",
     "source": "nj_airports_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9420466,
+    "longitude": -74.8433403
   }
 ]

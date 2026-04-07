@@ -6,7 +6,9 @@
     "address": "234 Somerville Road, Bedminster, NJ 07921",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6794321,
+    "longitude": -74.6454858
   },
   {
     "id": "129ff8fd-7bca-5368-8e23-663cbfb0d5c3",
@@ -15,7 +17,9 @@
     "address": "100 Peachtree Road, Basking Ridge, NJ 07920",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6917634,
+    "longitude": -74.5470584
   },
   {
     "id": "0a4822b7-8fc6-5181-ada9-5005f306e376",
@@ -24,7 +28,9 @@
     "address": "61 Church Street, Liberty Corner, NJ 07938",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6655212,
+    "longitude": -74.5798898
   },
   {
     "id": "5a143f59-5dda-5f0f-94a8-78aa35ab779c",
@@ -33,7 +39,9 @@
     "address": "111 Hansom Road, Basking Ridge, NJ 07920",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6562693,
+    "longitude": -74.6224959
   },
   {
     "id": "e1c9b032-81d6-56fa-9803-a39f339b2a15",
@@ -42,7 +50,9 @@
     "address": "70 West Oak Street, Basking Ridge, NJ 07920-1735",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7051597,
+    "longitude": -74.552394
   },
   {
     "id": "408dfa07-c082-5b6c-b897-27bcc1b9e47d",
@@ -51,7 +61,9 @@
     "address": "268 South Finley Avenue, Basking Ridge, NJ 07920-9439",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6950574,
+    "longitude": -74.5463232
   },
   {
     "id": "8f82d587-b185-5215-ba9b-c7b86bafe640",
@@ -60,7 +72,9 @@
     "address": "70 Quincy Road, Basking Ridge, NJ 07920-2245",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6823578,
+    "longitude": -74.5655805
   },
   {
     "id": "2f7e5117-8071-5a0b-8e46-f74f3128042c",
@@ -69,7 +83,9 @@
     "address": "111 West Union Avenue, Bound Brook, NJ 08805",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5675836,
+    "longitude": -74.5367116
   },
   {
     "id": "1e284139-18d2-5b60-8797-26149377a147",
@@ -78,7 +94,9 @@
     "address": "120 East Second Street, Bound Brook, NJ 08805",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5627293,
+    "longitude": -74.5330138
   },
   {
     "id": "4b26a3b2-a788-5856-8876-460ef7fe0ff5",
@@ -87,7 +105,9 @@
     "address": "330 West Second Street, Bound Brook, NJ 08805",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5627733,
+    "longitude": -74.5322521
   },
   {
     "id": "a715ab2d-76db-591a-b2ba-6ab0888a7cc1",
@@ -96,7 +116,9 @@
     "address": "60 West High Street, Bound Brook, NJ 08805",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5641869,
+    "longitude": -74.5367303
   },
   {
     "id": "65a806fc-51b1-5ea1-a806-d946890d8db3",
@@ -105,7 +127,9 @@
     "address": "163 Cherry Avenue, Bound Brook, NJ 08805",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5705452,
+    "longitude": -74.5389384
   },
   {
     "id": "13d1d233-82db-561e-84de-7c03c2d83d5c",
@@ -114,7 +138,9 @@
     "address": "220 Baird Road, Branchburg, NJ 08876-3784",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.57174,
+    "longitude": -74.710151
   },
   {
     "id": "a926343f-b4db-5f80-8887-9d44e44e768f",
@@ -123,7 +149,9 @@
     "address": "136 Cedar Grove Road, Branchburg, NJ 08876",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5755956,
+    "longitude": -74.6978906
   },
   {
     "id": "d420144d-2815-5015-8422-804c06f90c42",
@@ -132,7 +160,9 @@
     "address": "470 Whiton Road, Neshanic Station, NJ 08853",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.545262,
+    "longitude": -74.7225623
   },
   {
     "id": "b57827b0-8c0e-5b6d-b2a0-2bfecf510bd6",
@@ -141,7 +171,9 @@
     "address": "400 Union Avenue, Bridgewater, NJ 08807",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.569653,
+    "longitude": -74.578681
   },
   {
     "id": "270070dc-0029-5a69-ab69-ad523119c690",
@@ -150,7 +182,9 @@
     "address": "148 Pine Street, Bridgewater, NJ 08807",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5623671,
+    "longitude": -74.6613646
   },
   {
     "id": "983a5fce-6634-5741-94ba-83c8db51402d",
@@ -159,7 +193,9 @@
     "address": "600 Garretson Road, Po Box 6569, Bridgewater, NJ 08807",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5933962,
+    "longitude": -74.6344314
   },
   {
     "id": "ff3eff7e-6ba1-5e00-a490-ff32310b977b",
@@ -168,7 +204,9 @@
     "address": "128 Merriwood Road, Po Box 6933, Bridgewater, NJ 08807",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5820784,
+    "longitude": -74.5877136
   },
   {
     "id": "ec6afbb1-8436-5319-9611-ebcfdc1fdc21",
@@ -177,7 +215,9 @@
     "address": "1300 Crim Road, Bridgewater, NJ 08807",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.612731,
+    "longitude": -74.589439
   },
   {
     "id": "69165439-2f3e-5414-87f9-0385cd6dae18",
@@ -186,16 +226,9 @@
     "address": "791 Eisenhower Avenue, Bridgewater, NJ 08807",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "bf24434c-373b-5fec-ad82-786b45a3f953",
-    "name": "Hamilton Primary School",
-    "type": "School",
-    "address": "9 Hamilton Lane, Basking Ridge, NJ 07920",
-    "county": "Somerset",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6143617,
+    "longitude": -74.6468719
   },
   {
     "id": "d497580a-e5ae-5b20-a09a-4822c692d79b",
@@ -204,7 +237,9 @@
     "address": "844 Brown Road, Bridgewater, NJ 08807-1239",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6292816,
+    "longitude": -74.6294419
   },
   {
     "id": "9ea42a1f-89f1-5a78-b1ed-af3e2bdf582d",
@@ -213,7 +248,9 @@
     "address": "255 Woodmere Street, Raritan, NJ 08869",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5670125,
+    "longitude": -74.64803
   },
   {
     "id": "15ee0dd1-18af-5453-a070-68c7ac0a84fc",
@@ -222,7 +259,9 @@
     "address": "611 Milltown Road, Bridgewater, NJ 08807",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5968133,
+    "longitude": -74.6729835
   },
   {
     "id": "d631ceec-f452-5754-a3f1-67a42bbb7aa3",
@@ -231,7 +270,9 @@
     "address": "360 Van Holten Road, Bridgewater, NJ 08807",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6038019,
+    "longitude": -74.6528487
   },
   {
     "id": "3e8b8207-4447-5462-90a1-b8480ba3e52e",
@@ -240,7 +281,9 @@
     "address": "175 Claremont Road, Franklin Park, NJ 08823",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4445821,
+    "longitude": -74.5534604
   },
   {
     "id": "f173e4bf-d0cc-5947-b892-21fa607f31d1",
@@ -249,7 +292,9 @@
     "address": "35 Conerly Road, Somerset, NJ 08873-2301",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5053817,
+    "longitude": -74.4926216
   },
   {
     "id": "5e65af04-5943-5e02-b813-eb3b7aa60524",
@@ -258,7 +303,9 @@
     "address": "363 Elizabeth Avenue, Somerset, NJ 08873-1105",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5407634,
+    "longitude": -74.5354937
   },
   {
     "id": "bf0fb868-48af-5336-933b-477bc62b13b0",
@@ -267,7 +314,9 @@
     "address": "500 Elizabeth Avenue, Somerset, NJ 08873-3001",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5200806,
+    "longitude": -74.5511243
   },
   {
     "id": "d563b072-f1b8-5da7-8a88-da97552237f8",
@@ -276,7 +325,9 @@
     "address": "415 Francis Street, Somerset, NJ 08873-2827",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4878964,
+    "longitude": -74.4866291
   },
   {
     "id": "acc74b3e-8f97-5166-ac5e-f4748bcc0ada",
@@ -285,7 +336,9 @@
     "address": "1649 Amwell Road, Somerset, NJ 08873",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.493652,
+    "longitude": -74.521667
   },
   {
     "id": "83d2d517-3c1d-588d-8f07-f6a64ec94890",
@@ -294,7 +347,9 @@
     "address": "30 Eden Street, Franklin Park, NJ 08823-1250",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.444056,
+    "longitude": -74.541884
   },
   {
     "id": "2ef0c774-3f26-5825-b162-c6be30859d56",
@@ -303,7 +358,9 @@
     "address": "500 Franklin Blvd, Somerset, NJ 08873-3030",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.491447,
+    "longitude": -74.48286
   },
   {
     "id": "feb6de51-503f-5ff1-bf7a-ebf3a9b8aa8d",
@@ -312,7 +369,9 @@
     "address": "53 Macafee Road, Somerset, NJ 08873-2949",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4962222,
+    "longitude": -74.4985439
   },
   {
     "id": "2608e9bb-c10f-5f02-a9b4-3b75d2ba2160",
@@ -321,7 +380,9 @@
     "address": "130 Highland Avenue, Somerset, NJ 08873-2063",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4980564,
+    "longitude": -74.4698388
   },
   {
     "id": "3650b093-6edf-53be-baf9-f18397c78958",
@@ -330,7 +391,9 @@
     "address": "132 Jefferson Avenue, Green Brook, NJ 08812-2608",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.603309,
+    "longitude": -74.466734
   },
   {
     "id": "ba54d46b-06b4-5817-96fc-314d4d515323",
@@ -339,7 +402,9 @@
     "address": "105 Andrew Street, Green Brook, NJ 08812-2505",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6002025,
+    "longitude": -74.4781377
   },
   {
     "id": "9667d0e1-f963-5dab-9203-82bc64468fed",
@@ -348,7 +413,9 @@
     "address": "301 Amsterdam Drive, Hillsborough, NJ 08844",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4776202,
+    "longitude": -74.5917436
   },
   {
     "id": "722848f4-5524-581d-a10a-1fdb1ca39717",
@@ -357,7 +424,9 @@
     "address": "281 Auten Road, Hillsborough, NJ 08844",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5263467,
+    "longitude": -74.6593298
   },
   {
     "id": "1cac926a-69df-521b-ab24-a1058eec267e",
@@ -366,16 +435,9 @@
     "address": "466 Raider Boulevard, Hillsborough, NJ 08844",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "79651aef-b3c6-53bb-b88e-31c3e9e5a572",
-    "name": "Hillsborough Township Elementary School",
-    "type": "School",
-    "address": "435 Route 206, Hillsborough, NJ 08844",
-    "county": "Somerset",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4963082,
+    "longitude": -74.6558811
   },
   {
     "id": "7850b2cc-44bf-5176-934f-cfa2de5f33ab",
@@ -384,7 +446,9 @@
     "address": "260 Triangle Road, Hillsborough, NJ 08844",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5185337,
+    "longitude": -74.6434049
   },
   {
     "id": "d7872dff-3ada-5e5e-9c6c-3d0920d1baf5",
@@ -393,7 +457,9 @@
     "address": "55 Sunnymead Road, Hillsborough, NJ 08844",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5310902,
+    "longitude": -74.6118386
   },
   {
     "id": "e75e48dd-12f0-5ddc-a4f0-6de6ed9416f1",
@@ -402,7 +468,9 @@
     "address": "156 South Triangle Road, Hillsborough, NJ 08844",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5157088,
+    "longitude": -74.6488383
   },
   {
     "id": "0a0cb173-5bc9-5510-9abc-82b7542a69ed",
@@ -411,7 +479,9 @@
     "address": "425 Woodfern Road, Hillsborough, NJ 08844",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4967704,
+    "longitude": -74.7588011
   },
   {
     "id": "31916f11-6aed-5fd4-a98a-8dbe4a873dd2",
@@ -420,7 +490,9 @@
     "address": "120 South Woods Road, Hillsborough, NJ 08844",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.472379,
+    "longitude": -74.6059333
   },
   {
     "id": "0734d113-124a-59be-a71b-c551a7088c22",
@@ -429,7 +501,9 @@
     "address": "100 North 13th Avenue, Manville, NJ 08835",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5455018,
+    "longitude": -74.5980317
   },
   {
     "id": "833fe116-9f5d-5fb8-bd35-9a5e574b7faf",
@@ -438,7 +512,9 @@
     "address": "1100 Brooks Boulevard, Manville, NJ 08835",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5448435,
+    "longitude": -74.5983203
   },
   {
     "id": "3b6d9fc1-7918-5598-ba3e-4417306f7f87",
@@ -447,7 +523,9 @@
     "address": "410 Brooks Boulevard, Manville, NJ 08835",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5451971,
+    "longitude": -74.5914326
   },
   {
     "id": "f7f75a4b-9d09-593d-826b-b02b47474a9e",
@@ -456,7 +534,9 @@
     "address": "600 Newark Avenue, Manville, NJ 08835",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.535274,
+    "longitude": -74.5935127
   },
   {
     "id": "f07a5229-ee77-56b1-aca5-03e20e4bed25",
@@ -465,7 +545,9 @@
     "address": "1016 Route 601, Skillman, NJ 08558-1799",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4175058,
+    "longitude": -74.7064804
   },
   {
     "id": "40db0730-ccf8-5040-8678-cef67cea3785",
@@ -474,7 +556,9 @@
     "address": "373 Burnt Hill Road, Skillman, NJ 08558",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4249265,
+    "longitude": -74.6686483
   },
   {
     "id": "c937db20-f200-5b00-bf79-3db3bb06a3fa",
@@ -483,7 +567,9 @@
     "address": "375 Burnt Hill Road, Skillman, NJ 08558-9401",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4284837,
+    "longitude": -74.6722513
   },
   {
     "id": "2db1146b-9fe3-502d-bff9-1e6f917335b3",
@@ -492,7 +578,9 @@
     "address": "244 Orchard Road, Skillman, NJ 08558",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4202253,
+    "longitude": -74.6743783
   },
   {
     "id": "edd1f2bb-b95a-5749-806d-88496dd6d6f1",
@@ -501,7 +589,9 @@
     "address": "100 Main Boulevard, Skillman, NJ 08558",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4166036,
+    "longitude": -74.6871424
   },
   {
     "id": "03870168-5ef9-5e67-8ed0-e5f736589a1b",
@@ -510,7 +600,9 @@
     "address": "170 Oneida Avenue, North Plainfield, NJ 07060-4421",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6292915,
+    "longitude": -74.4206258
   },
   {
     "id": "27f2b376-1c87-57ac-b85d-eee6f123ebf3",
@@ -519,7 +611,9 @@
     "address": "34 Wilson Avenue, North Plainfield, NJ 07060-4075",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6241536,
+    "longitude": -74.4412567
   },
   {
     "id": "453044df-f6d5-5249-9e36-d872bce812f6",
@@ -528,7 +622,9 @@
     "address": "34 Wilson Avenue, North Plainfield, NJ 07060-4075",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6241536,
+    "longitude": -74.4412567
   },
   {
     "id": "539704a9-e2d8-5982-9fdd-56bd81c4980b",
@@ -537,7 +633,9 @@
     "address": "303 Somerset Street, North Plainfield, NJ 07060",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.621647,
+    "longitude": -74.429357
   },
   {
     "id": "effe83d9-2b28-5ae8-b211-9327fa004d31",
@@ -546,7 +644,9 @@
     "address": "269 Grove Street, North Plainfield, NJ 07060-4005",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6219833,
+    "longitude": -74.4351157
   },
   {
     "id": "807201fb-9801-51cf-a916-e09e30c1efaa",
@@ -555,7 +655,9 @@
     "address": "447 Greenbrook Road, North Plainfield, NJ 07060-1738",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.612193,
+    "longitude": -74.4489153
   },
   {
     "id": "c5a8bd5d-9d46-577f-aabb-eedcd8b9f2e1",
@@ -564,7 +666,9 @@
     "address": "7 Finderne Ave, Bridgewater, NJ 08807",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5602204,
+    "longitude": -74.5801191
   },
   {
     "id": "516398ee-2f3f-560d-a1b1-40089d4de374",
@@ -573,7 +677,9 @@
     "address": "7 Finderne Ave, Bridgewater, NJ 08807",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5602204,
+    "longitude": -74.5801191
   },
   {
     "id": "a2b30a9b-a34f-510a-bdbf-149c45d37ec0",
@@ -582,7 +688,9 @@
     "address": "7 Finderne Avenue, Bridgewater, NJ 08807",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5609406,
+    "longitude": -74.5799256
   },
   {
     "id": "ab2c08bc-2cf3-5315-8099-3df1b398ef77",
@@ -591,7 +699,9 @@
     "address": "14 Vogt Drive, Bridgewater, NJ 08807-0350",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5888866,
+    "longitude": -74.6075799
   },
   {
     "id": "6a06694a-6147-58fc-875c-274809cdff4c",
@@ -600,7 +710,9 @@
     "address": "25 Olcott Avenue, Bernardsville, NJ 07924",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7206583,
+    "longitude": -74.5654947
   },
   {
     "id": "9405c073-dc7e-5113-ba2e-70ed9c11a9e5",
@@ -609,7 +721,9 @@
     "address": "141 Seney Drive, Bernardsville, NJ 07924",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7304947,
+    "longitude": -74.5700472
   },
   {
     "id": "bbb3c47f-d7f7-5954-9f30-b5602c581bd0",
@@ -618,7 +732,9 @@
     "address": "141 Seney Drive, Bernardsville, NJ 07924",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.7304947,
+    "longitude": -74.5700472
   },
   {
     "id": "13b70d32-bdf1-594c-b04c-cfc726dbed95",
@@ -627,7 +743,9 @@
     "address": "222 Davenport Street, Somerville, NJ 08876-1515",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5768833,
+    "longitude": -74.6134883
   },
   {
     "id": "8a380203-dba2-50fe-938e-ecd0a93658ed",
@@ -636,7 +754,9 @@
     "address": "51 West Cliff Street, Somerville, NJ 08876-1903",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5719464,
+    "longitude": -74.612669
   },
   {
     "id": "fe35ab47-aeb2-5d65-ad4a-720e3397aa5d",
@@ -645,7 +765,9 @@
     "address": "51 Union Avenue, Somerville, NJ 08876",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5713772,
+    "longitude": -74.5979242
   },
   {
     "id": "2bcd8671-9a2a-532e-8e50-6264b030c0f0",
@@ -654,7 +776,9 @@
     "address": "122 Elizabeth Street, South Bound Brook, NJ 08880",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5533631,
+    "longitude": -74.5311708
   },
   {
     "id": "f4b9d7e9-dfa9-57bc-9356-c9d01fa11981",
@@ -663,7 +787,9 @@
     "address": "46 Washington Valley Road, Warren, NJ 07059",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6031504,
+    "longitude": -74.5330934
   },
   {
     "id": "0566260b-063a-5098-95fd-bcd033b734d5",
@@ -672,7 +798,9 @@
     "address": "109 Mount Bethel Road, Warren, NJ 07059",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6196792,
+    "longitude": -74.4961598
   },
   {
     "id": "e6330f03-d591-51ba-b9eb-d01c48eb5caa",
@@ -681,7 +809,9 @@
     "address": "80 Mount Horeb Road, Warren, NJ 07059-5531",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.620285,
+    "longitude": -74.540143
   },
   {
     "id": "56a3ff32-114d-57e6-9f2e-14bcea58545c",
@@ -690,7 +820,9 @@
     "address": "100 Old Stirling Road, Warren, NJ 07060-5819",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6376811,
+    "longitude": -74.4860468
   },
   {
     "id": "6e5a3039-af95-5fc7-9221-a0cdf5dcbd95",
@@ -699,7 +831,9 @@
     "address": "114 Stirling Road, Warren, NJ 07059",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6531389,
+    "longitude": -74.4771322
   },
   {
     "id": "449110a2-dadd-5159-b8d8-952e35fc8bf6",
@@ -708,7 +842,9 @@
     "address": "113 Bayberry Lane, Watchung, NJ 07069",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.652017,
+    "longitude": -74.423987
   },
   {
     "id": "d87b38fd-a5b6-5567-a552-5e7c494a73d7",
@@ -717,7 +853,9 @@
     "address": "50 Valley View Road, Watchung, NJ 07069",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6379037,
+    "longitude": -74.4593399
   },
   {
     "id": "fb948032-9a9d-59c8-981f-f89f830f571e",
@@ -726,7 +864,9 @@
     "address": "108 Stirling Rd., Warren, NJ 07059-5772",
     "county": "Somerset",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.652478,
+    "longitude": -74.4752306
   },
   {
     "id": "c6b928a9-b68f-5ee9-9d8d-a971ba005d03",
@@ -735,7 +875,9 @@
     "address": "118 Lamington Road, Branchburg, NJ 08876",
     "county": "Somerset",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6100961,
+    "longitude": -74.6882225
   },
   {
     "id": "6fe2b455-acf4-5713-9a4b-367efecd0536",
@@ -744,7 +886,9 @@
     "address": "20 North Bridge Street, Somerville, NJ 08876",
     "county": "Somerset",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5689234,
+    "longitude": -74.6113995
   },
   {
     "id": "6a0e25e2-d612-5c6b-9de3-8b1c3133bf15",
@@ -753,7 +897,9 @@
     "address": "45 Miller Lane, Bedminster, NJ 07921",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6754341,
+    "longitude": -74.6439195
   },
   {
     "id": "16aaa4d3-e15c-562c-8b47-9981deed33d8",
@@ -762,7 +908,9 @@
     "address": "45 Miller Lane, Bedminster, NJ 07921",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6754341,
+    "longitude": -74.6439195
   },
   {
     "id": "182a6d39-7e88-595d-8012-fc13a5f718f4",
@@ -771,7 +919,9 @@
     "address": "230 Hamilton St, Bound Brook, NJ 08805",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5640004,
+    "longitude": -74.5296569
   },
   {
     "id": "1f45ddd7-a9a7-5bca-aae9-988431ab7608",
@@ -780,7 +930,9 @@
     "address": "379 South Branch Rd, Hillsborough, NJ 08844",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5066858,
+    "longitude": -74.6746691
   },
   {
     "id": "357c899b-715b-5603-a853-98176784954c",
@@ -789,7 +941,9 @@
     "address": "6 Prospect St., Far Hills, NJ 07931",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6848354,
+    "longitude": -74.6386083
   },
   {
     "id": "e1ca5ae0-1a2e-562e-9e61-469b0430b5ae",
@@ -798,7 +952,9 @@
     "address": "495 Demott Lane, Somerset, NJ 08873",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4992917,
+    "longitude": -74.5254392
   },
   {
     "id": "5d167e0a-734d-5e69-8865-2b3ec5aa8b49",
@@ -807,7 +963,9 @@
     "address": "111 Greenbrook Road, Green Brook, NJ 08812",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.599083,
+    "longitude": -74.473428
   },
   {
     "id": "046299a7-766e-5089-ae9e-a6d7406079f9",
@@ -816,7 +974,9 @@
     "address": "379 South Branch Rd, Hillsborough, NJ 08844",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5066858,
+    "longitude": -74.6746691
   },
   {
     "id": "7de77020-504c-53e7-a0e1-4c3ad30f8156",
@@ -825,7 +985,9 @@
     "address": "379 South Branch Rd, Hillsborough, NJ 08844",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5066858,
+    "longitude": -74.6746691
   },
   {
     "id": "158b1457-6aa6-5993-8c8e-b6a63709b5b4",
@@ -834,7 +996,9 @@
     "address": "495 Demott Lane, Somerset, NJ 08873",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4992917,
+    "longitude": -74.5254392
   },
   {
     "id": "2639a9f9-1f2a-55da-80d4-ecc5369e0c41",
@@ -843,16 +1007,9 @@
     "address": "379 South Branch Rd, Hillsborough, NJ 08844",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "13493061-f232-5dc4-9017-998d2b5ee8da",
-    "name": "North Plainfield Municipal Ct",
-    "type": "Courthouse",
-    "address": "263 Somerset St, No Plainfield, NJ 07060",
-    "county": "Somerset",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5066858,
+    "longitude": -74.6746691
   },
   {
     "id": "cdcedfe1-bf3c-53e8-b938-a75f34a0a816",
@@ -861,7 +1018,9 @@
     "address": "45 Miller Lane, Bedminster, NJ 07921",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6754341,
+    "longitude": -74.6439195
   },
   {
     "id": "1175414e-e986-542f-adc5-a23e40f000ed",
@@ -870,16 +1029,9 @@
     "address": "100 Commons Way, Bridgewater, NJ 08807",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "51f20e06-557f-5b6e-b617-f1a83cf3c023",
-    "name": "Rocky Hill Boro Municipal Ct",
-    "type": "Courthouse",
-    "address": "Po Box 212, Rocky Hill, NJ 08553",
-    "county": "Somerset",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.592868,
+    "longitude": -74.626302
   },
   {
     "id": "33f9b26b-a9f8-5280-a43f-3faa340cb4fb",
@@ -888,7 +1040,9 @@
     "address": "100 Commons Way, Bridgewater, NJ 08807",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.592868,
+    "longitude": -74.626302
   },
   {
     "id": "92ef0a93-f028-5f91-9477-e4d040c0e907",
@@ -897,7 +1051,9 @@
     "address": "2 Main Street, S Bound Brook, NJ 08880",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.557959,
+    "longitude": -74.527945
   },
   {
     "id": "10fe6263-3ba0-5752-939e-60427b97e252",
@@ -906,16 +1062,9 @@
     "address": "44 Mountain Blvd, Warren, NJ 07059",
     "county": "Somerset",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "41701bea-f2cc-51ed-a834-e48eea425ffe",
-    "name": "Watchung Boro Municipal Court",
-    "type": "Courthouse",
-    "address": "263 Somerset St, No. Plainfield, NJ 07060",
-    "county": "Somerset",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6205852,
+    "longitude": -74.4857345
   },
   {
     "id": "39f132d3-5c4c-5fa0-9144-d8e7dcbd23fa",
@@ -924,7 +1073,9 @@
     "address": "1000 Airport Road, Bedminster, NJ 07921",
     "county": "Somerset",
     "source": "nj_airports_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6239539,
+    "longitude": -74.6630042
   },
   {
     "id": "26f155c8-8d5e-5dec-807d-25e2c74e7add",
@@ -933,6 +1084,8 @@
     "address": "20 Grove Street, Somerville, NJ 08876",
     "county": "Somerset",
     "source": "nj_government_buildings_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5679626,
+    "longitude": -74.6093627
   }
 ]

@@ -6,7 +6,9 @@
     "address": "180 Bengal Blvd, Barnegat, NJ 08005",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7690207,
+    "longitude": -74.231965
   },
   {
     "id": "9a10f911-13f4-5485-bca1-634349f5311d",
@@ -15,7 +17,9 @@
     "address": "570 Barnegat Blvd North, Barnegat, NJ 08005",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7583824,
+    "longitude": -74.2431264
   },
   {
     "id": "4e513753-f69c-5be4-84ac-17c5910068f4",
@@ -24,7 +28,9 @@
     "address": "200 Bengal Blvd, Barnegat, NJ 08005",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.775023,
+    "longitude": -74.236325
   },
   {
     "id": "24c16488-1798-5996-a6c9-c8c1b514712d",
@@ -33,7 +39,9 @@
     "address": "128 Barnegat Blvd, Barnegat, NJ 08005-2497",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7488401,
+    "longitude": -74.2457995
   },
   {
     "id": "e8a0252f-ff79-5240-a247-6f442caceccf",
@@ -42,7 +50,9 @@
     "address": "104 Burr Street, Barnegat, NJ 08005",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7574401,
+    "longitude": -74.2307417
   },
   {
     "id": "c099bac8-97a9-52bf-ac15-20d91f057268",
@@ -51,7 +61,9 @@
     "address": "600 Barnegat Blvd North, Barnegat, NJ 08005",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7583824,
+    "longitude": -74.2431264
   },
   {
     "id": "03da2baf-f7a1-58ea-bc88-584689832df4",
@@ -60,7 +72,9 @@
     "address": "145 Grove Street, Bay Head, NJ 08742",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0698627,
+    "longitude": -74.0495275
   },
   {
     "id": "aa946442-73a3-5667-8491-a81ec8384940",
@@ -69,7 +83,9 @@
     "address": "700 North Beach Ave., Beach Haven, NJ 08008",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5676603,
+    "longitude": -74.2361031
   },
   {
     "id": "d6575cf2-72e4-564f-98e2-a436c8e91d82",
@@ -78,7 +94,9 @@
     "address": "356 Atlantic City Blvd, Bayville, NJ 08721-1246",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9187958,
+    "longitude": -74.1588759
   },
   {
     "id": "bda392aa-1639-570b-87bf-4d1098eb253c",
@@ -87,7 +105,9 @@
     "address": "10 Emory Avenue, Bayville, NJ 08721",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9008369,
+    "longitude": -74.1580976
   },
   {
     "id": "48adf4ed-04f2-5b0a-90ec-ca11006dd0b7",
@@ -96,7 +116,9 @@
     "address": "57 Central Parkway, Bayville, NJ 08721-2414",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8904035,
+    "longitude": -74.1644832
   },
   {
     "id": "a3cd7d1a-786b-56fa-9840-e8a806dfb6cf",
@@ -105,7 +127,9 @@
     "address": "60 Veeder Lane, Bayville, NJ 08721-1833",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9162155,
+    "longitude": -74.1525302
   },
   {
     "id": "986d8afc-ef23-5ab2-9078-f466bd372196",
@@ -114,7 +138,9 @@
     "address": "346 Chambers Bridge Rd, Brick Town, NJ 08723-2804",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0729253,
+    "longitude": -74.153925
   },
   {
     "id": "ae52b1b3-ceb5-5131-9379-a668991daa71",
@@ -123,7 +149,9 @@
     "address": "2001 Lanes Mill Rd, Brick, NJ 08724-1405",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1044742,
+    "longitude": -74.1314063
   },
   {
     "id": "16ad0bf5-272f-50ef-95c8-084193d48c23",
@@ -132,7 +160,9 @@
     "address": "41 Drum Point Rd, Brick Town, NJ 08723-6021",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0443722,
+    "longitude": -74.1392328
   },
   {
     "id": "b540a360-04cd-5bfa-a7ad-821d3708b52a",
@@ -141,7 +171,9 @@
     "address": "43 Drum Point Rd, Brick, NJ 08723-6021",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0456076,
+    "longitude": -74.1394397
   },
   {
     "id": "db778c8c-7a16-5966-b1aa-b5ab4c5c7f7d",
@@ -150,7 +182,9 @@
     "address": "2282 Lanes Mill Rd, Brick, NJ 08724-1003",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1112974,
+    "longitude": -74.1129255
   },
   {
     "id": "ee3ea0ae-457f-5120-ac8d-9b6ed4d8eb8d",
@@ -159,7 +193,9 @@
     "address": "171 Beaverson Boulevard, Brick, NJ 08723",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0322273,
+    "longitude": -74.1580162
   },
   {
     "id": "10e91231-86de-58c7-b9d7-a9ff2997cfe3",
@@ -168,7 +204,9 @@
     "address": "1891 Lanes Mill Rd, Brick, NJ 08724-1445",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1023026,
+    "longitude": -74.1345095
   },
   {
     "id": "88190766-4e7d-5cbd-9915-e486c3e9ba97",
@@ -177,7 +215,9 @@
     "address": "500 Midstreams Rd, Brick Town, NJ 08724-3816",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0678939,
+    "longitude": -74.1004164
   },
   {
     "id": "64b42f40-165d-5cb9-8788-24455bcaf3f0",
@@ -186,7 +226,9 @@
     "address": "218 Drum Point Rd, Brick, NJ 08723-6312",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.044111,
+    "longitude": -74.123379
   },
   {
     "id": "b8ec7dfd-31a2-552d-b6e4-50431e0ee11a",
@@ -195,7 +237,9 @@
     "address": "103 Hendrickson Avenue, Brick, NJ 08724",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0814973,
+    "longitude": -74.1170151
   },
   {
     "id": "43da0ae4-874f-5fb8-8c9f-f603548e5064",
@@ -204,7 +248,9 @@
     "address": "105 Hendrickson Avenue, Brick Town, NJ 08724",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.083449,
+    "longitude": -74.118195
   },
   {
     "id": "d1faa932-1cdf-51ce-9a7e-63c31080a1a1",
@@ -213,7 +259,9 @@
     "address": "224 Chambers Bridge Rd, Brick, NJ 08723-9999",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0684403,
+    "longitude": -74.147221
   },
   {
     "id": "8f70a78a-6522-5a64-a64d-470cb9a09ddd",
@@ -222,7 +270,9 @@
     "address": "509 Forest Hills Parkway, Bayville, NJ 08721",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8901386,
+    "longitude": -74.20679
   },
   {
     "id": "92b485fc-4c2c-5950-accb-54aac90bf108",
@@ -231,7 +281,9 @@
     "address": "509 Forest Hills Parkway, Bayville, NJ 08721",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8903625,
+    "longitude": -74.2105593
   },
   {
     "id": "298aba3a-6bb7-5941-b451-35c8814d7689",
@@ -240,7 +292,9 @@
     "address": "511 Route 9, West Creek, NJ 08092",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6574467,
+    "longitude": -74.2911431
   },
   {
     "id": "56e71c70-a470-59db-9d82-3c5c60cb6df2",
@@ -249,7 +303,9 @@
     "address": "115 Summit Ave, Po Box 329, Island Heights, NJ 08732-0329",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9442879,
+    "longitude": -74.1480945
   },
   {
     "id": "2e871684-2186-5bc9-b269-47478777d4b1",
@@ -258,7 +314,9 @@
     "address": "1025 Larsen Road, Jackson, NJ 08527-3497",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1487453,
+    "longitude": -74.2693185
   },
   {
     "id": "aa7eba69-37b5-5739-9ad0-811445aca294",
@@ -267,7 +325,9 @@
     "address": "780 Patterson Road, Jackson, NJ 08527-3497",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1534204,
+    "longitude": -74.4001775
   },
   {
     "id": "fc5b094a-d1f5-57bf-af9b-9d9938fa5e6e",
@@ -276,7 +336,9 @@
     "address": "1021 Larsen Road, Jackson, NJ 08527-3497",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1487417,
+    "longitude": -74.2693423
   },
   {
     "id": "7b151528-d23b-5e4f-8dde-b55ab849d8d6",
@@ -285,7 +347,9 @@
     "address": "835 Patterson Road, Jackson, NJ 08527-3497",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1543166,
+    "longitude": -74.3913238
   },
   {
     "id": "c88d1029-5a23-55b3-a8d6-838da6d84eea",
@@ -294,7 +358,9 @@
     "address": "125 North Hope Chapel Road, Jackson, NJ 08527-3497",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0911644,
+    "longitude": -74.2661348
   },
   {
     "id": "6b167738-5392-550a-a988-bac642fbdd8c",
@@ -303,7 +369,9 @@
     "address": "101 Don Connor Blvd, Jackson, NJ 08527-3497",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.10818,
+    "longitude": -74.348547
   },
   {
     "id": "3aaf5dc0-412a-521b-9c00-d763f8c7b69d",
@@ -312,7 +380,9 @@
     "address": "125 Manhattan Street, Jackson, NJ 08527-3497",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.116569,
+    "longitude": -74.2874499
   },
   {
     "id": "f22ee9c4-80dc-59c8-9e29-bb32ec274612",
@@ -321,7 +391,9 @@
     "address": "75 West Veterans Highway, Jackson, NJ 08527-3497",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1115049,
+    "longitude": -74.3485607
   },
   {
     "id": "8f31c7d7-aa82-5ed5-a3ed-90bff75f4bfa",
@@ -330,7 +402,9 @@
     "address": "220 Western Blvd, Lanoka Harbor, NJ 08734-0313",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8693223,
+    "longitude": -74.1976996
   },
   {
     "id": "340468f1-55c4-57d3-8c5e-11b6e7490d5f",
@@ -339,7 +413,9 @@
     "address": "110 Lacey Road, Forked River, NJ 08731-0477",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8426331,
+    "longitude": -74.1929799
   },
   {
     "id": "472aac27-b156-51c9-b9c2-22be05903aac",
@@ -348,7 +424,9 @@
     "address": "73 Haines Street, Lanoka Harbor, NJ 08734",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8593738,
+    "longitude": -74.1938268
   },
   {
     "id": "6ae1f959-b6a1-5af9-9b58-daa583350e5e",
@@ -357,7 +435,9 @@
     "address": "660 Denton Avenue, Forked River, NJ 08731-0535",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8582372,
+    "longitude": -74.1992741
   },
   {
     "id": "734b4871-6ee2-50c0-a1d7-ae2ae22a54e9",
@@ -366,7 +446,9 @@
     "address": "281 Manchester Ave, Lanoka Harbor, NJ 08734",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8670632,
+    "longitude": -74.1848622
   },
   {
     "id": "5be9ec09-2546-5c44-bd91-3aa64b439c22",
@@ -375,7 +457,9 @@
     "address": "210 Western Blvd, Lanoka Harbor, NJ 08734",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.8676853,
+    "longitude": -74.1994119
   },
   {
     "id": "b4ab6783-48e3-59dd-8d34-68c7936afd9b",
@@ -384,7 +468,9 @@
     "address": "301 Union Ave, Lakehurst, NJ 08733-2935",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.012042,
+    "longitude": -74.316685
   },
   {
     "id": "8e963d7b-80c2-5de3-935d-4975f3f0512c",
@@ -393,7 +479,9 @@
     "address": "625 Clifton Avenue, Lakewood, NJ 08701",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0962576,
+    "longitude": -74.2152762
   },
   {
     "id": "afd204af-5650-5855-aa4f-2f47c8764a1a",
@@ -402,7 +490,9 @@
     "address": "855 Somerset Avenue, Lakewood, NJ 08701",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.100088,
+    "longitude": -74.1953394
   },
   {
     "id": "f6677f16-c773-5b67-b2f0-c02aabec3358",
@@ -411,7 +501,9 @@
     "address": "855 Somerset Avenue, Lakewood, NJ 08701",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.100088,
+    "longitude": -74.1953394
   },
   {
     "id": "7d53c3df-02cf-5e1f-97b9-0380b8994c6e",
@@ -420,7 +512,9 @@
     "address": "755 Somerset Avenue, Lakewood, NJ 08701",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0964175,
+    "longitude": -74.1946416
   },
   {
     "id": "ad16a6fa-4a3a-5e4a-8ae6-5a5d7b36ee45",
@@ -429,7 +523,9 @@
     "address": "75 Oak Street, Lakewood, NJ 08701",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0666935,
+    "longitude": -74.2152747
   },
   {
     "id": "7309aefa-c9ea-5145-8907-cf98d529946d",
@@ -438,7 +534,9 @@
     "address": "90 Spruce Street, Lakewood, NJ 08701",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0720053,
+    "longitude": -74.2149846
   },
   {
     "id": "7ebdade4-7cf7-5477-a7a0-0ff61458b4da",
@@ -447,7 +545,9 @@
     "address": "105 Brooklyn Ave., Lavallette, NJ 08735-2321",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.96832,
+    "longitude": -74.070772
   },
   {
     "id": "4666be43-5af5-5286-b369-30f11e8fbf9f",
@@ -456,7 +556,9 @@
     "address": "305 Frog Pond Road, Little Egg Harbor, NJ 08087",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6276687,
+    "longitude": -74.3315505
   },
   {
     "id": "6bf12bcf-ba74-52ed-8a8e-318e7569c9d1",
@@ -465,16 +567,9 @@
     "address": "950 Route 539, Little Egg Harbor, NJ 08087-9750",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "a39eabba-9fbf-5d9b-949f-91cc3861d811",
-    "name": "Robert C. Wood Sr Early Childhood Center",
-    "type": "School",
-    "address": "950 Route 539, Little Egg Harbor, NJ 08087",
-    "county": "Ocean",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6193996,
+    "longitude": -74.3434984
   },
   {
     "id": "079f16c7-9b50-5d19-bb8f-0806c106486c",
@@ -483,7 +578,9 @@
     "address": "200 S. Barnegat Avenue, Surf City, NJ 08008",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6546549,
+    "longitude": -74.1764629
   },
   {
     "id": "d585515e-52dd-5013-b11c-3829d70e0c08",
@@ -492,7 +589,9 @@
     "address": "890 Toms River Road, Jackson, NJ 08527-9105",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0586502,
+    "longitude": -74.3531269
   },
   {
     "id": "95b8d0aa-1e61-5a6b-9b5a-6b8f150b7196",
@@ -501,7 +600,9 @@
     "address": "101 N Colonial Drive, Manchester, NJ 08733",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0156538,
+    "longitude": -74.2953072
   },
   {
     "id": "83059d58-3a05-5e6c-983c-7e2082dcc0b1",
@@ -510,7 +611,9 @@
     "address": "101 Hawks Way, Manchester, NJ 08759",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.005444,
+    "longitude": -74.3091376
   },
   {
     "id": "dd3e7caf-c8f5-5e7f-b638-25d611e072b7",
@@ -519,7 +622,9 @@
     "address": "2759 Ridgeway Rd, Manchester, NJ 08759",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0187979,
+    "longitude": -74.2634509
   },
   {
     "id": "ea867927-f2a4-53bf-ab1e-594d826fc921",
@@ -528,7 +633,9 @@
     "address": "2861 Ridgeway Rd, Manchester, NJ 08759",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.021505,
+    "longitude": -74.2660219
   },
   {
     "id": "c5b17fd7-73b0-5b95-80e1-4cfb528686cc",
@@ -537,7 +644,9 @@
     "address": "412 Manchester Blvd, Whiting, NJ 08759-1336",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9592578,
+    "longitude": -74.3780192
   },
   {
     "id": "e5841419-01fe-5614-bfb9-202c0170a44b",
@@ -546,16 +655,9 @@
     "address": "195 Cedar Bridge Road, Manahawkin, NJ 08050",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "ef8e39f5-ce81-520d-a33d-a03efde70403",
-    "name": "Ocvts Grunin Performing Arts Academy",
-    "type": "School",
-    "address": "1 College Drive, Bldg. #12, Toms River, NJ 08754",
-    "county": "Ocean",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7104537,
+    "longitude": -74.2565976
   },
   {
     "id": "a5f1e5a1-cc3a-5ac0-9789-b54e8a19c5d9",
@@ -564,7 +666,9 @@
     "address": "350 Chambers Bridge Road, Brick, NJ 08723-2896",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0757167,
+    "longitude": -74.153996
   },
   {
     "id": "16534c54-bc31-5c6c-81a4-8e5576e0ee25",
@@ -573,7 +677,9 @@
     "address": "261 Country Club Blvd., Little Egg Harbor, NJ 08087",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5771885,
+    "longitude": -74.3550623
   },
   {
     "id": "27223cdc-b874-5de0-ab9d-79e79120663c",
@@ -582,7 +688,9 @@
     "address": "850 Toms River Road, Jackson, NJ 08527-9241",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.061117,
+    "longitude": -74.356396
   },
   {
     "id": "544c841e-e4ce-5b22-8611-9e63a08b5ac1",
@@ -591,7 +699,9 @@
     "address": "1299 Old Freehold Road, Toms River, NJ 08753-4298",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9807822,
+    "longitude": -74.1975264
   },
   {
     "id": "3e7b91ac-ced3-56f3-90c3-e862825fb9fe",
@@ -600,7 +710,9 @@
     "address": "1 College Drive, Building #7, Toms River, NJ 08754",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7956693,
+    "longitude": -74.2464667
   },
   {
     "id": "6ea642f2-d319-544d-9238-fb09b87420b2",
@@ -609,7 +721,9 @@
     "address": "423 Wells Mills Rd, Waretown, NJ 08758",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7956693,
+    "longitude": -74.2464667
   },
   {
     "id": "39a55626-0bb2-51d5-8cb5-4ab1ecc60bda",
@@ -618,16 +732,9 @@
     "address": "126 West Arverne Avenue, Po Box 478, Ocean Gate, NJ 08740-0478",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "d1a35b07-1ea3-5634-ae0d-e0fdb20e2f41",
-    "name": "Frederic A. Priff Elementary School",
-    "type": "School",
-    "address": "139 Wells Mill Road, Waretown, NJ 08758-2606",
-    "county": "Ocean",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9237511,
+    "longitude": -74.1432671
   },
   {
     "id": "1ec96f34-a814-5e16-ad8b-0ef9e08eb095",
@@ -636,7 +743,9 @@
     "address": "64 Railroad Avenue, Waretown, NJ 08758-2717",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7891655,
+    "longitude": -74.1994465
   },
   {
     "id": "de615c0a-b58c-5ed5-9d9e-5bc041d9ffad",
@@ -645,7 +754,9 @@
     "address": "565 Nugentown Road, Little Egg Harbor, NJ 08087-0248",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6128233,
+    "longitude": -74.3614661
   },
   {
     "id": "2c4a1b39-325b-5468-8d45-b851ab1cc172",
@@ -654,7 +765,9 @@
     "address": "590 Nugentown Road, Little Egg Harbor, NJ 08087-0248",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6132492,
+    "longitude": -74.3629807
   },
   {
     "id": "912ac424-f8d8-5b98-b579-4ebf9eb412b9",
@@ -663,7 +776,9 @@
     "address": "44 N Main St, New Egypt, NJ 08533-1316",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0703713,
+    "longitude": -74.527124
   },
   {
     "id": "762f7099-435c-5c6f-9e05-f162ae2b3605",
@@ -672,7 +787,9 @@
     "address": "117 Evergreen Road, New Egypt, NJ 08533-1316",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0771768,
+    "longitude": -74.531705
   },
   {
     "id": "71a4578b-9828-5a03-9a60-725c4a8871ab",
@@ -681,7 +798,9 @@
     "address": "131 Evergreen Road, New Egypt, NJ 08533",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0787818,
+    "longitude": -74.5319652
   },
   {
     "id": "90d26ad7-038e-5b51-8e53-84c1ee275bfa",
@@ -690,7 +809,9 @@
     "address": "401 Niblick Street, Point Pleasant Beach, NJ 08742",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.095414,
+    "longitude": -74.046638
   },
   {
     "id": "fd63b1ea-1383-5a0d-937a-ab6a8d6eb4a2",
@@ -699,7 +820,9 @@
     "address": "700 Trenton Avenue, Point Pleasant Beach, NJ 08742",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.089351,
+    "longitude": -74.051954
   },
   {
     "id": "a2f90761-8532-59d1-a7cd-e129ca04f069",
@@ -708,7 +831,9 @@
     "address": "808 Laura Herbert Dr, Point Pleasant, NJ 08742",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0789941,
+    "longitude": -74.0720109
   },
   {
     "id": "2cef9612-0dae-5599-bf2b-0fe1a96dbccb",
@@ -717,7 +842,9 @@
     "address": "2000 Riviera Parkway, Point Pleasant, NJ 08742",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0686341,
+    "longitude": -74.0617646
   },
   {
     "id": "c5ca5eb3-0dfe-55ea-a796-d398e2cd4061",
@@ -726,7 +853,9 @@
     "address": "1210 Benedict Street, Point Pleasant, NJ 08742",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0832936,
+    "longitude": -74.0630776
   },
   {
     "id": "416ce3b3-500a-50fe-b090-39298ee6d769",
@@ -735,7 +864,9 @@
     "address": "830 Laura Herbert Dr, Point Pleasant, NJ 08742",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0789063,
+    "longitude": -74.0720421
   },
   {
     "id": "72b37f46-0a89-5770-9b1d-03781e1d66b4",
@@ -744,7 +875,9 @@
     "address": "1200 Bay Boulevard, Seaside Hts, NJ 08751",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.946115,
+    "longitude": -74.078416
   },
   {
     "id": "aecb8a44-9e70-57ae-8b12-c82fb7983b07",
@@ -753,7 +886,9 @@
     "address": "90 Cedar Bridge Road, Manahawkin, NJ 08050-3022",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.70796,
+    "longitude": -74.2544742
   },
   {
     "id": "a8e4729f-260f-5c33-9b11-fce3ec8a2f49",
@@ -762,7 +897,9 @@
     "address": "75 Cedar Bridge Road, Manahawkin, NJ 08050-3056",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7076561,
+    "longitude": -74.2543003
   },
   {
     "id": "78c83495-5479-5849-a2d4-b7ce89bff9f6",
@@ -771,7 +908,9 @@
     "address": "1000 Mckinley Avenue, Manahawkin, NJ 08050-2807",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.702672,
+    "longitude": -74.2832889
   },
   {
     "id": "c3e16923-9c61-52e8-bd45-feca102de961",
@@ -780,7 +919,9 @@
     "address": "489 Nautilus Drive, Manahawkin, NJ 08050",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7416097,
+    "longitude": -74.2808223
   },
   {
     "id": "90737ff1-ed0f-5a20-aea2-13f71c7a4a77",
@@ -789,16 +930,9 @@
     "address": "250 North Main Street, Manahawkin, NJ 08050-3011",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "b6092691-597a-5ecb-931f-d442ad53805c",
-    "name": "Ronald L. Meinders Primary Learning Center",
-    "type": "School",
-    "address": "1000 Mckinley Avenue, Manahawkin, NJ 08050",
-    "county": "Ocean",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7020364,
+    "longitude": -74.2569205
   },
   {
     "id": "bd15ca26-0006-5459-86d3-18edaef1f396",
@@ -807,7 +941,9 @@
     "address": "1000 Mckinley Avenue, Manahawkin, NJ 08050",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7025783,
+    "longitude": -74.2847269
   },
   {
     "id": "fa593d1f-eb16-57f3-b3e1-7b52b2e23878",
@@ -816,7 +952,9 @@
     "address": "901 Berkeley Avenue, Beachwood, NJ 08722",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.923963,
+    "longitude": -74.192353
   },
   {
     "id": "8bc44739-0f8f-5be7-b1f8-af2cbdd08786",
@@ -825,7 +963,9 @@
     "address": "179 Cedar Grove Road, Toms River, NJ 08753-4399",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9686932,
+    "longitude": -74.1718733
   },
   {
     "id": "e8a8bfdb-9dbd-5893-bb47-0a5daf2347e1",
@@ -834,7 +974,9 @@
     "address": "725 Vaughn Avenue, Toms River, NJ 08753",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9668458,
+    "longitude": -74.1506823
   },
   {
     "id": "05476d2e-03a8-579c-8d62-9d90e3c4a843",
@@ -843,7 +985,9 @@
     "address": "1517 Hooper Avenue, Toms River, NJ 08753",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9964531,
+    "longitude": -74.1705568
   },
   {
     "id": "f13ce94e-820c-557e-bd10-8882fa4551b2",
@@ -852,7 +996,9 @@
     "address": "2050 Lakewood Road, Toms River, NJ 08755",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0267388,
+    "longitude": -74.2228612
   },
   {
     "id": "0a773974-8c62-5ec3-87b1-ee5b453a13e1",
@@ -861,7 +1007,9 @@
     "address": "1759 New Hampshire Avenue, Toms River, NJ 08753",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0146302,
+    "longitude": -74.1991255
   },
   {
     "id": "46803dfc-495a-549c-8d49-f4301d1d4aab",
@@ -870,7 +1018,9 @@
     "address": "101 Pennsylvania Avenue, Pine Beach, NJ 08741",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.936372,
+    "longitude": -74.180669
   },
   {
     "id": "5a55fc8a-96a5-5521-8de7-2532e9cc6b08",
@@ -879,7 +1029,9 @@
     "address": "100 Silver Bay Road, Toms River, NJ 08753",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0076592,
+    "longitude": -74.139844
   },
   {
     "id": "124f8569-9da9-56be-afe2-96b1f7544b50",
@@ -888,7 +1040,9 @@
     "address": "419 Dover Road, South Toms River, NJ 08757",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9390461,
+    "longitude": -74.2187765
   },
   {
     "id": "ba084803-b2ea-511e-8f3e-551119eb20a3",
@@ -897,7 +1051,9 @@
     "address": "1225 Raider Way, Toms River, NJ 08753",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9678861,
+    "longitude": -74.1430967
   },
   {
     "id": "650cef06-4954-5d37-a5a5-25b14bb48d5b",
@@ -906,7 +1062,9 @@
     "address": "1245 Old Freehold Road, Toms River, NJ 08753-1304",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.982977,
+    "longitude": -74.195222
   },
   {
     "id": "1221f7ec-0121-5d20-bbc4-c1363e919c78",
@@ -915,7 +1073,9 @@
     "address": "55 Hyers Street, Toms River, NJ 08753",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9550896,
+    "longitude": -74.1968863
   },
   {
     "id": "cdfc76f5-de08-5925-ad32-4c6ab1e5acd6",
@@ -924,7 +1084,9 @@
     "address": "1519 Hooper Avenue, Toms River, NJ 08753",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9964791,
+    "longitude": -74.1705074
   },
   {
     "id": "301a57d0-af80-5d9f-ac89-7360c895b56c",
@@ -933,7 +1095,9 @@
     "address": "150 Intermediate North Way, Toms River, NJ 08753",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9912285,
+    "longitude": -74.203133
   },
   {
     "id": "ea2df673-813c-5e8d-a925-63b82309034f",
@@ -942,7 +1106,9 @@
     "address": "1675 Pinewald Road, Beachwood, NJ 08722",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9177336,
+    "longitude": -74.2066808
   },
   {
     "id": "c6ba2fa2-70c3-503a-8f11-c38a4fa8295d",
@@ -951,7 +1117,9 @@
     "address": "60 Walnut Street, Toms River, NJ 08753",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9681546,
+    "longitude": -74.1968478
   },
   {
     "id": "b4962455-aa2e-5715-a6f5-1f3c94c65bc7",
@@ -960,7 +1128,9 @@
     "address": "500 West Earl Court, Toms River, NJ 08753",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.956108,
+    "longitude": -74.172731
   },
   {
     "id": "e30bcf54-2165-5b82-ae06-a4c6b59f9008",
@@ -969,7 +1139,9 @@
     "address": "50 Blue Jay Drive, Toms River, NJ 08753",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.971205,
+    "longitude": -74.230769
   },
   {
     "id": "14b0e5ae-7370-5f4c-8d46-9b9bf1d457fd",
@@ -978,7 +1150,9 @@
     "address": "Marine Street, Po Box 217, Tuckerton, NJ 08087",
     "county": "Ocean",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6020465,
+    "longitude": -74.3359286
   },
   {
     "id": "8c6d962e-6837-5e78-af5f-3b78fc6ca6b5",
@@ -987,7 +1161,9 @@
     "address": "1 College Drive, Toms River, NJ 08754",
     "county": "Ocean",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.008779,
+    "longitude": -74.16377
   },
   {
     "id": "ba39e674-1f12-5f60-a5de-a2d7fbf0d92c",
@@ -996,7 +1172,9 @@
     "address": "900 Lakewood Avenue, Lakewood, NJ 08701",
     "county": "Ocean",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.098078,
+    "longitude": -74.226055
   },
   {
     "id": "649c9187-262a-57f2-a378-1852796507ff",
@@ -1005,7 +1183,9 @@
     "address": "118 Washington Street, Toms River, NJ 08753",
     "county": "Ocean",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9527152,
+    "longitude": -74.1946005
   },
   {
     "id": "e0e8ac24-dcaf-5588-813a-4c3a49b98457",
@@ -1014,7 +1194,9 @@
     "address": "10 West 10th St., Barnegat Light, NJ 08006",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.756107,
+    "longitude": -74.1084606
   },
   {
     "id": "5d268269-7a84-5d9e-bc71-0deb6eaa5973",
@@ -1023,7 +1205,9 @@
     "address": "83 Bridge Ave., Bay Head, NJ 08742",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0693454,
+    "longitude": -74.0502832
   },
   {
     "id": "3254b106-e2b8-5552-aa7f-60e6d7b19035",
@@ -1032,7 +1216,9 @@
     "address": "1600 Pinewald Rd, Beachwood, NJ 08722",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9181888,
+    "longitude": -74.2065726
   },
   {
     "id": "d4e44513-c4dc-5374-b1d1-03e5487612c7",
@@ -1041,25 +1227,9 @@
     "address": "401 Chambers Bridge, Brick, NJ 08723",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "3d91485a-59b5-5c92-8578-c97a4644bef1",
-    "name": "Eagleswood Twp Municipal Court",
-    "type": "Courthouse",
-    "address": "665 Radio Road, Little Egg Harb, NJ 08087",
-    "county": "Ocean",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "91fb245d-7155-509d-9833-3ee1e5de3bf2",
-    "name": "Island Heights Municipal Court",
-    "type": "Courthouse",
-    "address": "Po Box 797, Island Heights, NJ 08732",
-    "county": "Ocean",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0755562,
+    "longitude": -74.1522149
   },
   {
     "id": "2e989c7d-128a-578e-a9b3-43e079d331d6",
@@ -1068,16 +1238,9 @@
     "address": "102 Jackson Drive, Jackson, NJ 08527",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "4cc04dd2-2613-5f01-be97-07470a7e9aac",
-    "name": "Lacey Township Municipal Court",
-    "type": "Courthouse",
-    "address": "818 West Lacey Road, Forked River, NJ 08731",
-    "county": "Ocean",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.1110995,
+    "longitude": -74.3561366
   },
   {
     "id": "9a84ea91-b8fc-555d-8a31-b968de9f1a26",
@@ -1086,25 +1249,9 @@
     "address": "1 Colonial Drive, Manchester, NJ 08759",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "7258a96e-3541-5ad3-b096-a108df8e93d5",
-    "name": "Lakewood Municipal Court",
-    "type": "Courthouse",
-    "address": "231 Third St, Lakewood, NJ 08701",
-    "county": "Ocean",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "f3d53130-edb6-51c1-9c57-671b103a5989",
-    "name": "Lavallette Municipal Court",
-    "type": "Courthouse",
-    "address": "1306 Grand Central A, Lavallette, NJ 08735",
-    "county": "Ocean",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.005861,
+    "longitude": -74.297282
   },
   {
     "id": "d9bbf8e7-fec8-554e-987a-20dd07295db7",
@@ -1113,7 +1260,9 @@
     "address": "6805 Long Beach Blvd, Brant Beach, NJ 08008",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.616683,
+    "longitude": -74.2006172
   },
   {
     "id": "c26ffc96-dbd2-5bc6-a001-cccc616da03c",
@@ -1122,7 +1271,9 @@
     "address": "1 Colonial Drive, Manchester, NJ 08759",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.005861,
+    "longitude": -74.297282
   },
   {
     "id": "1069df9c-e448-5d1e-a8fe-f54a538d884a",
@@ -1131,7 +1282,9 @@
     "address": "401 Chambers Bridge, Brick, NJ 08723",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0755562,
+    "longitude": -74.1522149
   },
   {
     "id": "46bff68f-49b1-5fa8-b2f2-eecae47d0760",
@@ -1140,7 +1293,9 @@
     "address": "801 Ocean Gate Ave, Ocean Gate, NJ 08740",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.924648,
+    "longitude": -74.14059
   },
   {
     "id": "12699d38-d1a7-539d-ba91-913cfce25811",
@@ -1149,7 +1304,9 @@
     "address": "50 Railroad Avenue, Waretown, NJ 08758",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.7898578,
+    "longitude": -74.1988788
   },
   {
     "id": "cdbb86c5-4d3d-5eab-bc9b-95ee1fa2413e",
@@ -1158,7 +1315,9 @@
     "address": "1 Colonial Dr, Manchester, NJ 08759",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.005861,
+    "longitude": -74.297282
   },
   {
     "id": "15de5e4b-f6bd-58f2-a9de-25c0892e2fe9",
@@ -1167,34 +1326,9 @@
     "address": "116 Sherman Ave, Seaside Heights, NJ 08751",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "df1200ec-8a7d-5475-a438-d140ca5c99d2",
-    "name": "Seaside Park Boro Municipal Ct",
-    "type": "Courthouse",
-    "address": "1 Municipal Plaza, Seaside Park, NJ 08752",
-    "county": "Ocean",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "643b3197-17e0-59a0-856e-5c1c0fbafaf9",
-    "name": "Ship Bottom Municipal Court",
-    "type": "Courthouse",
-    "address": "1621 Long Beach Bl, Ship Bottom, NJ 08008",
-    "county": "Ocean",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "7a3cbd96-2bc6-50db-acc5-413605b8c2d1",
-    "name": "South Toms River Municipal Ct",
-    "type": "Courthouse",
-    "address": "19 Double Trouble Rd, So Toms River, NJ 08757",
-    "county": "Ocean",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9435226,
+    "longitude": -74.0737053
   },
   {
     "id": "d729fc84-0b56-5862-8088-0b47c96fecda",
@@ -1203,7 +1337,9 @@
     "address": "260 East Bay Avenue, Manahawkin, NJ 08050",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6917706,
+    "longitude": -74.2510382
   },
   {
     "id": "334234f7-b80c-5af5-b1c8-e50c6b3b6c84",
@@ -1212,7 +1348,9 @@
     "address": "813 Long Beach Blvd, Surf City, NJ 08008",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6604369,
+    "longitude": -74.1674682
   },
   {
     "id": "b9ebe0a5-6071-5ba1-8820-86c9a903c3a5",
@@ -1221,7 +1359,9 @@
     "address": "255 Oak Avenue, Toms River, NJ 08753",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9756943,
+    "longitude": -74.1739893
   },
   {
     "id": "c3c89753-0d84-5183-8378-db4aafaf0877",
@@ -1230,7 +1370,9 @@
     "address": "420 E Main St, Tuckerton, NJ 08087",
     "county": "Ocean",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.612606,
+    "longitude": -74.3236521
   },
   {
     "id": "d1582e0e-c98b-5140-82bd-8d35f0b0446c",
@@ -1239,7 +1381,9 @@
     "address": "101 Airport Road, Bayville, NJ 08721",
     "county": "Ocean",
     "source": "nj_airports_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9273449,
+    "longitude": -74.2918157
   },
   {
     "id": "4fb3de7f-6598-5da6-8c8a-2d675f3d94f6",
@@ -1248,7 +1392,9 @@
     "address": "Main Avenue, Bay Head, NJ 08742",
     "county": "Ocean",
     "source": "nj_transit_hubs_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.0769161,
+    "longitude": -74.0422654
   },
   {
     "id": "7d8ded92-dbc2-54d3-afff-755ebab4131f",
@@ -1257,6 +1403,8 @@
     "address": "101 Hooper Avenue, Toms River, NJ 08753",
     "county": "Ocean",
     "source": "nj_government_buildings_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.9529532,
+    "longitude": -74.1933669
   }
 ]

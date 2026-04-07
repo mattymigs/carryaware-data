@@ -6,7 +6,9 @@
     "address": "199 Washington Avenue, Carteret, NJ 07008",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5804918,
+    "longitude": -74.2275926
   },
   {
     "id": "187837a2-f9be-59ac-b200-38783c3d6122",
@@ -15,7 +17,9 @@
     "address": "195 Washington Ave, Carteret, NJ 07008",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5800652,
+    "longitude": -74.2267177
   },
   {
     "id": "82879b61-a2a7-5cbe-aded-f9c9ef10b89f",
@@ -24,7 +28,9 @@
     "address": "300 Carteret Avenue, Carteret, NJ 07008",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5812694,
+    "longitude": -74.2331009
   },
   {
     "id": "2dc44d4c-31fb-5921-8760-cbd744761bcd",
@@ -33,7 +39,9 @@
     "address": "1 Carteret Avenue, Carteret, NJ 07008",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5735644,
+    "longitude": -74.2221272
   },
   {
     "id": "0c76d5a1-ba05-5b69-b9c9-53ca5672652b",
@@ -42,7 +50,9 @@
     "address": "678 Roosevelt Avenue, Carteret, NJ 07008",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.584618,
+    "longitude": -74.222538
   },
   {
     "id": "55cd3e5a-1a38-595f-8c1b-4b3eedf3ecb3",
@@ -51,7 +61,9 @@
     "address": "83 Post Blvd, Carteret, NJ 07008",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5983584,
+    "longitude": -74.2370832
   },
   {
     "id": "b20a5411-3fbe-5dfc-bc9a-113dfe79931d",
@@ -60,7 +72,9 @@
     "address": "23 N Main St, Cranbury, NJ 08512",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3121992,
+    "longitude": -74.519729
   },
   {
     "id": "36df2ed6-fe42-5b98-93e6-ae285b877af5",
@@ -69,7 +83,9 @@
     "address": "411 First Street, Dunellen, NJ 08812",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5921543,
+    "longitude": -74.4683373
   },
   {
     "id": "6ddd5049-6b0b-55ef-a293-8437c46249da",
@@ -78,7 +94,9 @@
     "address": "400 High Street, Dunellen, NJ 08812",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.583039,
+    "longitude": -74.467135
   },
   {
     "id": "1a45fcf9-55c3-520c-af02-04f1ebd0b044",
@@ -87,7 +105,9 @@
     "address": "400 Dunellen Avenue, Dunellen, NJ 08812",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5920105,
+    "longitude": -74.467491
   },
   {
     "id": "a77f5bcb-0401-5e6a-9298-05518925616b",
@@ -96,7 +116,9 @@
     "address": "120 Main Street, East Brunswick, NJ 08816",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4129002,
+    "longitude": -74.3708175
   },
   {
     "id": "c64fa603-c371-5526-8fac-ee88b2b8e15d",
@@ -105,7 +127,9 @@
     "address": "371 Cranbury Road, East Brunswick, NJ 08816",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4367641,
+    "longitude": -74.3982767
   },
   {
     "id": "b913f424-7cb7-5e5e-a551-2eac70895ec3",
@@ -114,7 +138,9 @@
     "address": "5 Flagler Street, East Brunswick, NJ 08816",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4260735,
+    "longitude": -74.375359
   },
   {
     "id": "7817f337-5795-5b70-a846-44fa9da95d57",
@@ -123,7 +149,9 @@
     "address": "18 Norton Road, East Brunswick, NJ 08816",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4602998,
+    "longitude": -74.4091771
   },
   {
     "id": "c0ab86ce-cc1e-58a0-a40a-63f0ccef8907",
@@ -132,7 +160,9 @@
     "address": "380 Cranbury Road, East Brunswick, NJ 08816",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.432572,
+    "longitude": -74.3985655
   },
   {
     "id": "d0f74ef7-39f9-5fe3-b3e3-7497f198cacc",
@@ -141,7 +171,9 @@
     "address": "65 Frost Avenue, East Brunswick, NJ 08816",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4114934,
+    "longitude": -74.4006125
   },
   {
     "id": "06354bfa-f0e2-52cb-b162-d1f859c418b4",
@@ -150,7 +182,9 @@
     "address": "200 Rues Lane, East Brunswick, NJ 08816",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4202055,
+    "longitude": -74.3960287
   },
   {
     "id": "50c8ec54-1dce-53ac-a6ed-1720fd1ba4ae",
@@ -159,7 +193,9 @@
     "address": "71 Racetrack Road, East Brunswick, NJ 08816",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4271427,
+    "longitude": -74.3893836
   },
   {
     "id": "32bad2d5-3a19-591d-889d-de116c297266",
@@ -168,7 +204,9 @@
     "address": "48 Sullivan Way, East Brunswick, NJ 08816",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4625917,
+    "longitude": -74.4176452
   },
   {
     "id": "4afa5dff-4d6f-5c3d-be5d-53e8e968f8a0",
@@ -177,7 +215,9 @@
     "address": "14 Innes Road, East Brunswick, NJ 08816",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4342072,
+    "longitude": -74.4210154
   },
   {
     "id": "181a7148-52b6-57be-9441-4f05e591b4e5",
@@ -186,7 +226,9 @@
     "address": "9 Hardenburg Lane, East Brunswick, NJ 08816",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.421329,
+    "longitude": -74.4327735
   },
   {
     "id": "703b0b2f-e8f5-5062-9a21-14610fa4d614",
@@ -195,7 +237,9 @@
     "address": "2485 Woodbridge Avenue, Edison, NJ 08817",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5054434,
+    "longitude": -74.3811332
   },
   {
     "id": "44dcd0e6-6dc0-5e25-b8db-b9c035a0fa24",
@@ -204,7 +248,9 @@
     "address": "10 Boulevard Of The Eagles, Edison, NJ 08817",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5158227,
+    "longitude": -74.387508
   },
   {
     "id": "04664658-67fd-5313-8697-271262703de0",
@@ -213,7 +259,9 @@
     "address": "50 Boulevard Of The Eagles, Edison, NJ 08817",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5144974,
+    "longitude": -74.3872208
   },
   {
     "id": "c8945b78-eb8e-52dd-bb32-c68e0fd409cd",
@@ -222,7 +270,9 @@
     "address": "838 New Dover Rd, Edison, NJ 08820",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5861156,
+    "longitude": -74.355415
   },
   {
     "id": "d27c13f9-67e5-544b-ae62-74319d6db662",
@@ -231,7 +281,9 @@
     "address": "174 Jackson Avenue, Edison, NJ 08837",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5337343,
+    "longitude": -74.3398746
   },
   {
     "id": "226b056d-b6e3-5ec7-9bbf-2f54e296696e",
@@ -240,7 +292,9 @@
     "address": "838 New Dover Road, Edison, NJ 08820",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5861156,
+    "longitude": -74.355415
   },
   {
     "id": "651390f9-5304-54b1-a759-c36564e113b8",
@@ -249,7 +303,9 @@
     "address": "840 New Dover Road, Edison, NJ 08820",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.584126,
+    "longitude": -74.354839
   },
   {
     "id": "49d56167-6a0b-5f43-9ba1-1eb1b69df87f",
@@ -258,7 +314,9 @@
     "address": "7 Sharp Rd, Edison, NJ 08837",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5416363,
+    "longitude": -74.330463
   },
   {
     "id": "7b69e926-24db-5992-994e-e4f703a8e13a",
@@ -267,7 +325,9 @@
     "address": "1081 New Dover Road, Edison, NJ 08820",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5786895,
+    "longitude": -74.3696952
   },
   {
     "id": "99261750-d7af-51ba-adf8-e75f4908fc1d",
@@ -276,7 +336,9 @@
     "address": "15 Cornell Street, Edison, NJ 08817",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5117517,
+    "longitude": -74.4163501
   },
   {
     "id": "c05bfaa7-0c49-55c5-a305-24d8485aedd0",
@@ -285,7 +347,9 @@
     "address": "855 Grove Avenue, Edison, NJ 08820",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5804609,
+    "longitude": -74.3589441
   },
   {
     "id": "535110b1-afa8-538d-b329-276eb3e91efd",
@@ -294,7 +358,9 @@
     "address": "53 Brookville Road, Edison, NJ 08817",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5225679,
+    "longitude": -74.3824382
   },
   {
     "id": "698072f4-15eb-5123-885b-0dac88286c17",
@@ -303,7 +369,9 @@
     "address": "50 Blossom Street, Edison, NJ 08817",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5045256,
+    "longitude": -74.4082475
   },
   {
     "id": "fa61b582-26b9-5aa1-96bd-5d7110983f3d",
@@ -312,7 +380,9 @@
     "address": "285 Tingley Lane, Edison, NJ 08820",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.596076,
+    "longitude": -74.373726
   },
   {
     "id": "bd616cfa-59aa-592b-a586-85948ba040f2",
@@ -321,7 +391,9 @@
     "address": "155 Monroe Avenue, Edison, NJ 08820",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5620698,
+    "longitude": -74.3525338
   },
   {
     "id": "0f838fd8-2a94-5805-9cfb-4cf2729518bc",
@@ -330,7 +402,9 @@
     "address": "450 Division Street, Edison, NJ 08817",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5163293,
+    "longitude": -74.4090598
   },
   {
     "id": "68dc7842-66d8-5e08-b890-d2350cb70751",
@@ -339,7 +413,9 @@
     "address": "153 Winthrop Road, Edison, NJ 08817",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5154212,
+    "longitude": -74.3938523
   },
   {
     "id": "e19d0f4b-7944-5feb-a8fb-ea2b0ad72ed9",
@@ -348,7 +424,9 @@
     "address": "15 Robin Road, Edison, NJ 08820",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5574789,
+    "longitude": -74.3778379
   },
   {
     "id": "630c5e3f-ba0b-544e-96ff-dd0f025440fa",
@@ -357,7 +435,9 @@
     "address": "50 Woodrow Wilson Drive, Edison, NJ 08820",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5546604,
+    "longitude": -74.3758401
   },
   {
     "id": "256f833b-9ed0-54c6-b3e2-9ceee08c9de8",
@@ -366,7 +446,9 @@
     "address": "145 Pergola Avenue, Monroe Township, NJ 08831",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.354185,
+    "longitude": -74.410403
   },
   {
     "id": "e8e58050-0d58-5e82-9bdb-d7f53b8bf53b",
@@ -375,7 +457,9 @@
     "address": "1660 Stelton Road, Piscataway, NJ 08854-5917",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5319389,
+    "longitude": -74.4197204
   },
   {
     "id": "876e87c1-ed06-5b2e-8c71-f8ac3d2853b2",
@@ -384,7 +468,9 @@
     "address": "333 Cheesequake Rd, Parlin, NJ 08859",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4520441,
+    "longitude": -74.3233943
   },
   {
     "id": "b75d659c-b439-523c-b457-68649817345b",
@@ -393,7 +479,9 @@
     "address": "1690 Stelton Road, Piscataway, NJ 08854-5917",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5300428,
+    "longitude": -74.4190004
   },
   {
     "id": "16baea77-1f5b-5fc2-85fd-0293e90524b5",
@@ -402,7 +490,9 @@
     "address": "1 Park Avenue, Piscataway, NJ 08854",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5264926,
+    "longitude": -74.4898759
   },
   {
     "id": "a9f53534-7b86-5417-9510-0ad9f88de529",
@@ -411,7 +501,9 @@
     "address": "1670 Stelton Rd, Piscataway, NJ 08854-5917",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5309729,
+    "longitude": -74.4196831
   },
   {
     "id": "6f4a8c51-1843-54a2-9ef1-8d4825e0e3ab",
@@ -420,7 +512,9 @@
     "address": "435 Mansfield Street, Highland Park, NJ 08904",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4963771,
+    "longitude": -74.4231001
   },
   {
     "id": "3bc26823-559a-5c09-af0c-a4e33a4d617e",
@@ -429,7 +523,9 @@
     "address": "102 North Fifth Avenue, Highland Park, NJ 08904",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5026929,
+    "longitude": -74.4256098
   },
   {
     "id": "3816111a-3df1-50d7-a370-b00869435271",
@@ -438,7 +534,9 @@
     "address": "330 Wayne Street, Highland Park, NJ 08904",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5019696,
+    "longitude": -74.4289499
   },
   {
     "id": "be7ec278-2fba-559d-9748-d925276a809e",
@@ -447,7 +545,9 @@
     "address": "121 South Eleventh Avenue, Highland Park, NJ 08904",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5022196,
+    "longitude": -74.4171151
   },
   {
     "id": "d97b57ce-ab56-599b-8dd7-061d08fb488a",
@@ -456,7 +556,9 @@
     "address": "13 Augusta St, Jamesburg, NJ 08831-1457",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3515729,
+    "longitude": -74.4386898
   },
   {
     "id": "4e22b817-074e-5f4b-91b0-46f4663c2442",
@@ -465,7 +567,9 @@
     "address": "28 Front Street, Jamesburg, NJ 08831",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.349028,
+    "longitude": -74.443263
   },
   {
     "id": "345bf125-f78a-5cb1-858a-c4b19ca00097",
@@ -474,7 +578,9 @@
     "address": "24 Durham Avenue, Metuchen, NJ 08840",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5450268,
+    "longitude": -74.3653769
   },
   {
     "id": "cc643e01-ef61-5345-a5f4-b9acad6d19c1",
@@ -483,7 +589,9 @@
     "address": "49 Brunswick Avenue, Metuchen, NJ 08840",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5311866,
+    "longitude": -74.3617183
   },
   {
     "id": "f2eea5fc-1e29-5c6b-aeb4-4ff4548d5103",
@@ -492,7 +600,9 @@
     "address": "400 Grove Ave, Metuchen, NJ 08840-1104",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.55345,
+    "longitude": -74.3539983
   },
   {
     "id": "5388bbe8-2d00-5af6-834a-09f5e419d368",
@@ -501,7 +611,9 @@
     "address": "16 Simpson Place, Metuchen, NJ 08840",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5388695,
+    "longitude": -74.3555574
   },
   {
     "id": "b7e5db3b-4328-509b-b958-99fa07ac98e7",
@@ -510,7 +622,9 @@
     "address": "800 Hazelwood Avenue, Middlesex, NJ 08846",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5756817,
+    "longitude": -74.515127
   },
   {
     "id": "e3f9b0b8-f220-56b3-9851-09a464046511",
@@ -519,7 +633,9 @@
     "address": "300 John F. Kennedy Drive, Middlesex, NJ 08846-1489",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.582092,
+    "longitude": -74.495348
   },
   {
     "id": "4deeb5af-6da7-5c5c-a632-712d6850ea5b",
@@ -528,7 +644,9 @@
     "address": "South Lincoln Avenue, Middlesex, NJ 08846",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.576806,
+    "longitude": -74.4880013
   },
   {
     "id": "c28d25a2-cb42-5739-9df8-f23567e65b47",
@@ -537,7 +655,9 @@
     "address": "Fisher Avenue, Middlesex, NJ 08846",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.57506,
+    "longitude": -74.50706
   },
   {
     "id": "e2c1ed55-fe09-5295-ae6a-c94e1a80bcd1",
@@ -546,7 +666,9 @@
     "address": "Fisher Avenue, Middlesex, NJ 08846",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5740635,
+    "longitude": -74.5072223
   },
   {
     "id": "b78efd2c-f0d6-5210-b01c-954243f3b250",
@@ -555,7 +677,9 @@
     "address": "Fisher Avenue, Middlesex, NJ 08846",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5735525,
+    "longitude": -74.5078643
   },
   {
     "id": "6dd86a2e-4c5f-563f-840f-232e822238f5",
@@ -564,7 +688,9 @@
     "address": "112 Rues Lane, East Brunswick, NJ 08816-4235",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4215446,
+    "longitude": -74.3862321
   },
   {
     "id": "7d45536f-28dc-5f21-a116-a936e983bc19",
@@ -573,7 +699,9 @@
     "address": "100 Technology Drive, Edison, NJ 08837",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5045626,
+    "longitude": -74.3696141
   },
   {
     "id": "75a72def-7e12-5bfc-820b-a0ebb1c0f479",
@@ -582,7 +710,9 @@
     "address": "457 High Street, Perth Amboy, NJ 08861",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5141397,
+    "longitude": -74.2628461
   },
   {
     "id": "303b1180-2861-5c27-b6e3-5a51efc2e6f1",
@@ -591,7 +721,9 @@
     "address": "21 Suttons Lane, Piscataway, NJ 08854-5715",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5255818,
+    "longitude": -74.4266373
   },
   {
     "id": "283c3a93-2301-50c7-b7b6-6d4e49074c31",
@@ -600,7 +732,9 @@
     "address": "1 Convery Boulevard, Woodbridge, NJ 07095-2650",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5407706,
+    "longitude": -74.2787141
   },
   {
     "id": "6aa16791-50fa-505f-a42c-01cbba89824e",
@@ -609,7 +743,9 @@
     "address": "21 West Church Street, Milltown, NJ 08850",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4521423,
+    "longitude": -74.4405545
   },
   {
     "id": "2d3423a3-27bb-50bc-af5b-7dd593f36427",
@@ -618,7 +754,9 @@
     "address": "80 Violet Terrace, Milltown, NJ 08850",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4503607,
+    "longitude": -74.4301571
   },
   {
     "id": "b315932c-471d-5af6-a35b-fff962171701",
@@ -627,7 +765,9 @@
     "address": "227 Applegarth Rd, Monroe Twp, NJ 08831",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2815126,
+    "longitude": -74.4727945
   },
   {
     "id": "50476b29-dd0b-5124-9d32-d9e240672f49",
@@ -636,7 +776,9 @@
     "address": "358 Buckelew Avenue, Monroe Twp, NJ 08831",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3424294,
+    "longitude": -74.4230685
   },
   {
     "id": "f81bc7db-5cee-5877-ae0d-19e8df50f41c",
@@ -645,7 +787,9 @@
     "address": "370 Buckelew Avenue, Monroe Township, NJ 08831",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3424294,
+    "longitude": -74.4230685
   },
   {
     "id": "7ee8179d-23fc-5c10-bb74-15e3366f3aee",
@@ -654,7 +798,9 @@
     "address": "115 Monmouth Road, Monroe Twp, NJ 08831",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3671149,
+    "longitude": -74.379133
   },
   {
     "id": "5b221e83-ca11-52d5-a7d8-430928f5b953",
@@ -663,7 +809,9 @@
     "address": "200 Schoolhouse Road, Monroe Township, NJ 08831",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.326603,
+    "longitude": -74.438047
   },
   {
     "id": "38c22333-6b72-5c6c-8502-990f55751947",
@@ -672,7 +820,9 @@
     "address": "1629 Perrineville Road, Monroe Township, NJ 08831",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3464734,
+    "longitude": -74.4386023
   },
   {
     "id": "9f88e7bc-a0af-54d7-96ca-98b8124f5013",
@@ -681,7 +831,9 @@
     "address": "226 Applegarth Road, Monroe Township, NJ 08831",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.2815126,
+    "longitude": -74.4727945
   },
   {
     "id": "07073ccc-e5ca-5dd7-95e1-a12ff0c15ee7",
@@ -690,7 +842,9 @@
     "address": "42 Harrison Ave, Monroe Township, NJ 08831",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3799036,
+    "longitude": -74.3913068
   },
   {
     "id": "652d33af-5559-5845-acef-adb97588d842",
@@ -699,7 +853,9 @@
     "address": "216 Livingston Avenue, New Brunswick, NJ 08901-2930",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.486093,
+    "longitude": -74.45153
   },
   {
     "id": "d44e5f13-c74b-57d9-887a-a19e6026475c",
@@ -708,7 +864,9 @@
     "address": "50 Jersey Ave, New Brunswick, NJ 08901",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4901717,
+    "longitude": -74.4560909
   },
   {
     "id": "e46e3b18-f731-5730-a4f3-a23f890f6ad5",
@@ -717,7 +875,9 @@
     "address": "66 Bartlett Street, New Brunswick, NJ 08901-1152",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5007841,
+    "longitude": -74.45332
   },
   {
     "id": "0b9aa848-3e41-5d91-bf8f-9143868c9da2",
@@ -726,7 +886,9 @@
     "address": "206 Delavan Street, New Brunswick, NJ 08901-3035",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4855129,
+    "longitude": -74.4509103
   },
   {
     "id": "b62cef1a-12a6-5acb-81cc-4587691708bd",
@@ -735,7 +897,9 @@
     "address": "101 Redmond Street, New Brunswick, NJ 08901-1343",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.486796,
+    "longitude": -74.440597
   },
   {
     "id": "de24e350-c7d5-5642-87ea-b066b4f9a9bd",
@@ -744,7 +908,9 @@
     "address": "15 Van Dyke Ave, New Brunswick, NJ 08901-3255",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4818253,
+    "longitude": -74.4714425
   },
   {
     "id": "a359e5e3-d675-5f9c-a90d-d2c1f2a3fbe4",
@@ -753,7 +919,9 @@
     "address": "268 Baldwin Street, New Brunswick, NJ 08901",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4891875,
+    "longitude": -74.4525091
   },
   {
     "id": "c994f10f-b3de-534c-bece-cf2684b002f2",
@@ -762,7 +930,9 @@
     "address": "1000 Somerset St, New Brunswick, NJ 08901-3309",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4796744,
+    "longitude": -74.4849874
   },
   {
     "id": "808c9b89-06ee-5ef5-9296-d7eb45e6c6b2",
@@ -771,7 +941,9 @@
     "address": "1125 Livingston Avenue, New Brunswick, NJ 08901",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4909436,
+    "longitude": -74.446551
   },
   {
     "id": "d5c95c88-de33-5a9d-8ec2-16fea4eb2076",
@@ -780,7 +952,9 @@
     "address": "40 Van Dyke Avenue, New Brunswick, NJ 08901",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.484586,
+    "longitude": -74.4756145
   },
   {
     "id": "165eef24-fa73-5457-968c-b4fdaecf1639",
@@ -789,7 +963,9 @@
     "address": "199 Paul Robeson Blvd, New Brunswick, NJ 08901-2734",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.485067,
+    "longitude": -74.442306
   },
   {
     "id": "3ddbb9e4-5d0f-5d57-bbd7-a4e7bdce8cb1",
@@ -798,7 +974,9 @@
     "address": "133 Tunison Rd, New Brunswick, NJ 08901-1652",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4856974,
+    "longitude": -74.4051607
   },
   {
     "id": "f5988c87-50d3-5148-a4ba-b978ca499f91",
@@ -807,7 +985,9 @@
     "address": "83 Livingston Ave, New Brunswick, NJ 08901-2522",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.491075,
+    "longitude": -74.446529
   },
   {
     "id": "424157c4-89fa-5f92-a70e-046f9dcc15f8",
@@ -816,7 +996,9 @@
     "address": "1595 Roosevelt Avenue, North Brunswick, NJ 08902",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.448914,
+    "longitude": -74.472763
   },
   {
     "id": "f6d7aabc-c5fa-5303-b7ca-7451d4ff928a",
@@ -825,7 +1007,9 @@
     "address": "1450 Redmond Street, North Brunswick, NJ 08902",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4650383,
+    "longitude": -74.4918169
   },
   {
     "id": "e596ead5-aee1-5fc4-8921-581dde7c98ec",
@@ -834,7 +1018,9 @@
     "address": "25 Linwood Place, North Brunswick, NJ 08902",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4687935,
+    "longitude": -74.4593743
   },
   {
     "id": "d6d55201-ff1e-5bcd-b8f9-889e9e10b48b",
@@ -843,7 +1029,9 @@
     "address": "1128 Livingston Avenue, North Brunswick, NJ 08902",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4661825,
+    "longitude": -74.4736936
   },
   {
     "id": "b63f4add-c5c8-55b5-b1b4-01dc01643fd8",
@@ -852,7 +1040,9 @@
     "address": "98 Raider Road, North Brunswick, NJ 08902-9607",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.452812,
+    "longitude": -74.4686784
   },
   {
     "id": "04f82f49-f07b-5670-8363-36f9a3bbfdea",
@@ -861,7 +1051,9 @@
     "address": "25 Linwood Place, North Brunswick, NJ 08902",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4687935,
+    "longitude": -74.4593743
   },
   {
     "id": "c96446c9-3850-5225-bbec-32e2528cd908",
@@ -870,7 +1062,9 @@
     "address": "100 Renaissance Blvd, North Brunswick, NJ 08902",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4345385,
+    "longitude": -74.4870138
   },
   {
     "id": "6d7dfd59-5560-5a0b-8642-0ec59c61b576",
@@ -879,7 +1073,9 @@
     "address": "116 Hollywood Street, North Brunswick, NJ 08902",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.475281,
+    "longitude": -74.459261
   },
   {
     "id": "b26db38b-12b2-5bca-8d2e-9c3f82694b43",
@@ -888,7 +1084,9 @@
     "address": "33 Bushnell Rd, Old Bridge, NJ 08857-2320",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3987611,
+    "longitude": -74.3140787
   },
   {
     "id": "c640abb7-8753-5d66-a9b2-7c1828d48934",
@@ -897,7 +1095,9 @@
     "address": "3439 Route 516, Old Bridge, NJ 08857",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.40011,
+    "longitude": -74.3004483
   },
   {
     "id": "29dec287-4a12-5593-a3c3-7d7198bde3d9",
@@ -906,7 +1106,9 @@
     "address": "1 Manny Martin Way, Old Bridge, NJ 08857",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4100579,
+    "longitude": -74.301168
   },
   {
     "id": "c90c1b99-96e5-523b-b17c-e4fd3601d760",
@@ -915,7 +1117,9 @@
     "address": "155 W Greystone Road, Old Bridge, NJ 08857-9625",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.385971,
+    "longitude": -74.3669242
   },
   {
     "id": "4942ff6e-a2fb-502f-a4fb-6c0072cadf4c",
@@ -924,7 +1128,9 @@
     "address": "160 Birchwood Drive, Cliffwood Beach, NJ 07735-6123",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.446397,
+    "longitude": -74.2402309
   },
   {
     "id": "a8806f0b-4f4f-5454-9b01-90fdd930276b",
@@ -933,7 +1139,9 @@
     "address": "One Par Avenue, Old Bridge, NJ 08857-3045",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3987779,
+    "longitude": -74.3361029
   },
   {
     "id": "5e505e3c-7319-568e-9922-4bcd18bbfe06",
@@ -942,7 +1150,9 @@
     "address": "33 Harvard Rd, Parlin, NJ 08859-1211",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4522831,
+    "longitude": -74.3091145
   },
   {
     "id": "64d5ac90-1f5f-538d-ac89-f9e173541d66",
@@ -951,7 +1161,9 @@
     "address": "11 Ely Ave, Laurence Harbor, NJ 08879",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4451981,
+    "longitude": -74.2478369
   },
   {
     "id": "154cdcc1-d947-58ea-826d-d5be8ebf5d51",
@@ -960,7 +1172,9 @@
     "address": "4209 Route 516, Matawan, NJ 07747",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4040118,
+    "longitude": -74.2714241
   },
   {
     "id": "85508397-45af-5543-bbb1-cf654a9b8e26",
@@ -969,7 +1183,9 @@
     "address": "11 Liberty Street, Old Bridge, NJ 08857-3414",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3899399,
+    "longitude": -74.3622469
   },
   {
     "id": "6b9d8f8b-a937-54b7-a4e3-64a8ef22e91d",
@@ -978,7 +1194,9 @@
     "address": "64 Southwood Dr, Old Bridge, NJ 08857-1453",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4065591,
+    "longitude": -74.3514141
   },
   {
     "id": "bb07e00f-67be-5ff7-9abb-dd9bf2b7470d",
@@ -987,7 +1205,9 @@
     "address": "One Sims Avenue, Old Bridge, NJ 08857-1435",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.391486,
+    "longitude": -74.3204529
   },
   {
     "id": "45c80ad1-32b1-5dc5-b9b6-a4f6da01e523",
@@ -996,7 +1216,9 @@
     "address": "One Awn St, Old Bridge, NJ 08857-1819",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3938841,
+    "longitude": -74.3145931
   },
   {
     "id": "02e74b76-b783-5954-829b-4c7b98319faf",
@@ -1005,7 +1227,9 @@
     "address": "2 Old Matawan Road, Old Bridge, NJ 08857",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4109986,
+    "longitude": -74.3567647
   },
   {
     "id": "0603bf9c-00c8-5d26-a2c6-81591ee17ef3",
@@ -1014,7 +1238,9 @@
     "address": "445 State Street, Perth Amboy, NJ 08861-3534",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.51431,
+    "longitude": -74.26583
   },
   {
     "id": "2b274696-08f9-5795-ad1e-791b68a3eb1d",
@@ -1023,7 +1249,9 @@
     "address": "300 Eagle Avenue, Perth Amboy, NJ 08861",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5238609,
+    "longitude": -74.2698859
   },
   {
     "id": "82d480a5-db7f-5d64-8a5a-1dbeaf0ae890",
@@ -1032,7 +1260,9 @@
     "address": "925 Amboy Avenue, Perth Amboy, NJ 08861",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5308898,
+    "longitude": -74.2730712
   },
   {
     "id": "1674a5ad-5629-5ded-aed2-6f423a010822",
@@ -1041,7 +1271,9 @@
     "address": "500 Charles Street, Perth Amboy, NJ 08861",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5174039,
+    "longitude": -74.2668104
   },
   {
     "id": "1d807e05-27ac-593e-bef9-1a4d7d7df15a",
@@ -1050,7 +1282,9 @@
     "address": "318 Stockton Street, Perth Amboy, NJ 08861-3910",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5124244,
+    "longitude": -74.2775631
   },
   {
     "id": "0816ed6c-efb5-57a1-843c-d0141d7dde5e",
@@ -1059,7 +1293,9 @@
     "address": "601 Cortlandt St, Perth Amboy, NJ 08861",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5189327,
+    "longitude": -74.2684659
   },
   {
     "id": "68211e7f-a469-59f3-b513-6af81f97fd68",
@@ -1068,7 +1304,9 @@
     "address": "850 Chamberlain Avenue, Perth Amboy, NJ 08861-1705",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5335834,
+    "longitude": -74.2848642
   },
   {
     "id": "6d0a565d-f94f-56fe-87be-88689956a5e4",
@@ -1077,7 +1315,9 @@
     "address": "931 Convery Blvd, Perth Amboy, NJ 08861",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5342353,
+    "longitude": -74.278659
   },
   {
     "id": "f0990ba5-f086-54e6-bcbe-d2d06120a3cc",
@@ -1086,7 +1326,9 @@
     "address": "51 First Street, Perth Amboy, NJ 08861",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5021141,
+    "longitude": -74.27562
   },
   {
     "id": "97d8e859-c700-55a7-920b-79aebdd5cb06",
@@ -1095,7 +1337,9 @@
     "address": "435 Seaman Avenue, Perth Amboy, NJ 08861",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5160294,
+    "longitude": -74.2785792
   },
   {
     "id": "c41f9af9-46bc-5b85-ae17-ddaedfdd7299",
@@ -1104,7 +1348,9 @@
     "address": "380 Hall Avenue, Perth Amboy, NJ 08861-3205",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5215496,
+    "longitude": -74.2744024
   },
   {
     "id": "a8944815-81b2-5b44-abd3-5e36e616c2fe",
@@ -1113,7 +1359,9 @@
     "address": "271 State Street, Perth Amboy, NJ 08861-4347",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5076795,
+    "longitude": -74.2683465
   },
   {
     "id": "b06d640b-ea01-5f89-a937-e6bd7f7b98f7",
@@ -1122,7 +1370,9 @@
     "address": "1717 Lester Place, Piscataway, NJ 08854",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5916111,
+    "longitude": -74.4476877
   },
   {
     "id": "70a15271-f9ee-5b43-8411-78922418bb79",
@@ -1131,7 +1381,9 @@
     "address": "5205 Witherspoon Street, Piscataway, NJ 08854",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5347218,
+    "longitude": -74.4773375
   },
   {
     "id": "e9866c83-061b-5163-b2b8-5b69c88f3e13",
@@ -1140,7 +1392,9 @@
     "address": "360 Stelton Road, Piscataway, NJ 08854",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5625909,
+    "longitude": -74.4534228
   },
   {
     "id": "7884d299-f2df-5248-8187-2a4851cdcda2",
@@ -1149,7 +1403,9 @@
     "address": "130 North Randolphville Rd, Piscataway, NJ 08854",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5670022,
+    "longitude": -74.4745831
   },
   {
     "id": "dbb0cbee-fd6a-5819-be2d-b0a881ee0609",
@@ -1158,7 +1414,9 @@
     "address": "333 Willow Avenue, Piscataway, NJ 08854-1332",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5385223,
+    "longitude": -74.4875299
   },
   {
     "id": "3e70f151-ea80-556c-bb44-fbf6f573db96",
@@ -1167,7 +1425,9 @@
     "address": "5205 Ludlow Street, Piscataway, NJ 08854",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5336863,
+    "longitude": -74.480265
   },
   {
     "id": "f4772c41-604e-5658-ba9c-188b32cf56a4",
@@ -1176,7 +1436,9 @@
     "address": "100 Behmer Road, Piscataway, NJ 08854",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5466501,
+    "longitude": -74.4703965
   },
   {
     "id": "66f20a30-ad9d-5cf5-9980-97572fa8c6e4",
@@ -1185,7 +1447,9 @@
     "address": "275 Old New Brunswick Road, Piscataway, NJ 08854",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5507733,
+    "longitude": -74.4747522
   },
   {
     "id": "6c95f3ee-184d-5d3e-96e8-35e105a0af13",
@@ -1194,7 +1458,9 @@
     "address": "99 Academy Street, Piscataway, NJ 08854",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5734776,
+    "longitude": -74.4514409
   },
   {
     "id": "f6443591-fff6-529b-8e12-118a4e84330c",
@@ -1203,7 +1469,9 @@
     "address": "One Suttie Avenue, Piscataway, NJ 08854",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5438389,
+    "longitude": -74.4493138
   },
   {
     "id": "3fe68f30-025d-5e0d-b969-db38373d4962",
@@ -1212,7 +1480,9 @@
     "address": "243 North Randolphville Rd, Piscataway, NJ 08854",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.562783,
+    "longitude": -74.467307
   },
   {
     "id": "05e6d42f-0737-5228-8754-140fbe0622b4",
@@ -1221,7 +1491,9 @@
     "address": "111 Highway 34, Matawan, NJ 07747",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4268655,
+    "longitude": -74.2927431
   },
   {
     "id": "a7fb8a02-85a8-5544-a3fe-62259c34eaa6",
@@ -1230,7 +1502,9 @@
     "address": "601 Ernston Road, Parlin, NJ 08859-2126",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4602453,
+    "longitude": -74.2834667
   },
   {
     "id": "f49c7660-c645-5472-a908-7b33e1547a6e",
@@ -1239,7 +1513,9 @@
     "address": "3198 Washington Road, Parlin, NJ 08859-1558",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4686414,
+    "longitude": -74.3040582
   },
   {
     "id": "a0593abf-946f-5f63-a7f4-2165a1503829",
@@ -1248,7 +1524,9 @@
     "address": "One Taft Place, Parlin, NJ 08859-1672",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4730782,
+    "longitude": -74.3081944
   },
   {
     "id": "6e07d7cb-bf6f-5e5c-841f-e55ed7da3547",
@@ -1257,7 +1535,9 @@
     "address": "150 Lincoln St., South Amboy, NJ 08879",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4701601,
+    "longitude": -74.2742515
   },
   {
     "id": "2e8e6d5d-d9d6-5fa7-b208-b4b0464682de",
@@ -1266,7 +1546,9 @@
     "address": "298 Ernston Road, Parlin, NJ 08859",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4568848,
+    "longitude": -74.2987145
   },
   {
     "id": "6e31c3b0-f46e-5da0-b18d-bdf81acb8ea1",
@@ -1275,7 +1557,9 @@
     "address": "800 Washington Road, Parlin, NJ 08859-1050",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4615235,
+    "longitude": -74.3213689
   },
   {
     "id": "46e7e55c-f434-5e34-8680-f2d6b251d646",
@@ -1284,7 +1568,9 @@
     "address": "820 Washington Road, Parlin, NJ 08859-1050",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4625596,
+    "longitude": -74.3166471
   },
   {
     "id": "1c5f45ba-45f4-5aed-b927-4ea335bb3caf",
@@ -1293,7 +1579,9 @@
     "address": "65 Dane Street, Sayreville, NJ 08872",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4616695,
+    "longitude": -74.3563991
   },
   {
     "id": "bc110b58-9acc-5e30-bd59-f199c57dfcbd",
@@ -1302,7 +1590,9 @@
     "address": "249 John Street, South Amboy, NJ 08879-1741",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4809232,
+    "longitude": -74.2804767
   },
   {
     "id": "44c50477-4705-5ca4-861d-554b23d73275",
@@ -1311,7 +1601,9 @@
     "address": "200 Governor Harold G Hoffman, South Amboy, NJ 08879",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4809307,
+    "longitude": -74.2744477
   },
   {
     "id": "4cca1ed7-cd2d-5309-9cc2-831c1bbb38c7",
@@ -1320,7 +1612,9 @@
     "address": "50 Deans Rhode Hall Road, Monmouth Junction, NJ 08852",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4004063,
+    "longitude": -74.5099514
   },
   {
     "id": "b7a22247-3578-5e5e-bc37-20cfca5a9c10",
@@ -1329,7 +1623,9 @@
     "address": "41 Kory Drive, Kendall Park, NJ 08824",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4344186,
+    "longitude": -74.527861
   },
   {
     "id": "1bc731c7-881f-5d8d-ab1e-c865d3f6ffda",
@@ -1338,7 +1634,9 @@
     "address": "35 Cambridge Road, Kendall Park, NJ 08824",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4184495,
+    "longitude": -74.5637631
   },
   {
     "id": "8438eff9-5e90-5829-b392-630449501e1c",
@@ -1347,7 +1645,9 @@
     "address": "29 Constable Road, Kendall Park, NJ 08824",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4117441,
+    "longitude": -74.57406
   },
   {
     "id": "d35c4467-54f3-554c-8e73-b7d38343ceb4",
@@ -1356,7 +1656,9 @@
     "address": "635 Georges Road, Monmouth Junction, NJ 08852",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3908225,
+    "longitude": -74.5246133
   },
   {
     "id": "980e7524-6402-589d-9349-00b3dfff4b4c",
@@ -1365,7 +1667,9 @@
     "address": "195 Major Road, Monmouth Junction, NJ 08852",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3873534,
+    "longitude": -74.5271231
   },
   {
     "id": "da845706-779a-5b4c-ba4d-8def31f8109b",
@@ -1374,7 +1678,9 @@
     "address": "310 Georges Road, Dayton, NJ 08810",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3720573,
+    "longitude": -74.5097623
   },
   {
     "id": "2bab415a-b8ed-5d43-82ae-4784faac54bd",
@@ -1383,7 +1689,9 @@
     "address": "848 Georges Road, Monmouth Junction, NJ 08852",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4033795,
+    "longitude": -74.5158848
   },
   {
     "id": "63cb0021-9284-5588-a7de-2555b7e3ebb4",
@@ -1392,7 +1700,9 @@
     "address": "23 Roberts Street, Kendall Park, NJ 08824",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4277051,
+    "longitude": -74.5499052
   },
   {
     "id": "f62055f6-cb29-5bff-bc86-3fd64e5bb788",
@@ -1401,7 +1711,9 @@
     "address": "359 Ridge Road, Dayton, NJ 08810",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.37399,
+    "longitude": -74.505614
   },
   {
     "id": "8f782411-c730-53bb-9d8e-22e95397bb72",
@@ -1410,7 +1722,9 @@
     "address": "630 Ridge Road, Monmouth Junction, NJ 08852-9514",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3783623,
+    "longitude": -74.5488563
   },
   {
     "id": "1bfc9f94-f426-5901-84b5-450881aced44",
@@ -1419,7 +1733,9 @@
     "address": "750 Ridge Road, Monmouth Junction, NJ 08852-9721",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3742324,
+    "longitude": -74.5641533
   },
   {
     "id": "a77698da-3472-57ba-8735-9698ddee1ec3",
@@ -1428,7 +1744,9 @@
     "address": "1000 Franklin Ave, South Plainfield, NJ 07080",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.592021,
+    "longitude": -74.430947
   },
   {
     "id": "c07430c5-15f5-5560-b7d5-0868858c5635",
@@ -1437,7 +1755,9 @@
     "address": "305 Cromwell Place, South Plainfield, NJ 07080",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5907829,
+    "longitude": -74.4132192
   },
   {
     "id": "b6590505-728a-5fa8-b137-21136ee5b265",
@@ -1446,7 +1766,9 @@
     "address": "100 Morris Ave, South Plainfield, NJ 07080",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5943134,
+    "longitude": -74.4044898
   },
   {
     "id": "aaa06d65-afee-508d-a598-7ab1c001d2e5",
@@ -1455,7 +1777,9 @@
     "address": "2900 Norwood Avenue, South Plainfield, NJ 07080",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.586543,
+    "longitude": -74.3983578
   },
   {
     "id": "abc40da5-43d7-5cac-b139-8213ae99d0d9",
@@ -1464,7 +1788,9 @@
     "address": "125 Jackson Avenue, South Plainfield, NJ 07080",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5712707,
+    "longitude": -74.4168899
   },
   {
     "id": "8fca8390-d593-53b5-a119-b3b5a232d288",
@@ -1473,7 +1799,9 @@
     "address": "135 Jackson Avenue, South Plainfield, NJ 07080",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.570498,
+    "longitude": -74.4160526
   },
   {
     "id": "188f1d75-a186-5ca7-8004-b1b0225f5417",
@@ -1482,7 +1810,9 @@
     "address": "125 Jackson Avenue, South Plainfield, NJ 07080",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5712707,
+    "longitude": -74.4168899
   },
   {
     "id": "e67f6ceb-9aba-56d6-acb1-808e81c0eea3",
@@ -1491,7 +1821,9 @@
     "address": "200 Lake Street, South Plainfield, NJ 07080",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5891568,
+    "longitude": -74.4124151
   },
   {
     "id": "fc108b4f-fc9c-5c77-a921-291036a932b5",
@@ -1500,7 +1832,9 @@
     "address": "2201 Plainfield Avenue, South Plainfield, NJ 07080",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5891493,
+    "longitude": -74.4172318
   },
   {
     "id": "5986c8bd-48a7-586e-87e2-27caf7ac0a73",
@@ -1509,7 +1843,9 @@
     "address": "19 Montgomery Street, South River, NJ 08882",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4384238,
+    "longitude": -74.3817484
   },
   {
     "id": "ec6caa95-5227-5959-a471-d1a2c6bb23a4",
@@ -1518,7 +1854,9 @@
     "address": "81 Johnson Place, South River, NJ 08882",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4409275,
+    "longitude": -74.3814131
   },
   {
     "id": "7e3a273b-3e14-51b1-908d-6cce162c4f68",
@@ -1527,7 +1865,9 @@
     "address": "11 Montgomery Street, South River, NJ 08882",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4394582,
+    "longitude": -74.3804115
   },
   {
     "id": "3200160d-201e-5338-ab38-c4cc4d62991b",
@@ -1536,7 +1876,9 @@
     "address": "3 Montgomery Street, South River, NJ 08882",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4405644,
+    "longitude": -74.3814205
   },
   {
     "id": "e5212b09-43b3-500f-8ef3-d6ae2651fe9c",
@@ -1545,7 +1887,9 @@
     "address": "22 David Street, South River, NJ 08882",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.440669,
+    "longitude": -74.385378
   },
   {
     "id": "4feef711-04e1-5a64-9166-6be9ee315df2",
@@ -1554,7 +1898,9 @@
     "address": "23 Vliet Street, Spotswood, NJ 08884",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3931821,
+    "longitude": -74.390135
   },
   {
     "id": "9d096e60-f139-5555-9a3f-e14bb2fef396",
@@ -1563,7 +1909,9 @@
     "address": "80 Kane Avenue, Spotswood, NJ 08884",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.40301,
+    "longitude": -74.3923637
   },
   {
     "id": "97d521f6-206e-530a-9bea-fe22a863905a",
@@ -1572,7 +1920,9 @@
     "address": "105 Summerhill Road, Spotswood, NJ 08884",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3986728,
+    "longitude": -74.3888742
   },
   {
     "id": "0b774d58-4c72-56bd-b259-e82f742cf2dc",
@@ -1581,7 +1931,9 @@
     "address": "115 Summerhill Road, Spotswood, NJ 08884",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4012901,
+    "longitude": -74.386779
   },
   {
     "id": "27556bb1-0ab6-508f-aa3b-d3829213922f",
@@ -1590,7 +1942,9 @@
     "address": "Woodbine Avenue, Avenel, NJ 07001",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.588331,
+    "longitude": -74.28437
   },
   {
     "id": "eec8f43d-c8a3-5d6f-b089-68b8d8ed4674",
@@ -1599,7 +1953,9 @@
     "address": "Avenel Street, Avenel, NJ 07001-1411",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5817345,
+    "longitude": -74.2877764
   },
   {
     "id": "e831da5a-3e7b-521c-bbca-c01721f7f2ca",
@@ -1608,7 +1964,9 @@
     "address": "Claremont Avenue, Colonia, NJ 07067",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5939787,
+    "longitude": -74.3068173
   },
   {
     "id": "d2fae35f-8170-577e-a8b6-3949238698b7",
@@ -1617,7 +1975,9 @@
     "address": "East Street, Colonia, NJ 07067",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5919224,
+    "longitude": -74.3208855
   },
   {
     "id": "aa1fb554-533b-5d33-82ed-8efb6b7f132b",
@@ -1626,7 +1986,9 @@
     "address": "Delaware Avenue, Colonia, NJ 07067",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6021739,
+    "longitude": -74.3211478
   },
   {
     "id": "61bfe604-14cf-5c26-ab27-13c9381fe8c8",
@@ -1635,7 +1997,9 @@
     "address": "Fanning Street, Fords, NJ 08863",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5405772,
+    "longitude": -74.3220242
   },
   {
     "id": "7bdc9502-50af-5b8b-8302-3f1478b719ea",
@@ -1644,7 +2008,9 @@
     "address": "Indiana Avenue, Iselin, NJ 08830",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.570712,
+    "longitude": -74.3136895
   },
   {
     "id": "f90b0896-223d-59d4-8e96-fa5653e08b85",
@@ -1653,7 +2019,9 @@
     "address": "900 Woodruff Street, Iselin, NJ 08830",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.570766,
+    "longitude": -74.308568
   },
   {
     "id": "1d753d86-461b-54d7-8419-dfa1df593d55",
@@ -1662,16 +2030,9 @@
     "address": "200 Washington Avenue, Iselin, NJ 08830",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "fa8a8724-94da-5bdf-9ec1-abf1f9d39ee3",
-    "name": "Kennedy Park Elementary School",
-    "type": "School",
-    "address": "Goodrich Avenue, Iselin, NJ 08830",
-    "county": "Middlesex",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5721479,
+    "longitude": -74.3035361
   },
   {
     "id": "c5bd7cf5-c255-512c-8851-d6aa2c47ebfa",
@@ -1680,16 +2041,9 @@
     "address": "Ford Avenue, Fords, NJ 08863",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "4cfe87f4-84eb-571c-8965-a77f7231ac70",
-    "name": "Lynn Crest Elementary School",
-    "type": "School",
-    "address": "98 Ira Avenue, Colonia, NJ 07067",
-    "county": "Middlesex",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5327152,
+    "longitude": -74.3164651
   },
   {
     "id": "adfe2060-1293-5b71-8640-90fb84f7e272",
@@ -1698,7 +2052,9 @@
     "address": "99 Central Avenue, Sewaren, NJ 07077",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.560478,
+    "longitude": -74.260118
   },
   {
     "id": "d125afa8-f9b0-5aa3-abbe-8983e5ccd520",
@@ -1707,7 +2063,9 @@
     "address": "275 Mawbey Street, Woodbridge, NJ 07095",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.560664,
+    "longitude": -74.287757
   },
   {
     "id": "544aae31-04da-51dc-87e7-95bfb1b20cd9",
@@ -1716,7 +2074,9 @@
     "address": "19 Maryknoll Road, Metuchen, NJ 08840",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5573633,
+    "longitude": -74.3224959
   },
   {
     "id": "f4d3d917-0752-57ef-a0a6-80fd97ad94c5",
@@ -1725,16 +2085,9 @@
     "address": "720 Inman Avenue, Colonia, NJ 07067",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "1309d930-920f-5440-84bc-3d30953d2c16",
-    "name": "Oak Tree Road Elementary School",
-    "type": "School",
-    "address": "Wilus Way, Iselin, NJ 08830",
-    "county": "Middlesex",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5987709,
+    "longitude": -74.333278
   },
   {
     "id": "ba05fc9f-29d0-5239-bf74-31471f5c5b23",
@@ -1743,7 +2096,9 @@
     "address": "Pennsylvania Avenue, Colonia, NJ 07067",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.6010133,
+    "longitude": -74.3141251
   },
   {
     "id": "e1e17ac4-6577-5236-98c3-b29fc957318a",
@@ -1752,7 +2107,9 @@
     "address": "Turner Street, Port Reading, NJ 07064-1326",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5724942,
+    "longitude": -74.2406895
   },
   {
     "id": "7ac9e3a0-0bad-5142-97cc-bf5f0a753942",
@@ -1761,7 +2118,9 @@
     "address": "300 Benjamin Avenue, Iselin, NJ 08830",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5746851,
+    "longitude": -74.3148645
   },
   {
     "id": "4e97b1df-d68d-5356-b7fa-186a88eca84a",
@@ -1770,7 +2129,9 @@
     "address": "Ross Street, Woodbridge, NJ 07095",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5552349,
+    "longitude": -74.2817965
   },
   {
     "id": "bd09be00-4e66-59b3-b5f2-478f62ca0485",
@@ -1779,7 +2140,9 @@
     "address": "Woodbine Avenue, Avenel, NJ 07001",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5885905,
+    "longitude": -74.2832698
   },
   {
     "id": "ce8d4966-17b0-5780-8e13-fcbcf162d537",
@@ -1788,7 +2151,9 @@
     "address": "25 Samuel Lupo Place, Woodbridge, NJ 07095",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5670494,
+    "longitude": -74.2849634
   },
   {
     "id": "38c32321-5449-5a3b-b6a6-a3a33beb6f41",
@@ -1797,7 +2162,9 @@
     "address": "525 Barron Avenue, Woodbridge, NJ 07095",
     "county": "Middlesex",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5589423,
+    "longitude": -74.2796861
   },
   {
     "id": "96d148c5-64d1-5c9d-820b-b0c286d1bf63",
@@ -1806,7 +2173,9 @@
     "address": "2600 Woodbridge Avenue, Edison, NJ 08818",
     "county": "Middlesex",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5054276,
+    "longitude": -74.3663357
   },
   {
     "id": "fd83b447-9086-521c-994f-b230cdacd690",
@@ -1815,7 +2184,9 @@
     "address": "57 Us Highway 1, New Brunswick, NJ 08901",
     "county": "Middlesex",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4698799,
+    "longitude": -74.4259106
   },
   {
     "id": "5456f05a-10cd-5dc3-971e-9eb5715b72cf",
@@ -1824,7 +2195,9 @@
     "address": "56 Paterson Street, New Brunswick, NJ 08903",
     "county": "Middlesex",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.494925,
+    "longitude": -74.44499
   },
   {
     "id": "a29a7b6e-5d00-55ca-a744-a30487643d5b",
@@ -1833,7 +2206,9 @@
     "address": "230 Roosevelt Avenue, Carteret, NJ 07008",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5753713,
+    "longitude": -74.2178967
   },
   {
     "id": "db6a9e8b-751d-51c3-a0b5-11d785176ea1",
@@ -1842,7 +2217,9 @@
     "address": "641 Plainsboro Road, Plainsboro, NJ 08536",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3333635,
+    "longitude": -74.5863688
   },
   {
     "id": "66ea0d1f-153f-53da-933a-d0b98a6c14a3",
@@ -1851,7 +2228,9 @@
     "address": "355 North Ave, Dunellen, NJ 08812",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.590794,
+    "longitude": -74.4643749
   },
   {
     "id": "60c44274-e5f3-5de0-853b-f468341aab11",
@@ -1860,7 +2239,9 @@
     "address": "1 Civic Center Drive, East Brunswick, NJ 08816",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4170021,
+    "longitude": -74.4189884
   },
   {
     "id": "d7d0bb63-e8db-525a-abcf-d8a45ed8fc60",
@@ -1869,7 +2250,9 @@
     "address": "100 Municipal Blvd, Edison, NJ 08817",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5274522,
+    "longitude": -74.393304
   },
   {
     "id": "475c146e-2948-58a8-a7e2-b5cced3283e7",
@@ -1878,7 +2261,9 @@
     "address": "51 Main Street, Helmetta, NJ 08828",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3760097,
+    "longitude": -74.425123
   },
   {
     "id": "6dc078e6-2526-5cfe-8f30-6c7cf49862ee",
@@ -1887,7 +2272,9 @@
     "address": "131 Perrineville Rd, Jamesburg, NJ 08831",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3451619,
+    "longitude": -74.4396394
   },
   {
     "id": "8a640033-ee59-5539-9593-9190a4fed9ea",
@@ -1896,7 +2283,9 @@
     "address": "500 Main Street, Metuchen, NJ 08840",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5441442,
+    "longitude": -74.3625228
   },
   {
     "id": "5f710fa5-c39e-54d3-b304-1fb2774360b3",
@@ -1905,7 +2294,9 @@
     "address": "1200 Mountain Ave, Middlesex, NJ 08846",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5761936,
+    "longitude": -74.4966684
   },
   {
     "id": "d136d4be-4b41-5b2e-a922-0bfda82008cf",
@@ -1914,7 +2305,9 @@
     "address": "39 Washington Ave, Milltown, NJ 08850",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4524236,
+    "longitude": -74.435301
   },
   {
     "id": "833c094f-7c2d-5911-8206-e9fa110b5c0e",
@@ -1923,7 +2316,9 @@
     "address": "1 Municipal Plaza, Monroe Twp, NJ 08831",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3272362,
+    "longitude": -74.4393042
   },
   {
     "id": "b4da6964-256f-5149-a8d1-9e3b648e0531",
@@ -1932,7 +2327,9 @@
     "address": "25 Kirkpatrick St, New Brunswick, NJ 08903",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4933793,
+    "longitude": -74.4460504
   },
   {
     "id": "b404fff5-9e36-5f19-abf2-5abc4d5aabce",
@@ -1941,7 +2338,9 @@
     "address": "361 New Brunswick Av, Perth Amboy, NJ 08861",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5149746,
+    "longitude": -74.2769403
   },
   {
     "id": "f0494783-30e1-5216-a685-a4cb97bdea7f",
@@ -1950,7 +2349,9 @@
     "address": "555 Sidney Rd, Piscataway, NJ 08854",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5395727,
+    "longitude": -74.4696171
   },
   {
     "id": "ad6addda-3777-5f54-952e-76b308e308b7",
@@ -1959,7 +2360,9 @@
     "address": "641 Plainsboro Rd, Plainsboro, NJ 08536",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3333635,
+    "longitude": -74.5863688
   },
   {
     "id": "41b6eeae-ad6c-5481-ad50-0fa7ade3f392",
@@ -1968,7 +2371,9 @@
     "address": "1000 Main Street, Sayreville, NJ 08872",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.479362,
+    "longitude": -74.3080772
   },
   {
     "id": "d935da54-0400-5620-ada2-8ae78617e17d",
@@ -1977,7 +2382,9 @@
     "address": "140 North Broadway, South Amboy, NJ 08879",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4845424,
+    "longitude": -74.2813504
   },
   {
     "id": "aee42de1-e3d1-567b-be78-2a9c914aa50f",
@@ -1986,7 +2393,9 @@
     "address": "61 Main St, South River, NJ 08882",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4513344,
+    "longitude": -74.3812558
   },
   {
     "id": "c4f8e2b8-63be-5b69-995f-e39d5d16deea",
@@ -1995,7 +2404,9 @@
     "address": "77 Summerhill Road, Spotswood, NJ 08884",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.3987338,
+    "longitude": -74.3870954
   },
   {
     "id": "cb98a080-0404-50da-93b4-f0f5071c3885",
@@ -2004,16 +2415,9 @@
     "address": "1 Main Street, Woodbridge, NJ 07095",
     "county": "Middlesex",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "9ec1c16c-edde-5390-80b3-2cf8a8acadf6",
-    "name": "Central Jersey Regional Airport",
-    "type": "Airport",
-    "address": "1100 Terminal Circle, Manville, NJ 08835",
-    "county": "Middlesex",
-    "source": "nj_airports_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5550686,
+    "longitude": -74.2759814
   },
   {
     "id": "5bb7b162-cf88-5e1c-a178-6b987a51c572",
@@ -2022,7 +2426,9 @@
     "address": "French Street & Albany Street, New Brunswick, NJ 08901",
     "county": "Middlesex",
     "source": "nj_transit_hubs_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.4968426,
+    "longitude": -74.4461934
   },
   {
     "id": "e4b8a854-cb49-5277-a5e8-07418a56bb4d",
@@ -2031,7 +2437,9 @@
     "address": "100 Middlesex Essex Turnpike, Iselin, NJ 08830",
     "county": "Middlesex",
     "source": "nj_transit_hubs_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.5682976,
+    "longitude": -74.3298744
   },
   {
     "id": "d6e6424a-d3c9-5ab0-bc4c-8d2f2bb44ec2",
@@ -2040,6 +2448,8 @@
     "address": "75 Bayard Street, New Brunswick, NJ 08901",
     "county": "Middlesex",
     "source": "nj_government_buildings_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 40.494543,
+    "longitude": -74.446383
   }
 ]

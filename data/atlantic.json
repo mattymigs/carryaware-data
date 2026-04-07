@@ -6,7 +6,9 @@
     "address": "800 Irelan Avenue, Absecon, NJ 08201",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.435828,
+    "longitude": -74.495404
   },
   {
     "id": "6222ae8d-7dba-5860-9a8b-16c0ae3af5ca",
@@ -15,7 +17,9 @@
     "address": "800 Irelan Ave, Absecon, NJ 08201",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.435828,
+    "longitude": -74.495404
   },
   {
     "id": "fc4009a9-5f6f-5865-a6cb-cf1c2b91f852",
@@ -24,7 +28,9 @@
     "address": "1400 N Albany Avenue, Atlantic City, NJ 08401-6153",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3660241,
+    "longitude": -74.4764655
   },
   {
     "id": "033a77fd-2033-5721-b83c-7334f87487f7",
@@ -33,7 +39,9 @@
     "address": "30 N. Brighton Avenue, Atlantic City, NJ 08401",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3549155,
+    "longitude": -74.4474159
   },
   {
     "id": "3af64f78-3fc1-5a4e-a248-521044549d68",
@@ -42,7 +50,9 @@
     "address": "4101 Filbert Avenue, Atlantic City, NJ 08401-1023",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.355396,
+    "longitude": -74.463789
   },
   {
     "id": "770f1217-9ce2-5d24-8b44-b566231e0662",
@@ -51,7 +61,9 @@
     "address": "1700 Marmora Avenue, Atlantic City, NJ 08401",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.370352,
+    "longitude": -74.438643
   },
   {
     "id": "128a7405-32b0-59d5-b65c-292175112f54",
@@ -60,7 +72,9 @@
     "address": "411 N New York Avenue, Atlantic City, NJ 08401",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3672551,
+    "longitude": -74.4329711
   },
   {
     "id": "9eebdf65-3744-5fcb-ad9c-f3dde0145e2d",
@@ -69,7 +83,9 @@
     "address": "201 N. Pennsylvania Avenue, Atlantic City, NJ 08401-5235",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.36768,
+    "longitude": -74.426862
   },
   {
     "id": "c572ee04-40a0-55b2-bc02-147be2b6be6c",
@@ -78,7 +94,9 @@
     "address": "4115 Ventnor Avenue, Atlantic City, NJ 08401-5860",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.349168,
+    "longitude": -74.4597508
   },
   {
     "id": "29b7a83e-6ec4-5ada-9e59-f7ff780376f9",
@@ -87,7 +105,9 @@
     "address": "111 N. Sovereign Avenue, Atlantic City, NJ 08401-3711",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3553574,
+    "longitude": -74.4518017
   },
   {
     "id": "113ff852-035b-5515-b173-61c5668ff5b9",
@@ -96,7 +116,9 @@
     "address": "2523 Arctic Avenue, Atlantic City, NJ 08401-3901",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3580671,
+    "longitude": -74.4439243
   },
   {
     "id": "01d66574-e15b-52bc-b121-4e183b58c9f3",
@@ -105,7 +127,9 @@
     "address": "323 Madison Avenue, Atlantic City, NJ 08401-5417",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3706894,
+    "longitude": -74.4178581
   },
   {
     "id": "816307da-c112-5598-83e4-181677cb9ac8",
@@ -114,16 +138,9 @@
     "address": "1601 N Penrose Avenue, Atlantic City, NJ 08401-1710",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "2dd0017d-8f73-5b0a-a0db-e44ea5cb3b6a",
-    "name": "Atlantic County Elementary And Middle Schools",
-    "type": "School",
-    "address": "4805 Nawakwa Boulevard, Mays Landing, NJ 08330",
-    "county": "Atlantic",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3758562,
+    "longitude": -74.4488583
   },
   {
     "id": "26ff22d2-a274-513c-b313-4ac4ec3417c6",
@@ -132,7 +149,9 @@
     "address": "4805 Nawakwa Boulevard, Mays Landing, NJ 08330",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4391884,
+    "longitude": -74.6987101
   },
   {
     "id": "407aa4c7-1753-5aac-9c56-3ca700acd5da",
@@ -141,7 +160,9 @@
     "address": "5080 Atlantic Avenue, Mays Landing, NJ 08330-2024",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4475869,
+    "longitude": -74.7115222
   },
   {
     "id": "57b000b6-20a3-523e-9d7e-5e8248a5020e",
@@ -150,7 +171,9 @@
     "address": "301 East Evans Blvd, Brigantine, NJ 08203",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.410773,
+    "longitude": -74.364019
   },
   {
     "id": "07fdfe7e-b837-5017-85b5-89b752c53042",
@@ -159,7 +182,9 @@
     "address": "125 Weymouth Road, Buena, NJ 08310-9620",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.537987,
+    "longitude": -74.9134101
   },
   {
     "id": "34d35900-b34f-5689-bff0-10b574825a32",
@@ -168,16 +193,9 @@
     "address": "175 Weymouth Rd, Buena, NJ 08310",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "3b13b76d-c83b-52f3-9890-0200f520c4f5",
-    "name": "Collings Lakes Elementary School",
-    "type": "School",
-    "address": "620 Cains Mill Rd & Lake Geor, Williamstown, NJ 08094-8419",
-    "county": "Atlantic",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5355909,
+    "longitude": -74.9161322
   },
   {
     "id": "294aa094-e4aa-529d-93f8-78449696671f",
@@ -186,7 +204,9 @@
     "address": "1501 Central Ave, Minotola, NJ 08341",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5272827,
+    "longitude": -74.9477419
   },
   {
     "id": "0b5b37a4-f855-569d-8ba9-3b49274be580",
@@ -195,7 +215,9 @@
     "address": "880 Harding Highway, Buena, NJ 08310-9701",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5064833,
+    "longitude": -74.9109104
   },
   {
     "id": "a87e3fd4-c533-5734-85e6-73a6365508ea",
@@ -204,7 +226,9 @@
     "address": "601 Buffalo Ave, Egg Harbor City, NJ 08215-2105",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.534072,
+    "longitude": -74.637723
   },
   {
     "id": "add8bfaf-1d63-5e7c-87a5-f2231dfafefb",
@@ -213,7 +237,9 @@
     "address": "730 Havana Avenue, Egg Harbor City, NJ 08215-1547",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5326554,
+    "longitude": -74.6312792
   },
   {
     "id": "166e5c80-bc5f-5aae-9af1-523c0ca3c16a",
@@ -222,7 +248,9 @@
     "address": "25 Alder Avenue, Egg Harbor Township, NJ 08234-5315",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4183417,
+    "longitude": -74.6400821
   },
   {
     "id": "5546e66d-80c6-5563-8344-21cda05707d0",
@@ -231,7 +259,9 @@
     "address": "3393 Bargaintown Road, Egg Harbor Township, NJ 08234",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3690847,
+    "longitude": -74.5817617
   },
   {
     "id": "fb9931e1-1584-5298-95f5-73b5ed38f2c8",
@@ -240,7 +270,9 @@
     "address": "2499 Spruce Avenue, Egg Harbor Township, NJ 08234-4513",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.414531,
+    "longitude": -74.584878
   },
   {
     "id": "947702b3-9243-5c44-98a6-05eef3ae2362",
@@ -249,7 +281,9 @@
     "address": "2 Alder Avenue, Egg Harbor Township, NJ 08234",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.419724,
+    "longitude": -74.639796
   },
   {
     "id": "6f5e9fd2-8777-5ed6-8634-8ad97ef050cb",
@@ -258,7 +292,9 @@
     "address": "24 High School Drive, Egg Harbor Township, NJ 08234-9450",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3949163,
+    "longitude": -74.6282658
   },
   {
     "id": "6deecb1e-792e-50f9-9032-0ff3bae9a3b4",
@@ -267,16 +303,9 @@
     "address": "4034 Fernwood Avenue, Egg Harbor Township, NJ 08234-5703",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "f4e3ec54-5c26-5660-b67b-26c292a48836",
-    "name": "Swift - Slaybaugh Complex",
-    "type": "School",
-    "address": "11 Swift Avenue, Egg Harbor Township, NJ 08234-9697",
-    "county": "Atlantic",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.407903,
+    "longitude": -74.601833
   },
   {
     "id": "56951eb6-45cd-582c-887e-c010bacd8240",
@@ -285,7 +314,9 @@
     "address": "128 Cape May Avenue, Estell Manor, NJ 08319-1735",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3794819,
+    "longitude": -74.8255236
   },
   {
     "id": "5b203663-0d77-59ae-8a6c-ab8495d046b7",
@@ -294,16 +325,9 @@
     "address": "1357 Mays Landing Road, Folsom, NJ 08037",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "d2accaf4-6d27-5c39-b4b8-9bf7d0c85eb0",
-    "name": "Arthur Rann Elementary School",
-    "type": "School",
-    "address": "515 S Eighth Ave, Galloway, NJ 08205",
-    "county": "Atlantic",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.605272,
+    "longitude": -74.845061
   },
   {
     "id": "4f7c7568-2690-56ae-b035-8bd23e77e4fd",
@@ -312,7 +336,9 @@
     "address": "100 S Reeds Road, Galloway, NJ 08205",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.483586,
+    "longitude": -74.512533
   },
   {
     "id": "b823734a-322a-5a2f-99d3-f5c50cb73d07",
@@ -321,7 +347,9 @@
     "address": "103 South Reeds Road, Galloway, NJ 08205",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4840372,
+    "longitude": -74.5132588
   },
   {
     "id": "d8c71079-892d-5b3a-a0ef-31820f077d40",
@@ -330,7 +358,9 @@
     "address": "105 S Reeds Road, Galloway, NJ 08205",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4839924,
+    "longitude": -74.5132136
   },
   {
     "id": "a9e6ee7b-aa75-54f9-bf5f-2b6f4e61c253",
@@ -339,7 +369,9 @@
     "address": "37 S Old Port Republic Road, Galloway, NJ 08205",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5044545,
+    "longitude": -74.481457
   },
   {
     "id": "9da69ad1-5799-502d-8c78-5b49f07b92d5",
@@ -348,7 +380,9 @@
     "address": "201 S Wrangleboro Road, Galloway, NJ 08205-9554",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4725433,
+    "longitude": -74.5134003
   },
   {
     "id": "d54e8727-54fd-5353-95a0-0bf9adc22f52",
@@ -357,7 +391,9 @@
     "address": "1701 New York Ave., Egg Harbor City, NJ 08215-1606",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5340195,
+    "longitude": -74.6511581
   },
   {
     "id": "04b603a9-1288-5d8d-bc2f-bc9a89a59014",
@@ -366,16 +402,9 @@
     "address": "1824 Dr Dennis Foreman Drive, Mays Landing, NJ 08330-2640",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "6de948c8-cc71-5281-a00a-a99985f3d1ec",
-    "name": "George L. Hess Educational Complex",
-    "type": "School",
-    "address": "700 Babcock Road, Mays Landing, NJ 08330",
-    "county": "Atlantic",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4547294,
+    "longitude": -74.6758627
   },
   {
     "id": "8379b324-e0cf-5f6d-af33-2e96f4c8f533",
@@ -384,7 +413,9 @@
     "address": "5801 Third Street, Mays Landing, NJ 08330",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4538686,
+    "longitude": -74.7231285
   },
   {
     "id": "62f6e084-100a-52cc-a9b7-b0ccada85591",
@@ -393,7 +424,9 @@
     "address": "1876 Dr Dennis Foreman Drive, Mays Landing, NJ 08330",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4492295,
+    "longitude": -74.677486
   },
   {
     "id": "fee40a9d-5cbe-5b67-87d7-e550792bfb78",
@@ -402,7 +435,9 @@
     "address": "601C North 4TH Street, Hammonton, NJ 08037",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6473138,
+    "longitude": -74.8039065
   },
   {
     "id": "2ab926b7-9644-533c-b11a-ca22235c43a3",
@@ -411,7 +446,9 @@
     "address": "566 Old Forks Road, Hammonton, NJ 08037",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6579552,
+    "longitude": -74.807903
   },
   {
     "id": "544aa45e-d0c4-5971-bc1d-f1754010f138",
@@ -420,7 +457,9 @@
     "address": "75 North Liberty Street, Hammonton, NJ 08037-9425",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.646262,
+    "longitude": -74.796248
   },
   {
     "id": "4a6f07aa-170f-5a9d-91c0-4d367c2efb60",
@@ -429,7 +468,9 @@
     "address": "601 N Fourth Street, Hammonton, NJ 08037-9720",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.648881,
+    "longitude": -74.8052512
   },
   {
     "id": "454a7dea-a4fb-5af5-a219-f26a28453e64",
@@ -438,7 +479,9 @@
     "address": "51 Belhaven Avenue, Linwood, NJ 08221",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3414931,
+    "longitude": -74.5768005
   },
   {
     "id": "79ec0c83-f72a-532b-9891-9592f18cd288",
@@ -447,7 +490,9 @@
     "address": "2015 Wabash Ave, Linwood, NJ 08221",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3351129,
+    "longitude": -74.582813
   },
   {
     "id": "44f50d52-5342-5c97-af35-e3acc7c66ede",
@@ -456,7 +501,9 @@
     "address": "1301 Oak Avenue, Linwood, NJ 08221",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3472063,
+    "longitude": -74.5751528
   },
   {
     "id": "2aed598d-9ec0-5bda-ba60-757e04a46d85",
@@ -465,7 +512,9 @@
     "address": "7804 Amherst Avenue, Margate, NJ 08402",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3346901,
+    "longitude": -74.5014301
   },
   {
     "id": "cbabbbf6-78ac-58de-abe0-ea29a0c5040a",
@@ -474,7 +523,9 @@
     "address": "101 N Haverford Avenue, Margate, NJ 08402",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.331089,
+    "longitude": -74.502203
   },
   {
     "id": "40f44fa0-286c-56c4-b580-dffb0e3e5021",
@@ -483,16 +534,9 @@
     "address": "500 Elwood Road, P O Box 318, Elwood, NJ 08217-0318",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
-  },
-  {
-    "id": "bfad5324-af30-53c6-8d99-10354ae80dac",
-    "name": "Mullica Township Primary School",
-    "type": "School",
-    "address": "500 Elwood Road, P O Box 318, Elwood, NJ 08217-0318",
-    "county": "Atlantic",
-    "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.5794435,
+    "longitude": -74.7130259
   },
   {
     "id": "df5ed5a5-3c8a-59db-b610-8cc3e01eabc5",
@@ -501,7 +545,9 @@
     "address": "2000 New Road, Northfield, NJ 08225",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.368987,
+    "longitude": -74.559871
   },
   {
     "id": "ceaaf053-0eb5-5a24-b264-d2b7ee7ffafe",
@@ -510,7 +556,9 @@
     "address": "2000 New Road, Northfield, NJ 08225",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.368987,
+    "longitude": -74.559871
   },
   {
     "id": "b08ef3b6-739a-5c85-8b87-70a6b6dc77c6",
@@ -519,7 +567,9 @@
     "address": "100 W Leeds Avenue, Pleasantville, NJ 08232",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.408587,
+    "longitude": -74.509897
   },
   {
     "id": "45c4b2e0-ef3d-5cc0-97f1-ebfd0b552e11",
@@ -528,7 +578,9 @@
     "address": "215 North Main Street, Pleasantville, NJ 08232",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3956681,
+    "longitude": -74.5191446
   },
   {
     "id": "13cab55d-3e97-531e-944f-0663e9408886",
@@ -537,7 +589,9 @@
     "address": "701 Mill Road, Pleasantville, NJ 08232",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.406922,
+    "longitude": -74.526167
   },
   {
     "id": "4fc8e488-d472-597a-8411-fe14636a6e4d",
@@ -546,7 +600,9 @@
     "address": "801 Mill Road, Pleasantville, NJ 08232",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4085218,
+    "longitude": -74.5259677
   },
   {
     "id": "11d6426e-e560-5e89-9f8c-5b2b3ef5466d",
@@ -555,7 +611,9 @@
     "address": "701 South Main Street, Pleasantville, NJ 08232-3223",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3851562,
+    "longitude": -74.5282513
   },
   {
     "id": "ec14d5c0-edc8-5445-bba7-252825327b91",
@@ -564,7 +622,9 @@
     "address": "225 W Washington Avenue, Pleasantville, NJ 08232",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.393166,
+    "longitude": -74.526152
   },
   {
     "id": "32253b7f-4eae-57fe-8f89-0d6ea65a9794",
@@ -573,7 +633,9 @@
     "address": "137 Pomona Avenue, Port Republic, NJ 08241",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.52077,
+    "longitude": -74.495753
   },
   {
     "id": "e8c74f49-16c9-5e4c-97f9-1ea090b51f6a",
@@ -582,7 +644,9 @@
     "address": "22 W. Dawes Avenue, Somers Point, NJ 08244-1408",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.324188,
+    "longitude": -74.5884315
   },
   {
     "id": "1eb83cdb-c106-513e-964e-3969fca440b9",
@@ -591,7 +655,9 @@
     "address": "129 Jordan Road, Somers Point, NJ 08244-1408",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3200055,
+    "longitude": -74.6065584
   },
   {
     "id": "e307c0b0-b629-54b4-9e16-9349c18cfe8f",
@@ -600,7 +666,9 @@
     "address": "400 N Lafayette Avenue, Ventnor, NJ 08406",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.339304,
+    "longitude": -74.493876
   },
   {
     "id": "9bcb3b30-632d-543f-a739-11d05150bccf",
@@ -609,7 +677,9 @@
     "address": "Ventnor Educational Community, 400 N Lafayette Avenue, Ventnor, NJ 08406",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3394834,
+    "longitude": -74.4961538
   },
   {
     "id": "fc252a3a-7c6f-5151-aeb5-334868025cab",
@@ -618,7 +688,9 @@
     "address": "1202 Eleventh Avenue, Dorothy, NJ 08317-9711",
     "county": "Atlantic",
     "source": "nj_schools_public",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4054835,
+    "longitude": -74.8170304
   },
   {
     "id": "d6565cce-c405-5658-8817-2f19c82c2007",
@@ -627,7 +699,9 @@
     "address": "5100 Black Horse Pike, Mays Landing, NJ 08330",
     "county": "Atlantic",
     "source": "nj_colleges_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4600639,
+    "longitude": -74.6799071
   },
   {
     "id": "df6e5ae3-a710-5147-83f4-e55c4ca7f512",
@@ -636,7 +710,9 @@
     "address": "1201 Bacharach Boulevard, Atlantic City, NJ 08401",
     "county": "Atlantic",
     "source": "nj_courthouses_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3637204,
+    "longitude": -74.4345431
   },
   {
     "id": "d62fb879-5e08-5357-b151-1d42c99137ec",
@@ -645,7 +721,9 @@
     "address": "500 Mill Rd, Absecon, NJ 08201",
     "county": "Atlantic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.433028,
+    "longitude": -74.505304
   },
   {
     "id": "c50ec22a-8b67-5b6a-9794-79043544722a",
@@ -654,16 +732,9 @@
     "address": "1417 Brigantine Ave, Brigantine, NJ 08203",
     "county": "Atlantic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
-  },
-  {
-    "id": "728fb95b-d886-5560-8c3c-aa4b79b847f5",
-    "name": "Buena Boro Municipal Court",
-    "type": "Courthouse",
-    "address": "1571 Delsea Drive, Franklinville, NJ 08322",
-    "county": "Atlantic",
-    "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.402341,
+    "longitude": -74.3739388
   },
   {
     "id": "e4bd1eef-17c6-57b3-a64f-4fcf3423edc4",
@@ -672,7 +743,9 @@
     "address": "100 Central Avenue, Hammonton, NJ 08037",
     "county": "Atlantic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6360084,
+    "longitude": -74.8012976
   },
   {
     "id": "64a207d5-c704-5945-a544-2b791117cda2",
@@ -681,7 +754,9 @@
     "address": "5905 Main Street, Mays Landing, NJ 00000",
     "county": "Atlantic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.451548,
+    "longitude": -74.7256127
   },
   {
     "id": "a4ebab16-895b-5869-9991-08b4240a007d",
@@ -690,7 +765,9 @@
     "address": "100 Central Avenue, Hammonton, NJ 08037",
     "county": "Atlantic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6360084,
+    "longitude": -74.8012976
   },
   {
     "id": "de0f9883-5c61-59ad-84d5-141e4d894457",
@@ -699,7 +776,9 @@
     "address": "5905 Main Street, Mays Landing, NJ 08330",
     "county": "Atlantic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.451548,
+    "longitude": -74.7256127
   },
   {
     "id": "134e6483-0765-5784-bd9a-f2e8c9b77807",
@@ -708,7 +787,9 @@
     "address": "9001 Winchester Ave, Margate, NJ 08402",
     "county": "Atlantic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3256888,
+    "longitude": -74.512061
   },
   {
     "id": "16e22c5e-f1f7-570c-81b6-9461c6dae5ae",
@@ -717,7 +798,9 @@
     "address": "9001 Winchester Ave, Margate, NJ 08402",
     "county": "Atlantic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3256888,
+    "longitude": -74.512061
   },
   {
     "id": "ec8f70c9-a9df-55e8-9a0b-3a7850d7aaa7",
@@ -726,7 +809,9 @@
     "address": "100 Central Avenue, Hammonton, NJ 08037",
     "county": "Atlantic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6360084,
+    "longitude": -74.8012976
   },
   {
     "id": "9727e117-fd3d-587d-95d6-1ff6e3d1f72f",
@@ -735,7 +820,9 @@
     "address": "100 Central Avenue, Hammonton, NJ 08037",
     "county": "Atlantic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.6360084,
+    "longitude": -74.8012976
   },
   {
     "id": "6c5aba34-41d9-51fa-9f22-a9a77a7fe6a8",
@@ -744,7 +831,9 @@
     "address": "2715 Atlantic Ave, Atlantic City, NJ 08401",
     "county": "Atlantic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3555927,
+    "longitude": -74.4453096
   },
   {
     "id": "ad18cf34-6c5e-5421-8589-d5829ac02132",
@@ -753,7 +842,9 @@
     "address": "5905 Main Street, Mays Landing, NJ 00000",
     "county": "Atlantic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.451548,
+    "longitude": -74.7256127
   },
   {
     "id": "2d309b89-7c42-5ef2-b339-39c4be783c1e",
@@ -762,7 +853,9 @@
     "address": "1 W. New Jersey Ave, Somers Point, NJ 08244",
     "county": "Atlantic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.313173,
+    "longitude": -74.597245
   },
   {
     "id": "5029fc3e-bd07-5bd1-8a2b-3dc8ff9f92f6",
@@ -771,7 +864,9 @@
     "address": "5905 Main Street, Mays Landing, NJ 08330",
     "county": "Atlantic",
     "source": "nj_municipal_courts_official",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.451548,
+    "longitude": -74.7256127
   },
   {
     "id": "dcf0572f-11ca-5118-abb4-6580e34966b2",
@@ -780,7 +875,9 @@
     "address": "101 Atlantic City International Airport, Egg Harbor Township, NJ 08234",
     "county": "Atlantic",
     "source": "nj_airports_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.4570854,
+    "longitude": -74.5702765
   },
   {
     "id": "c2e307f1-51f6-5c86-a82a-2c491b88a195",
@@ -789,6 +886,8 @@
     "address": "1 Atlantic Ocean, Atlantic City, NJ 08401",
     "county": "Atlantic",
     "source": "nj_transit_hubs_curated",
-    "confidence": "high"
+    "confidence": "high",
+    "latitude": 39.3525959,
+    "longitude": -74.4515253
   }
 ]
