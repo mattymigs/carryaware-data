@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updated": "2026-08-21T23:59:00-04:00",
+  "updates": [
+    {
+      "id": "test-legal-update-001",
+      "title": "CarryAwareNJ Legal Updates Test",
+      "summary": "This is a test entry used to verify the CarryAwareNJ legal updates feed and in-app update flow. It is not a legal development.",
+      "category": "Test",
+      "status": "Test Only",
+      "date": "2026-08-21",
+      "sourceTitle": "CarryAwareNJ Test Feed",
+      "sourceURL": "https://mattymigs.github.io/carryaware-data/nj_legal_updates.json",
+      "isImportant": true
+    }
+  ]
+}
