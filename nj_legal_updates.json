@@ -1,16 +1,27 @@
 {
   "version": 1,
-  "updated": "2026-08-21T23:59:00-04:00",
+  "updated": "2026-08-23T13:38:00-04:00",
   "updates": [
     {
-      "id": "test-legal-update-001",
-      "title": "CarryAwareNJ Legal Updates Test",
-      "summary": "This is a test entry used to verify the CarryAwareNJ legal updates feed and in-app update flow. It is not a legal development.",
-      "category": "Test",
-      "status": "Test Only",
-      "date": "2026-08-21",
-      "sourceTitle": "CarryAwareNJ Test Feed",
-      "sourceURL": "https://mattymigs.github.io/carryaware-data/nj_legal_updates.json",
+      "id": "anjrpc-aw-mag-stay-2026-08-04",
+      "title": "NJ Assault-Firearm and Magazine Ruling Stayed",
+      "summary": "The en banc Third Circuit previously held New Jersey's bans on commonly owned semiautomatic rifles and magazines capable of holding more than 10 rounds unconstitutional. On August 4, 2026, the court granted New Jersey a stay while the State seeks U.S. Supreme Court review. While the stay remains in effect, New Jersey's current assault-firearm restrictions and 10-round magazine limit remain enforceable.",
+      "category": "Federal Court Case",
+      "status": "Stayed Pending Supreme Court Review",
+      "date": "2026-08-04",
+      "sourceTitle": "NRA-ILA — Third Circuit Grants Stay in AWB/Mag Ban Case",
+      "sourceURL": "https://www.nraila.org/articles/20260804/new-jersey-third-circuit-grants-stay-in-awbmag-ban-case",
+      "isImportant": true
+    },
+    {
+      "id": "koons-siegel-en-banc-2026-07-08",
+      "title": "NJ Carry Restrictions Await En Banc Third Circuit Ruling",
+      "summary": "The full Third Circuit is reconsidering challenges to New Jersey's post-Bruen carry restrictions, including numerous designated sensitive places and related carry provisions. En banc oral argument was held on February 11, 2026. After the U.S. Supreme Court's Wolford decision, the parties filed supplemental briefs on July 8, 2026. The en banc Third Circuit decision remains pending.",
+      "category": "Federal Court Case",
+      "status": "Pending En Banc Decision",
+      "date": "2026-07-08",
+      "sourceTitle": "FPC Law — Koons v. Platkin Case Tracker",
+      "sourceURL": "https://www.firearmspolicy.org/koons",
       "isImportant": true
     }
   ]
