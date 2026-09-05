@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updated": "2026-08-23T13:38:00-04:00",
+  "updated": "2026-09-05T18:25:49-04:00",
   "updates": [
+    {
+      "id": "gun-for-hire-duct-tape-flight-2026-09-03",
+      "title": "Gun For Hire Team Steps Up Aboard Flight 618",
+      "summary": "Rich and Juan from Gun For Hire helped the crew and fellow passengers restrain an allegedly violent passenger aboard American Airlines Flight 618 from Dallas-Fort Worth to Newark on September 3. The flight diverted to Baltimore, where law enforcement took over. Gun For Hire has collected the interviews, video, and national coverage.",
+      "category": "Community News",
+      "status": "Gun For Hire in the News",
+      "date": "2026-09-03",
+      "sourceTitle": "Gun For Hire — The Duct Tape Flight",
+      "sourceURL": "https://gunforhire.com/ducttape/",
+      "isImportant": true
+    },
     {
       "id": "anjrpc-aw-mag-stay-2026-08-04",
       "title": "NJ Assault-Firearm and Magazine Ruling Stayed",
