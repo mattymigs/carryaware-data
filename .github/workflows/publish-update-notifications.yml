@@ -1,0 +1,107 @@
+name: Publish typed update notifications
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'nj_legal_updates.json'
+      - 'scripts/update-notifications.mjs'
+      - 'scripts/update-notifications.test.mjs'
+      - '.github/workflows/publish-update-notifications.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'nj_legal_updates.json'
+  workflow_dispatch:
+    inputs:
+      update_id:
+        description: 'Exact update ID to send or resend'
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate update feed and publisher
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+      - run: node --test scripts/update-notifications.test.mjs
+      - run: node scripts/update-notifications.mjs validate nj_legal_updates.json
+
+  prepare:
+    name: Select new notifications
+    needs: validate
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    outputs:
+      should_send: ${{ steps.selection.outputs.should_send }}
+      update_ids: ${{ steps.selection.outputs.update_ids }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          fetch-depth: 2
+          persist-credentials: false
+      - name: Select newly added important updates
+        id: selection
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+          MANUAL_UPDATE_ID: ${{ inputs.update_id }}
+        run: node scripts/update-notifications.mjs prepare nj_legal_updates.json
+
+  send:
+    name: Publish through Firebase Cloud Messaging
+    needs: prepare
+    if: >-
+      needs.prepare.outputs.should_send == 'true' &&
+      github.repository_id == '1194224175' &&
+      github.repository_owner_id == '271683792' &&
+      vars.GCP_WIF_PROVIDER != '' &&
+      vars.GCP_FCM_SERVICE_ACCOUNT != ''
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - name: Obtain a short-lived Firebase sender token
+        id: auth
+        uses: google-github-actions/auth@7c6bc770dae815cd3e89ee6cdf493a5fab2cc093 # v3
+        with:
+          project_id: carryawarenj
+          workload_identity_provider: ${{ vars.GCP_WIF_PROVIDER }}
+          service_account: ${{ vars.GCP_FCM_SERVICE_ACCOUNT }}
+          token_format: access_token
+          access_token_lifetime: 600s
+          create_credentials_file: false
+          export_environment_variables: false
+      - name: Send selected notifications
+        env:
+          GCP_PROJECT_ID: carryawarenj
+          GOOGLE_OAUTH_ACCESS_TOKEN: ${{ steps.auth.outputs.access_token }}
+          UPDATE_IDS: ${{ needs.prepare.outputs.update_ids }}
+        run: node scripts/update-notifications.mjs send nj_legal_updates.json
+
+  configuration-note:
+    name: Push delivery setup status
+    needs: prepare
+    if: >-
+      needs.prepare.outputs.should_send == 'true' &&
+      (vars.GCP_WIF_PROVIDER == '' || vars.GCP_FCM_SERVICE_ACCOUNT == '')
+    runs-on: ubuntu-24.04
+    timeout-minutes: 2
+    steps:
+      - run: echo "::warning::Push item validated but delivery is paused until the Firebase sender repository variables are configured."
