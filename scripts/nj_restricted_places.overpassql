@@ -1,0 +1,21 @@
+[out:json][timeout:300];
+area["ISO3166-2"="US-NJ"]["boundary"="administrative"]->.nj;
+(
+  nwr(area.nj)["amenity"~"^(school|college|university|kindergarten|childcare|courthouse|police|prison|townhall|library|hospital|clinic|doctors|dentist|nursing_home|social_facility|arts_centre|theatre|cinema|casino|bus_station|ferry_terminal|post_office|polling_station|bar|pub|nightclub|biergarten)$"];
+  nwr(area.nj)["office"="government"];
+  nwr(area.nj)["government"];
+  nwr(area.nj)["tourism"~"^(museum|zoo|theme_park)$"];
+  nwr(area.nj)["leisure"~"^(park|playground|recreation_ground|stadium|sports_centre|track)$"];
+  nwr(area.nj)["natural"="beach"];
+  nwr(area.nj)["aeroway"~"^(aerodrome|terminal)$"];
+  nwr(area.nj)["railway"="station"];
+  nwr(area.nj)["public_transport"="station"];
+  nwr(area.nj)["shop"="cannabis"];
+  nwr(area.nj)["power"~"^(plant|substation)$"];
+  nwr(area.nj)["healthcare"];
+  nwr(area.nj)["social_facility"];
+  nwr(area.nj)["military"];
+  nwr(area.nj)["landuse"="military"];
+  nwr(area.nj)["sport"~"^(horse_racing|motor|motocross|karting)$"];
+);
+out center tags;

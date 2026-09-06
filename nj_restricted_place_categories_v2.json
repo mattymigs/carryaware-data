@@ -1,0 +1,186 @@
+{
+  "version": 2,
+  "legalStatusAsOf": "2026-09-06",
+  "jurisdiction": "New Jersey",
+  "disclaimer": "Informational mapping only, not legal advice. Verify current law, court orders, signs, ownership, event timing and exact property boundaries before relying on a marker.",
+  "statusNote": "The September 2025 Third Circuit panel opinion was vacated when rehearing en banc was granted on December 11, 2025. The operative alert treatment follows the 2023 preliminary-injunction and stay orders while the en banc decision remains pending.",
+  "primarySources": [
+    {
+      "title": "N.J.S.A. 2C:58-4.6",
+      "url": "https://pub.njleg.state.nj.us/Bills/2022/PL22/131_.HTM"
+    },
+    {
+      "title": "Third Circuit en banc rehearing order",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca3/23-1900/23-1900-2025-12-11.html"
+    },
+    {
+      "title": "New Jersey State Police Concealed Carry FAQ",
+      "url": "https://njsp.njoag.gov/concealed-carry-facts-faqs/"
+    }
+  ],
+  "categories": [
+    {
+      "statutoryParagraph": "a(1)",
+      "label": "Government administrative buildings",
+      "status": "active",
+      "mappedTypes": ["Government Building", "Federal Facility"]
+    },
+    {
+      "statutoryParagraph": "a(2)",
+      "label": "Courthouses and places used for court proceedings",
+      "status": "active",
+      "mappedTypes": ["Courthouse"]
+    },
+    {
+      "statutoryParagraph": "a(3)",
+      "label": "Correctional and juvenile detention facilities",
+      "status": "active",
+      "mappedTypes": ["Correctional Facility"]
+    },
+    {
+      "statutoryParagraph": "a(4)",
+      "label": "State-contracted halfway houses",
+      "status": "active",
+      "mappedTypes": ["Halfway House"],
+      "mappingNote": "No reliable statewide public coordinate source was identified; the type is supported for future verified records."
+    },
+    {
+      "statutoryParagraph": "a(5)",
+      "label": "Polling places and ballot-storage facilities",
+      "status": "time_conditional",
+      "mappedTypes": ["Polling Place"],
+      "mappingNote": "A location is restricted only while used for the covered election purpose."
+    },
+    {
+      "statutoryParagraph": "a(6)",
+      "label": "Government-permitted public gatherings",
+      "status": "time_and_distance_conditional",
+      "mappedTypes": ["Permitted Public Gathering"],
+      "mappingNote": "The restriction applies within 100 feet during the permitted gathering. Static statewide mapping is not reliable, so alerts require a future live-event source."
+    },
+    {
+      "statutoryParagraph": "a(7)",
+      "label": "Schools, colleges, universities, educational institutions and school buses",
+      "status": "active",
+      "mappedTypes": ["School", "College/University", "School Bus"],
+      "mappingNote": "Fixed educational locations are mapped; moving school buses are not."
+    },
+    {
+      "statutoryParagraph": "a(8)",
+      "label": "Licensed child care centers",
+      "status": "active",
+      "mappedTypes": ["Child Care Center"]
+    },
+    {
+      "statutoryParagraph": "a(9)",
+      "label": "Nursery schools, preschools, zoos and summer camps",
+      "status": "active_pending_en_banc",
+      "mappedTypes": ["Preschool", "Zoo", "Summer Camp"]
+    },
+    {
+      "statutoryParagraph": "a(10)",
+      "label": "Designated government parks, beaches, recreation facilities and playgrounds",
+      "status": "designation_conditional_pending_en_banc",
+      "mappedTypes": ["Park", "Beach", "Recreation Facility", "Playground"],
+      "mappingNote": "A marker identifies a candidate location, not proof that the government owner has designated it as a gun-free zone."
+    },
+    {
+      "statutoryParagraph": "a(11)",
+      "label": "Youth sporting events",
+      "status": "time_conditional",
+      "mappedTypes": ["Youth Sports Venue"],
+      "mappingNote": "The restriction applies during, immediately before and immediately after a youth sporting event."
+    },
+    {
+      "statutoryParagraph": "a(12)",
+      "label": "Publicly owned or leased libraries and museums",
+      "status": "ownership_conditional_pending_en_banc",
+      "mappedTypes": ["Library", "Museum"],
+      "mappingNote": "Open map data may not establish public ownership or lease status; verify before relying on a marker."
+    },
+    {
+      "statutoryParagraph": "a(13)",
+      "label": "Specified licensed shelters",
+      "status": "active",
+      "mappedTypes": ["Shelter"]
+    },
+    {
+      "statutoryParagraph": "a(14)",
+      "label": "Specified licensed community residences",
+      "status": "active",
+      "mappedTypes": ["Community Residence"]
+    },
+    {
+      "statutoryParagraph": "a(15)",
+      "label": "Bars and locations serving alcohol for on-premises consumption",
+      "status": "active_pending_en_banc",
+      "mappedTypes": ["Alcohol-Serving Location"],
+      "alertDefault": "off"
+    },
+    {
+      "statutoryParagraph": "a(16)",
+      "label": "Cannabis retailers and medical cannabis dispensaries",
+      "status": "active",
+      "mappedTypes": ["Cannabis Retailer"]
+    },
+    {
+      "statutoryParagraph": "a(17)",
+      "label": "Entertainment facilities, including theaters, stadiums, arenas and racetracks",
+      "status": "active_pending_en_banc",
+      "mappedTypes": ["Entertainment Facility", "Movie Theater", "Stadium/Arena", "Racetrack"]
+    },
+    {
+      "statutoryParagraph": "a(18)",
+      "label": "Casinos and related casino property",
+      "status": "active_pending_en_banc",
+      "mappedTypes": ["Casino"]
+    },
+    {
+      "statutoryParagraph": "a(19)",
+      "label": "Energy production, conversion, distribution and storage facilities",
+      "status": "active",
+      "mappedTypes": ["Energy Facility"]
+    },
+    {
+      "statutoryParagraph": "a(20)",
+      "label": "Airports and public transportation hubs",
+      "status": "active",
+      "mappedTypes": ["Airport", "Transit Hub"]
+    },
+    {
+      "statutoryParagraph": "a(21)",
+      "label": "Hospitals and other health care facilities",
+      "status": "active_pending_en_banc",
+      "mappedTypes": ["Hospital", "Health Care Facility"]
+    },
+    {
+      "statutoryParagraph": "a(22)",
+      "label": "Specified mental-health and addiction-treatment facilities",
+      "status": "active",
+      "mappedTypes": ["Mental Health/Addiction Facility"]
+    },
+    {
+      "statutoryParagraph": "a(23)",
+      "label": "Public locations used for film or television production",
+      "status": "preliminarily_enjoined",
+      "mappedTypes": ["Film/Television Location"],
+      "alertDefault": "off",
+      "mappingNote": "Excluded from the active restricted-place dataset while the injunction remains operative."
+    },
+    {
+      "statutoryParagraph": "a(24)",
+      "label": "Private property held open to the public without express consent",
+      "status": "preliminarily_enjoined",
+      "mappedTypes": ["Public-Open Private Property"],
+      "alertDefault": "off",
+      "mappingNote": "Excluded from the active official dataset. Property-specific posted rules can be reported separately as community information."
+    },
+    {
+      "statutoryParagraph": "a(25)",
+      "label": "Places prohibited by other federal or State law, rule or regulation",
+      "status": "active_source_specific",
+      "mappedTypes": ["Federal Facility", "Post Office", "Military Facility"],
+      "mappingNote": "This is not an exhaustive map of every prohibition created by another authority."
+    }
+  ]
+}
