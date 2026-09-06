@@ -143,15 +143,28 @@
     "longitude": -74.4448252
   },
   {
-    "id": "8e775b74-a62a-5096-9186-74e267fb937a",
-    "name": "5 De Mayo Bar and Family Restaurant",
+    "id": "2cfac1fe-c6ec-5cb2-9801-3a0725a641c3",
+    "name": "10th Hole At Pomona",
     "type": "Alcohol-Serving Location",
-    "address": "2435-37 Atlantic Avenue, Atlantic City, NJ, 08401",
+    "address": "400 West Moss Mill Road, Egg Harbor City, New Jersey, 08215",
     "county": "Atlantic",
-    "source": "OpenStreetMap contributors",
-    "confidence": "medium",
-    "latitude": 39.3568171,
-    "longitude": -74.4419167
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.519486,
+    "longitude": -74.5503165
+  },
+  {
+    "id": "a21ec5ce-ff91-5868-8015-1e93e39b7740",
+    "name": "5 De Mayo Bar And Family Restaurant",
+    "type": "Alcohol-Serving Location",
+    "address": "2435 Atlantic Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.35682,
+    "longitude": -74.441898
   },
   {
     "id": "a7c8bcd4-cc5a-535d-bae2-c3da5b4ff611",
@@ -165,6 +178,30 @@
     "longitude": -74.4213443
   },
   {
+    "id": "78505878-903c-57dc-ae9c-579ff0ca5b4e",
+    "name": "50 Sixx Craft Kitchen And Cocktails",
+    "type": "Alcohol-Serving Location",
+    "address": "2301 State Highway 50, Mays Landing, New Jersey, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.488202,
+    "longitude": -74.698263
+  },
+  {
+    "id": "20dc0124-c967-5676-bd28-15c6177c30cc",
+    "name": "A Touch Of Italy",
+    "type": "Alcohol-Serving Location",
+    "address": "6629 Black Horse Pike, Egg Harbor Twp, New Jersey, 08234",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.415536,
+    "longitude": -74.578266
+  },
+  {
     "id": "9b8048d5-d90d-50aa-b418-ec9f68728bfd",
     "name": "A'Dam Good Sports Bar & Grill",
     "type": "Alcohol-Serving Location",
@@ -174,6 +211,18 @@
     "confidence": "medium",
     "latitude": 39.3534614,
     "longitude": -74.4455258
+  },
+  {
+    "id": "588c7a3f-a5d8-5d84-a6ba-0b99a2cb0795",
+    "name": "Absecon Vfm Memorial Post 9462",
+    "type": "Alcohol-Serving Location",
+    "address": "433 WHITE HORSE PIKE, ABSECON, NJ, 08201",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4290694,
+    "longitude": -74.5070293
   },
   {
     "id": "e66b0620-6087-5f53-aadd-d870db6e2d21",
@@ -187,15 +236,148 @@
     "longitude": -74.8102606
   },
   {
-    "id": "05604ae5-c521-5560-bd26-8aee5d394beb",
-    "name": "Angelo's Fairmount Tavern",
+    "id": "9c39d994-7b05-55b9-a617-f6deb1d215d5",
+    "name": "American Legion Post 270",
     "type": "Alcohol-Serving Location",
-    "address": "NJ",
+    "address": "703 CENTRAL AVE, MINOTOLA, NJ, 08341",
     "county": "Atlantic",
-    "source": "OpenStreetMap contributors",
-    "confidence": "medium",
-    "latitude": 39.3601491,
-    "longitude": -74.4413911
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.5211496,
+    "longitude": -74.9481558
+  },
+  {
+    "id": "081a8d92-4466-5e94-97bc-70a1bef8ef41",
+    "name": "American Legion Post 28",
+    "type": "Alcohol-Serving Location",
+    "address": "560 NEW JERSEY AVE, ABSECON, NJ, 08201",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4314843,
+    "longitude": -74.5074795
+  },
+  {
+    "id": "3795821f-b322-5a92-b127-d4b3dc5dfe7a",
+    "name": "Anchor Rock Club",
+    "type": "Alcohol-Serving Location",
+    "address": "247 S NEW YORK AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3584619,
+    "longitude": -74.4271611
+  },
+  {
+    "id": "a4aaf158-10b0-52d0-9a98-debb7615ea8d",
+    "name": "Anchorage Tavern Restaurant",
+    "type": "Alcohol-Serving Location",
+    "address": "823 BAY AVE, SOMERS POINT, NJ, 08244",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3103707,
+    "longitude": -74.5950655
+  },
+  {
+    "id": "fd677808-a2b6-57c2-893a-e6ac117961aa",
+    "name": "Andres Italian Restaurant And Wine Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "1318 West Brigantine Avenue, Brigantine, New Jersey, 08203",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4020519,
+    "longitude": -74.3726855
+  },
+  {
+    "id": "b0a720cd-5d44-5d0e-9939-40d488c47f82",
+    "name": "Angelonis Ii",
+    "type": "Alcohol-Serving Location",
+    "address": "2402 Arctic Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.358314,
+    "longitude": -74.441745
+  },
+  {
+    "id": "e314f29c-ebb7-5f79-9f20-09173b0ae768",
+    "name": "Angelos Fairmount Tavern",
+    "type": "Alcohol-Serving Location",
+    "address": "2304 Fairmount Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.360141,
+    "longitude": -74.441466
+  },
+  {
+    "id": "a78c20e4-705a-522c-8687-eb09d3d0806b",
+    "name": "Annata",
+    "type": "Alcohol-Serving Location",
+    "address": "216 BELLEVUE AVE, HAMMONTON, NJ, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.636234,
+    "longitude": -74.8031165
+  },
+  {
+    "id": "144e297f-fccd-596e-bb79-76451131e05d",
+    "name": "Applebees Neighborhood Grill & Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "51 BETHEL RD, SOMERS POINT, NJ, 08244",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3318923,
+    "longitude": -74.5945287
+  },
+  {
+    "id": "762c5972-216c-5c9a-a80d-6953f35ea733",
+    "name": "Applebees Neighborhood Grill & Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "47 S WHITE HORSE PIKE, HAMMONTON, NJ, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.6430333,
+    "longitude": -74.7817301
+  },
+  {
+    "id": "e24a138f-c6ff-5978-8a6a-5ddf909869ec",
+    "name": "Aroma Restaurant Inc",
+    "type": "Alcohol-Serving Location",
+    "address": "5206 Atlantic Avenue, Ventnor City, New Jersey, 08406",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.341889,
+    "longitude": -74.470077
+  },
+  {
+    "id": "04f39eee-4e61-56bb-bb0c-cc4268367247",
+    "name": "Atlantic City Loyal Order Of Moose # 216",
+    "type": "Alcohol-Serving Location",
+    "address": "3900 W END AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3594156,
+    "longitude": -74.4639009
   },
   {
     "id": "e4332807-2c91-5102-a2a6-4ea2bfbdd9f2",
@@ -207,6 +389,18 @@
     "confidence": "medium",
     "latitude": 39.3757737,
     "longitude": -74.4205414
+  },
+  {
+    "id": "8e4aea5b-2920-5345-a099-1c1fb0d6c367",
+    "name": "Ballamor Golf Course",
+    "type": "Alcohol-Serving Location",
+    "address": "6071 English Creek Avenue, Egg Harbor Twp, New Jersey, 08234",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.385737,
+    "longitude": -74.6487585
   },
   {
     "id": "29d949a4-acd9-5680-8476-44aa72b84113",
@@ -253,6 +447,54 @@
     "longitude": -74.4222131
   },
   {
+    "id": "e7d66057-c188-5b63-927b-b32b1d483fb1",
+    "name": "Beach House Bar & Grill",
+    "type": "Alcohol-Serving Location",
+    "address": "939 BAY AVE, SOMERS POINT, NJ, 08244",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3090321,
+    "longitude": -74.5968057
+  },
+  {
+    "id": "5059837e-d314-588a-826f-033d977cafb2",
+    "name": "Beachview Ac Hospitality LLC",
+    "type": "Alcohol-Serving Location",
+    "address": "170 South New Jersey Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License with Broad C; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.360888,
+    "longitude": -74.416707
+  },
+  {
+    "id": "275c090a-acde-569e-b3a8-8acf2993d096",
+    "name": "Benevolent And Protective Order Of Elks Lodge #2563",
+    "type": "Alcohol-Serving Location",
+    "address": "1815 Mays Landing Somers Point Road, Somers Point, New Jersey, 08244",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3179196,
+    "longitude": -74.6353497
+  },
+  {
+    "id": "f82fc707-fe95-5f42-8e0c-2ad8cffe6709",
+    "name": "Bills Gyro Soulaki",
+    "type": "Alcohol-Serving Location",
+    "address": "1607 BOARDWALK, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3564745,
+    "longitude": -74.4277797
+  },
+  {
     "id": "a188d44c-aa0a-589e-add6-a7f1027231b5",
     "name": "Black Cat Inn",
     "type": "Alcohol-Serving Location",
@@ -262,6 +504,18 @@
     "confidence": "medium",
     "latitude": 39.4238504,
     "longitude": -74.4998068
+  },
+  {
+    "id": "58bca63e-11e8-54f4-9575-8408135e6d1b",
+    "name": "Black Cat Tavern",
+    "type": "Alcohol-Serving Location",
+    "address": "1 Shore Road, Absecon, New Jersey, 08201",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.423897,
+    "longitude": -74.499822
   },
   {
     "id": "12e88fd2-9c3d-5631-8b1d-70fddb7e373e",
@@ -275,6 +529,30 @@
     "longitude": -74.434744
   },
   {
+    "id": "ccdd5bde-cc8a-507f-85fb-14bdabbd0546",
+    "name": "Boardwalk Billys",
+    "type": "Alcohol-Serving Location",
+    "address": "2613 BOARDWALK, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.352943,
+    "longitude": -74.4413063
+  },
+  {
+    "id": "ca72363a-71b7-5f6d-9393-cd0345a6aae7",
+    "name": "Boardwalk Billys 2",
+    "type": "Alcohol-Serving Location",
+    "address": "1537 BOARDWALK, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License with Broad C; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3566825,
+    "longitude": -74.426892
+  },
+  {
     "id": "cf8b5d29-1099-55f3-b0d2-ac8d53e92032",
     "name": "Boardwalk Saloon",
     "type": "Alcohol-Serving Location",
@@ -284,6 +562,30 @@
     "confidence": "medium",
     "latitude": 39.3554977,
     "longitude": -74.4335861
+  },
+  {
+    "id": "fa21b869-ad87-56f5-a43c-e7fa0d15f647",
+    "name": "Bocca",
+    "type": "Alcohol-Serving Location",
+    "address": "7805 Ventnor Avenue, Margate City, New Jersey, 08402",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.331125,
+    "longitude": -74.4973605
+  },
+  {
+    "id": "7b3c1ac8-566a-5079-a3e0-0afbab1e74e7",
+    "name": "Bonefish Grill",
+    "type": "Alcohol-Serving Location",
+    "address": "3123 Fire Road, Egg Harbor Twp, New Jersey, 08234",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.393954,
+    "longitude": -74.5622415
   },
   {
     "id": "f89d819a-767a-5949-a4f3-d84d70a6d5ab",
@@ -308,6 +610,66 @@
     "longitude": -74.4344887
   },
   {
+    "id": "fea11274-2903-578b-8447-60427a7e0b68",
+    "name": "Brick House Pub & Grille",
+    "type": "Alcohol-Serving Location",
+    "address": "4450 Black Horse Pike, Mays Landing, New Jersey, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4507953,
+    "longitude": -74.6425902
+  },
+  {
+    "id": "6706bd92-fa06-58ad-8768-f670eb17bf17",
+    "name": "Brigantine Bpo Elks Lodge 2428",
+    "type": "Alcohol-Serving Location",
+    "address": "400 W SHORE DR, BRIGANTINE, NJ, 08203",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4102945,
+    "longitude": -74.3686745
+  },
+  {
+    "id": "97d4ce21-894f-5e91-a136-08cbd64d9095",
+    "name": "Brigantine Memorial Post 6964",
+    "type": "Alcohol-Serving Location",
+    "address": "121 31st Street South, Brigantine, New Jersey, 08203",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.396114,
+    "longitude": -74.3866965
+  },
+  {
+    "id": "614b1841-e163-5e9e-acd8-072c6d97bcd8",
+    "name": "Brigantine Paddle Club",
+    "type": "Alcohol-Serving Location",
+    "address": "4401 ATLANTIC BRIGANTINE BLVD, BRIGANTINE, NJ, 08203",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3927646,
+    "longitude": -74.4067549
+  },
+  {
+    "id": "43fe2f92-eea9-5830-ae08-dc0c842bd7f5",
+    "name": "Brigantine Yacht Club",
+    "type": "Alcohol-Serving Location",
+    "address": "1001 BAYSHORE AVE, BRIGANTINE, NJ, 08203",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4072092,
+    "longitude": -74.3732784
+  },
+  {
     "id": "1092515e-df18-5222-b302-4baa5173e2e1",
     "name": "Bruno's Steakhouse",
     "type": "Alcohol-Serving Location",
@@ -317,6 +679,54 @@
     "confidence": "medium",
     "latitude": 39.4209254,
     "longitude": -74.8414764
+  },
+  {
+    "id": "8e9ace36-3612-5a95-89b3-8fdd80b327ae",
+    "name": "Bs Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "2309 PACIFIC AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3559972,
+    "longitude": -74.4385373
+  },
+  {
+    "id": "f19938c5-39d5-5e93-ad88-ca8d40f9be9a",
+    "name": "Buena Vista Country Club",
+    "type": "Alcohol-Serving Location",
+    "address": "301 COUNTRY CLUB LN, BUENA, NJ, 08310",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.5105161,
+    "longitude": -74.8909244
+  },
+  {
+    "id": "a0617106-1d8f-5c78-812c-91eda64486da",
+    "name": "Buffalo Wild Wings",
+    "type": "Alcohol-Serving Location",
+    "address": "4415 BLACK HORSE PIKE, MAYS LANDING, NJ, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4512199,
+    "longitude": -74.643619
+  },
+  {
+    "id": "0353e1d8-b8ca-5cc1-9162-4f4520fd577d",
+    "name": "Bulldogs Bar And Grill",
+    "type": "Alcohol-Serving Location",
+    "address": "743 West White Horse Pike, Egg Harbor City, New Jersey, 08215",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.502692,
+    "longitude": -74.60964
   },
   {
     "id": "1a0c8f82-d9e0-55c7-9613-7d3dfd079dd9",
@@ -341,6 +751,18 @@
     "longitude": -74.4422177
   },
   {
+    "id": "cf0858ee-3d8e-5812-9d5c-0014c323d90a",
+    "name": "Byrd Cage",
+    "type": "Alcohol-Serving Location",
+    "address": "3426 ATLANTIC AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3523553,
+    "longitude": -74.4516388
+  },
+  {
     "id": "10a3c83c-1a4b-51fa-9b16-2d3fd8a1ce54",
     "name": "Cabana Restaurant Lounge",
     "type": "Alcohol-Serving Location",
@@ -361,6 +783,90 @@
     "confidence": "medium",
     "latitude": 39.3550726,
     "longitude": -74.4347406
+  },
+  {
+    "id": "38f43651-cc4b-5833-bcd8-8cf20e28a80f",
+    "name": "Cafe 2825",
+    "type": "Alcohol-Serving Location",
+    "address": "2829 Atlantic Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.354777,
+    "longitude": -74.4469965
+  },
+  {
+    "id": "fc7302e7-fc1b-5b8b-bc04-8d94ed1c2578",
+    "name": "Cafe San Rocco",
+    "type": "Alcohol-Serving Location",
+    "address": "21 N 3RD ST, HAMMONTON, NJ, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.6374062,
+    "longitude": -74.802201
+  },
+  {
+    "id": "19ee62d1-ddd6-55f3-acb7-94b0bb723db9",
+    "name": "Canals Discount Liquor Mart",
+    "type": "Alcohol-Serving Location",
+    "address": "4212 Black Horse Pike, Mays Landing, New Jersey, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License with Broad C; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.443463,
+    "longitude": -74.626425
+  },
+  {
+    "id": "15211bd7-ba13-5716-a5a0-73b85d221a17",
+    "name": "Cardinal",
+    "type": "Alcohol-Serving Location",
+    "address": "205 South New York Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.358188,
+    "longitude": -74.4268275
+  },
+  {
+    "id": "d438e423-d45a-50df-ac30-3f4352ccf526",
+    "name": "Carolines",
+    "type": "Alcohol-Serving Location",
+    "address": "450 BAY AVE, SOMERS POINT, NJ, 08244",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3185191,
+    "longitude": -74.5875857
+  },
+  {
+    "id": "2aba49bc-ad52-5f0e-81de-f81d8000f465",
+    "name": "Catch 2401 Restaurant And Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "2401 Atlantic Avenue, Longport, New Jersey, 08403",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.312261,
+    "longitude": -74.5270245
+  },
+  {
+    "id": "1918c13f-f4c1-54ea-92f5-48f9ab07b996",
+    "name": "Celebrity Corner",
+    "type": "Alcohol-Serving Location",
+    "address": "3119 BOARDWALK, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3507206,
+    "longitude": -74.4479239
   },
   {
     "id": "e96bd285-7571-5c68-a8e1-adac36b6a388",
@@ -385,6 +891,18 @@
     "longitude": -74.5961566
   },
   {
+    "id": "fc083647-40a1-5ba9-8440-33c54fd449b3",
+    "name": "Charlies Bar & Restaurant",
+    "type": "Alcohol-Serving Location",
+    "address": "800 Shore Road, Somers Point, New Jersey, 08244",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.312486,
+    "longitude": -74.5961535
+  },
+  {
     "id": "c2d23873-d9c0-5492-9bc0-6610d904b46e",
     "name": "Chelsea Five Terrace Lounge",
     "type": "Alcohol-Serving Location",
@@ -405,6 +923,30 @@
     "confidence": "medium",
     "latitude": 39.3552265,
     "longitude": -74.4340761
+  },
+  {
+    "id": "f0f64727-34b4-5c5e-a5f6-78c0035ea27b",
+    "name": "Chickies & Petes Crab House & Sports Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "6055 Black Horse Pike, Egg Harbor Twp, New Jersey, 08234",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.434067,
+    "longitude": -74.610351
+  },
+  {
+    "id": "174eae86-333a-523f-847d-7a63ddd7e635",
+    "name": "Chilis Grill & Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "4305 Black Horse Pike, Mays Landing, New Jersey, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.450393,
+    "longitude": -74.6398755
   },
   {
     "id": "e9042e29-c58b-570b-93f1-15fdbf59bb3b",
@@ -429,6 +971,18 @@
     "longitude": -74.4217218
   },
   {
+    "id": "ceed1618-921e-5e17-8e81-8012c4831f99",
+    "name": "Club Mia",
+    "type": "Alcohol-Serving Location",
+    "address": "233 South Main Street, Pleasantville, New Jersey, 08232",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3893843,
+    "longitude": -74.5245387
+  },
+  {
     "id": "df1f4e8e-e1fc-5509-8b10-65026e13598c",
     "name": "Cocorico Beach Bar",
     "type": "Alcohol-Serving Location",
@@ -438,6 +992,18 @@
     "confidence": "medium",
     "latitude": 39.3505297,
     "longitude": -74.4462249
+  },
+  {
+    "id": "a2d8bf64-cdff-5b0b-9f68-0d67ffd4b98f",
+    "name": "Columbia Ii",
+    "type": "Alcohol-Serving Location",
+    "address": "3238 White Horse Pike, Hammonton, New Jersey, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.605256,
+    "longitude": -74.7571095
   },
   {
     "id": "2a3d97b1-aa2e-57d5-bd13-849ea8303f85",
@@ -451,6 +1017,54 @@
     "longitude": -74.7598375
   },
   {
+    "id": "25583449-b2ac-589c-8e9a-02996a99ba9f",
+    "name": "Corner Tavern, Giovannis Pizzeria & Italian Cusine",
+    "type": "Alcohol-Serving Location",
+    "address": "207 Collins Road, Galloway, New Jersey, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.491838,
+    "longitude": -74.503593
+  },
+  {
+    "id": "500c3462-d60d-5c71-82c2-9dc21226c551",
+    "name": "Courtyard By Marriott",
+    "type": "Alcohol-Serving Location",
+    "address": "1212 PACIFIC AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3612609,
+    "longitude": -74.4251795
+  },
+  {
+    "id": "4f9f848c-3f9c-57d7-bc2f-69bc6b80c534",
+    "name": "Cousin Marios",
+    "type": "Alcohol-Serving Location",
+    "address": "5401 HARDING HWY, MAYS LANDING, NJ, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4472013,
+    "longitude": -74.7066507
+  },
+  {
+    "id": "720107f7-5f84-57ff-bbbb-1d3c00088c76",
+    "name": "Crab Trap Ltd",
+    "type": "Alcohol-Serving Location",
+    "address": "2 BROADWAY, SOMERS POINT, NJ, 08244",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3086098,
+    "longitude": -74.6009201
+  },
+  {
     "id": "99b6dc20-5e0c-5500-8908-e5b749e974aa",
     "name": "Crabby Jack's",
     "type": "Alcohol-Serving Location",
@@ -460,6 +1074,90 @@
     "confidence": "medium",
     "latitude": 39.3075423,
     "longitude": -74.6002053
+  },
+  {
+    "id": "532758c7-7c3f-57e4-ac0a-1994d619cc75",
+    "name": "Craftsman Club Of Hiram Abiff Lodge",
+    "type": "Alcohol-Serving Location",
+    "address": "6829 Washington Avenue, Egg Harbor Twp, New Jersey, 08234",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.400227,
+    "longitude": -74.545479
+  },
+  {
+    "id": "4b7eda07-cccf-5e06-b00b-d12136d689fa",
+    "name": "Crossroads Bar & Grill",
+    "type": "Alcohol-Serving Location",
+    "address": "151 Philadelphia Avenue, Egg Harbor City, New Jersey, 08215",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.529953,
+    "longitude": -74.646477
+  },
+  {
+    "id": "34cc3ef2-4b2b-5a2b-ac71-47946e66cb0a",
+    "name": "Decatur Liquors",
+    "type": "Alcohol-Serving Location",
+    "address": "310 S NEW RD, PLEASANTVILLE, NJ, 08232",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License with Broad C; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3912107,
+    "longitude": -74.5307955
+  },
+  {
+    "id": "73af485e-23b9-57b9-996d-8e66e1f9ab4f",
+    "name": "Didonatos Bowling Center Coktail Lounge",
+    "type": "Alcohol-Serving Location",
+    "address": "1151 White Horse Pike, Hammonton, New Jersey, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.614481,
+    "longitude": -74.7695565
+  },
+  {
+    "id": "2153636f-f7de-5b3f-8d38-04cb475ca45f",
+    "name": "Diorios",
+    "type": "Alcohol-Serving Location",
+    "address": "10 MacArthur Boulevard, Somers Point, New Jersey, 08244",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.309597,
+    "longitude": -74.600037
+  },
+  {
+    "id": "a87b64d3-f3b3-50fc-bea1-ee5b237e60e5",
+    "name": "Docks Oyster House",
+    "type": "Alcohol-Serving Location",
+    "address": "2405 ATLANTIC AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3566015,
+    "longitude": -74.4418524
+  },
+  {
+    "id": "400145b4-84b3-539c-bd5a-f020727de0c7",
+    "name": "Dooneys Pub",
+    "type": "Alcohol-Serving Location",
+    "address": "6823 TILTON RD, EGG HARBOR TWP, NJ, 08234",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3931462,
+    "longitude": -74.5591493
   },
   {
     "id": "fea113b7-0873-5498-b2ac-4395221a1ab2",
@@ -473,6 +1171,90 @@
     "longitude": -74.4969616
   },
   {
+    "id": "88777c61-5a90-50c4-803a-bf9cfc531174",
+    "name": "Duck Town Tavern",
+    "type": "Alcohol-Serving Location",
+    "address": "2404 Atlantic Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License with Broad C; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.356712,
+    "longitude": -74.440728
+  },
+  {
+    "id": "c37670f7-f528-5a3c-a31c-1bf1629b1b83",
+    "name": "Eagle Theatre",
+    "type": "Alcohol-Serving Location",
+    "address": "208 Vine Street, Hammonton, New Jersey, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Theater License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.635388,
+    "longitude": -74.8019565
+  },
+  {
+    "id": "54caf083-4603-549f-8cb6-88fa750b2482",
+    "name": "El Charro",
+    "type": "Alcohol-Serving Location",
+    "address": "2430 FAIRMOUNT AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3594796,
+    "longitude": -74.4433629
+  },
+  {
+    "id": "2ff033eb-0688-52ce-9aef-ccb493b6e034",
+    "name": "El Patron Restaurant",
+    "type": "Alcohol-Serving Location",
+    "address": "3019 ATLANTIC AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3540825,
+    "longitude": -74.4481028
+  },
+  {
+    "id": "597f8ee9-7738-59e0-a093-1336a6533bac",
+    "name": "Exquisite Events Resort LLC",
+    "type": "Alcohol-Serving Location",
+    "address": "755 White Horse Pike, Hammonton, New Jersey, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.628143,
+    "longitude": -74.771739
+  },
+  {
+    "id": "8d465c88-9c2b-54da-92c8-af1979c46e69",
+    "name": "Fiesta Mexicana Restaurant",
+    "type": "Alcohol-Serving Location",
+    "address": "327 12TH ST, HAMMONTON, NJ, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License with Broad C; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.6327063,
+    "longitude": -74.8072713
+  },
+  {
+    "id": "4520a9db-b8bb-5ad7-9de8-c00436f22421",
+    "name": "Firehouse Bar & Grill",
+    "type": "Alcohol-Serving Location",
+    "address": "105 PHILADELPHIA AVE, EGG HARBOR CITY, NJ, 08215",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.5289164,
+    "longitude": -74.6475217
+  },
+  {
     "id": "4fb6502b-b30d-5065-a779-0fde5828528c",
     "name": "Firewaters Saloon",
     "type": "Alcohol-Serving Location",
@@ -482,6 +1264,18 @@
     "confidence": "medium",
     "latitude": 39.3520695,
     "longitude": -74.4447177
+  },
+  {
+    "id": "581da35a-52c5-591e-ba89-6a43635ec4ef",
+    "name": "Flanagans Pub & Grille",
+    "type": "Alcohol-Serving Location",
+    "address": "621 State Highway 50, Corbin City, New Jersey, 08270",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.317598,
+    "longitude": -74.7692955
   },
   {
     "id": "7b09346f-7490-5726-bbb1-c433b6e87035",
@@ -495,6 +1289,102 @@
     "longitude": -74.4578598
   },
   {
+    "id": "1cfee844-bf03-52ed-9aa8-ea06d891a10c",
+    "name": "Folsom Inn",
+    "type": "Alcohol-Serving Location",
+    "address": "1012 Black Horse Pike, Hammonton, New Jersey, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.590928,
+    "longitude": -74.8512225
+  },
+  {
+    "id": "c071195f-db51-540f-8c02-20c10a3d8f09",
+    "name": "Frog Rock Golf And Country Club",
+    "type": "Alcohol-Serving Location",
+    "address": "420 BOYER AVE, HAMMONTON, NJ, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.6280354,
+    "longitude": -74.7633271
+  },
+  {
+    "id": "59ddf6f7-9f5c-53a8-9faf-45c61f35fd40",
+    "name": "Galloway Diner & Grill",
+    "type": "Alcohol-Serving Location",
+    "address": "245 West White Horse Pike, Egg Harbor City, New Jersey, 08215",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.47499,
+    "longitude": -74.569158
+  },
+  {
+    "id": "fc41de23-91ad-58ff-a4e4-c08fc06b4b89",
+    "name": "Galloway Liquor & Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "269 West White Horse Pike, Galloway, New Jersey, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.478023,
+    "longitude": -74.573181
+  },
+  {
+    "id": "8bb2472b-5120-59c7-b4fa-4f78081d7c5a",
+    "name": "Galloway National Golf Club Inc",
+    "type": "Alcohol-Serving Location",
+    "address": "270 New York Road, Absecon, New Jersey, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.456387,
+    "longitude": -74.458998
+  },
+  {
+    "id": "932e9e69-9447-5878-891b-52d911828983",
+    "name": "Galloway Township Elks #2845",
+    "type": "Alcohol-Serving Location",
+    "address": "120 South New York Road, Absecon, New Jersey, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.488196,
+    "longitude": -74.4584518
+  },
+  {
+    "id": "59f0c7ab-01f7-52df-a0d8-f3dcf1392efc",
+    "name": "Garden Pier Ac Hospitality LLC",
+    "type": "Alcohol-Serving Location",
+    "address": "600 BOARDWALK, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3611962,
+    "longitude": -74.4146762
+  },
+  {
+    "id": "b83ece5d-3556-5d12-a247-845ff6a81ae8",
+    "name": "Gennaros Italian Grill",
+    "type": "Alcohol-Serving Location",
+    "address": "126 PHILADELPHIA AVE, EGG HARBOR CITY, NJ, 08215",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.5291246,
+    "longitude": -74.6470875
+  },
+  {
     "id": "d078a8c5-4589-5bde-8c3c-9f8ada853ff6",
     "name": "Gin Rickey's",
     "type": "Alcohol-Serving Location",
@@ -504,6 +1394,30 @@
     "confidence": "medium",
     "latitude": 39.3537844,
     "longitude": -74.4462482
+  },
+  {
+    "id": "4190199e-da09-5c34-8955-027ae4d76b27",
+    "name": "Ginza Japanese Restaurant",
+    "type": "Alcohol-Serving Location",
+    "address": "3003 ENGLISH CREEK AVE, EGG HARBOR TOWNSHIP, NJ, 08234",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4330573,
+    "longitude": -74.6089907
+  },
+  {
+    "id": "b7223dbd-1dd4-5f3f-b825-3651d9628a62",
+    "name": "Girasole Ristorante",
+    "type": "Alcohol-Serving Location",
+    "address": "3108 PACIFIC AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3520335,
+    "longitude": -74.4479955
   },
   {
     "id": "1ae103fe-0afe-52d1-beac-a9523b2fc95b",
@@ -517,15 +1431,88 @@
     "longitude": -74.4357467
   },
   {
-    "id": "5768b5f2-91f0-538f-bce2-a49c4aece735",
-    "name": "Gregory’s Restaurant & Bar",
+    "id": "13f5142d-1ecc-54c7-be0d-b2a1dacfc560",
+    "name": "Gourmet Italian Cuisine & Pizzeria",
     "type": "Alcohol-Serving Location",
-    "address": "900 Shore Road, NJ",
+    "address": "324 S PITNEY RD, GALLOWAY, NJ, 08205",
     "county": "Atlantic",
-    "source": "OpenStreetMap contributors",
-    "confidence": "medium",
-    "latitude": 39.3114834,
-    "longitude": -74.5966706
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4633401,
+    "longitude": -74.4939589
+  },
+  {
+    "id": "50c8a49b-5360-5bad-b756-5ef1d1bda061",
+    "name": "Greate Bay Golf And Country Club",
+    "type": "Alcohol-Serving Location",
+    "address": "901 Mays Landing Road, Somers Point, New Jersey, 08244",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.312306,
+    "longitude": -74.6086365
+  },
+  {
+    "id": "01ed93c5-1d16-57d7-abd4-569d4eb289ab",
+    "name": "Gregorys Restaurant & Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "900 Shore Road, Somers Point, New Jersey, 08244",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.311496,
+    "longitude": -74.596725
+  },
+  {
+    "id": "fe09a0d5-4121-5b76-b4a8-288b718c0d15",
+    "name": "Guinta Marucci VFW Post 220",
+    "type": "Alcohol-Serving Location",
+    "address": "1209 State Highway 50, Mays Landing, New Jersey, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.462255,
+    "longitude": -74.7227295
+  },
+  {
+    "id": "504d6fdc-445f-59ca-b4d9-8e8013db52be",
+    "name": "Hamilton Trails Golf Club",
+    "type": "Alcohol-Serving Location",
+    "address": "620 HARBOR AVE, MAYS LANDING, NJ, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4126224,
+    "longitude": -74.6708943
+  },
+  {
+    "id": "a40f31bd-e2fa-5c87-9026-2f75cc46d097",
+    "name": "Hamys Bar And Grill",
+    "type": "Alcohol-Serving Location",
+    "address": "125 PHILADELPHIA AVE, EGG HARBOR CITY, NJ, 08215",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.5291744,
+    "longitude": -74.6472285
+  },
+  {
+    "id": "f5d8b990-88a8-53ac-9327-b386d5fedb71",
+    "name": "Hangtime Bar And Grill",
+    "type": "Alcohol-Serving Location",
+    "address": "343 E WHITE HORSE PIKE, GALLOWAY, NJ, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4410772,
+    "longitude": -74.5209886
   },
   {
     "id": "843da3d6-1f96-5104-8898-b12ec205aa7a",
@@ -550,15 +1537,52 @@
     "longitude": -74.4192241
   },
   {
-    "id": "e62a0b26-32b8-5c81-b882-92dc9fecc4d6",
-    "name": "Hi Point Pub",
+    "id": "314c58b6-65ca-5c4a-969c-703b04e97387",
+    "name": "Harley Dawn Inc",
     "type": "Alcohol-Serving Location",
-    "address": "NJ",
+    "address": "1402 Black Horse Pike, Hammonton, New Jersey, 08037",
     "county": "Atlantic",
-    "source": "OpenStreetMap contributors",
-    "confidence": "medium",
-    "latitude": 39.4237344,
-    "longitude": -74.4991631
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.573351,
+    "longitude": -74.823543
+  },
+  {
+    "id": "58793928-37de-5160-9925-4b323009e354",
+    "name": "Hidden Creek Golf Club",
+    "type": "Alcohol-Serving Location",
+    "address": "75 ASBURY RD, EGG HARBOR TWP, NJ, 08234",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3897209,
+    "longitude": -74.6824392
+  },
+  {
+    "id": "7f5c2d36-c65f-5fd8-8de3-f7848efc2869",
+    "name": "Historic Smithville Inn",
+    "type": "Alcohol-Serving Location",
+    "address": "1 N NEW YORK RD, GALLOWAY, NJ, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4966902,
+    "longitude": -74.4574286
+  },
+  {
+    "id": "ff17bfc8-ff47-59fc-b695-a0aef52d2b9c",
+    "name": "Hott Spot Restaurant And Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "6032 Black Horse Pike, Mays Landing, New Jersey, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.477996,
+    "longitude": -74.715651
   },
   {
     "id": "6a8038be-a64a-532d-a431-02dcdc2305fd",
@@ -594,6 +1618,30 @@
     "longitude": -74.4199602
   },
   {
+    "id": "ec21acf3-d221-5566-afc2-99371a4de8ca",
+    "name": "Illianos Restaurant",
+    "type": "Alcohol-Serving Location",
+    "address": "705 12TH ST, HAMMONTON, NJ, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.6293683,
+    "longitude": -74.8111698
+  },
+  {
+    "id": "04ed6e1e-3f8b-54ce-b420-69bfa9d35c4c",
+    "name": "Irish Pub & Inn",
+    "type": "Alcohol-Serving Location",
+    "address": "164 ST JAMES PL, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3582265,
+    "longitude": -74.4264572
+  },
+  {
     "id": "f5084b8f-9cbc-5e43-b73e-5474e139d5cf",
     "name": "Ivan Kane's Royal Jelly Burlesque Club",
     "type": "Alcohol-Serving Location",
@@ -605,26 +1653,112 @@
     "longitude": -74.4142254
   },
   {
-    "id": "ee580b88-f551-5c5d-916b-e0b4ee50cdd3",
-    "name": "Josie Kelly’s Public House",
+    "id": "8b067863-7b42-513f-b10a-3c43b90ff3b4",
+    "name": "Jds Pub & Grille",
     "type": "Alcohol-Serving Location",
-    "address": "908 Shore Road, NJ",
+    "address": "45 South New York Road, Galloway, New Jersey, 08205",
     "county": "Atlantic",
-    "source": "OpenStreetMap contributors",
-    "confidence": "medium",
-    "latitude": 39.3113003,
-    "longitude": -74.5967797
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4882826,
+    "longitude": -74.4585891
   },
   {
-    "id": "12eeb021-305f-525c-9063-8381c6dba8f1",
-    "name": "King's Pub",
+    "id": "ce48759d-287a-59e2-bb5f-03edd55b3471",
+    "name": "Joe Canals Discount Liquors",
     "type": "Alcohol-Serving Location",
-    "address": "231 South Tennessee Avenue, Atlantic City, NJ, 08401",
+    "address": "80 S WHITE HORSE PIKE, HAMMONTON, NJ, 08037",
     "county": "Atlantic",
-    "source": "OpenStreetMap contributors",
-    "confidence": "medium",
-    "latitude": 39.3581948,
-    "longitude": -74.4252226
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License with Broad C; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.6429851,
+    "longitude": -74.7818924
+  },
+  {
+    "id": "8b42e116-be22-561e-ba8b-b9a6f70ac7e4",
+    "name": "Johnnys Cafe",
+    "type": "Alcohol-Serving Location",
+    "address": "9407 Ventnor Avenue, Margate City, New Jersey, 08402",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.321819,
+    "longitude": -74.515374
+  },
+  {
+    "id": "6de3f997-50f5-5bdc-9006-39fd0bdd6f91",
+    "name": "Jojos Italian Grille",
+    "type": "Alcohol-Serving Location",
+    "address": "2 E BLACK HORSE PIKE, PLEASANTVILLE, NJ, 08232",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.389968,
+    "longitude": -74.5240092
+  },
+  {
+    "id": "da746ba3-7764-59d0-8113-12e38172b480",
+    "name": "Josie Kellys Public House",
+    "type": "Alcohol-Serving Location",
+    "address": "908 Shore Road, Somers Point, New Jersey, 08244",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.311307,
+    "longitude": -74.5967475
+  },
+  {
+    "id": "71830328-e619-528c-9ce2-e2d2ca881de1",
+    "name": "Julianos Restaurant & Package Goods",
+    "type": "Alcohol-Serving Location",
+    "address": "2264 OCEAN HEIGHTS AVE, EGG HARBOR TWP, NJ, 08234",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3650529,
+    "longitude": -74.6199396
+  },
+  {
+    "id": "41431ba7-8f8b-59cc-801b-e81c5410d04e",
+    "name": "Kelseys",
+    "type": "Alcohol-Serving Location",
+    "address": "1545 PACIFIC AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3598851,
+    "longitude": -74.4289179
+  },
+  {
+    "id": "fb651cbe-efa2-5bb2-bf27-0d1dd5b3e708",
+    "name": "King Pin Bar And Restaurant LLC",
+    "type": "Alcohol-Serving Location",
+    "address": "6622 BLACK HORSE PIKE, EGG HARBOR TOWNSHIP, NJ, 08234",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4163472,
+    "longitude": -74.5789028
+  },
+  {
+    "id": "490b53b1-b6ca-51d1-a15e-4f8aec185391",
+    "name": "Kings Pub",
+    "type": "Alcohol-Serving Location",
+    "address": "229 South Tennessee Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.358188,
+    "longitude": -74.42523
   },
   {
     "id": "539885de-b2eb-578d-9814-2dd521374e1d",
@@ -636,6 +1770,114 @@
     "confidence": "medium",
     "latitude": 39.3534239,
     "longitude": -74.4458337
+  },
+  {
+    "id": "683f8a3f-4a1a-5cb9-a92c-88ffd417ad54",
+    "name": "Kline-Mcanney Post 396",
+    "type": "Alcohol-Serving Location",
+    "address": "3218 West Brigantine Avenue, Brigantine, New Jersey, 08203",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.393477,
+    "longitude": -74.3861385
+  },
+  {
+    "id": "a37ed11d-1186-50e6-a20e-c457e3e6d983",
+    "name": "Knife And Fork",
+    "type": "Alcohol-Serving Location",
+    "address": "3608 ATLANTIC AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3507995,
+    "longitude": -74.4530713
+  },
+  {
+    "id": "3cc9b309-c5a3-5cf7-b4f8-75b9df1d5942",
+    "name": "La Mesa Tequila And Taco Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "325 E JIMMIE LEEDS RD, GALLOWAY, NJ, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4651895,
+    "longitude": -74.497007
+  },
+  {
+    "id": "b4105347-7d0d-5c1e-9bd3-b2893912d58e",
+    "name": "Lace Casino Pub",
+    "type": "Alcohol-Serving Location",
+    "address": "183 South Carolina Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3590455,
+    "longitude": -74.4243291
+  },
+  {
+    "id": "f7f8d5b4-7994-5f3d-92de-9754297f109f",
+    "name": "Lambertis Sunset Marina & Restaurant",
+    "type": "Alcohol-Serving Location",
+    "address": "9707 Amherst Avenue, Margate City, New Jersey, 08402",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.323565,
+    "longitude": -74.5212195
+  },
+  {
+    "id": "5889070c-5feb-5229-b322-bf8ae27cde96",
+    "name": "Landing Point Tavern",
+    "type": "Alcohol-Serving Location",
+    "address": "5397 Somers Point Mays Landing Road, Mays Landing, New Jersey, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.444021,
+    "longitude": -74.71557
+  },
+  {
+    "id": "dea9b0fe-499f-50c7-9b38-216730fa75e4",
+    "name": "Landisville Liquor Sales",
+    "type": "Alcohol-Serving Location",
+    "address": "205 South Boulevard West, Landisville, New Jersey, 08326",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.524013,
+    "longitude": -74.9398815
+  },
+  {
+    "id": "5cdeb42a-6f41-58d2-b526-689801a15965",
+    "name": "Lascalas Beach House",
+    "type": "Alcohol-Serving Location",
+    "address": "1400 OCEAN AVE, BRIGANTINE, NJ, 08203",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Hotel/Motel License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4001568,
+    "longitude": -74.3713512
+  },
+  {
+    "id": "6c80fd22-ad05-5b62-a3f9-9d685d83023e",
+    "name": "Latino Restaurant & Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "18 S MAIN ST, PLEASANTVILLE, NJ, 08232",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3914285,
+    "longitude": -74.5227057
   },
   {
     "id": "8f567a55-5dc4-5a8c-9de8-761352eb7cb1",
@@ -660,6 +1902,18 @@
     "longitude": -74.4453518
   },
   {
+    "id": "17d7bb55-bfb2-57da-9aae-0258f89cb80f",
+    "name": "Lb One Restaurant",
+    "type": "Alcohol-Serving Location",
+    "address": "6605 BLACK HORSE PIKE, EGG HARBOR TOWNSHIP, NJ, 08234",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.418152,
+    "longitude": -74.582243
+  },
+  {
     "id": "acb39ff2-1c41-5b1f-903a-fbb32fea66f8",
     "name": "Legacy Lounge",
     "type": "Alcohol-Serving Location",
@@ -669,6 +1923,30 @@
     "confidence": "medium",
     "latitude": 39.3560882,
     "longitude": -74.4317719
+  },
+  {
+    "id": "5a3e2855-c2cd-5e29-b55e-2dfb24a96dbb",
+    "name": "Linwood Country Club",
+    "type": "Alcohol-Serving Location",
+    "address": "500 SHORE RD, LINWOOD, NJ, 08221",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3554732,
+    "longitude": -74.5625309
+  },
+  {
+    "id": "87d32efe-9167-56f5-bc55-72d2423f1ab1",
+    "name": "Liquor Store",
+    "type": "Alcohol-Serving Location",
+    "address": "1301 Adriatic Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License with Broad C; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3681113,
+    "longitude": -74.4305684
   },
   {
     "id": "9a42e7dc-d2fb-571d-adca-fc95dcd8a97c",
@@ -682,6 +1960,30 @@
     "longitude": -74.4288299
   },
   {
+    "id": "bb263c2a-4ff6-5568-a970-1e4580434d44",
+    "name": "Longhorne Steakhouse #5484",
+    "type": "Alcohol-Serving Location",
+    "address": "4417 BLACK HORSE PIKE, MAYS LANDING, NJ, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4512384,
+    "longitude": -74.6436735
+  },
+  {
+    "id": "18a9e6c2-955d-5f77-a51e-3cd1e2c75a17",
+    "name": "Los Compadres Restaurnt & Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "2701 ARCTIC AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3570792,
+    "longitude": -74.4455155
+  },
+  {
     "id": "2d5ec9e2-86bb-5e9c-9cc9-f9a88313054c",
     "name": "Luxx Trilogy",
     "type": "Alcohol-Serving Location",
@@ -691,6 +1993,30 @@
     "confidence": "medium",
     "latitude": 39.3602007,
     "longitude": -74.4312868
+  },
+  {
+    "id": "1424d5e6-64b8-507c-96b6-b18cae7f15ec",
+    "name": "Mainland Post 81 American Legion",
+    "type": "Alcohol-Serving Location",
+    "address": "902 S MAIN ST, PLEASANTVILLE, NJ, 08232",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3837281,
+    "longitude": -74.5295784
+  },
+  {
+    "id": "15f1c1a0-e7a8-5e6e-8e7b-2b8c664e5bb4",
+    "name": "Maplewood Of Mays Landing",
+    "type": "Alcohol-Serving Location",
+    "address": "6126 BLACK HORSE PIKE, MAYS LANDING, NJ, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4807132,
+    "longitude": -74.7200305
   },
   {
     "id": "e9284b25-ea75-53ca-97f4-eebe1c4f4b52",
@@ -704,6 +2030,30 @@
     "longitude": -74.5109432
   },
   {
+    "id": "4d1742b4-f9e0-52d4-8cdf-a1e05d648198",
+    "name": "Marriotts Fairway Villas",
+    "type": "Alcohol-Serving Location",
+    "address": "500 East Fairway Lane, Absecon, New Jersey, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Hotel/Motel License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4490891,
+    "longitude": -74.4833211
+  },
+  {
+    "id": "515a0596-5005-5a81-ad7f-b3d41fa63791",
+    "name": "Martins Custom Catering Inc",
+    "type": "Alcohol-Serving Location",
+    "address": "311 South Harding Highway, Landisville, New Jersey, 08326",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.521448,
+    "longitude": -74.9335275
+  },
+  {
     "id": "6f3f8d23-00f1-5f63-a83a-add4d859c4fe",
     "name": "Maya Boardwalk Bar",
     "type": "Alcohol-Serving Location",
@@ -715,15 +2065,124 @@
     "longitude": -74.4219782
   },
   {
-    "id": "d6baa0c9-c1f5-595b-af97-9d45be31260c",
-    "name": "Motts Creek Inn",
+    "id": "c331c3cb-4af5-55a3-988c-f7de25001f80",
+    "name": "Maynards Cafe",
     "type": "Alcohol-Serving Location",
-    "address": "NJ",
+    "address": "9306 Amherst Avenue, Margate City, New Jersey, 08402",
     "county": "Atlantic",
-    "source": "OpenStreetMap contributors",
-    "confidence": "medium",
-    "latitude": 39.5184482,
-    "longitude": -74.4367641
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.325419,
+    "longitude": -74.51739
+  },
+  {
+    "id": "50111945-b223-522a-87d1-85b202562c45",
+    "name": "Mays Landing Inn",
+    "type": "Alcohol-Serving Location",
+    "address": "58 MILL ST, MAYS LANDING, NJ, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4517952,
+    "longitude": -74.7355344
+  },
+  {
+    "id": "ee004c47-18a8-5842-a861-1dab35fb281d",
+    "name": "Mcgettigan 19th Hole",
+    "type": "Alcohol-Serving Location",
+    "address": "500 New York Road, Absecon, New Jersey, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.447756,
+    "longitude": -74.473209
+  },
+  {
+    "id": "1da48fa3-0b15-55b1-8930-b4e06ebd68eb",
+    "name": "Memories In Margate",
+    "type": "Alcohol-Serving Location",
+    "address": "9518 Amherst Avenue, Margate City, New Jersey, 08402",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3246404,
+    "longitude": -74.5190292
+  },
+  {
+    "id": "322c7e00-a86f-54ad-99aa-0f1c0bb36bba",
+    "name": "Merighis Savoy Inn, Lunas Outdoor Bar And Grille",
+    "type": "Alcohol-Serving Location",
+    "address": "4940 LANDIS AVE, VINELAND, NJ, 08360",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.481333,
+    "longitude": -74.9232646
+  },
+  {
+    "id": "7be850a3-2f0b-58c7-b194-78853dff9212",
+    "name": "Merrills",
+    "type": "Alcohol-Serving Location",
+    "address": "1309 Boulevard, Mays Landing, New Jersey, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.435264,
+    "longitude": -74.7358605
+  },
+  {
+    "id": "078715e3-437b-51e1-add4-3a039b14a09f",
+    "name": "Metrotini LLC",
+    "type": "Alcohol-Serving Location",
+    "address": "338 East White Horse Pike, Absecon, New Jersey, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.439872,
+    "longitude": -74.52117
+  },
+  {
+    "id": "d378fc25-8b20-58e6-bdcf-9e893696389c",
+    "name": "Mexico Restaurant",
+    "type": "Alcohol-Serving Location",
+    "address": "3810 VENTNOR AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3507829,
+    "longitude": -74.4560852
+  },
+  {
+    "id": "659c140f-7cf3-5633-bc62-b5f91f01e712",
+    "name": "Miyako Japanese Restaurant Corporation",
+    "type": "Alcohol-Serving Location",
+    "address": "9210 Ventnor Avenue, Margate City, New Jersey, 08402",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.322764,
+    "longitude": -74.5130025
+  },
+  {
+    "id": "307e3f08-143b-5c34-8190-7b31a52ca9b8",
+    "name": "Moments At Scannichhios",
+    "type": "Alcohol-Serving Location",
+    "address": "2647 Fairmount Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.358575,
+    "longitude": -74.4463125
   },
   {
     "id": "ca8ca723-d3b6-5b24-8ea2-089168d6d8ff",
@@ -737,6 +2196,30 @@
     "longitude": -74.4340025
   },
   {
+    "id": "48cb3949-bc57-5015-ad5a-40bbd66d205b",
+    "name": "Mt Vernon Inn And Restaurant LLC",
+    "type": "Alcohol-Serving Location",
+    "address": "16 Mt Vernon Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License with Broad C; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.361347,
+    "longitude": -74.4317505
+  },
+  {
+    "id": "fd5e5199-9f1a-5276-91ec-3cb075687695",
+    "name": "Muncie Restaurant & Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "528 North Harding Highway, Vineland, New Jersey, 08360",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.5377658,
+    "longitude": -74.9530647
+  },
+  {
     "id": "579c8c27-97fe-5cc1-b8ad-a2e8c275a55a",
     "name": "Nucky's Kitchen & Speakeasy",
     "type": "Alcohol-Serving Location",
@@ -746,6 +2229,18 @@
     "confidence": "medium",
     "latitude": 39.3437063,
     "longitude": -74.4713285
+  },
+  {
+    "id": "c7308eca-a38a-52ad-98ef-f8f523d2ad83",
+    "name": "Nuso Cucina",
+    "type": "Alcohol-Serving Location",
+    "address": "137 South New York Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License with Broad C; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.359394,
+    "longitude": -74.427642
   },
   {
     "id": "8ee338c7-2653-5b1e-8d2c-2a80b4c4cc06",
@@ -759,6 +2254,42 @@
     "longitude": -74.573084
   },
   {
+    "id": "77f43fea-fc6f-5f96-a061-abeb007b215f",
+    "name": "Oh St Joseph Resort Hotel",
+    "type": "Alcohol-Serving Location",
+    "address": "8029 Black Horse Pike, Pleasantville, New Jersey, 08232",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Hotel/Motel License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.377448,
+    "longitude": -74.4909975
+  },
+  {
+    "id": "7c13a92d-eea6-52f8-a7b0-fe6d25065785",
+    "name": "Outback Steakhouse",
+    "type": "Alcohol-Serving Location",
+    "address": "4231 Black Horse Pike, Mays Landing, New Jersey, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.445542,
+    "longitude": -74.6278785
+  },
+  {
+    "id": "b6ced44c-bd24-5895-baf6-c4b9feaf62cf",
+    "name": "Oyster Creek Restaurant And Boat Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "41 North Oyster Creek Road, Galloway, New Jersey, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.504888,
+    "longitude": -74.4164595
+  },
+  {
     "id": "f634acc2-dfd0-56cb-8ccb-00406fad6a19",
     "name": "Oyster Creek Tavern",
     "type": "Alcohol-Serving Location",
@@ -768,6 +2299,42 @@
     "confidence": "medium",
     "latitude": 39.5048446,
     "longitude": -74.4164973
+  },
+  {
+    "id": "fa52c9a5-0eef-5c7d-a3a3-33a32c64c55b",
+    "name": "Pablo",
+    "type": "Alcohol-Serving Location",
+    "address": "101 E MARYLAND AVE, SOMERS POINT, NJ, 08244",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3189179,
+    "longitude": -74.5895957
+  },
+  {
+    "id": "e96a2a8e-ed2b-5512-9fd1-971757350123",
+    "name": "Palace Restaurant & Outfitters LLC",
+    "type": "Alcohol-Serving Location",
+    "address": "6924 BLACK HORSE PIKE, MAYS LANDING, NJ, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.5128963,
+    "longitude": -74.7777834
+  },
+  {
+    "id": "cbdc4b06-d984-587d-a207-6d836824815f",
+    "name": "Panchos Tacos",
+    "type": "Alcohol-Serving Location",
+    "address": "2303 Arctic Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.359205,
+    "longitude": -74.4407505
   },
   {
     "id": "c3540e1a-e3bd-5a5b-8280-dfcbbff0e575",
@@ -792,6 +2359,18 @@
     "longitude": -74.4330471
   },
   {
+    "id": "e2bc7bb8-ca5d-5582-8110-a934c39dcc08",
+    "name": "Pickwickan Tavern",
+    "type": "Alcohol-Serving Location",
+    "address": "1252 Harding Highway, Richland, New Jersey, 08350",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.492927,
+    "longitude": -74.8740375
+  },
+  {
     "id": "a14b234e-31c9-5edf-b1fb-db65cdbdef98",
     "name": "Pickwickian Grill",
     "type": "Alcohol-Serving Location",
@@ -803,6 +2382,30 @@
     "longitude": -74.8740179
   },
   {
+    "id": "8daf30e4-9009-58d9-a9e9-f66d8d2a0e6c",
+    "name": "Pike Wines & Liquors",
+    "type": "Alcohol-Serving Location",
+    "address": "111 N WHITE HORSE PIKE, HAMMONTON, NJ, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License with Broad C; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.6498914,
+    "longitude": -74.7922073
+  },
+  {
+    "id": "b141a530-1572-5d01-a51d-70c3e39e8075",
+    "name": "Pitney Pub",
+    "type": "Alcohol-Serving Location",
+    "address": "200 South Pitney Road, Galloway, New Jersey, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.471831,
+    "longitude": -74.492172
+  },
+  {
     "id": "79350ed0-01f7-5f1d-91a3-932f2adfd914",
     "name": "Planet Rose Karaoke Bar",
     "type": "Alcohol-Serving Location",
@@ -812,6 +2415,18 @@
     "confidence": "medium",
     "latitude": 39.3533459,
     "longitude": -74.446027
+  },
+  {
+    "id": "67347f6f-1368-593c-9ef8-ab1ed77610e8",
+    "name": "Plaza Hotel On The Pike",
+    "type": "Alcohol-Serving Location",
+    "address": "6811 BLACK HORSE PIKE, EGG HARBOR TOWNSHIP, NJ, 08234",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Hotel/Motel License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3963798,
+    "longitude": -74.5476393
   },
   {
     "id": "b5e1eac0-1d1b-5590-a4dc-03efb7498af8",
@@ -836,6 +2451,18 @@
     "longitude": -74.4346427
   },
   {
+    "id": "b474111b-b83d-5ddd-9e72-c9958aa007be",
+    "name": "Proud Marys Sports Bar & Grill",
+    "type": "Alcohol-Serving Location",
+    "address": "3207 Fairmount Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.356055,
+    "longitude": -74.4526035
+  },
+  {
     "id": "22db868b-7e3e-5057-9467-2baff1d14a22",
     "name": "Purple Zebra",
     "type": "Alcohol-Serving Location",
@@ -845,6 +2472,18 @@
     "confidence": "medium",
     "latitude": 39.3516568,
     "longitude": -74.445521
+  },
+  {
+    "id": "67832147-7003-5eae-9878-d33c83d85512",
+    "name": "Railroad Bar & Grill LLC",
+    "type": "Alcohol-Serving Location",
+    "address": "18 RAILROAD AVE, HAMMONTON, NJ, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.6350477,
+    "longitude": -74.8048651
   },
   {
     "id": "87f404f0-cc81-5c15-979a-9f0f17acad48",
@@ -858,6 +2497,90 @@
     "longitude": -74.4416419
   },
   {
+    "id": "35390c88-d623-539a-a1bd-1050e7ace809",
+    "name": "Rainforest Cafe",
+    "type": "Alcohol-Serving Location",
+    "address": "2201 BOARDWALK, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3545581,
+    "longitude": -74.4361829
+  },
+  {
+    "id": "30b01592-de72-5fae-8471-afd028774d1f",
+    "name": "Red Lobster #575",
+    "type": "Alcohol-Serving Location",
+    "address": "4411 BLACK HORSE PIKE, MAYS LANDING, NJ, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.451183,
+    "longitude": -74.64351
+  },
+  {
+    "id": "ebac1af6-b7aa-53f4-b3f9-0fd731f0f34f",
+    "name": "Reddogs Hi Point Pub",
+    "type": "Alcohol-Serving Location",
+    "address": "5 Shore Road, Absecon, New Jersey, 08201",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.423726,
+    "longitude": -74.4991515
+  },
+  {
+    "id": "697c6456-e87d-51a3-881f-01dc47b1249c",
+    "name": "Renault Winery Resort House Of Renault Vineyard National Fluer Cafe & Market Renault Winery & Champagne House",
+    "type": "Alcohol-Serving Location",
+    "address": "2111 Bremen Avenue, Egg Harbor City, New Jersey, 08215",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.547332,
+    "longitude": -74.603574
+  },
+  {
+    "id": "37243fbc-a47a-594c-ad39-328cd9ebf83f",
+    "name": "Ricca Brothers Brick Oven Bread Factory & Pizzeria",
+    "type": "Alcohol-Serving Location",
+    "address": "104 FAIRVIEW AVE, HAMMONTON, NJ, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.6396007,
+    "longitude": -74.8105629
+  },
+  {
+    "id": "f52ba89a-22b4-51a4-95da-6593fcfe1062",
+    "name": "Roberts Place",
+    "type": "Alcohol-Serving Location",
+    "address": "7807 ATLANTIC AVE, MARGATE CITY, NJ, 08402",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3295805,
+    "longitude": -74.4961823
+  },
+  {
+    "id": "070818fa-95da-5730-bddc-38a05de53e88",
+    "name": "Root Cellar Tavern",
+    "type": "Alcohol-Serving Location",
+    "address": "38 Tuckahoe Road, Dorothy, New Jersey, 08317",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.408327,
+    "longitude": -74.830914
+  },
+  {
     "id": "d8a04b14-247c-563f-a4f1-0a1d2343f11d",
     "name": "Rush Lounge",
     "type": "Alcohol-Serving Location",
@@ -867,6 +2590,42 @@
     "confidence": "medium",
     "latitude": 39.3797736,
     "longitude": -74.4279755
+  },
+  {
+    "id": "042052fd-d5d6-574e-a92a-f0d02f24cac0",
+    "name": "Ryfe Lounge",
+    "type": "Alcohol-Serving Location",
+    "address": "4101 Atlantic Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.348207,
+    "longitude": -74.458359
+  },
+  {
+    "id": "aefded01-20e1-58cd-bd22-ffefcd73c082",
+    "name": "Sakura Japanese Steak Seafood & Sushi Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "4215 Black Horse Pike, Mays Landing, New Jersey, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.446829,
+    "longitude": -74.626695
+  },
+  {
+    "id": "9dad36c8-78b4-5044-9924-c13b42c75abe",
+    "name": "Saltwater Simply Italian",
+    "type": "Alcohol-Serving Location",
+    "address": "9401 Ventnor Avenue, Margate City, New Jersey, 08402",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.32199,
+    "longitude": -74.5150815
   },
   {
     "id": "b0fd2507-d157-554e-92d8-fa72e53f8a87",
@@ -880,15 +2639,76 @@
     "longitude": -74.5219421
   },
   {
-    "id": "ea2e79be-f66e-5bbc-9451-e91df40dd788",
-    "name": "Siren’s Bar and Grill",
+    "id": "e81f8ba0-3560-5868-8c8b-8572de492b5a",
+    "name": "Santuccis Pizza Of Ventnor",
     "type": "Alcohol-Serving Location",
-    "address": "447 Carson Avenue, Atlantic City, NJ",
+    "address": "6413 Ventnor Avenue, Ventnor City, New Jersey, 08406",
     "county": "Atlantic",
-    "source": "OpenStreetMap contributors",
-    "confidence": "medium",
-    "latitude": 39.3762407,
-    "longitude": -74.4232959
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.338145,
+    "longitude": -74.482974
+  },
+  {
+    "id": "7eb8517e-e9f1-5c33-85e7-d4d4919c6cd7",
+    "name": "Schiff Enterprises",
+    "type": "Alcohol-Serving Location",
+    "address": "1410 BOARDWALK, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3557321,
+    "longitude": -74.4310734
+  },
+  {
+    "id": "03dc46ad-d288-5abd-8ccc-cb350e0a072d",
+    "name": "Seaview Hotel",
+    "type": "Alcohol-Serving Location",
+    "address": "401 New York Road, Absecon, New Jersey, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.449673,
+    "longitude": -74.473416
+  },
+  {
+    "id": "780b6632-e492-5c6b-96e1-aa6d3aaaa873",
+    "name": "Sheraton Atlantic City Convention Center Hotel",
+    "type": "Alcohol-Serving Location",
+    "address": "2 Convention Boulevard, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.36213,
+    "longitude": -74.4385545
+  },
+  {
+    "id": "ce5b828c-8da7-5430-a91a-8193e1e50c1d",
+    "name": "Shore Diner",
+    "type": "Alcohol-Serving Location",
+    "address": "6710 TILTON RD, EGG HARBOR TOWNSHIP, NJ, 08234",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3973073,
+    "longitude": -74.5604218
+  },
+  {
+    "id": "d81fd6a9-01cf-5e23-9368-61cd400e6f7a",
+    "name": "Sirens Bar And Grill",
+    "type": "Alcohol-Serving Location",
+    "address": "447 CARSON AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3763351,
+    "longitude": -74.4227719
   },
   {
     "id": "be93da0e-ddd2-575a-80a2-364764a2cc96",
@@ -902,6 +2722,42 @@
     "longitude": -74.6035346
   },
   {
+    "id": "d7a10b27-b39f-5ebd-b46c-d1c1f94c7829",
+    "name": "Sons Of Italy 1658",
+    "type": "Alcohol-Serving Location",
+    "address": "427 N 3RD ST, HAMMONTON, NJ, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.640821,
+    "longitude": -74.8071225
+  },
+  {
+    "id": "473c0b13-3cf2-5b3e-8bf4-5490cf5bb4b2",
+    "name": "Sophia",
+    "type": "Alcohol-Serving Location",
+    "address": "9314 Amherst Avenue, Margate City, New Jersey, 08402",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.32523,
+    "longitude": -74.5176195
+  },
+  {
+    "id": "3828bd65-1410-5e8f-bb9a-ecdda9347675",
+    "name": "South Beach Beer Garden Ac",
+    "type": "Alcohol-Serving Location",
+    "address": "3215 Boardwalk, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3505557,
+    "longitude": -74.4484045
+  },
+  {
     "id": "9d0b74cc-08af-5dd2-9856-15d33658c6a3",
     "name": "Starlite Garden",
     "type": "Alcohol-Serving Location",
@@ -911,6 +2767,66 @@
     "confidence": "medium",
     "latitude": 39.3253541,
     "longitude": -74.5175696
+  },
+  {
+    "id": "87708df5-eea8-5052-9d7b-7d76e574d35b",
+    "name": "Stern Light Inn Inc",
+    "type": "Alcohol-Serving Location",
+    "address": "40 East Black Horse Pike, Hammonton, New Jersey, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.601908,
+    "longitude": -74.8730115
+  },
+  {
+    "id": "e0dda18b-f26f-519e-8657-ba8857fbed43",
+    "name": "Steve And Cookies' By The Bay",
+    "type": "Alcohol-Serving Location",
+    "address": "9700 Amherst Avenue, Margate City, New Jersey, 08402",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.323484,
+    "longitude": -74.520585
+  },
+  {
+    "id": "5e15e8e1-4b78-557f-97c5-042375f35f44",
+    "name": "Sunrise Wine & Tequila Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "9700 Ventnor Avenue, Margate City, New Jersey, 08402",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.320172,
+    "longitude": -74.517309
+  },
+  {
+    "id": "379479b0-a6bf-5313-857c-056f910fa0bb",
+    "name": "Tacos El Tio",
+    "type": "Alcohol-Serving Location",
+    "address": "6400 BLACK HORSE PIKE, EGG HARBOR TOWNSHIP, NJ, 08234",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.424755,
+    "longitude": -74.5932715
+  },
+  {
+    "id": "fc7a3aae-2005-51e0-9fb8-bf7e60db44ff",
+    "name": "Tailgaters Grille",
+    "type": "Alcohol-Serving Location",
+    "address": "337 West White Horse Pike, Galloway, New Jersey, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4672756,
+    "longitude": -74.558898
   },
   {
     "id": "8b2a8c00-715b-5e25-ad57-ade406d96aae",
@@ -924,15 +2840,28 @@
     "longitude": -74.4457751
   },
   {
-    "id": "1d5351b7-d332-5676-86fb-bd8bd1834df8",
-    "name": "The Anchorage Tavern Restaurant",
+    "id": "1a33d949-56db-55a9-ba2b-1a73732292bf",
+    "name": "Texas Roadhouse",
     "type": "Alcohol-Serving Location",
-    "address": "823 Bay Ave, NJ",
+    "address": "6801 Black Horse Pike, Egg Harbor Township, New Jersey, 08234",
     "county": "Atlantic",
-    "source": "OpenStreetMap contributors",
-    "confidence": "medium",
-    "latitude": 39.3107693,
-    "longitude": -74.5948116
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.396204,
+    "longitude": -74.5526115
+  },
+  {
+    "id": "83256111-cf5c-5f33-98b6-ddcce0dcfbb8",
+    "name": "The Atlantic City Bar And Grill",
+    "type": "Alcohol-Serving Location",
+    "address": "1217 Pacific Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.361428,
+    "longitude": -74.4256215
   },
   {
     "id": "fdca64dd-2937-5ebf-9146-feb3f38c1411",
@@ -946,6 +2875,30 @@
     "longitude": -74.4266418
   },
   {
+    "id": "8a49b2ae-254d-5567-9161-d860aef96e45",
+    "name": "The Bus Stop Nightclub LLC",
+    "type": "Alcohol-Serving Location",
+    "address": "3417 White Horse Pike, Hammonton, New Jersey, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.60162,
+    "longitude": -74.7529785
+  },
+  {
+    "id": "33ad60a9-30da-5da3-aa39-880331b8fadb",
+    "name": "The Carriage House",
+    "type": "Alcohol-Serving Location",
+    "address": "25 South Pitney Road, Galloway, New Jersey, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.493746,
+    "longitude": -74.4896385
+  },
+  {
     "id": "06b6bc1e-e597-54aa-80c5-800cd351da2d",
     "name": "The Cellar 32",
     "type": "Alcohol-Serving Location",
@@ -955,6 +2908,42 @@
     "confidence": "medium",
     "latitude": 39.3954732,
     "longitude": -74.3872094
+  },
+  {
+    "id": "99a380d5-afc2-5f15-aa98-8976e7651ccb",
+    "name": "The Chelsea Pub & Inn",
+    "type": "Alcohol-Serving Location",
+    "address": "10 South Morris Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License with Broad C; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3538933,
+    "longitude": -74.4479369
+  },
+  {
+    "id": "7b868536-e8c1-54cb-9cda-5b918e104171",
+    "name": "The Claridge Hotel",
+    "type": "Alcohol-Serving Location",
+    "address": "123 S INDIANA AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3569403,
+    "longitude": -74.4309031
+  },
+  {
+    "id": "1a5cb6f6-e4e0-5d4e-82ed-7df5c6a2e384",
+    "name": "The Cove",
+    "type": "Alcohol-Serving Location",
+    "address": "3700 ATLANTIC BRIGANTINE BLVD, BRIGANTINE, NJ, 08203",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3946605,
+    "longitude": -74.3921121
   },
   {
     "id": "49f9d4df-30d9-54a6-b3dc-5a92d123155d",
@@ -968,6 +2957,42 @@
     "longitude": -74.427208
   },
   {
+    "id": "28715815-930e-5d61-a345-1df9e22d5daf",
+    "name": "The Docs Place At Harbour Cove",
+    "type": "Alcohol-Serving Location",
+    "address": "646 BAY AVE, SOMERS POINT, NJ, 08244",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3142575,
+    "longitude": -74.5906803
+  },
+  {
+    "id": "4d69dfb5-d03e-53be-96a4-00b9b86fe5cd",
+    "name": "The Harbor Diner",
+    "type": "Alcohol-Serving Location",
+    "address": "613 WHITE HORSE PIKE, EGG HARBOR CITY, NJ, 08215",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.5283551,
+    "longitude": -74.6468578
+  },
+  {
+    "id": "68a5deec-73b3-5fd7-ac36-1d56bc85cccc",
+    "name": "The Inn On St Louis",
+    "type": "Alcohol-Serving Location",
+    "address": "446 SAINT LOUIS AVE, EGG HARBOR CITY, NJ, 08215",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.5303905,
+    "longitude": -74.6379227
+  },
+  {
     "id": "66432a27-2f61-5447-9765-81ab3e73a91f",
     "name": "The Lobby Bar",
     "type": "Alcohol-Serving Location",
@@ -977,6 +3002,78 @@
     "confidence": "medium",
     "latitude": 39.3606792,
     "longitude": -74.4203488
+  },
+  {
+    "id": "475eef39-dd45-595d-9f62-1ffba3c540a1",
+    "name": "The Main Event",
+    "type": "Alcohol-Serving Location",
+    "address": "6760 Harding Highway, Mays Landing, New Jersey, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.466152,
+    "longitude": -74.806884
+  },
+  {
+    "id": "36d6df90-1ab8-5551-a818-cd155ab9ce71",
+    "name": "The Motts Creek Inn",
+    "type": "Alcohol-Serving Location",
+    "address": "200 East Motts Creek Road, Absecon, New Jersey, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.518595,
+    "longitude": -74.436525
+  },
+  {
+    "id": "23f5acb6-38be-574b-b6af-53157246c47d",
+    "name": "The Olive Garden Italian Restaurant #1482",
+    "type": "Alcohol-Serving Location",
+    "address": "4403 Black Horse Pike, Mays Landing, New Jersey, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.453804,
+    "longitude": -74.643282
+  },
+  {
+    "id": "a710de04-8aa7-56fc-a72e-034bd255b1e4",
+    "name": "The Pub At St George",
+    "type": "Alcohol-Serving Location",
+    "address": "4282 HARBOUR BEACH BLVD, BRIGANTINE, NJ, 08203",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3935702,
+    "longitude": -74.3975696
+  },
+  {
+    "id": "941cdbbc-fbe4-5dee-b671-e852a2677029",
+    "name": "The Seahaus Hotel",
+    "type": "Alcohol-Serving Location",
+    "address": "110 S MORRIS AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3523698,
+    "longitude": -74.4469053
+  },
+  {
+    "id": "42ae260c-24ca-5735-a307-74769bf7ef12",
+    "name": "The View",
+    "type": "Alcohol-Serving Location",
+    "address": "550 Country Club Drive, Egg Harbor City, New Jersey, 08215",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.485826,
+    "longitude": -74.604411
   },
   {
     "id": "ceef4258-1982-5ec3-9176-f03d543fec5c",
@@ -1001,6 +3098,18 @@
     "longitude": -74.4275141
   },
   {
+    "id": "5c96ae7c-57e1-5cf8-84c4-b7c861c9bfad",
+    "name": "The Windjammer Diner Bar Grille",
+    "type": "Alcohol-Serving Location",
+    "address": "18 MACARTHUR BLVD, SOMERS POINT, NJ, 08244",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.31089,
+    "longitude": -74.6000343
+  },
+  {
     "id": "7796b61e-83bb-5939-b78a-9be67ed8cf98",
     "name": "The Yard",
     "type": "Alcohol-Serving Location",
@@ -1021,6 +3130,18 @@
     "confidence": "medium",
     "latitude": 39.3652707,
     "longitude": -74.4412784
+  },
+  {
+    "id": "0de837dc-ab92-57f9-8ba3-d77edfdf9895",
+    "name": "Tideline",
+    "type": "Alcohol-Serving Location",
+    "address": "9317 Amherst Avenue, Margate City, New Jersey, 08402",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.325545,
+    "longitude": -74.5180515
   },
   {
     "id": "3fdb5b48-3dd4-5cce-ab69-694edd4b34e3",
@@ -1056,6 +3177,54 @@
     "longitude": -74.4352583
   },
   {
+    "id": "37bb2e9c-1291-5681-b98e-10b5024ba33d",
+    "name": "Tomatoes Restaurant",
+    "type": "Alcohol-Serving Location",
+    "address": "9300 AMHERST AVE, MARGATE CITY, NJ, 08402",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3256729,
+    "longitude": -74.5171342
+  },
+  {
+    "id": "27acb358-424e-5b0f-a109-0ca6a7e9b21d",
+    "name": "Tonys Baltimore Grill",
+    "type": "Alcohol-Serving Location",
+    "address": "2800 Atlantic Avenue, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.354687,
+    "longitude": -74.445732
+  },
+  {
+    "id": "308c6ce8-7ddf-5a3a-aee0-794f1b71b2ff",
+    "name": "Tower Liquors LLC",
+    "type": "Alcohol-Serving Location",
+    "address": "4423 White Horse Pike, Hammonton, New Jersey, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.578634,
+    "longitude": -74.7197505
+  },
+  {
+    "id": "e2b4816b-17e8-5abf-b46b-b42aea0e9e83",
+    "name": "Tun Tavern Restaurant And Brewery",
+    "type": "Alcohol-Serving Location",
+    "address": "2 Convention Boulevard, Atlantic City, New Jersey, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.36213,
+    "longitude": -74.4385545
+  },
+  {
     "id": "9e46937d-86ad-55e6-8ba2-aface08dcbbb",
     "name": "Vagabond AC",
     "type": "Alcohol-Serving Location",
@@ -1065,6 +3234,66 @@
     "confidence": "medium",
     "latitude": 39.3596234,
     "longitude": -74.463152
+  },
+  {
+    "id": "6448f016-e88f-51b0-a402-0be411d76f69",
+    "name": "Vagabond Kitchen & Tap House",
+    "type": "Alcohol-Serving Location",
+    "address": "672 N TRENTON AVE, ATLANTIC CITY, NJ, 08401",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.359465,
+    "longitude": -74.4627299
+  },
+  {
+    "id": "e462c9cd-c5a3-52b5-93bf-fb59038b6eb0",
+    "name": "Ventnor Theatre Ventnor Burger Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "5211 Ventnor Avenue, Ventnor City, New Jersey, 08406",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.343099,
+    "longitude": -74.4722499
+  },
+  {
+    "id": "d6ddb45a-80b7-53f7-b636-4ceb366a4dc1",
+    "name": "Ventura's Off Shore Cafe",
+    "type": "Alcohol-Serving Location",
+    "address": "2015 SHORE RD, NORTHFIELD, NJ, 08225",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3633889,
+    "longitude": -74.5538487
+  },
+  {
+    "id": "bfc45a1b-70ff-5f91-9211-60eb48e8f8ca",
+    "name": "Venturas Greenhouse",
+    "type": "Alcohol-Serving Location",
+    "address": "106 South Benson Avenue, Margate City, New Jersey, 08402",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.321135,
+    "longitude": -74.511081
+  },
+  {
+    "id": "48d864fb-80e2-515e-9829-db1e2cc71f7e",
+    "name": "VFW Cardiff Memorial Post 8098",
+    "type": "Alcohol-Serving Location",
+    "address": "3029 Spruce Avenue, Egg Harbor Twp, New Jersey, 08234",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.415338,
+    "longitude": -74.5849125
   },
   {
     "id": "f87c51a4-8a58-5e69-8e77-9c79800856b3",
@@ -1078,6 +3307,54 @@
     "longitude": -74.426271
   },
   {
+    "id": "09b283a8-2935-5246-a672-2e4c674f2e28",
+    "name": "Villa Fazzolari",
+    "type": "Alcohol-Serving Location",
+    "address": "821 Harding Highway, Buena, New Jersey, 08310",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.510234,
+    "longitude": -74.915928
+  },
+  {
+    "id": "abc49a4c-2dab-514b-9b89-10b4505e8bfc",
+    "name": "Villa Rificis Italian Bar & Grill",
+    "type": "Alcohol-Serving Location",
+    "address": "308 E WHITE HORSE PIKE, ABSECON, NJ, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4425483,
+    "longitude": -74.5233129
+  },
+  {
+    "id": "2ffde6b9-6543-5c3e-89f8-b9beeaefa2b4",
+    "name": "Vincenzos Ristorante",
+    "type": "Alcohol-Serving Location",
+    "address": "28 S NEW YORK RD, GALLOWAY, NJ, 08205",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4911639,
+    "longitude": -74.4580377
+  },
+  {
+    "id": "bf9fed2f-e0a7-5b5f-ac28-3bbf902058f3",
+    "name": "Vive Bene LLC",
+    "type": "Alcohol-Serving Location",
+    "address": "500 W WHITE HORSE PIKE, EGG HARBOR CITY, NJ, 08215",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4896291,
+    "longitude": -74.5914687
+  },
+  {
     "id": "be8db17f-5752-5e16-a39e-fd7d9d313d55",
     "name": "Voodoo Lounge",
     "type": "Alcohol-Serving Location",
@@ -1087,6 +3364,18 @@
     "confidence": "medium",
     "latitude": 39.3850047,
     "longitude": -74.4265339
+  },
+  {
+    "id": "9a42f3f2-5304-5d4c-beb2-3e55eb545751",
+    "name": "Westend Grill & Bar",
+    "type": "Alcohol-Serving Location",
+    "address": "201 12TH ST, HAMMONTON, NJ, 08037",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.6335479,
+    "longitude": -74.8062854
   },
   {
     "id": "1ecee53e-eb67-5f26-9d3a-2ae7f580048c",
@@ -1122,15 +3411,16 @@
     "longitude": -74.418679
   },
   {
-    "id": "ce9a99d6-34cb-53a3-b47c-b682c259feba",
+    "id": "7a54ed05-2777-5c06-abe1-23a952784ab7",
     "name": "Wonder Bar",
     "type": "Alcohol-Serving Location",
-    "address": "3701 Sunset Avenue, Atlantic City, NJ, 08401",
+    "address": "3701 SUNSET AVE, ATLANTIC CITY, NJ, 08401",
     "county": "Atlantic",
-    "source": "OpenStreetMap contributors",
-    "confidence": "medium",
-    "latitude": 39.3530253,
-    "longitude": -74.4566803
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3525891,
+    "longitude": -74.4572457
   },
   {
     "id": "123502aa-7b11-53d5-95ed-42423c6d81b0",
@@ -1142,6 +3432,30 @@
     "confidence": "medium",
     "latitude": 39.3844445,
     "longitude": -74.4278996
+  },
+  {
+    "id": "90be102b-b299-5e89-8dff-f8720cdf69a9",
+    "name": "Yacht Club Of Pleasantville Inc",
+    "type": "Alcohol-Serving Location",
+    "address": "344 E BAYVIEW AVE, PLEASANTVILLE, NJ, 08232",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Club License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.3837751,
+    "longitude": -74.5190098
+  },
+  {
+    "id": "0e9ca7f3-4286-5a90-afe1-6a79048b5257",
+    "name": "Ye Olde Mill Street Pub",
+    "type": "Alcohol-Serving Location",
+    "address": "6033 MAIN ST, MAYS LANDING, NJ, 08330",
+    "county": "Atlantic",
+    "source": "NJ ABC Active Retail Licenses",
+    "notes": "Listed in the NJ ABC July 2026 report as an active Plenary Retail Consumption License; verify current operation and on-premises alcohol service.",
+    "confidence": "high",
+    "latitude": 39.4533675,
+    "longitude": -74.7304766
   },
   {
     "id": "08d38ed1-ce66-53cc-a421-82a99088681e",
