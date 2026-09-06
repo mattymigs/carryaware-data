@@ -1,1 +1,3 @@
 githubPAT.token
+__pycache__/
+*.pyc
