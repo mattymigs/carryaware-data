@@ -1,7 +1,19 @@
 {
   "version": 2,
-  "updated": "2026-09-05T19:05:00-04:00",
+  "updated": "2026-09-19T18:00:00-04:00",
   "updates": [
+    {
+      "id": "federal-handgun-sales-18-20-doj-2026-09-18",
+      "type": "legal",
+      "title": "Federal Handgun Sales Update: Ages 18–20",
+      "summary": "On September 18, 2026, the U.S. Department of Justice announced that its Office of Legal Counsel concluded the federal restriction preventing federally licensed dealers from selling handguns to otherwise-lawful adults ages 18–20 is unconstitutional and cannot be criminally enforced. This is a DOJ legal opinion—not a U.S. Supreme Court ruling—and it does not override state law. As of September 19, updated public ATF dealer guidance was not yet available. New Jersey law remains unchanged: N.J.S.A. 2C:58-3(c)(4) prohibits issuing a permit to purchase a handgun to anyone under 21. Continue following all current New Jersey requirements and applicable dealer guidance.",
+      "category": "Federal Legal Update",
+      "status": "DOJ Opinion; New Jersey Law Unchanged",
+      "date": "2026-09-18",
+      "sourceTitle": "U.S. Department of Justice — Handgun Sales to Adults Ages 18–20",
+      "sourceURL": "https://www.justice.gov/opa/pr/justice-department-concludes-federal-ban-handgun-sales-18-20-year-olds-unconstitutional-and",
+      "isImportant": true
+    },
     {
       "id": "gun-for-hire-duct-tape-flight-2026-09-03",
       "type": "community",
