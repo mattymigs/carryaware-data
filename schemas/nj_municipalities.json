@@ -1,0 +1,3390 @@
+{
+  "source_url": "https://maps.nj.gov/arcgis/rest/services/Framework/Government_Boundaries/MapServer/2",
+  "checked_at": "2026-09-23",
+  "municipalities": [
+    {
+      "municipality": "Absecon City",
+      "municipality_type": "City",
+      "county": "Atlantic",
+      "municipality_code": "0101"
+    },
+    {
+      "municipality": "Atlantic City",
+      "municipality_type": "City",
+      "county": "Atlantic",
+      "municipality_code": "0102"
+    },
+    {
+      "municipality": "Brigantine City",
+      "municipality_type": "City",
+      "county": "Atlantic",
+      "municipality_code": "0103"
+    },
+    {
+      "municipality": "Buena Borough",
+      "municipality_type": "Borough",
+      "county": "Atlantic",
+      "municipality_code": "0104"
+    },
+    {
+      "municipality": "Buena Vista Township",
+      "municipality_type": "Township",
+      "county": "Atlantic",
+      "municipality_code": "0105"
+    },
+    {
+      "municipality": "Corbin City",
+      "municipality_type": "City",
+      "county": "Atlantic",
+      "municipality_code": "0106"
+    },
+    {
+      "municipality": "Egg Harbor City",
+      "municipality_type": "City",
+      "county": "Atlantic",
+      "municipality_code": "0107"
+    },
+    {
+      "municipality": "Egg Harbor Township",
+      "municipality_type": "Township",
+      "county": "Atlantic",
+      "municipality_code": "0108"
+    },
+    {
+      "municipality": "Estell Manor City",
+      "municipality_type": "City",
+      "county": "Atlantic",
+      "municipality_code": "0109"
+    },
+    {
+      "municipality": "Folsom Borough",
+      "municipality_type": "Borough",
+      "county": "Atlantic",
+      "municipality_code": "0110"
+    },
+    {
+      "municipality": "Galloway Township",
+      "municipality_type": "Township",
+      "county": "Atlantic",
+      "municipality_code": "0111"
+    },
+    {
+      "municipality": "Hamilton Township",
+      "municipality_type": "Township",
+      "county": "Atlantic",
+      "municipality_code": "0112"
+    },
+    {
+      "municipality": "Hammonton Town",
+      "municipality_type": "Town",
+      "county": "Atlantic",
+      "municipality_code": "0113"
+    },
+    {
+      "municipality": "Linwood City",
+      "municipality_type": "City",
+      "county": "Atlantic",
+      "municipality_code": "0114"
+    },
+    {
+      "municipality": "Longport Borough",
+      "municipality_type": "Borough",
+      "county": "Atlantic",
+      "municipality_code": "0115"
+    },
+    {
+      "municipality": "Margate City",
+      "municipality_type": "City",
+      "county": "Atlantic",
+      "municipality_code": "0116"
+    },
+    {
+      "municipality": "Mullica Township",
+      "municipality_type": "Township",
+      "county": "Atlantic",
+      "municipality_code": "0117"
+    },
+    {
+      "municipality": "Northfield City",
+      "municipality_type": "City",
+      "county": "Atlantic",
+      "municipality_code": "0118"
+    },
+    {
+      "municipality": "Pleasantville City",
+      "municipality_type": "City",
+      "county": "Atlantic",
+      "municipality_code": "0119"
+    },
+    {
+      "municipality": "Port Republic City",
+      "municipality_type": "City",
+      "county": "Atlantic",
+      "municipality_code": "0120"
+    },
+    {
+      "municipality": "Somers Point City",
+      "municipality_type": "City",
+      "county": "Atlantic",
+      "municipality_code": "0121"
+    },
+    {
+      "municipality": "Ventnor City",
+      "municipality_type": "City",
+      "county": "Atlantic",
+      "municipality_code": "0122"
+    },
+    {
+      "municipality": "Weymouth Township",
+      "municipality_type": "Township",
+      "county": "Atlantic",
+      "municipality_code": "0123"
+    },
+    {
+      "municipality": "Allendale Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0201"
+    },
+    {
+      "municipality": "Alpine Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0202"
+    },
+    {
+      "municipality": "Bergenfield Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0203"
+    },
+    {
+      "municipality": "Bogota Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0204"
+    },
+    {
+      "municipality": "Carlstadt Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0205"
+    },
+    {
+      "municipality": "Cliffside Park Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0206"
+    },
+    {
+      "municipality": "Closter Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0207"
+    },
+    {
+      "municipality": "Cresskill Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0208"
+    },
+    {
+      "municipality": "Demarest Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0209"
+    },
+    {
+      "municipality": "Dumont Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0210"
+    },
+    {
+      "municipality": "East Rutherford Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0212"
+    },
+    {
+      "municipality": "Edgewater Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0213"
+    },
+    {
+      "municipality": "Elmwood Park Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0211"
+    },
+    {
+      "municipality": "Emerson Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0214"
+    },
+    {
+      "municipality": "Englewood City",
+      "municipality_type": "City",
+      "county": "Bergen",
+      "municipality_code": "0215"
+    },
+    {
+      "municipality": "Englewood Cliffs Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0216"
+    },
+    {
+      "municipality": "Fair Lawn Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0217"
+    },
+    {
+      "municipality": "Fairview Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0218"
+    },
+    {
+      "municipality": "Fort Lee Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0219"
+    },
+    {
+      "municipality": "Franklin Lakes Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0220"
+    },
+    {
+      "municipality": "Garfield City",
+      "municipality_type": "City",
+      "county": "Bergen",
+      "municipality_code": "0221"
+    },
+    {
+      "municipality": "Glen Rock Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0222"
+    },
+    {
+      "municipality": "Hackensack City",
+      "municipality_type": "City",
+      "county": "Bergen",
+      "municipality_code": "0223"
+    },
+    {
+      "municipality": "Harrington Park Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0224"
+    },
+    {
+      "municipality": "Hasbrouck Heights Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0225"
+    },
+    {
+      "municipality": "Haworth Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0226"
+    },
+    {
+      "municipality": "Hillsdale Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0227"
+    },
+    {
+      "municipality": "Ho-Ho-Kus Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0228"
+    },
+    {
+      "municipality": "Leonia Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0229"
+    },
+    {
+      "municipality": "Little Ferry Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0230"
+    },
+    {
+      "municipality": "Lodi Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0231"
+    },
+    {
+      "municipality": "Lyndhurst Township",
+      "municipality_type": "Township",
+      "county": "Bergen",
+      "municipality_code": "0232"
+    },
+    {
+      "municipality": "Mahwah Township",
+      "municipality_type": "Township",
+      "county": "Bergen",
+      "municipality_code": "0233"
+    },
+    {
+      "municipality": "Maywood Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0234"
+    },
+    {
+      "municipality": "Midland Park Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0235"
+    },
+    {
+      "municipality": "Montvale Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0236"
+    },
+    {
+      "municipality": "Moonachie Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0237"
+    },
+    {
+      "municipality": "New Milford Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0238"
+    },
+    {
+      "municipality": "North Arlington Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0239"
+    },
+    {
+      "municipality": "Northvale Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0240"
+    },
+    {
+      "municipality": "Norwood Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0241"
+    },
+    {
+      "municipality": "Oakland Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0242"
+    },
+    {
+      "municipality": "Old Tappan Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0243"
+    },
+    {
+      "municipality": "Oradell Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0244"
+    },
+    {
+      "municipality": "Palisades Park Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0245"
+    },
+    {
+      "municipality": "Paramus Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0246"
+    },
+    {
+      "municipality": "Park Ridge Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0247"
+    },
+    {
+      "municipality": "Ramsey Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0248"
+    },
+    {
+      "municipality": "Ridgefield Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0249"
+    },
+    {
+      "municipality": "Ridgefield Park Village",
+      "municipality_type": "Village",
+      "county": "Bergen",
+      "municipality_code": "0250"
+    },
+    {
+      "municipality": "Ridgewood Village",
+      "municipality_type": "Village",
+      "county": "Bergen",
+      "municipality_code": "0251"
+    },
+    {
+      "municipality": "River Edge Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0252"
+    },
+    {
+      "municipality": "River Vale Township",
+      "municipality_type": "Township",
+      "county": "Bergen",
+      "municipality_code": "0253"
+    },
+    {
+      "municipality": "Rochelle Park Township",
+      "municipality_type": "Township",
+      "county": "Bergen",
+      "municipality_code": "0254"
+    },
+    {
+      "municipality": "Rockleigh Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0255"
+    },
+    {
+      "municipality": "Rutherford Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0256"
+    },
+    {
+      "municipality": "Saddle Brook Township",
+      "municipality_type": "Township",
+      "county": "Bergen",
+      "municipality_code": "0257"
+    },
+    {
+      "municipality": "Saddle River Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0258"
+    },
+    {
+      "municipality": "South Hackensack Township",
+      "municipality_type": "Township",
+      "county": "Bergen",
+      "municipality_code": "0259"
+    },
+    {
+      "municipality": "Teaneck Township",
+      "municipality_type": "Township",
+      "county": "Bergen",
+      "municipality_code": "0260"
+    },
+    {
+      "municipality": "Tenafly Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0261"
+    },
+    {
+      "municipality": "Teterboro Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0262"
+    },
+    {
+      "municipality": "Upper Saddle River Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0263"
+    },
+    {
+      "municipality": "Waldwick Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0264"
+    },
+    {
+      "municipality": "Wallington Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0265"
+    },
+    {
+      "municipality": "Washington Township",
+      "municipality_type": "Township",
+      "county": "Bergen",
+      "municipality_code": "0266"
+    },
+    {
+      "municipality": "Westwood Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0267"
+    },
+    {
+      "municipality": "Wood-Ridge Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0269"
+    },
+    {
+      "municipality": "Woodcliff Lake Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0268"
+    },
+    {
+      "municipality": "Wyckoff Township",
+      "municipality_type": "Township",
+      "county": "Bergen",
+      "municipality_code": "0270"
+    },
+    {
+      "municipality": "Bass River Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0301"
+    },
+    {
+      "municipality": "Beverly City",
+      "municipality_type": "City",
+      "county": "Burlington",
+      "municipality_code": "0302"
+    },
+    {
+      "municipality": "Bordentown City",
+      "municipality_type": "City",
+      "county": "Burlington",
+      "municipality_code": "0303"
+    },
+    {
+      "municipality": "Bordentown Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0304"
+    },
+    {
+      "municipality": "Burlington City",
+      "municipality_type": "City",
+      "county": "Burlington",
+      "municipality_code": "0305"
+    },
+    {
+      "municipality": "Burlington Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0306"
+    },
+    {
+      "municipality": "Chesterfield Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0307"
+    },
+    {
+      "municipality": "Cinnaminson Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0308"
+    },
+    {
+      "municipality": "Delanco Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0309"
+    },
+    {
+      "municipality": "Delran Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0310"
+    },
+    {
+      "municipality": "Eastampton Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0311"
+    },
+    {
+      "municipality": "Edgewater Park Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0312"
+    },
+    {
+      "municipality": "Evesham Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0313"
+    },
+    {
+      "municipality": "Fieldsboro Borough",
+      "municipality_type": "Borough",
+      "county": "Burlington",
+      "municipality_code": "0314"
+    },
+    {
+      "municipality": "Florence Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0315"
+    },
+    {
+      "municipality": "Hainesport Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0316"
+    },
+    {
+      "municipality": "Lumberton Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0317"
+    },
+    {
+      "municipality": "Mansfield Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0318"
+    },
+    {
+      "municipality": "Maple Shade Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0319"
+    },
+    {
+      "municipality": "Medford Lakes Borough",
+      "municipality_type": "Borough",
+      "county": "Burlington",
+      "municipality_code": "0321"
+    },
+    {
+      "municipality": "Medford Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0320"
+    },
+    {
+      "municipality": "Moorestown Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0322"
+    },
+    {
+      "municipality": "Mount Holly Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0323"
+    },
+    {
+      "municipality": "Mount Laurel Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0324"
+    },
+    {
+      "municipality": "New Hanover Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0325"
+    },
+    {
+      "municipality": "North Hanover Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0326"
+    },
+    {
+      "municipality": "Palmyra Borough",
+      "municipality_type": "Borough",
+      "county": "Burlington",
+      "municipality_code": "0327"
+    },
+    {
+      "municipality": "Pemberton Borough",
+      "municipality_type": "Borough",
+      "county": "Burlington",
+      "municipality_code": "0328"
+    },
+    {
+      "municipality": "Pemberton Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0329"
+    },
+    {
+      "municipality": "Riverside Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0330"
+    },
+    {
+      "municipality": "Riverton Borough",
+      "municipality_type": "Borough",
+      "county": "Burlington",
+      "municipality_code": "0331"
+    },
+    {
+      "municipality": "Shamong Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0332"
+    },
+    {
+      "municipality": "Southampton Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0333"
+    },
+    {
+      "municipality": "Springfield Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0334"
+    },
+    {
+      "municipality": "Tabernacle Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0335"
+    },
+    {
+      "municipality": "Washington Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0336"
+    },
+    {
+      "municipality": "Westampton Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0337"
+    },
+    {
+      "municipality": "Willingboro Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0338"
+    },
+    {
+      "municipality": "Woodland Township",
+      "municipality_type": "Township",
+      "county": "Burlington",
+      "municipality_code": "0339"
+    },
+    {
+      "municipality": "Wrightstown Borough",
+      "municipality_type": "Borough",
+      "county": "Burlington",
+      "municipality_code": "0340"
+    },
+    {
+      "municipality": "Audubon Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0401"
+    },
+    {
+      "municipality": "Audubon Park Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0402"
+    },
+    {
+      "municipality": "Barrington Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0403"
+    },
+    {
+      "municipality": "Bellmawr Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0404"
+    },
+    {
+      "municipality": "Berlin Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0405"
+    },
+    {
+      "municipality": "Berlin Township",
+      "municipality_type": "Township",
+      "county": "Camden",
+      "municipality_code": "0406"
+    },
+    {
+      "municipality": "Brooklawn Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0407"
+    },
+    {
+      "municipality": "Camden City",
+      "municipality_type": "City",
+      "county": "Camden",
+      "municipality_code": "0408"
+    },
+    {
+      "municipality": "Cherry Hill Township",
+      "municipality_type": "Township",
+      "county": "Camden",
+      "municipality_code": "0409"
+    },
+    {
+      "municipality": "Chesilhurst Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0410"
+    },
+    {
+      "municipality": "Clementon Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0411"
+    },
+    {
+      "municipality": "Collingswood Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0412"
+    },
+    {
+      "municipality": "Gibbsboro Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0413"
+    },
+    {
+      "municipality": "Gloucester City",
+      "municipality_type": "City",
+      "county": "Camden",
+      "municipality_code": "0414"
+    },
+    {
+      "municipality": "Gloucester Township",
+      "municipality_type": "Township",
+      "county": "Camden",
+      "municipality_code": "0415"
+    },
+    {
+      "municipality": "Haddon Heights Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0418"
+    },
+    {
+      "municipality": "Haddon Township",
+      "municipality_type": "Township",
+      "county": "Camden",
+      "municipality_code": "0416"
+    },
+    {
+      "municipality": "Haddonfield Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0417"
+    },
+    {
+      "municipality": "Hi-Nella Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0419"
+    },
+    {
+      "municipality": "Laurel Springs Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0420"
+    },
+    {
+      "municipality": "Lawnside Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0421"
+    },
+    {
+      "municipality": "Lindenwold Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0422"
+    },
+    {
+      "municipality": "Magnolia Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0423"
+    },
+    {
+      "municipality": "Merchantville Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0424"
+    },
+    {
+      "municipality": "Mount Ephraim Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0425"
+    },
+    {
+      "municipality": "Oaklyn Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0426"
+    },
+    {
+      "municipality": "Pennsauken Township",
+      "municipality_type": "Township",
+      "county": "Camden",
+      "municipality_code": "0427"
+    },
+    {
+      "municipality": "Pine Hill Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0428"
+    },
+    {
+      "municipality": "Runnemede Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0430"
+    },
+    {
+      "municipality": "Somerdale Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0431"
+    },
+    {
+      "municipality": "Stratford Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0432"
+    },
+    {
+      "municipality": "Tavistock Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0433"
+    },
+    {
+      "municipality": "Voorhees Township",
+      "municipality_type": "Township",
+      "county": "Camden",
+      "municipality_code": "0434"
+    },
+    {
+      "municipality": "Waterford Township",
+      "municipality_type": "Township",
+      "county": "Camden",
+      "municipality_code": "0435"
+    },
+    {
+      "municipality": "Winslow Township",
+      "municipality_type": "Township",
+      "county": "Camden",
+      "municipality_code": "0436"
+    },
+    {
+      "municipality": "Woodlynne Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0437"
+    },
+    {
+      "municipality": "Avalon Borough",
+      "municipality_type": "Borough",
+      "county": "Cape May",
+      "municipality_code": "0501"
+    },
+    {
+      "municipality": "Cape May City",
+      "municipality_type": "City",
+      "county": "Cape May",
+      "municipality_code": "0502"
+    },
+    {
+      "municipality": "Cape May Point Borough",
+      "municipality_type": "Borough",
+      "county": "Cape May",
+      "municipality_code": "0503"
+    },
+    {
+      "municipality": "Dennis Township",
+      "municipality_type": "Township",
+      "county": "Cape May",
+      "municipality_code": "0504"
+    },
+    {
+      "municipality": "Lower Township",
+      "municipality_type": "Township",
+      "county": "Cape May",
+      "municipality_code": "0505"
+    },
+    {
+      "municipality": "Middle Township",
+      "municipality_type": "Township",
+      "county": "Cape May",
+      "municipality_code": "0506"
+    },
+    {
+      "municipality": "North Wildwood City",
+      "municipality_type": "City",
+      "county": "Cape May",
+      "municipality_code": "0507"
+    },
+    {
+      "municipality": "Ocean City",
+      "municipality_type": "City",
+      "county": "Cape May",
+      "municipality_code": "0508"
+    },
+    {
+      "municipality": "Sea Isle City",
+      "municipality_type": "City",
+      "county": "Cape May",
+      "municipality_code": "0509"
+    },
+    {
+      "municipality": "Stone Harbor Borough",
+      "municipality_type": "Borough",
+      "county": "Cape May",
+      "municipality_code": "0510"
+    },
+    {
+      "municipality": "Upper Township",
+      "municipality_type": "Township",
+      "county": "Cape May",
+      "municipality_code": "0511"
+    },
+    {
+      "municipality": "West Cape May Borough",
+      "municipality_type": "Borough",
+      "county": "Cape May",
+      "municipality_code": "0512"
+    },
+    {
+      "municipality": "West Wildwood Borough",
+      "municipality_type": "Borough",
+      "county": "Cape May",
+      "municipality_code": "0513"
+    },
+    {
+      "municipality": "Wildwood City",
+      "municipality_type": "City",
+      "county": "Cape May",
+      "municipality_code": "0514"
+    },
+    {
+      "municipality": "Wildwood Crest Borough",
+      "municipality_type": "Borough",
+      "county": "Cape May",
+      "municipality_code": "0515"
+    },
+    {
+      "municipality": "Woodbine Borough",
+      "municipality_type": "Borough",
+      "county": "Cape May",
+      "municipality_code": "0516"
+    },
+    {
+      "municipality": "Bridgeton City",
+      "municipality_type": "City",
+      "county": "Cumberland",
+      "municipality_code": "0601"
+    },
+    {
+      "municipality": "Commercial Township",
+      "municipality_type": "Township",
+      "county": "Cumberland",
+      "municipality_code": "0602"
+    },
+    {
+      "municipality": "Deerfield Township",
+      "municipality_type": "Township",
+      "county": "Cumberland",
+      "municipality_code": "0603"
+    },
+    {
+      "municipality": "Downe Township",
+      "municipality_type": "Township",
+      "county": "Cumberland",
+      "municipality_code": "0604"
+    },
+    {
+      "municipality": "Fairfield Township",
+      "municipality_type": "Township",
+      "county": "Cumberland",
+      "municipality_code": "0605"
+    },
+    {
+      "municipality": "Greenwich Township",
+      "municipality_type": "Township",
+      "county": "Cumberland",
+      "municipality_code": "0606"
+    },
+    {
+      "municipality": "Hopewell Township",
+      "municipality_type": "Township",
+      "county": "Cumberland",
+      "municipality_code": "0607"
+    },
+    {
+      "municipality": "Lawrence Township",
+      "municipality_type": "Township",
+      "county": "Cumberland",
+      "municipality_code": "0608"
+    },
+    {
+      "municipality": "Maurice River Township",
+      "municipality_type": "Township",
+      "county": "Cumberland",
+      "municipality_code": "0609"
+    },
+    {
+      "municipality": "Millville City",
+      "municipality_type": "City",
+      "county": "Cumberland",
+      "municipality_code": "0610"
+    },
+    {
+      "municipality": "Shiloh Borough",
+      "municipality_type": "Borough",
+      "county": "Cumberland",
+      "municipality_code": "0611"
+    },
+    {
+      "municipality": "Stow Creek Township",
+      "municipality_type": "Township",
+      "county": "Cumberland",
+      "municipality_code": "0612"
+    },
+    {
+      "municipality": "Upper Deerfield Township",
+      "municipality_type": "Township",
+      "county": "Cumberland",
+      "municipality_code": "0613"
+    },
+    {
+      "municipality": "Vineland City",
+      "municipality_type": "City",
+      "county": "Cumberland",
+      "municipality_code": "0614"
+    },
+    {
+      "municipality": "Belleville Township",
+      "municipality_type": "Township",
+      "county": "Essex",
+      "municipality_code": "0701"
+    },
+    {
+      "municipality": "Bloomfield Township",
+      "municipality_type": "Township",
+      "county": "Essex",
+      "municipality_code": "0702"
+    },
+    {
+      "municipality": "Caldwell Borough",
+      "municipality_type": "Borough",
+      "county": "Essex",
+      "municipality_code": "0703"
+    },
+    {
+      "municipality": "Cedar Grove Township",
+      "municipality_type": "Township",
+      "county": "Essex",
+      "municipality_code": "0704"
+    },
+    {
+      "municipality": "City of Orange Township",
+      "municipality_type": "City",
+      "county": "Essex",
+      "municipality_code": "0717"
+    },
+    {
+      "municipality": "East Orange City",
+      "municipality_type": "City",
+      "county": "Essex",
+      "municipality_code": "0705"
+    },
+    {
+      "municipality": "Essex Fells Borough",
+      "municipality_type": "Borough",
+      "county": "Essex",
+      "municipality_code": "0706"
+    },
+    {
+      "municipality": "Fairfield Township",
+      "municipality_type": "Township",
+      "county": "Essex",
+      "municipality_code": "0707"
+    },
+    {
+      "municipality": "Glen Ridge Borough",
+      "municipality_type": "Borough",
+      "county": "Essex",
+      "municipality_code": "0708"
+    },
+    {
+      "municipality": "Irvington Township",
+      "municipality_type": "Township",
+      "county": "Essex",
+      "municipality_code": "0709"
+    },
+    {
+      "municipality": "Livingston Township",
+      "municipality_type": "Township",
+      "county": "Essex",
+      "municipality_code": "0710"
+    },
+    {
+      "municipality": "Maplewood Township",
+      "municipality_type": "Township",
+      "county": "Essex",
+      "municipality_code": "0711"
+    },
+    {
+      "municipality": "Millburn Township",
+      "municipality_type": "Township",
+      "county": "Essex",
+      "municipality_code": "0712"
+    },
+    {
+      "municipality": "Montclair Township",
+      "municipality_type": "Township",
+      "county": "Essex",
+      "municipality_code": "0713"
+    },
+    {
+      "municipality": "Newark City",
+      "municipality_type": "City",
+      "county": "Essex",
+      "municipality_code": "0714"
+    },
+    {
+      "municipality": "North Caldwell Borough",
+      "municipality_type": "Borough",
+      "county": "Essex",
+      "municipality_code": "0715"
+    },
+    {
+      "municipality": "Nutley Township",
+      "municipality_type": "Township",
+      "county": "Essex",
+      "municipality_code": "0716"
+    },
+    {
+      "municipality": "Roseland Borough",
+      "municipality_type": "Borough",
+      "county": "Essex",
+      "municipality_code": "0718"
+    },
+    {
+      "municipality": "South Orange Village",
+      "municipality_type": "Village",
+      "county": "Essex",
+      "municipality_code": "0719"
+    },
+    {
+      "municipality": "Verona Township",
+      "municipality_type": "Township",
+      "county": "Essex",
+      "municipality_code": "0720"
+    },
+    {
+      "municipality": "West Caldwell Township",
+      "municipality_type": "Township",
+      "county": "Essex",
+      "municipality_code": "0721"
+    },
+    {
+      "municipality": "West Orange Township",
+      "municipality_type": "Township",
+      "county": "Essex",
+      "municipality_code": "0722"
+    },
+    {
+      "municipality": "Clayton Borough",
+      "municipality_type": "Borough",
+      "county": "Gloucester",
+      "municipality_code": "0801"
+    },
+    {
+      "municipality": "Deptford Township",
+      "municipality_type": "Township",
+      "county": "Gloucester",
+      "municipality_code": "0802"
+    },
+    {
+      "municipality": "East Greenwich Township",
+      "municipality_type": "Township",
+      "county": "Gloucester",
+      "municipality_code": "0803"
+    },
+    {
+      "municipality": "Elk Township",
+      "municipality_type": "Township",
+      "county": "Gloucester",
+      "municipality_code": "0804"
+    },
+    {
+      "municipality": "Franklin Township",
+      "municipality_type": "Township",
+      "county": "Gloucester",
+      "municipality_code": "0805"
+    },
+    {
+      "municipality": "Glassboro Borough",
+      "municipality_type": "Borough",
+      "county": "Gloucester",
+      "municipality_code": "0806"
+    },
+    {
+      "municipality": "Greenwich Township",
+      "municipality_type": "Township",
+      "county": "Gloucester",
+      "municipality_code": "0807"
+    },
+    {
+      "municipality": "Harrison Township",
+      "municipality_type": "Township",
+      "county": "Gloucester",
+      "municipality_code": "0808"
+    },
+    {
+      "municipality": "Logan Township",
+      "municipality_type": "Township",
+      "county": "Gloucester",
+      "municipality_code": "0809"
+    },
+    {
+      "municipality": "Mantua Township",
+      "municipality_type": "Township",
+      "county": "Gloucester",
+      "municipality_code": "0810"
+    },
+    {
+      "municipality": "Monroe Township",
+      "municipality_type": "Township",
+      "county": "Gloucester",
+      "municipality_code": "0811"
+    },
+    {
+      "municipality": "National Park Borough",
+      "municipality_type": "Borough",
+      "county": "Gloucester",
+      "municipality_code": "0812"
+    },
+    {
+      "municipality": "Newfield Borough",
+      "municipality_type": "Borough",
+      "county": "Gloucester",
+      "municipality_code": "0813"
+    },
+    {
+      "municipality": "Paulsboro Borough",
+      "municipality_type": "Borough",
+      "county": "Gloucester",
+      "municipality_code": "0814"
+    },
+    {
+      "municipality": "Pitman Borough",
+      "municipality_type": "Borough",
+      "county": "Gloucester",
+      "municipality_code": "0815"
+    },
+    {
+      "municipality": "South Harrison Township",
+      "municipality_type": "Township",
+      "county": "Gloucester",
+      "municipality_code": "0816"
+    },
+    {
+      "municipality": "Swedesboro Borough",
+      "municipality_type": "Borough",
+      "county": "Gloucester",
+      "municipality_code": "0817"
+    },
+    {
+      "municipality": "Washington Township",
+      "municipality_type": "Township",
+      "county": "Gloucester",
+      "municipality_code": "0818"
+    },
+    {
+      "municipality": "Wenonah Borough",
+      "municipality_type": "Borough",
+      "county": "Gloucester",
+      "municipality_code": "0819"
+    },
+    {
+      "municipality": "West Deptford Township",
+      "municipality_type": "Township",
+      "county": "Gloucester",
+      "municipality_code": "0820"
+    },
+    {
+      "municipality": "Westville Borough",
+      "municipality_type": "Borough",
+      "county": "Gloucester",
+      "municipality_code": "0821"
+    },
+    {
+      "municipality": "Woodbury City",
+      "municipality_type": "City",
+      "county": "Gloucester",
+      "municipality_code": "0822"
+    },
+    {
+      "municipality": "Woodbury Heights Borough",
+      "municipality_type": "Borough",
+      "county": "Gloucester",
+      "municipality_code": "0823"
+    },
+    {
+      "municipality": "Woolwich Township",
+      "municipality_type": "Township",
+      "county": "Gloucester",
+      "municipality_code": "0824"
+    },
+    {
+      "municipality": "Bayonne City",
+      "municipality_type": "City",
+      "county": "Hudson",
+      "municipality_code": "0901"
+    },
+    {
+      "municipality": "East Newark Borough",
+      "municipality_type": "Borough",
+      "county": "Hudson",
+      "municipality_code": "0902"
+    },
+    {
+      "municipality": "Guttenberg Town",
+      "municipality_type": "Town",
+      "county": "Hudson",
+      "municipality_code": "0903"
+    },
+    {
+      "municipality": "Harrison Town",
+      "municipality_type": "Town",
+      "county": "Hudson",
+      "municipality_code": "0904"
+    },
+    {
+      "municipality": "Hoboken City",
+      "municipality_type": "City",
+      "county": "Hudson",
+      "municipality_code": "0905"
+    },
+    {
+      "municipality": "Jersey City",
+      "municipality_type": "City",
+      "county": "Hudson",
+      "municipality_code": "0906"
+    },
+    {
+      "municipality": "Kearny Town",
+      "municipality_type": "Town",
+      "county": "Hudson",
+      "municipality_code": "0907"
+    },
+    {
+      "municipality": "North Bergen Township",
+      "municipality_type": "Township",
+      "county": "Hudson",
+      "municipality_code": "0908"
+    },
+    {
+      "municipality": "Secaucus Town",
+      "municipality_type": "Town",
+      "county": "Hudson",
+      "municipality_code": "0909"
+    },
+    {
+      "municipality": "Union City",
+      "municipality_type": "City",
+      "county": "Hudson",
+      "municipality_code": "0910"
+    },
+    {
+      "municipality": "Weehawken Township",
+      "municipality_type": "Township",
+      "county": "Hudson",
+      "municipality_code": "0911"
+    },
+    {
+      "municipality": "West New York Town",
+      "municipality_type": "Town",
+      "county": "Hudson",
+      "municipality_code": "0912"
+    },
+    {
+      "municipality": "Alexandria Township",
+      "municipality_type": "Township",
+      "county": "Hunterdon",
+      "municipality_code": "1001"
+    },
+    {
+      "municipality": "Bethlehem Township",
+      "municipality_type": "Township",
+      "county": "Hunterdon",
+      "municipality_code": "1002"
+    },
+    {
+      "municipality": "Bloomsbury Borough",
+      "municipality_type": "Borough",
+      "county": "Hunterdon",
+      "municipality_code": "1003"
+    },
+    {
+      "municipality": "Califon Borough",
+      "municipality_type": "Borough",
+      "county": "Hunterdon",
+      "municipality_code": "1004"
+    },
+    {
+      "municipality": "Clinton Town",
+      "municipality_type": "Town",
+      "county": "Hunterdon",
+      "municipality_code": "1005"
+    },
+    {
+      "municipality": "Clinton Township",
+      "municipality_type": "Township",
+      "county": "Hunterdon",
+      "municipality_code": "1006"
+    },
+    {
+      "municipality": "Delaware Township",
+      "municipality_type": "Township",
+      "county": "Hunterdon",
+      "municipality_code": "1007"
+    },
+    {
+      "municipality": "East Amwell Township",
+      "municipality_type": "Township",
+      "county": "Hunterdon",
+      "municipality_code": "1008"
+    },
+    {
+      "municipality": "Flemington Borough",
+      "municipality_type": "Borough",
+      "county": "Hunterdon",
+      "municipality_code": "1009"
+    },
+    {
+      "municipality": "Franklin Township",
+      "municipality_type": "Township",
+      "county": "Hunterdon",
+      "municipality_code": "1010"
+    },
+    {
+      "municipality": "Frenchtown Borough",
+      "municipality_type": "Borough",
+      "county": "Hunterdon",
+      "municipality_code": "1011"
+    },
+    {
+      "municipality": "Glen Gardner Borough",
+      "municipality_type": "Borough",
+      "county": "Hunterdon",
+      "municipality_code": "1012"
+    },
+    {
+      "municipality": "Hampton Borough",
+      "municipality_type": "Borough",
+      "county": "Hunterdon",
+      "municipality_code": "1013"
+    },
+    {
+      "municipality": "High Bridge Borough",
+      "municipality_type": "Borough",
+      "county": "Hunterdon",
+      "municipality_code": "1014"
+    },
+    {
+      "municipality": "Holland Township",
+      "municipality_type": "Township",
+      "county": "Hunterdon",
+      "municipality_code": "1015"
+    },
+    {
+      "municipality": "Kingwood Township",
+      "municipality_type": "Township",
+      "county": "Hunterdon",
+      "municipality_code": "1016"
+    },
+    {
+      "municipality": "Lambertville City",
+      "municipality_type": "City",
+      "county": "Hunterdon",
+      "municipality_code": "1017"
+    },
+    {
+      "municipality": "Lebanon Borough",
+      "municipality_type": "Borough",
+      "county": "Hunterdon",
+      "municipality_code": "1018"
+    },
+    {
+      "municipality": "Lebanon Township",
+      "municipality_type": "Township",
+      "county": "Hunterdon",
+      "municipality_code": "1019"
+    },
+    {
+      "municipality": "Milford Borough",
+      "municipality_type": "Borough",
+      "county": "Hunterdon",
+      "municipality_code": "1020"
+    },
+    {
+      "municipality": "Raritan Township",
+      "municipality_type": "Township",
+      "county": "Hunterdon",
+      "municipality_code": "1021"
+    },
+    {
+      "municipality": "Readington Township",
+      "municipality_type": "Township",
+      "county": "Hunterdon",
+      "municipality_code": "1022"
+    },
+    {
+      "municipality": "Stockton Borough",
+      "municipality_type": "Borough",
+      "county": "Hunterdon",
+      "municipality_code": "1023"
+    },
+    {
+      "municipality": "Tewksbury Township",
+      "municipality_type": "Township",
+      "county": "Hunterdon",
+      "municipality_code": "1024"
+    },
+    {
+      "municipality": "Union Township",
+      "municipality_type": "Township",
+      "county": "Hunterdon",
+      "municipality_code": "1025"
+    },
+    {
+      "municipality": "West Amwell Township",
+      "municipality_type": "Township",
+      "county": "Hunterdon",
+      "municipality_code": "1026"
+    },
+    {
+      "municipality": "East Windsor Township",
+      "municipality_type": "Township",
+      "county": "Mercer",
+      "municipality_code": "1101"
+    },
+    {
+      "municipality": "Ewing Township",
+      "municipality_type": "Township",
+      "county": "Mercer",
+      "municipality_code": "1102"
+    },
+    {
+      "municipality": "Hamilton Township",
+      "municipality_type": "Township",
+      "county": "Mercer",
+      "municipality_code": "1103"
+    },
+    {
+      "municipality": "Hightstown Borough",
+      "municipality_type": "Borough",
+      "county": "Mercer",
+      "municipality_code": "1104"
+    },
+    {
+      "municipality": "Hopewell Borough",
+      "municipality_type": "Borough",
+      "county": "Mercer",
+      "municipality_code": "1105"
+    },
+    {
+      "municipality": "Hopewell Township",
+      "municipality_type": "Township",
+      "county": "Mercer",
+      "municipality_code": "1106"
+    },
+    {
+      "municipality": "Lawrence Township",
+      "municipality_type": "Township",
+      "county": "Mercer",
+      "municipality_code": "1107"
+    },
+    {
+      "municipality": "Pennington Borough",
+      "municipality_type": "Borough",
+      "county": "Mercer",
+      "municipality_code": "1108"
+    },
+    {
+      "municipality": "Princeton",
+      "municipality_type": "Borough",
+      "county": "Mercer",
+      "municipality_code": "1114"
+    },
+    {
+      "municipality": "Robbinsville Township",
+      "municipality_type": "Township",
+      "county": "Mercer",
+      "municipality_code": "1112"
+    },
+    {
+      "municipality": "Trenton City",
+      "municipality_type": "City",
+      "county": "Mercer",
+      "municipality_code": "1111"
+    },
+    {
+      "municipality": "West Windsor Township",
+      "municipality_type": "Township",
+      "county": "Mercer",
+      "municipality_code": "1113"
+    },
+    {
+      "municipality": "Carteret Borough",
+      "municipality_type": "Borough",
+      "county": "Middlesex",
+      "municipality_code": "1201"
+    },
+    {
+      "municipality": "Cranbury Township",
+      "municipality_type": "Township",
+      "county": "Middlesex",
+      "municipality_code": "1202"
+    },
+    {
+      "municipality": "Dunellen Borough",
+      "municipality_type": "Borough",
+      "county": "Middlesex",
+      "municipality_code": "1203"
+    },
+    {
+      "municipality": "East Brunswick Township",
+      "municipality_type": "Township",
+      "county": "Middlesex",
+      "municipality_code": "1204"
+    },
+    {
+      "municipality": "Edison Township",
+      "municipality_type": "Township",
+      "county": "Middlesex",
+      "municipality_code": "1205"
+    },
+    {
+      "municipality": "Helmetta Borough",
+      "municipality_type": "Borough",
+      "county": "Middlesex",
+      "municipality_code": "1206"
+    },
+    {
+      "municipality": "Highland Park Borough",
+      "municipality_type": "Borough",
+      "county": "Middlesex",
+      "municipality_code": "1207"
+    },
+    {
+      "municipality": "Jamesburg Borough",
+      "municipality_type": "Borough",
+      "county": "Middlesex",
+      "municipality_code": "1208"
+    },
+    {
+      "municipality": "Metuchen Borough",
+      "municipality_type": "Borough",
+      "county": "Middlesex",
+      "municipality_code": "1209"
+    },
+    {
+      "municipality": "Middlesex Borough",
+      "municipality_type": "Borough",
+      "county": "Middlesex",
+      "municipality_code": "1210"
+    },
+    {
+      "municipality": "Milltown Borough",
+      "municipality_type": "Borough",
+      "county": "Middlesex",
+      "municipality_code": "1211"
+    },
+    {
+      "municipality": "Monroe Township",
+      "municipality_type": "Township",
+      "county": "Middlesex",
+      "municipality_code": "1212"
+    },
+    {
+      "municipality": "New Brunswick City",
+      "municipality_type": "City",
+      "county": "Middlesex",
+      "municipality_code": "1213"
+    },
+    {
+      "municipality": "North Brunswick Township",
+      "municipality_type": "Township",
+      "county": "Middlesex",
+      "municipality_code": "1214"
+    },
+    {
+      "municipality": "Old Bridge Township",
+      "municipality_type": "Township",
+      "county": "Middlesex",
+      "municipality_code": "1215"
+    },
+    {
+      "municipality": "Perth Amboy City",
+      "municipality_type": "City",
+      "county": "Middlesex",
+      "municipality_code": "1216"
+    },
+    {
+      "municipality": "Piscataway Township",
+      "municipality_type": "Township",
+      "county": "Middlesex",
+      "municipality_code": "1217"
+    },
+    {
+      "municipality": "Plainsboro Township",
+      "municipality_type": "Township",
+      "county": "Middlesex",
+      "municipality_code": "1218"
+    },
+    {
+      "municipality": "Sayreville Borough",
+      "municipality_type": "Borough",
+      "county": "Middlesex",
+      "municipality_code": "1219"
+    },
+    {
+      "municipality": "South Amboy City",
+      "municipality_type": "City",
+      "county": "Middlesex",
+      "municipality_code": "1220"
+    },
+    {
+      "municipality": "South Brunswick Township",
+      "municipality_type": "Township",
+      "county": "Middlesex",
+      "municipality_code": "1221"
+    },
+    {
+      "municipality": "South Plainfield Borough",
+      "municipality_type": "Borough",
+      "county": "Middlesex",
+      "municipality_code": "1222"
+    },
+    {
+      "municipality": "South River Borough",
+      "municipality_type": "Borough",
+      "county": "Middlesex",
+      "municipality_code": "1223"
+    },
+    {
+      "municipality": "Spotswood Borough",
+      "municipality_type": "Borough",
+      "county": "Middlesex",
+      "municipality_code": "1224"
+    },
+    {
+      "municipality": "Woodbridge Township",
+      "municipality_type": "Township",
+      "county": "Middlesex",
+      "municipality_code": "1225"
+    },
+    {
+      "municipality": "Aberdeen Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1301"
+    },
+    {
+      "municipality": "Allenhurst Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1302"
+    },
+    {
+      "municipality": "Allentown Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1303"
+    },
+    {
+      "municipality": "Asbury Park City",
+      "municipality_type": "City",
+      "county": "Monmouth",
+      "municipality_code": "1304"
+    },
+    {
+      "municipality": "Atlantic Highlands Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1305"
+    },
+    {
+      "municipality": "Avon-by-the-Sea Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1306"
+    },
+    {
+      "municipality": "Belmar Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1307"
+    },
+    {
+      "municipality": "Bradley Beach Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1308"
+    },
+    {
+      "municipality": "Brielle Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1309"
+    },
+    {
+      "municipality": "Colts Neck Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1310"
+    },
+    {
+      "municipality": "Deal Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1311"
+    },
+    {
+      "municipality": "Eatontown Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1312"
+    },
+    {
+      "municipality": "Englishtown Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1313"
+    },
+    {
+      "municipality": "Fair Haven Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1314"
+    },
+    {
+      "municipality": "Farmingdale Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1315"
+    },
+    {
+      "municipality": "Freehold Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1316"
+    },
+    {
+      "municipality": "Freehold Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1317"
+    },
+    {
+      "municipality": "Hazlet Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1318"
+    },
+    {
+      "municipality": "Highlands Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1319"
+    },
+    {
+      "municipality": "Holmdel Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1320"
+    },
+    {
+      "municipality": "Howell Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1321"
+    },
+    {
+      "municipality": "Interlaken Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1322"
+    },
+    {
+      "municipality": "Keansburg Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1323"
+    },
+    {
+      "municipality": "Keyport Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1324"
+    },
+    {
+      "municipality": "Lake Como Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1346"
+    },
+    {
+      "municipality": "Little Silver Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1325"
+    },
+    {
+      "municipality": "Loch Arbour Village",
+      "municipality_type": "Village",
+      "county": "Monmouth",
+      "municipality_code": "1326"
+    },
+    {
+      "municipality": "Long Branch City",
+      "municipality_type": "City",
+      "county": "Monmouth",
+      "municipality_code": "1327"
+    },
+    {
+      "municipality": "Manalapan Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1328"
+    },
+    {
+      "municipality": "Manasquan Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1329"
+    },
+    {
+      "municipality": "Marlboro Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1330"
+    },
+    {
+      "municipality": "Matawan Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1331"
+    },
+    {
+      "municipality": "Middletown Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1332"
+    },
+    {
+      "municipality": "Millstone Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1333"
+    },
+    {
+      "municipality": "Monmouth Beach Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1334"
+    },
+    {
+      "municipality": "Neptune City Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1336"
+    },
+    {
+      "municipality": "Neptune Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1335"
+    },
+    {
+      "municipality": "Ocean Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1337"
+    },
+    {
+      "municipality": "Oceanport Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1338"
+    },
+    {
+      "municipality": "Red Bank Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1339"
+    },
+    {
+      "municipality": "Roosevelt Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1340"
+    },
+    {
+      "municipality": "Rumson Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1341"
+    },
+    {
+      "municipality": "Sea Bright Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1342"
+    },
+    {
+      "municipality": "Sea Girt Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1343"
+    },
+    {
+      "municipality": "Shrewsbury Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1344"
+    },
+    {
+      "municipality": "Shrewsbury Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1345"
+    },
+    {
+      "municipality": "Spring Lake Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1347"
+    },
+    {
+      "municipality": "Spring Lake Heights Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1348"
+    },
+    {
+      "municipality": "Tinton Falls Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1349"
+    },
+    {
+      "municipality": "Union Beach Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1350"
+    },
+    {
+      "municipality": "Upper Freehold Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1351"
+    },
+    {
+      "municipality": "Wall Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1352"
+    },
+    {
+      "municipality": "West Long Branch Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1353"
+    },
+    {
+      "municipality": "Boonton Town",
+      "municipality_type": "Town",
+      "county": "Morris",
+      "municipality_code": "1401"
+    },
+    {
+      "municipality": "Boonton Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1402"
+    },
+    {
+      "municipality": "Butler Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1403"
+    },
+    {
+      "municipality": "Chatham Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1404"
+    },
+    {
+      "municipality": "Chatham Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1405"
+    },
+    {
+      "municipality": "Chester Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1406"
+    },
+    {
+      "municipality": "Chester Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1407"
+    },
+    {
+      "municipality": "Denville Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1408"
+    },
+    {
+      "municipality": "Dover Town",
+      "municipality_type": "Town",
+      "county": "Morris",
+      "municipality_code": "1409"
+    },
+    {
+      "municipality": "East Hanover Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1410"
+    },
+    {
+      "municipality": "Florham Park Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1411"
+    },
+    {
+      "municipality": "Hanover Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1412"
+    },
+    {
+      "municipality": "Harding Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1413"
+    },
+    {
+      "municipality": "Jefferson Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1414"
+    },
+    {
+      "municipality": "Kinnelon Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1415"
+    },
+    {
+      "municipality": "Lincoln Park Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1416"
+    },
+    {
+      "municipality": "Long Hill Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1430"
+    },
+    {
+      "municipality": "Madison Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1417"
+    },
+    {
+      "municipality": "Mendham Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1418"
+    },
+    {
+      "municipality": "Mendham Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1419"
+    },
+    {
+      "municipality": "Mine Hill Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1420"
+    },
+    {
+      "municipality": "Montville Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1421"
+    },
+    {
+      "municipality": "Morris Plains Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1423"
+    },
+    {
+      "municipality": "Morris Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1422"
+    },
+    {
+      "municipality": "Morristown Town",
+      "municipality_type": "Town",
+      "county": "Morris",
+      "municipality_code": "1424"
+    },
+    {
+      "municipality": "Mount Arlington Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1426"
+    },
+    {
+      "municipality": "Mount Olive Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1427"
+    },
+    {
+      "municipality": "Mountain Lakes Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1425"
+    },
+    {
+      "municipality": "Netcong Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1428"
+    },
+    {
+      "municipality": "Parsippany-Troy Hills Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1429"
+    },
+    {
+      "municipality": "Pequannock Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1431"
+    },
+    {
+      "municipality": "Randolph Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1432"
+    },
+    {
+      "municipality": "Riverdale Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1433"
+    },
+    {
+      "municipality": "Rockaway Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1434"
+    },
+    {
+      "municipality": "Rockaway Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1435"
+    },
+    {
+      "municipality": "Roxbury Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1436"
+    },
+    {
+      "municipality": "Victory Gardens Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1437"
+    },
+    {
+      "municipality": "Washington Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1438"
+    },
+    {
+      "municipality": "Wharton Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1439"
+    },
+    {
+      "municipality": "Barnegat Light Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1502"
+    },
+    {
+      "municipality": "Barnegat Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1501"
+    },
+    {
+      "municipality": "Bay Head Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1503"
+    },
+    {
+      "municipality": "Beach Haven Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1504"
+    },
+    {
+      "municipality": "Beachwood Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1505"
+    },
+    {
+      "municipality": "Berkeley Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1506"
+    },
+    {
+      "municipality": "Brick Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1507"
+    },
+    {
+      "municipality": "Eagleswood Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1509"
+    },
+    {
+      "municipality": "Harvey Cedars Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1510"
+    },
+    {
+      "municipality": "Island Heights Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1511"
+    },
+    {
+      "municipality": "Jackson Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1512"
+    },
+    {
+      "municipality": "Lacey Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1513"
+    },
+    {
+      "municipality": "Lakehurst Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1514"
+    },
+    {
+      "municipality": "Lakewood Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1515"
+    },
+    {
+      "municipality": "Lavallette Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1516"
+    },
+    {
+      "municipality": "Little Egg Harbor Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1517"
+    },
+    {
+      "municipality": "Long Beach Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1518"
+    },
+    {
+      "municipality": "Manchester Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1519"
+    },
+    {
+      "municipality": "Mantoloking Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1520"
+    },
+    {
+      "municipality": "Ocean Gate Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1522"
+    },
+    {
+      "municipality": "Ocean Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1521"
+    },
+    {
+      "municipality": "Pine Beach Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1523"
+    },
+    {
+      "municipality": "Plumsted Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1524"
+    },
+    {
+      "municipality": "Point Pleasant Beach Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1526"
+    },
+    {
+      "municipality": "Point Pleasant Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1525"
+    },
+    {
+      "municipality": "Seaside Heights Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1527"
+    },
+    {
+      "municipality": "Seaside Park Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1528"
+    },
+    {
+      "municipality": "Ship Bottom Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1529"
+    },
+    {
+      "municipality": "South Toms River Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1530"
+    },
+    {
+      "municipality": "Stafford Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1531"
+    },
+    {
+      "municipality": "Surf City Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1532"
+    },
+    {
+      "municipality": "Toms River Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1508"
+    },
+    {
+      "municipality": "Tuckerton Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1533"
+    },
+    {
+      "municipality": "Bloomingdale Borough",
+      "municipality_type": "Borough",
+      "county": "Passaic",
+      "municipality_code": "1601"
+    },
+    {
+      "municipality": "Clifton City",
+      "municipality_type": "City",
+      "county": "Passaic",
+      "municipality_code": "1602"
+    },
+    {
+      "municipality": "Haledon Borough",
+      "municipality_type": "Borough",
+      "county": "Passaic",
+      "municipality_code": "1603"
+    },
+    {
+      "municipality": "Hawthorne Borough",
+      "municipality_type": "Borough",
+      "county": "Passaic",
+      "municipality_code": "1604"
+    },
+    {
+      "municipality": "Little Falls Township",
+      "municipality_type": "Township",
+      "county": "Passaic",
+      "municipality_code": "1605"
+    },
+    {
+      "municipality": "North Haledon Borough",
+      "municipality_type": "Borough",
+      "county": "Passaic",
+      "municipality_code": "1606"
+    },
+    {
+      "municipality": "Passaic City",
+      "municipality_type": "City",
+      "county": "Passaic",
+      "municipality_code": "1607"
+    },
+    {
+      "municipality": "Paterson City",
+      "municipality_type": "City",
+      "county": "Passaic",
+      "municipality_code": "1608"
+    },
+    {
+      "municipality": "Pompton Lakes Borough",
+      "municipality_type": "Borough",
+      "county": "Passaic",
+      "municipality_code": "1609"
+    },
+    {
+      "municipality": "Prospect Park Borough",
+      "municipality_type": "Borough",
+      "county": "Passaic",
+      "municipality_code": "1610"
+    },
+    {
+      "municipality": "Ringwood Borough",
+      "municipality_type": "Borough",
+      "county": "Passaic",
+      "municipality_code": "1611"
+    },
+    {
+      "municipality": "Totowa Borough",
+      "municipality_type": "Borough",
+      "county": "Passaic",
+      "municipality_code": "1612"
+    },
+    {
+      "municipality": "Wanaque Borough",
+      "municipality_type": "Borough",
+      "county": "Passaic",
+      "municipality_code": "1613"
+    },
+    {
+      "municipality": "Wayne Township",
+      "municipality_type": "Township",
+      "county": "Passaic",
+      "municipality_code": "1614"
+    },
+    {
+      "municipality": "West Milford Township",
+      "municipality_type": "Township",
+      "county": "Passaic",
+      "municipality_code": "1615"
+    },
+    {
+      "municipality": "Woodland Park Borough",
+      "municipality_type": "Borough",
+      "county": "Passaic",
+      "municipality_code": "1616"
+    },
+    {
+      "municipality": "Alloway Township",
+      "municipality_type": "Township",
+      "county": "Salem",
+      "municipality_code": "1701"
+    },
+    {
+      "municipality": "Carneys Point Township",
+      "municipality_type": "Township",
+      "county": "Salem",
+      "municipality_code": "1702"
+    },
+    {
+      "municipality": "Elmer Borough",
+      "municipality_type": "Borough",
+      "county": "Salem",
+      "municipality_code": "1703"
+    },
+    {
+      "municipality": "Elsinboro Township",
+      "municipality_type": "Township",
+      "county": "Salem",
+      "municipality_code": "1704"
+    },
+    {
+      "municipality": "Lower Alloways Creek Township",
+      "municipality_type": "Township",
+      "county": "Salem",
+      "municipality_code": "1705"
+    },
+    {
+      "municipality": "Mannington Township",
+      "municipality_type": "Township",
+      "county": "Salem",
+      "municipality_code": "1706"
+    },
+    {
+      "municipality": "Oldmans Township",
+      "municipality_type": "Township",
+      "county": "Salem",
+      "municipality_code": "1707"
+    },
+    {
+      "municipality": "Penns Grove Borough",
+      "municipality_type": "Borough",
+      "county": "Salem",
+      "municipality_code": "1708"
+    },
+    {
+      "municipality": "Pennsville Township",
+      "municipality_type": "Township",
+      "county": "Salem",
+      "municipality_code": "1709"
+    },
+    {
+      "municipality": "Pilesgrove Township",
+      "municipality_type": "Township",
+      "county": "Salem",
+      "municipality_code": "1710"
+    },
+    {
+      "municipality": "Pittsgrove Township",
+      "municipality_type": "Township",
+      "county": "Salem",
+      "municipality_code": "1711"
+    },
+    {
+      "municipality": "Quinton Township",
+      "municipality_type": "Township",
+      "county": "Salem",
+      "municipality_code": "1712"
+    },
+    {
+      "municipality": "Salem City",
+      "municipality_type": "City",
+      "county": "Salem",
+      "municipality_code": "1713"
+    },
+    {
+      "municipality": "Upper Pittsgrove Township",
+      "municipality_type": "Township",
+      "county": "Salem",
+      "municipality_code": "1714"
+    },
+    {
+      "municipality": "Woodstown Borough",
+      "municipality_type": "Borough",
+      "county": "Salem",
+      "municipality_code": "1715"
+    },
+    {
+      "municipality": "Bedminster Township",
+      "municipality_type": "Township",
+      "county": "Somerset",
+      "municipality_code": "1801"
+    },
+    {
+      "municipality": "Bernards Township",
+      "municipality_type": "Township",
+      "county": "Somerset",
+      "municipality_code": "1802"
+    },
+    {
+      "municipality": "Bernardsville Borough",
+      "municipality_type": "Borough",
+      "county": "Somerset",
+      "municipality_code": "1803"
+    },
+    {
+      "municipality": "Bound Brook Borough",
+      "municipality_type": "Borough",
+      "county": "Somerset",
+      "municipality_code": "1804"
+    },
+    {
+      "municipality": "Branchburg Township",
+      "municipality_type": "Township",
+      "county": "Somerset",
+      "municipality_code": "1805"
+    },
+    {
+      "municipality": "Bridgewater Township",
+      "municipality_type": "Township",
+      "county": "Somerset",
+      "municipality_code": "1806"
+    },
+    {
+      "municipality": "Far Hills Borough",
+      "municipality_type": "Borough",
+      "county": "Somerset",
+      "municipality_code": "1807"
+    },
+    {
+      "municipality": "Franklin Township",
+      "municipality_type": "Township",
+      "county": "Somerset",
+      "municipality_code": "1808"
+    },
+    {
+      "municipality": "Green Brook Township",
+      "municipality_type": "Township",
+      "county": "Somerset",
+      "municipality_code": "1809"
+    },
+    {
+      "municipality": "Hillsborough Township",
+      "municipality_type": "Township",
+      "county": "Somerset",
+      "municipality_code": "1810"
+    },
+    {
+      "municipality": "Manville Borough",
+      "municipality_type": "Borough",
+      "county": "Somerset",
+      "municipality_code": "1811"
+    },
+    {
+      "municipality": "Millstone Borough",
+      "municipality_type": "Borough",
+      "county": "Somerset",
+      "municipality_code": "1812"
+    },
+    {
+      "municipality": "Montgomery Township",
+      "municipality_type": "Township",
+      "county": "Somerset",
+      "municipality_code": "1813"
+    },
+    {
+      "municipality": "North Plainfield Borough",
+      "municipality_type": "Borough",
+      "county": "Somerset",
+      "municipality_code": "1814"
+    },
+    {
+      "municipality": "Peapack-Gladstone Borough",
+      "municipality_type": "Borough",
+      "county": "Somerset",
+      "municipality_code": "1815"
+    },
+    {
+      "municipality": "Raritan Borough",
+      "municipality_type": "Borough",
+      "county": "Somerset",
+      "municipality_code": "1816"
+    },
+    {
+      "municipality": "Rocky Hill Borough",
+      "municipality_type": "Borough",
+      "county": "Somerset",
+      "municipality_code": "1817"
+    },
+    {
+      "municipality": "Somerville Borough",
+      "municipality_type": "Borough",
+      "county": "Somerset",
+      "municipality_code": "1818"
+    },
+    {
+      "municipality": "South Bound Brook Borough",
+      "municipality_type": "Borough",
+      "county": "Somerset",
+      "municipality_code": "1819"
+    },
+    {
+      "municipality": "Warren Township",
+      "municipality_type": "Township",
+      "county": "Somerset",
+      "municipality_code": "1820"
+    },
+    {
+      "municipality": "Watchung Borough",
+      "municipality_type": "Borough",
+      "county": "Somerset",
+      "municipality_code": "1821"
+    },
+    {
+      "municipality": "Andover Borough",
+      "municipality_type": "Borough",
+      "county": "Sussex",
+      "municipality_code": "1901"
+    },
+    {
+      "municipality": "Andover Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1902"
+    },
+    {
+      "municipality": "Branchville Borough",
+      "municipality_type": "Borough",
+      "county": "Sussex",
+      "municipality_code": "1903"
+    },
+    {
+      "municipality": "Byram Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1904"
+    },
+    {
+      "municipality": "Frankford Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1905"
+    },
+    {
+      "municipality": "Franklin Borough",
+      "municipality_type": "Borough",
+      "county": "Sussex",
+      "municipality_code": "1906"
+    },
+    {
+      "municipality": "Fredon Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1907"
+    },
+    {
+      "municipality": "Green Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1908"
+    },
+    {
+      "municipality": "Hamburg Borough",
+      "municipality_type": "Borough",
+      "county": "Sussex",
+      "municipality_code": "1909"
+    },
+    {
+      "municipality": "Hampton Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1910"
+    },
+    {
+      "municipality": "Hardyston Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1911"
+    },
+    {
+      "municipality": "Hopatcong Borough",
+      "municipality_type": "Borough",
+      "county": "Sussex",
+      "municipality_code": "1912"
+    },
+    {
+      "municipality": "Lafayette Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1913"
+    },
+    {
+      "municipality": "Montague Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1914"
+    },
+    {
+      "municipality": "Newton Town",
+      "municipality_type": "Town",
+      "county": "Sussex",
+      "municipality_code": "1915"
+    },
+    {
+      "municipality": "Ogdensburg Borough",
+      "municipality_type": "Borough",
+      "county": "Sussex",
+      "municipality_code": "1916"
+    },
+    {
+      "municipality": "Sandyston Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1917"
+    },
+    {
+      "municipality": "Sparta Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1918"
+    },
+    {
+      "municipality": "Stanhope Borough",
+      "municipality_type": "Borough",
+      "county": "Sussex",
+      "municipality_code": "1919"
+    },
+    {
+      "municipality": "Stillwater Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1920"
+    },
+    {
+      "municipality": "Sussex Borough",
+      "municipality_type": "Borough",
+      "county": "Sussex",
+      "municipality_code": "1921"
+    },
+    {
+      "municipality": "Vernon Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1922"
+    },
+    {
+      "municipality": "Walpack Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1923"
+    },
+    {
+      "municipality": "Wantage Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1924"
+    },
+    {
+      "municipality": "Berkeley Heights Township",
+      "municipality_type": "Township",
+      "county": "Union",
+      "municipality_code": "2001"
+    },
+    {
+      "municipality": "Clark Township",
+      "municipality_type": "Township",
+      "county": "Union",
+      "municipality_code": "2002"
+    },
+    {
+      "municipality": "Cranford Township",
+      "municipality_type": "Township",
+      "county": "Union",
+      "municipality_code": "2003"
+    },
+    {
+      "municipality": "Elizabeth City",
+      "municipality_type": "City",
+      "county": "Union",
+      "municipality_code": "2004"
+    },
+    {
+      "municipality": "Fanwood Borough",
+      "municipality_type": "Borough",
+      "county": "Union",
+      "municipality_code": "2005"
+    },
+    {
+      "municipality": "Garwood Borough",
+      "municipality_type": "Borough",
+      "county": "Union",
+      "municipality_code": "2006"
+    },
+    {
+      "municipality": "Hillside Township",
+      "municipality_type": "Township",
+      "county": "Union",
+      "municipality_code": "2007"
+    },
+    {
+      "municipality": "Kenilworth Borough",
+      "municipality_type": "Borough",
+      "county": "Union",
+      "municipality_code": "2008"
+    },
+    {
+      "municipality": "Linden City",
+      "municipality_type": "City",
+      "county": "Union",
+      "municipality_code": "2009"
+    },
+    {
+      "municipality": "Mountainside Borough",
+      "municipality_type": "Borough",
+      "county": "Union",
+      "municipality_code": "2010"
+    },
+    {
+      "municipality": "New Providence Borough",
+      "municipality_type": "Borough",
+      "county": "Union",
+      "municipality_code": "2011"
+    },
+    {
+      "municipality": "Plainfield City",
+      "municipality_type": "City",
+      "county": "Union",
+      "municipality_code": "2012"
+    },
+    {
+      "municipality": "Rahway City",
+      "municipality_type": "City",
+      "county": "Union",
+      "municipality_code": "2013"
+    },
+    {
+      "municipality": "Roselle Borough",
+      "municipality_type": "Borough",
+      "county": "Union",
+      "municipality_code": "2014"
+    },
+    {
+      "municipality": "Roselle Park Borough",
+      "municipality_type": "Borough",
+      "county": "Union",
+      "municipality_code": "2015"
+    },
+    {
+      "municipality": "Scotch Plains Township",
+      "municipality_type": "Township",
+      "county": "Union",
+      "municipality_code": "2016"
+    },
+    {
+      "municipality": "Springfield Township",
+      "municipality_type": "Township",
+      "county": "Union",
+      "municipality_code": "2017"
+    },
+    {
+      "municipality": "Summit City",
+      "municipality_type": "City",
+      "county": "Union",
+      "municipality_code": "2018"
+    },
+    {
+      "municipality": "Union Township",
+      "municipality_type": "Township",
+      "county": "Union",
+      "municipality_code": "2019"
+    },
+    {
+      "municipality": "Westfield Town",
+      "municipality_type": "Town",
+      "county": "Union",
+      "municipality_code": "2020"
+    },
+    {
+      "municipality": "Winfield Township",
+      "municipality_type": "Township",
+      "county": "Union",
+      "municipality_code": "2021"
+    },
+    {
+      "municipality": "Allamuchy Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2101"
+    },
+    {
+      "municipality": "Alpha Borough",
+      "municipality_type": "Borough",
+      "county": "Warren",
+      "municipality_code": "2102"
+    },
+    {
+      "municipality": "Belvidere Town",
+      "municipality_type": "Town",
+      "county": "Warren",
+      "municipality_code": "2103"
+    },
+    {
+      "municipality": "Blairstown Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2104"
+    },
+    {
+      "municipality": "Franklin Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2105"
+    },
+    {
+      "municipality": "Frelinghuysen Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2106"
+    },
+    {
+      "municipality": "Greenwich Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2107"
+    },
+    {
+      "municipality": "Hackettstown Town",
+      "municipality_type": "Town",
+      "county": "Warren",
+      "municipality_code": "2108"
+    },
+    {
+      "municipality": "Hardwick Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2109"
+    },
+    {
+      "municipality": "Harmony Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2110"
+    },
+    {
+      "municipality": "Hope Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2111"
+    },
+    {
+      "municipality": "Independence Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2112"
+    },
+    {
+      "municipality": "Knowlton Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2113"
+    },
+    {
+      "municipality": "Liberty Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2114"
+    },
+    {
+      "municipality": "Lopatcong Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2115"
+    },
+    {
+      "municipality": "Mansfield Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2116"
+    },
+    {
+      "municipality": "Oxford Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2117"
+    },
+    {
+      "municipality": "Phillipsburg Town",
+      "municipality_type": "Town",
+      "county": "Warren",
+      "municipality_code": "2119"
+    },
+    {
+      "municipality": "Pohatcong Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2120"
+    },
+    {
+      "municipality": "Washington Borough",
+      "municipality_type": "Borough",
+      "county": "Warren",
+      "municipality_code": "2121"
+    },
+    {
+      "municipality": "Washington Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2122"
+    },
+    {
+      "municipality": "White Township",
+      "municipality_type": "Township",
+      "county": "Warren",
+      "municipality_code": "2123"
+    }
+  ]
+}

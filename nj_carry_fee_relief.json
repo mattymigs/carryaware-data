@@ -1,0 +1,628 @@
+{
+  "schema_version": 1,
+  "last_checked_at": "2026-09-23",
+  "last_verified_at": "2026-09-23",
+  "state_municipality_count": 564,
+  "state_count_source_url": "https://nj.gov/dca/dlgs/sharedservices.shtml",
+  "statutory_application_fee": 200,
+  "statutory_municipal_portion": 150,
+  "statutory_state_portion": 50,
+  "statute_source_url": "https://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/2785/3620",
+  "verification_policy": "Verified full/substantial includes the specifically attributed NRA-ILA March 5 list; it does not mean every local procedure has been independently verified. Automated findings never change status. Unknown amounts and dates remain null.",
+  "municipalities": [
+    {
+      "municipality": "Beachwood Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1505",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Berkeley Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1506",
+      "status": "verified_partial",
+      "relief_type": "refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": 100,
+      "net_municipal_cost": 50,
+      "effective_date": "2026-05-18",
+      "retroactive_date": null,
+      "eligibility_summary": "Future applications, including renewals, as of May 18, 2026; refund is available upon request.",
+      "application_instructions": "Request a $100 refund from the Township Police Department or Finance Department. Confirm required documentation and whether payment is collected up front. The resolution does not specify a refund form.",
+      "official_source_url": "https://www.berkeleytownship.org/AgendaCenter/ViewFile/Minutes/_05182026-208#page=41",
+      "secondary_source_url": "https://www.berkeleytownship.org/235/Firearm-Applications",
+      "source_type": "official_resolution",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Certified Resolution 2026-219-R, in the official May 18 minutes (PDF page 41), authorizes a $100 refund of the $150 municipal portion. The police page’s $50 carry-fee listing reflects the resulting municipal cost, not the total state/application cost.",
+      "evidence": [
+        {
+          "url": "https://www.berkeleytownship.org/AgendaCenter/ViewFile/Minutes/_05182026-208#page=41",
+          "source_type": "official_resolution",
+          "source_date": "2026-05-18",
+          "supporting_text": "Resolution 2026-219-R authorizes Police and Finance to issue $100 refunds upon request for future applications and renewals from the resolution date.",
+          "verified_at": "2026-09-23"
+        },
+        {
+          "url": "https://www.berkeleytownship.org/235/Firearm-Applications",
+          "source_type": "official_police",
+          "source_date": null,
+          "supporting_text": "The official fee list shows a $50 carry permit fee as of May 18, 2026.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Butler Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1403",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Cresskill Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0208",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Dumont Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0210",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Englishtown Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1313",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Franklin Borough",
+      "municipality_type": "Borough",
+      "county": "Sussex",
+      "municipality_code": "1906",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Hardyston Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1911",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Hopatcong Borough",
+      "municipality_type": "Borough",
+      "county": "Sussex",
+      "municipality_code": "1912",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Howell Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1321",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Medford Lakes Borough",
+      "municipality_type": "Borough",
+      "county": "Burlington",
+      "municipality_code": "0321",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Plumsted Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1524",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Point Pleasant Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1525",
+      "status": "announced_pending_documents",
+      "relief_type": "proposed_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Adoption, refund amount, eligible dates, and procedure are not yet verified.",
+      "application_instructions": "Confirm the adopted policy and current refund process with Point Pleasant Borough before applying.",
+      "official_source_url": "https://ptboro.com/wp-content/uploads/2026/09/Agenda-9-21-2026MC.pdf",
+      "secondary_source_url": "https://www.instagram.com/reel/DdnIbNBuuxb/",
+      "source_type": "official_agenda",
+      "verified_at": null,
+      "last_checked_at": "2026-09-23",
+      "notes": "Consent Agenda item 16 proposes municipal carry-fee refunds. The September 21 resolution or approved minutes were not located in the meeting archive on September 23. This is Point Pleasant Borough, not Point Pleasant Beach Borough.",
+      "evidence": [
+        {
+          "url": "https://ptboro.com/wp-content/uploads/2026/09/Agenda-9-21-2026MC.pdf",
+          "source_type": "official_agenda",
+          "source_date": "2026-09-21",
+          "supporting_text": "Consent Agenda item 16 concerns authorization of a refund of the municipal handgun carry-permit fee under N.J.S.A. 2C:58-4. An agenda does not establish adoption.",
+          "verified_at": null
+        }
+      ]
+    },
+    {
+      "municipality": "Readington Township",
+      "municipality_type": "Township",
+      "county": "Hunterdon",
+      "municipality_code": "1022",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Riverdale Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1433",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "South Toms River Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1530",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Toms River Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1508",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Vernon Township",
+      "municipality_type": "Township",
+      "county": "Sussex",
+      "municipality_code": "1922",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "Wall Township",
+      "municipality_type": "Township",
+      "county": "Monmouth",
+      "municipality_code": "1352",
+      "status": "verified_full_or_substantial",
+      "relief_type": "refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": 150,
+      "net_municipal_cost": 0,
+      "effective_date": "2026-02-11",
+      "retroactive_date": "2026-02-11",
+      "eligibility_summary": "Municipal carry fee paid to Wall Township on or after February 11, 2026.",
+      "application_instructions": "Submit proof of payment to the Chief Financial Officer and confirmation that Wall Township Police processed the application. Ask the firearms unit for the current submission method.",
+      "official_source_url": "https://www.wallpolice.org/firearm-forms/",
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "official_police",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Police guidance cites Resolution 26-0206. The page’s online-form link is a placeholder; use the firearms unit for current instructions.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        },
+        {
+          "url": "https://www.wallpolice.org/firearm-forms/",
+          "source_type": "official_police",
+          "source_date": null,
+          "supporting_text": "Police guidance describes a $150 refund for qualifying payments from February 11, 2026.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "municipality": "West Milford Township",
+      "municipality_type": "Township",
+      "county": "Passaic",
+      "municipality_code": "1615",
+      "status": "verified_full_or_substantial",
+      "relief_type": "reported_refund",
+      "statutory_municipal_portion": 150,
+      "refund_amount": null,
+      "net_municipal_cost": null,
+      "effective_date": null,
+      "retroactive_date": null,
+      "eligibility_summary": "Confirm eligibility with the municipality.",
+      "application_instructions": "Local application instructions have not yet been independently verified. Contact the municipal clerk or police firearms unit before requesting reimbursement.",
+      "official_source_url": null,
+      "secondary_source_url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "verified_at": "2026-09-23",
+      "last_checked_at": "2026-09-23",
+      "notes": "Included in NRA-ILA’s March 5, 2026 list. Exact amount and local implementation require municipal confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+          "source_type": "advocacy_reporting",
+          "source_date": "2026-03-05",
+          "supporting_text": "Listed among municipalities reported to provide full or substantial municipal fee relief.",
+          "verified_at": "2026-09-23"
+        }
+      ]
+    }
+  ]
+}
