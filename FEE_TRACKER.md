@@ -6,13 +6,15 @@ The draft alert is `review/alerts/point-pleasant-carry-fee-refund-2026-09-21.jso
 
 ## Evidence policy
 
-- Initial full/substantial classification uses the owner's requested 18-town list, checked against NRA-ILA's March 5, 2026 report. Advocacy reporting is explicitly labeled; it is not an official municipal source. Unknown amounts, effective dates, and procedures are null/unverified rather than inferred.
+- Initial reported full/substantial relief classification uses the owner's requested 18-town list, checked against NRA-ILA's March 5, 2026 report. Advocacy reporting is explicitly labeled; it is not an official municipal source. Unknown amounts, effective dates, and procedures are null/unverified rather than inferred.
 - Wall's current police instructions establish $150 relief, eligible municipal payments from February 11, 2026, and receipt/submission requirements. Its refund form link currently points to a placeholder, so instructions direct users to the firearms unit.
 - Berkeley's official May 18 minutes contain certified Resolution 2026-219-R on PDF page 41: $100 refunds upon request for future applications and renewals from the resolution date, leaving $50 municipal cost. The official police fee page corroborates $50. There is no documented general retroactive refund window in that resolution.
 - Point Pleasant Borough (NJ code 1525) remains `announced_pending_documents`. Its agenda is not proof of adoption. Point Pleasant Beach Borough (1526) is distinct and is not included as a relief municipality. The September 23 review of the meeting archive did not locate the final September 21 resolution or approved minutes.
 - `verified_at` means editorial review of the cited evidence, not a claim that municipal staff confirmed current operations. `last_checked_at` records the source check. Automated checks never update either editorial date or a verified status.
 
 The 564-record official NJ GIS registry in `schemas/nj_municipalities.json` supplies canonical names, counties, legal types, and codes. Matches never collapse Borough and Beach or guess a county for an ambiguous name.
+
+The website presents `verified_full_or_substantial` as “Reported full/substantial relief”. The legacy machine identifier remains unchanged for compatibility with the iOS review; it is not a claim of individually verified municipal documents. The website labels the review timestamp “Evidence last reviewed”.
 
 ## Weekly review workflow
 

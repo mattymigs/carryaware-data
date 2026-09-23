@@ -8,7 +8,7 @@
   "statutory_municipal_portion": 150,
   "statutory_state_portion": 50,
   "statute_source_url": "https://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/2785/3620",
-  "verification_policy": "Verified full/substantial includes the specifically attributed NRA-ILA March 5 list; it does not mean every local procedure has been independently verified. Automated findings never change status. Unknown amounts and dates remain null.",
+  "verification_policy": "Reported full/substantial relief includes the specifically attributed NRA-ILA March 5 list; most entries rely on advocacy reporting rather than individually verified municipal documents. Check each record’s source type. The legacy machine status verified_full_or_substantial is retained for compatibility and does not establish municipal-document verification. Review dates refer to the cited evidence. Automated findings never change status. Unknown amounts and dates remain null.",
   "municipalities": [
     {
       "municipality": "Beachwood Borough",
