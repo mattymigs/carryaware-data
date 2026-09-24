@@ -1,6 +1,81 @@
 {
+  "source_title": "NJ Office of Geographic Information Systems municipal boundary directory",
   "source_url": "https://maps.nj.gov/arcgis/rest/services/Framework/Government_Boundaries/MapServer/2",
-  "checked_at": "2026-09-23",
+  "query_url": "https://maps.nj.gov/arcgis/rest/services/Framework/Government_Boundaries/MapServer/2/query?where=1%3D1&outFields=MUN%2CCOUNTY%2CMUN_LABEL%2CMUN_TYPE%2CNAME%2CMUN_CODE&returnGeometry=false&f=json",
+  "secondary_source_title": "NJ Division of Taxation 2025 ANC-1 county/municipality code appendix",
+  "secondary_source_url": "https://www.nj.gov/treasury/taxation/pdf/25-anc-1ins.pdf",
+  "checked_at": "2026-09-24",
+  "municipality_count": 564,
+  "county_count": 21,
+  "notes": "All 564 four-digit codes and county assignments match the two official sources. Five reviewed display-name variants are recorded in the registry; GIS canonical names are retained. This checks directory identity only, not any carry-fee policy. Taxation codes are used here as an identity cross-check, not tax advice.",
+  "verification": {
+    "primary_count": 564,
+    "secondary_count": 564,
+    "matching_codes": 564,
+    "matching_counties": 564,
+    "county_count": 21,
+    "reviewed_name_variants": [
+      {
+        "municipality_code": "0703",
+        "county": "Essex",
+        "gis_name": "Caldwell Borough",
+        "taxation_name": "Caldwell Borough Township"
+      },
+      {
+        "municipality_code": "0706",
+        "county": "Essex",
+        "gis_name": "Essex Fells Borough",
+        "taxation_name": "Essex Fells Township"
+      },
+      {
+        "municipality_code": "0717",
+        "county": "Essex",
+        "gis_name": "City of Orange Township",
+        "taxation_name": "Orange City"
+      },
+      {
+        "municipality_code": "0719",
+        "county": "Essex",
+        "gis_name": "South Orange Village",
+        "taxation_name": "South Orange Village Twp."
+      },
+      {
+        "municipality_code": "1815",
+        "county": "Somerset",
+        "gis_name": "Peapack-Gladstone Borough",
+        "taxation_name": "Peapack & Gladstone Bor."
+      }
+    ],
+    "county_counts": {
+      "Atlantic": 23,
+      "Bergen": 70,
+      "Burlington": 40,
+      "Camden": 36,
+      "Cape May": 16,
+      "Cumberland": 14,
+      "Essex": 22,
+      "Gloucester": 24,
+      "Hudson": 12,
+      "Hunterdon": 26,
+      "Mercer": 12,
+      "Middlesex": 25,
+      "Monmouth": 53,
+      "Morris": 39,
+      "Ocean": 33,
+      "Passaic": 16,
+      "Salem": 15,
+      "Somerset": 21,
+      "Sussex": 24,
+      "Union": 21,
+      "Warren": 22
+    },
+    "source_sha256": {
+      "gis-layer.json": "33fa651ffc14ad6940e32ab5859be9970677e9286eec5918ae98e97d5ae60b48",
+      "gis-municipalities.json": "a5c65ef6e1ac3cd1c5156bf4e40966793c5fac3da765b32c8d4f4327cbf34573",
+      "nj-2025-anc1-instructions.pdf": "81ddfeb9735cec6aaff48a8b36712ce8dc707841e07aa5863dbf4231690f41bd"
+    },
+    "primary_attribution": "New Jersey Office of Information Technology (NJOIT), Office of Geographic Information Systems"
+  },
   "municipalities": [
     {
       "municipality": "Absecon City",
@@ -201,6 +276,12 @@
       "municipality_code": "0210"
     },
     {
+      "municipality": "Elmwood Park Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0211"
+    },
+    {
       "municipality": "East Rutherford Borough",
       "municipality_type": "Borough",
       "county": "Bergen",
@@ -211,12 +292,6 @@
       "municipality_type": "Borough",
       "county": "Bergen",
       "municipality_code": "0213"
-    },
-    {
-      "municipality": "Elmwood Park Borough",
-      "municipality_type": "Borough",
-      "county": "Bergen",
-      "municipality_code": "0211"
     },
     {
       "municipality": "Emerson Borough",
@@ -543,16 +618,16 @@
       "municipality_code": "0267"
     },
     {
-      "municipality": "Wood-Ridge Borough",
-      "municipality_type": "Borough",
-      "county": "Bergen",
-      "municipality_code": "0269"
-    },
-    {
       "municipality": "Woodcliff Lake Borough",
       "municipality_type": "Borough",
       "county": "Bergen",
       "municipality_code": "0268"
+    },
+    {
+      "municipality": "Wood-Ridge Borough",
+      "municipality_type": "Borough",
+      "county": "Bergen",
+      "municipality_code": "0269"
     },
     {
       "municipality": "Wyckoff Township",
@@ -675,16 +750,16 @@
       "municipality_code": "0319"
     },
     {
-      "municipality": "Medford Lakes Borough",
-      "municipality_type": "Borough",
-      "county": "Burlington",
-      "municipality_code": "0321"
-    },
-    {
       "municipality": "Medford Township",
       "municipality_type": "Township",
       "county": "Burlington",
       "municipality_code": "0320"
+    },
+    {
+      "municipality": "Medford Lakes Borough",
+      "municipality_type": "Borough",
+      "county": "Burlington",
+      "municipality_code": "0321"
     },
     {
       "municipality": "Moorestown Township",
@@ -891,12 +966,6 @@
       "municipality_code": "0415"
     },
     {
-      "municipality": "Haddon Heights Borough",
-      "municipality_type": "Borough",
-      "county": "Camden",
-      "municipality_code": "0418"
-    },
-    {
       "municipality": "Haddon Township",
       "municipality_type": "Township",
       "county": "Camden",
@@ -907,6 +976,12 @@
       "municipality_type": "Borough",
       "county": "Camden",
       "municipality_code": "0417"
+    },
+    {
+      "municipality": "Haddon Heights Borough",
+      "municipality_type": "Borough",
+      "county": "Camden",
+      "municipality_code": "0418"
     },
     {
       "municipality": "Hi-Nella Borough",
@@ -1221,12 +1296,6 @@
       "municipality_code": "0704"
     },
     {
-      "municipality": "City of Orange Township",
-      "municipality_type": "City",
-      "county": "Essex",
-      "municipality_code": "0717"
-    },
-    {
       "municipality": "East Orange City",
       "municipality_type": "City",
       "county": "Essex",
@@ -1297,6 +1366,12 @@
       "municipality_type": "Township",
       "county": "Essex",
       "municipality_code": "0716"
+    },
+    {
+      "municipality": "City of Orange Township",
+      "municipality_type": "City",
+      "county": "Essex",
+      "municipality_code": "0717"
     },
     {
       "municipality": "Roseland Borough",
@@ -1749,10 +1824,10 @@
       "municipality_code": "1108"
     },
     {
-      "municipality": "Princeton",
-      "municipality_type": "Borough",
+      "municipality": "Trenton City",
+      "municipality_type": "City",
       "county": "Mercer",
-      "municipality_code": "1114"
+      "municipality_code": "1111"
     },
     {
       "municipality": "Robbinsville Township",
@@ -1761,16 +1836,16 @@
       "municipality_code": "1112"
     },
     {
-      "municipality": "Trenton City",
-      "municipality_type": "City",
-      "county": "Mercer",
-      "municipality_code": "1111"
-    },
-    {
       "municipality": "West Windsor Township",
       "municipality_type": "Township",
       "county": "Mercer",
       "municipality_code": "1113"
+    },
+    {
+      "municipality": "Princeton",
+      "municipality_type": "Borough",
+      "county": "Mercer",
+      "municipality_code": "1114"
     },
     {
       "municipality": "Carteret Borough",
@@ -2067,12 +2142,6 @@
       "municipality_code": "1324"
     },
     {
-      "municipality": "Lake Como Borough",
-      "municipality_type": "Borough",
-      "county": "Monmouth",
-      "municipality_code": "1346"
-    },
-    {
       "municipality": "Little Silver Borough",
       "municipality_type": "Borough",
       "county": "Monmouth",
@@ -2133,16 +2202,16 @@
       "municipality_code": "1334"
     },
     {
-      "municipality": "Neptune City Borough",
-      "municipality_type": "Borough",
-      "county": "Monmouth",
-      "municipality_code": "1336"
-    },
-    {
       "municipality": "Neptune Township",
       "municipality_type": "Township",
       "county": "Monmouth",
       "municipality_code": "1335"
+    },
+    {
+      "municipality": "Neptune City Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1336"
     },
     {
       "municipality": "Ocean Township",
@@ -2197,6 +2266,12 @@
       "municipality_type": "Township",
       "county": "Monmouth",
       "municipality_code": "1345"
+    },
+    {
+      "municipality": "Lake Como Borough",
+      "municipality_type": "Borough",
+      "county": "Monmouth",
+      "municipality_code": "1346"
     },
     {
       "municipality": "Spring Lake Borough",
@@ -2337,12 +2412,6 @@
       "municipality_code": "1416"
     },
     {
-      "municipality": "Long Hill Township",
-      "municipality_type": "Township",
-      "county": "Morris",
-      "municipality_code": "1430"
-    },
-    {
       "municipality": "Madison Borough",
       "municipality_type": "Borough",
       "county": "Morris",
@@ -2373,22 +2442,28 @@
       "municipality_code": "1421"
     },
     {
-      "municipality": "Morris Plains Borough",
-      "municipality_type": "Borough",
-      "county": "Morris",
-      "municipality_code": "1423"
-    },
-    {
       "municipality": "Morris Township",
       "municipality_type": "Township",
       "county": "Morris",
       "municipality_code": "1422"
     },
     {
+      "municipality": "Morris Plains Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1423"
+    },
+    {
       "municipality": "Morristown Town",
       "municipality_type": "Town",
       "county": "Morris",
       "municipality_code": "1424"
+    },
+    {
+      "municipality": "Mountain Lakes Borough",
+      "municipality_type": "Borough",
+      "county": "Morris",
+      "municipality_code": "1425"
     },
     {
       "municipality": "Mount Arlington Borough",
@@ -2403,12 +2478,6 @@
       "municipality_code": "1427"
     },
     {
-      "municipality": "Mountain Lakes Borough",
-      "municipality_type": "Borough",
-      "county": "Morris",
-      "municipality_code": "1425"
-    },
-    {
       "municipality": "Netcong Borough",
       "municipality_type": "Borough",
       "county": "Morris",
@@ -2419,6 +2488,12 @@
       "municipality_type": "Township",
       "county": "Morris",
       "municipality_code": "1429"
+    },
+    {
+      "municipality": "Long Hill Township",
+      "municipality_type": "Township",
+      "county": "Morris",
+      "municipality_code": "1430"
     },
     {
       "municipality": "Pequannock Township",
@@ -2475,16 +2550,16 @@
       "municipality_code": "1439"
     },
     {
-      "municipality": "Barnegat Light Borough",
-      "municipality_type": "Borough",
-      "county": "Ocean",
-      "municipality_code": "1502"
-    },
-    {
       "municipality": "Barnegat Township",
       "municipality_type": "Township",
       "county": "Ocean",
       "municipality_code": "1501"
+    },
+    {
+      "municipality": "Barnegat Light Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1502"
     },
     {
       "municipality": "Bay Head Borough",
@@ -2515,6 +2590,12 @@
       "municipality_type": "Township",
       "county": "Ocean",
       "municipality_code": "1507"
+    },
+    {
+      "municipality": "Toms River Township",
+      "municipality_type": "Township",
+      "county": "Ocean",
+      "municipality_code": "1508"
     },
     {
       "municipality": "Eagleswood Township",
@@ -2589,16 +2670,16 @@
       "municipality_code": "1520"
     },
     {
-      "municipality": "Ocean Gate Borough",
-      "municipality_type": "Borough",
-      "county": "Ocean",
-      "municipality_code": "1522"
-    },
-    {
       "municipality": "Ocean Township",
       "municipality_type": "Township",
       "county": "Ocean",
       "municipality_code": "1521"
+    },
+    {
+      "municipality": "Ocean Gate Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1522"
     },
     {
       "municipality": "Pine Beach Borough",
@@ -2613,16 +2694,16 @@
       "municipality_code": "1524"
     },
     {
-      "municipality": "Point Pleasant Beach Borough",
-      "municipality_type": "Borough",
-      "county": "Ocean",
-      "municipality_code": "1526"
-    },
-    {
       "municipality": "Point Pleasant Borough",
       "municipality_type": "Borough",
       "county": "Ocean",
       "municipality_code": "1525"
+    },
+    {
+      "municipality": "Point Pleasant Beach Borough",
+      "municipality_type": "Borough",
+      "county": "Ocean",
+      "municipality_code": "1526"
     },
     {
       "municipality": "Seaside Heights Borough",
@@ -2659,12 +2740,6 @@
       "municipality_type": "Borough",
       "county": "Ocean",
       "municipality_code": "1532"
-    },
-    {
-      "municipality": "Toms River Township",
-      "municipality_type": "Township",
-      "county": "Ocean",
-      "municipality_code": "1508"
     },
     {
       "municipality": "Tuckerton Borough",

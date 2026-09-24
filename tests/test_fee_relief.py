@@ -13,7 +13,7 @@ DRAFTS=[json.loads(p.read_text()) for p in (ROOT/'review/alerts').glob('*.json')
 ALERT=next((a for a in DRAFTS+PROD['updates'] if a['id']=='point-pleasant-carry-fee-refund-2026-09-21'),None)
 class FeeTests(unittest.TestCase):
  def test_valid(self): validate(FEED,PROD,DRAFTS)
- def test_totals(self): self.assertEqual(totals(FEED),dict(total=20,full=18,partial=1,pending=1,counties=8,percent=3.55))
+ def test_totals(self): self.assertEqual(totals(FEED),dict(total=564,researched=20,unverified=544,confirmed=2,reported=17,pending=1,full=18,partial=1,counties=21,percent=3.55))
  def test_schema_missing(self):
   x=copy.deepcopy(FEED);del x['municipalities'][0]['notes']
   with self.assertRaises(Exception):validate(x)
@@ -28,7 +28,7 @@ class FeeTests(unittest.TestCase):
  def test_https(self):
   for url in ['http://example.com','javascript:alert(1)','https://','https://u:p@example.com','https://example.com/a b']:
    self.assertFalse(https(url))
-  x=copy.deepcopy(FEED);x['municipalities'][0]['evidence'][0]['url']='http://example.com'
+  x=copy.deepcopy(FEED);next(r for r in x['municipalities'] if r['evidence'])['evidence'][0]['url']='http://example.com'
   with self.assertRaises(Exception):validate(x)
  def test_normalization(self):
   self.assertEqual(normalize('Franklin Boro.'),'franklin borough')
@@ -44,7 +44,8 @@ class FeeTests(unittest.TestCase):
  def test_point_pleasant_beach(self):
   x=matches('Point Pleasant Beach Borough is considering a carry permit fee refund.',REGISTRY)
   self.assertEqual(len(x),1);self.assertEqual(x[0]['possible_municipalities'][0]['municipality_code'],'1526')
-  self.assertNotIn('1526',{r['municipality_code'] for r in FEED['municipalities']})
+  beach=next(r for r in FEED['municipalities'] if r['municipality_code']=='1526')
+  self.assertEqual(beach['status'],'policy_not_yet_verified');self.assertFalse(beach['evidence'])
  def test_state_and_county_names_not_municipalities(self):
   x=matches('New Jersey carry permit refunds in Passaic County.',REGISTRY)
   self.assertEqual(x,[])
