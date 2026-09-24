@@ -10,7 +10,7 @@ on:
       - monitoring/**
       - review/alerts/**
       - scripts/*fee*
-      - tests/test_fee_relief.py
+      - tests/**
       - requirements-fee-tracker.txt
       - .github/workflows/municipal-fee-review.yml
 permissions:
@@ -33,6 +33,7 @@ jobs:
       - run: python -m pip install -r requirements-fee-tracker.txt
       - run: python scripts/validate_fee_relief.py
       - run: python -m unittest discover -s tests -p 'test_fee_relief.py' -v
+      - run: node tests/alert-build18-check.mjs
       - name: Download observations from the last successful scheduled review
         if: github.event_name != 'pull_request'
         env:

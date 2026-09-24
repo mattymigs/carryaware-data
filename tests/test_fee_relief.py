@@ -84,4 +84,10 @@ class FeeTests(unittest.TestCase):
   for value in ['id-token: write','contents: write','update-notifications.mjs send','google-github-actions/auth','firebase-admin','git push']:
    self.assertNotIn(value,s)
  def test_exact_credit(self):self.assertIn('Community credit: Teacher in NJ (@teacher_in_nj) and Jay Costa (@jaycostausa).',ALERT['summary'])
+ def test_build18_single_link_alert(self):
+  self.assertEqual(set(ALERT),{'id','type','title','summary','category','status','date','sourceTitle','sourceURL','isImportant'})
+  self.assertEqual(ALERT['sourceURL'],'https://mignonelabs.com/nj-carry-permit-fee-refunds/')
+  self.assertEqual(ALERT['sourceTitle'],'CarryAwareNJ Municipal Carry-Fee Tracker')
+  self.assertEqual(ALERT['category'],'Permit & Licensing Update')
+  self.assertIn('Pending',ALERT['status'])
 if __name__=='__main__':unittest.main()

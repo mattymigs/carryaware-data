@@ -2,7 +2,9 @@
 
 `nj_carry_fee_relief.json` is the sole authored tracker dataset. It is separate from the root production `nj_legal_updates.json`, which this branch does not modify. The iOS consumer and WordPress plugin both use `https://mattymigs.github.io/carryaware-data/nj_carry_fee_relief.json` after approval. No copy belongs in mignonelabs-data or the app bundle; the isolated simulator preview copies a build fixture only.
 
-The draft alert is `review/alerts/point-pleasant-carry-fee-refund-2026-09-21.json`. It uses the backwards-compatible `legal` type with `permit_fee_update` subtype, category `Permit & Licensing Update`, and three HTTPS actions. Old app versions ignore actions and retain the official agenda source. Multi-action presentation needs the corresponding iOS review branch.
+The draft alert is `review/alerts/point-pleasant-carry-fee-refund-2026-09-21.json`. R2 uses only the existing Build 18 fields: type `legal`, category `Permit & Licensing Update`, and `sourceURL` pointing to the planned tracker. The existing button remains “View Source”; `sourceTitle` is supporting text and cannot rename it. The unused `actions` and `subtype` fields were removed. The ID, title, body, pending status, date, category, type, and important flag are preserved. No iOS change or merge is required for this single-link payload.
+
+`tests/alert-build18-check.mjs` verifies the payload against pinned source evidence in `tests/fixtures/alert-build18-source.json`. All three snapshots were independently matched to GitHub commit `8898d4e921d656998c01e8eacf1043d82015bea9`. This is static source verification, not proof of Apple's currently distributed binary or a device/push test. The draft stays outside the production feed and its planned destination must be live before any public alert release.
 
 ## Evidence policy
 
@@ -30,6 +32,7 @@ Review procedure: download the artifact; inspect added/changed/broken/stale sect
 python3 -m pip install -r requirements-fee-tracker.txt
 python3 scripts/validate_fee_relief.py
 python3 -m unittest discover -s tests -p 'test_fee_relief.py' -v
+node tests/alert-build18-check.mjs
 python3 scripts/check_fee_sources.py --output review-output --previous .monitor-state/candidates.json
 ```
 
