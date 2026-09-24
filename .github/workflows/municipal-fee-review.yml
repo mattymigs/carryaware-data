@@ -1,0 +1,71 @@
+name: Municipal carry fee source review
+on:
+  schedule:
+    - cron: '17 13 * * 1'
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - nj_carry_fee_relief.json
+      - schemas/**
+      - monitoring/**
+      - review/alerts/**
+      - scripts/*fee*
+      - tests/**
+      - requirements-fee-tracker.txt
+      - .github/workflows/municipal-fee-review.yml
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: municipal-fee-review-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  review:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements-fee-tracker.txt
+      - run: python scripts/validate_fee_relief.py
+      - run: python -m unittest discover -s tests -p 'test_*fee*.py' -v
+      - run: python -m unittest discover -s tests -p 'test_statewide_*.py' -v
+      - run: node tests/alert-build18-check.mjs
+      - name: Download observations from the last successful scheduled review
+        if: github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          REVIEW_BRANCH: ${{ github.ref_name }}
+        run: |
+          mkdir -p .monitor-state
+          previous_run_id="$(gh run list --workflow municipal-fee-review.yml --branch "$REVIEW_BRANCH" --event schedule --status success --limit 1 --json databaseId --jq '.[0].databaseId // empty')"
+          if [ -n "$previous_run_id" ]; then
+            if ! gh run download "$previous_run_id" --name "municipal-fee-review-$previous_run_id" --dir .monitor-state; then
+              echo '::warning::Previous observations unavailable; this run will establish a new baseline.'
+              rm -f .monitor-state/candidates.json
+            fi
+          fi
+      - name: Check sources and discover candidates for human review
+        if: github.event_name != 'pull_request'
+        run: python scripts/check_fee_sources.py --output review-output --previous .monitor-state/candidates.json --batch-size 20 --max-sources 24
+      - name: Preserve observations and human research queue (no verified data)
+        if: github.event_name != 'pull_request'
+        run: |
+          mkdir -p .monitor-state
+          cp review-output/candidates.json .monitor-state/candidates.json
+          cat review-output/review-report.md >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: github.event_name != 'pull_request'
+        with:
+          name: municipal-fee-review-${{ github.run_id }}
+          path: review-output/
+          retention-days: 90
+# No write token, publishing job, Firebase credentials, FCM import, or topic send.
+# Candidates must be reviewed and manually proposed in a separate pull request.
+# Statewide coverage comes from the roster; source checks are capped and rotate.
+# Research candidates, unresolved prior findings, and cursors remain review artifacts only.

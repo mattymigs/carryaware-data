@@ -1,0 +1,67 @@
+{
+  "sources": [
+    {
+      "url": "https://www.njfos.org/policy-brief-on-resolution-eliminating-municipal-fees-for-concealedcarry-permits/",
+      "source_type": "advocacy_reporting",
+      "follow_links": true,
+      "scope": "statewide"
+    },
+    {
+      "url": "https://www.njfos.org/press-releases/",
+      "source_type": "advocacy_reporting",
+      "follow_links": true,
+      "scope": "statewide"
+    },
+    {
+      "url": "https://www.nraila.org/articles/20260305/new-jersey-west-milford-in-passaic-county-becomes-the-18th-town-in-new-jersey-to-nullify-carry-permit-fees-through-an-initiative-backed-by-nra-njfos-and-ccrkba",
+      "source_type": "advocacy_reporting",
+      "follow_links": true,
+      "scope": "statewide"
+    },
+    {
+      "url": "https://ptboro.com/government/mayor-council/meeting-agendas-and-minutes/",
+      "source_type": "official_agenda",
+      "follow_links": true,
+      "max_links": 8,
+      "municipality_codes": [
+        "1525"
+      ]
+    },
+    {
+      "url": "https://ptboro.com/public-notices/",
+      "source_type": "official_notice",
+      "follow_links": true,
+      "municipality_codes": [
+        "1525"
+      ]
+    },
+    {
+      "url": "https://www.berkeleytownship.org/AgendaCenter",
+      "source_type": "official_agenda",
+      "follow_links": true,
+      "max_links": 8,
+      "municipality_codes": [
+        "1506"
+      ]
+    },
+    {
+      "url": "https://www.berkeleytownship.org/235/Firearm-Applications",
+      "source_type": "official_police",
+      "follow_links": false,
+      "municipality_codes": [
+        "1506"
+      ]
+    },
+    {
+      "url": "https://www.wallpolice.org/firearm-forms/",
+      "source_type": "official_police",
+      "follow_links": false,
+      "municipality_codes": [
+        "1352"
+      ]
+    }
+  ],
+  "schema_version": 2,
+  "coverage_note": "These registered sources do not cover every municipal policy. The authoritative roster drives a separate statewide research queue; missing sources never establish no relief.",
+  "review_policy": "Automated findings are candidates for human review only. No policy status, amount, evidence, review date, or published feed changes automatically."
+}

@@ -1,0 +1,521 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "last_checked_at",
+    "last_verified_at",
+    "state_municipality_count",
+    "state_count_source_url",
+    "statutory_application_fee",
+    "statutory_municipal_portion",
+    "statutory_state_portion",
+    "statute_source_url",
+    "verification_policy",
+    "municipalities",
+    "directory_roster"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 2
+    },
+    "last_checked_at": {
+      "type": "string",
+      "format": "date"
+    },
+    "last_verified_at": {
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "date"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "state_municipality_count": {
+      "const": 564
+    },
+    "state_count_source_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://[^/\\s]+"
+    },
+    "statutory_application_fee": {
+      "const": 200
+    },
+    "statutory_municipal_portion": {
+      "const": 150
+    },
+    "statutory_state_portion": {
+      "const": 50
+    },
+    "statute_source_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://[^/\\s]+"
+    },
+    "verification_policy": {
+      "type": "string"
+    },
+    "municipalities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "municipality",
+          "county",
+          "eligibility_summary",
+          "application_instructions",
+          "notes",
+          "municipality_type",
+          "municipality_code",
+          "status",
+          "relief_type",
+          "statutory_municipal_portion",
+          "refund_amount",
+          "net_municipal_cost",
+          "effective_date",
+          "retroactive_date",
+          "official_source_url",
+          "secondary_source_url",
+          "source_type",
+          "verified_at",
+          "last_checked_at",
+          "evidence",
+          "directory_source_url",
+          "directory_checked_at"
+        ],
+        "properties": {
+          "municipality": {
+            "type": "string",
+            "minLength": 1
+          },
+          "county": {
+            "type": "string",
+            "minLength": 1
+          },
+          "eligibility_summary": {
+            "type": "string",
+            "minLength": 1
+          },
+          "application_instructions": {
+            "type": "string",
+            "minLength": 1
+          },
+          "notes": {
+            "type": "string",
+            "minLength": 1
+          },
+          "municipality_type": {
+            "enum": [
+              "Borough",
+              "Township",
+              "Town",
+              "City",
+              "Village"
+            ]
+          },
+          "municipality_code": {
+            "type": "string",
+            "pattern": "^[0-9]{4}$"
+          },
+          "status": {
+            "enum": [
+              "confirmed_full_or_substantial",
+              "confirmed_partial",
+              "reported_full_or_substantial",
+              "announced_pending_documents",
+              "policy_not_yet_verified",
+              "under_consideration",
+              "inactive_or_repealed"
+            ]
+          },
+          "relief_type": {
+            "enum": [
+              "reported_refund",
+              "refund",
+              "reduction",
+              "proposed_refund",
+              "none",
+              "unknown"
+            ]
+          },
+          "statutory_municipal_portion": {
+            "const": 150
+          },
+          "refund_amount": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0,
+            "maximum": 150
+          },
+          "net_municipal_cost": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0,
+            "maximum": 150
+          },
+          "effective_date": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "date"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "retroactive_date": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "date"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "official_source_url": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https://[^/\\s]+"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "secondary_source_url": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https://[^/\\s]+"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "source_type": {
+            "enum": [
+              "advocacy_reporting",
+              "official_resolution",
+              "official_minutes",
+              "official_police",
+              "official_agenda",
+              "official_notice",
+              "secondary_reporting",
+              "social_media",
+              null
+            ]
+          },
+          "verified_at": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "date"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "last_checked_at": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "date"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "evidence": {
+            "type": "array",
+            "minItems": 0,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "url",
+                "source_type",
+                "source_date",
+                "supporting_text",
+                "verified_at"
+              ],
+              "properties": {
+                "url": {
+                  "type": "string",
+                  "format": "uri",
+                  "pattern": "^https://[^/\\s]+"
+                },
+                "source_type": {
+                  "enum": [
+                    "advocacy_reporting",
+                    "official_resolution",
+                    "official_minutes",
+                    "official_police",
+                    "official_agenda",
+                    "official_notice",
+                    "secondary_reporting",
+                    "social_media"
+                  ]
+                },
+                "source_date": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "format": "date"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "supporting_text": {
+                  "type": "string",
+                  "minLength": 10
+                },
+                "verified_at": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "format": "date"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "directory_source_url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://[^/\\s]+"
+          },
+          "directory_checked_at": {
+            "type": "string",
+            "format": "date"
+          }
+        },
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "status": {
+                  "const": "policy_not_yet_verified"
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "refund_amount": {
+                  "type": "null"
+                },
+                "net_municipal_cost": {
+                  "type": "null"
+                },
+                "effective_date": {
+                  "type": "null"
+                },
+                "retroactive_date": {
+                  "type": "null"
+                },
+                "verified_at": {
+                  "type": "null"
+                },
+                "last_checked_at": {
+                  "type": "null"
+                },
+                "source_type": {
+                  "type": "null"
+                },
+                "official_source_url": {
+                  "type": "null"
+                },
+                "secondary_source_url": {
+                  "type": "null"
+                },
+                "relief_type": {
+                  "const": "unknown"
+                },
+                "evidence": {
+                  "maxItems": 0
+                }
+              }
+            },
+            "else": {
+              "properties": {
+                "source_type": {
+                  "type": "string"
+                },
+                "last_checked_at": {
+                  "type": "string",
+                  "format": "date"
+                },
+                "evidence": {
+                  "minItems": 1
+                },
+                "relief_type": {
+                  "not": {
+                    "const": "unknown"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "status": {
+                  "enum": [
+                    "confirmed_full_or_substantial",
+                    "confirmed_partial"
+                  ]
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "source_type": {
+                  "enum": [
+                    "official_resolution",
+                    "official_minutes",
+                    "official_police",
+                    "official_notice"
+                  ]
+                },
+                "official_source_url": {
+                  "type": "string",
+                  "format": "uri",
+                  "pattern": "^https://[^/\\s]+"
+                },
+                "verified_at": {
+                  "type": "string",
+                  "format": "date"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "status": {
+                  "const": "reported_full_or_substantial"
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "source_type": {
+                  "enum": [
+                    "advocacy_reporting",
+                    "secondary_reporting",
+                    "social_media"
+                  ]
+                },
+                "secondary_source_url": {
+                  "type": "string",
+                  "format": "uri",
+                  "pattern": "^https://[^/\\s]+"
+                },
+                "verified_at": {
+                  "type": "string",
+                  "format": "date"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "status": {
+                  "const": "announced_pending_documents"
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "verified_at": {
+                  "type": "null"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "minItems": 564,
+      "maxItems": 564
+    },
+    "directory_roster": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_title",
+        "source_url",
+        "query_url",
+        "secondary_source_title",
+        "secondary_source_url",
+        "checked_at",
+        "municipality_count",
+        "county_count",
+        "notes"
+      ],
+      "properties": {
+        "source_title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "secondary_source_title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "notes": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source_url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://[^/\\s]+"
+        },
+        "query_url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://[^/\\s]+"
+        },
+        "secondary_source_url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://[^/\\s]+"
+        },
+        "checked_at": {
+          "type": "string",
+          "format": "date"
+        },
+        "municipality_count": {
+          "const": 564
+        },
+        "county_count": {
+          "const": 21
+        }
+      }
+    }
+  }
+}
