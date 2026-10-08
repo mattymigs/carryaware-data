@@ -1,7 +1,19 @@
 {
   "version": 2,
-  "updated": "2026-09-25T00:35:56+00:00",
+  "updated": "2026-10-08T22:45:55.512430+00:00",
   "updates": [
+    {
+      "id": "federal-nfa-ruling-nj-limits-2026-10-08",
+      "type": "legal",
+      "title": "Federal NFA Ruling: Important Limits for New Jersey Owners",
+      "summary": "A significant federal firearms ruling remains in place after the U.S. Department of Justice decided not to appeal.\n\nOn August 5, 2026, a federal court in Texas ruled that certain National Firearms Act registration and approval requirements exceeded Congress’s taxing authority after federal making and transfer taxes were eliminated for the affected firearms.\n\nThe consolidated cases—Silencer Shop Foundation v. ATF and the NRA-supported Jensen v. ATF—address suppressors, short-barreled rifles, short-barreled shotguns, and certain other NFA firearms. Coverage differs between the plaintiff groups: “any other weapons” (AOWs) are covered for the Silencer Shop Foundation parties, but not the Jensen parties.\n\nThe protections are limited. The injunction covers the plaintiffs and, where applicable, their members, customers, agencies, and political subdivisions, including current and future members and customers as applicable. It does not repeal the entire NFA or eliminate other applicable federal requirements. Federal restrictions on certain dealer transfers and interstate transportation of short-barreled rifles and shotguns remain applicable; machine guns and destructive devices are not covered.\n\nFor New Jersey owners: This federal ruling does not overturn New Jersey’s separate firearms laws. Suppressors and firearms meeting New Jersey’s “sawed-off shotgun” definition remain generally prohibited for civilian possession, subject to specific statutory exceptions. The ruling does not expand New Jersey carry privileges or change restricted-place rules.\n\nDOJ’s October 1 filing confirmed its decision not to appeal, referencing a September 24 letter to Congress, and stated that ATF was finalizing public guidance. As of October 8, 2026, no later material ruling or public ATF guidance resolving the injunction’s scope was identified in the sources checked. Further clarification remains pending.\n\nThe NRA’s October 8 email highlights an Armed Citizen podcast discussion between Frank Miniter and Josh Savani about the decision. The podcast is additional commentary; the court documents and applicable statutes govern.\n\nDo not treat this ruling as blanket permission to purchase, make, possess, or transport an affected firearm. Confirm current federal and New Jersey requirements with a qualified New Jersey firearms attorney.\n\nCarryAware provides educational information, not legal advice.\n\nSources (clickable links in View Source):\nNRA-ILA — Questions and Answers About the Texas NFA Case (August 17, 2026; predates DOJ’s no-appeal filing)\nhttps://www.nraila.org/articles/20260817/questions-and-answers-about-the-texas-nfa-case\n\nNRA Armed Citizen podcast — episode linked in the October 8 email\nhttps://www.youtube.com/watch?v=hvWax1vJs88\n\nCourt opinion — official government copy\nhttps://www.govinfo.gov/content/pkg/USCOURTS-txnd-6_25-cv-00056/pdf/USCOURTS-txnd-6_25-cv-00056-0.pdf\n\nCase filings, including DOJ’s October 1 filing and letter to Congress\nhttps://www.firearmspolicy.org/jensen\n\nNew Jersey prohibited-weapons statute, N.J.S.A. 2C:39-3\nhttps://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/2785/3360?f=templates&fn=document-frameset.htm",
+      "category": "Federal Legal Update",
+      "status": "DOJ Will Not Appeal; New Jersey Restrictions Remain",
+      "date": "2026-10-08",
+      "sourceTitle": "Full CarryAwareNJ NFA Update and Clickable Sources",
+      "sourceURL": "https://mattymigs.github.io/carryaware-data/legal-updates/federal-nfa-ruling-nj-limits-2026-10-08.html",
+      "isImportant": true
+    },
     {
       "id": "point-pleasant-carry-fee-refund-2026-09-21",
       "type": "legal",
