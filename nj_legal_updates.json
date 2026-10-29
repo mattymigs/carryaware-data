@@ -1,7 +1,19 @@
 {
   "version": 2,
-  "updated": "2026-10-08T22:45:55.512430+00:00",
+  "updated": "2026-10-29T22:16:56Z",
   "updates": [
+    {
+      "id": "flockawarenj-app-store-launch-2026-10-22",
+      "type": "appAnnouncement",
+      "title": "FlockAwareNJ+ is now on the App Store!",
+      "summary": "Explore New Jersey camera maps, search and camera details for free. No purchase or code needed.\n\nWant nationwide coverage? Optional Plus access adds all 50 states + D.C., nationwide statistics, Watch Areas and Driving Alerts. Eligible new subscribers can try the monthly Plus plan free for one week.\n\nA special thank-you to our Friends of NRA dinner attendees: If you attended the North Jersey Friends of NRA Dinner at The Grove in Cedar Grove on October 7, 2026, you’re eligible for one year of Plus free. Email support@mignonelabs.com to request your redemption link.\n\nLearn more about FlockAwareNJ+: https://mignonelabs.com/flockaware/",
+      "category": "App Announcement",
+      "status": "Available on the App Store",
+      "date": "2026-10-29",
+      "sourceTitle": "Learn more about FlockAwareNJ+",
+      "sourceURL": "https://mignonelabs.com/flockaware/",
+      "isImportant": false
+    },
     {
       "id": "federal-nfa-ruling-nj-limits-2026-10-08",
       "type": "legal",
