@@ -1,7 +1,19 @@
 {
   "version": 2,
-  "updated": "2026-10-29T22:16:56Z",
+  "updated": "2026-11-10T01:30:00Z",
   "updates": [
+    {
+      "id": "gun-for-hire-sling-it-live-2026-11-12",
+      "type": "community",
+      "title": "Gun For Hire: Sling It Live",
+      "summary": "Gun For Hire’s Sling It auction livestream starts Thursday, November 12 at 7 p.m. Eastern. Open the event page for the countdown and livestream.",
+      "category": "Community News",
+      "status": "Thursday, November 12 at 7 p.m. ET",
+      "date": "2026-11-09",
+      "sourceTitle": "Gun For Hire — Livestream and countdown",
+      "sourceURL": "https://gunforhire.com/live-auction/",
+      "isImportant": true
+    },
     {
       "id": "flockawarenj-app-store-launch-2026-10-22",
       "type": "appAnnouncement",
