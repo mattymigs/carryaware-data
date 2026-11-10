@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-10T01:30:00Z",
+  "updated": "2026-11-10T04:58:10Z",
   "updates": [
     {
       "id": "gun-for-hire-sling-it-live-2026-11-12",
@@ -36,7 +36,7 @@
       "date": "2026-10-08",
       "sourceTitle": "Full CarryAwareNJ NFA Update and Clickable Sources",
       "sourceURL": "https://mattymigs.github.io/carryaware-data/legal-updates/federal-nfa-ruling-nj-limits-2026-10-08.html",
-      "isImportant": true
+      "isImportant": false
     },
     {
       "id": "point-pleasant-carry-fee-refund-2026-09-21",
@@ -48,7 +48,7 @@
       "date": "2026-09-21",
       "sourceTitle": "CarryAwareNJ Municipal Carry-Fee Tracker",
       "sourceURL": "https://mignonelabs.com/nj-carry-permit-fee-refunds/",
-      "isImportant": true
+      "isImportant": false
     },
     {
       "id": "federal-handgun-sales-18-20-doj-2026-09-18",
@@ -60,7 +60,7 @@
       "date": "2026-09-18",
       "sourceTitle": "U.S. Department of Justice — Handgun Sales to Adults Ages 18–20",
       "sourceURL": "https://www.justice.gov/opa/pr/justice-department-concludes-federal-ban-handgun-sales-18-20-year-olds-unconstitutional-and",
-      "isImportant": true
+      "isImportant": false
     },
     {
       "id": "gun-for-hire-duct-tape-flight-2026-09-03",
@@ -72,7 +72,7 @@
       "date": "2026-09-03",
       "sourceTitle": "Gun For Hire — The Duct Tape Flight",
       "sourceURL": "https://gunforhire.com/ducttape/",
-      "isImportant": true
+      "isImportant": false
     },
     {
       "id": "anjrpc-aw-mag-stay-2026-08-04",
@@ -84,7 +84,7 @@
       "date": "2026-08-04",
       "sourceTitle": "NRA-ILA — Third Circuit Grants Stay in AWB/Mag Ban Case",
       "sourceURL": "https://www.nraila.org/articles/20260804/new-jersey-third-circuit-grants-stay-in-awbmag-ban-case",
-      "isImportant": true
+      "isImportant": false
     },
     {
       "id": "koons-siegel-en-banc-2026-07-08",
@@ -96,7 +96,7 @@
       "date": "2026-07-08",
       "sourceTitle": "FPC Law — Koons v. Platkin Case Tracker",
       "sourceURL": "https://www.firearmspolicy.org/koons",
-      "isImportant": true
+      "isImportant": false
     }
   ]
 }
